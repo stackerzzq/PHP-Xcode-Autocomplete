@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::getStreamSize (  );</string>
+	<string>HaruDoc::getStreamSize();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C4296155-EF0A-41F2-BC3E-31DF5A2B645F</string>
 	<key>IDECodeSnippetLanguage</key>

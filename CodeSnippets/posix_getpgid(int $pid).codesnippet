@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_getpgid ( &lt;#int $pid#&gt; );</string>
+	<string>posix_getpgid(&lt;#int $pid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>277DC6EE-B483-40D4-98F6-B6348B717B60</string>
 	<key>IDECodeSnippetLanguage</key>

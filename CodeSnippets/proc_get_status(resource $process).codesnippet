@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>proc_get_status ( &lt;#resource $process#&gt; );</string>
+	<string>proc_get_status(&lt;#resource $process#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B6C13513-BCF0-4CCF-8776-6D34B8DBFF70</string>
 	<key>IDECodeSnippetLanguage</key>

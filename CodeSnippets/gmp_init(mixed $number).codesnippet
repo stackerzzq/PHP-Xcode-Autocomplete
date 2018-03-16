@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_init ( &lt;#mixed $number#&gt; );</string>
+	<string>gmp_init(&lt;#mixed $number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>19D693C5-F7B5-457B-8A78-FC73FC6BA676</string>
 	<key>IDECodeSnippetLanguage</key>

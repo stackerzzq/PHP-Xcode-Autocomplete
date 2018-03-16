@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xmlrpc_server_create (  );</string>
+	<string>xmlrpc_server_create();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ED7FCAD1-A17B-4D01-A4F6-95114BD1911C</string>
 	<key>IDECodeSnippetLanguage</key>

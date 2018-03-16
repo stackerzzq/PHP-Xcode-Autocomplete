@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>odbc_commit ( &lt;#resource $connection_id#&gt; );</string>
+	<string>odbc_commit(&lt;#resource $connection_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1CB0DBF9-0167-4379-8ABD-412C75371F79</string>
 	<key>IDECodeSnippetLanguage</key>

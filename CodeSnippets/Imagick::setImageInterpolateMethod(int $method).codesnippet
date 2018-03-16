@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setImageInterpolateMethod ( &lt;#int $method#&gt; );</string>
+	<string>Imagick::setImageInterpolateMethod(&lt;#int $method#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FB093CA9-E1F2-4415-B6C8-7B97C8FEE78A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_vertical_scrollbar ( &lt;#int $left#&gt;, &lt;#int $top#&gt;, &lt;#int $height#&gt;, &lt;#int $normal_colorset#&gt;, &lt;#int $thumb_colorset#&gt; );</string>
+	<string>newt_vertical_scrollbar(&lt;#int $left#&gt;, &lt;#int $top#&gt;, &lt;#int $height#&gt;, &lt;#int $normal_colorset#&gt;, &lt;#int $thumb_colorset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C3DD5F2F-43F7-407F-96BA-CC111A4ADE9D</string>
 	<key>IDECodeSnippetLanguage</key>

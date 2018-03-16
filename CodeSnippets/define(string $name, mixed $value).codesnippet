@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>define ( &lt;#string $name#&gt;, &lt;#mixed $value#&gt; );</string>
+	<string>define(&lt;#string $name#&gt;, &lt;#mixed $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>13C3899B-336A-40E1-B767-24C2F1CAF94E</string>
 	<key>IDECodeSnippetLanguage</key>

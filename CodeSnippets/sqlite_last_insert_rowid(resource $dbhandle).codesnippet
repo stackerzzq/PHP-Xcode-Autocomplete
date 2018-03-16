@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_last_insert_rowid ( &lt;#resource $dbhandle#&gt; );</string>
+	<string>sqlite_last_insert_rowid(&lt;#resource $dbhandle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>02705DC6-5E42-4314-A255-D47ED785CF57</string>
 	<key>IDECodeSnippetLanguage</key>

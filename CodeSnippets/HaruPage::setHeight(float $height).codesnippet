@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::setHeight ( &lt;#float $height#&gt; );</string>
+	<string>HaruPage::setHeight(&lt;#float $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3801BC0B-0BFD-47A9-8E51-5A6952F26B4A</string>
 	<key>IDECodeSnippetLanguage</key>

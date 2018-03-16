@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>asort ( &lt;#array &amp;$array#&gt; );</string>
+	<string>asort(&lt;#array &amp;$array#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F36640AD-ABF4-44C0-91AA-0E5E3961576F</string>
 	<key>IDECodeSnippetLanguage</key>

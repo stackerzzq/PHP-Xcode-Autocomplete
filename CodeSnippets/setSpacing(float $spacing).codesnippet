@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setSpacing ( &lt;#float $spacing#&gt; );</string>
+	<string>setSpacing(&lt;#float $spacing#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E0301A7A-F066-4745-9AED-9849F48E5969</string>
 	<key>IDECodeSnippetLanguage</key>

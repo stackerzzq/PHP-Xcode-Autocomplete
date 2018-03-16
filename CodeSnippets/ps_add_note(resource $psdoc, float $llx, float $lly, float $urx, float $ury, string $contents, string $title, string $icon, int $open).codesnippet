@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_add_note ( &lt;#resource $psdoc#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt;, &lt;#string $contents#&gt;, &lt;#string $title#&gt;, &lt;#string $icon#&gt;, &lt;#int $open#&gt; );</string>
+	<string>ps_add_note(&lt;#resource $psdoc#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt;, &lt;#string $contents#&gt;, &lt;#string $title#&gt;, &lt;#string $icon#&gt;, &lt;#int $open#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>285ECBA7-A453-4BB0-8958-0CAB2D96894E</string>
 	<key>IDECodeSnippetLanguage</key>

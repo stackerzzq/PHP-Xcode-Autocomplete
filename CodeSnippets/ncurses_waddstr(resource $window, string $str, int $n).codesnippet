@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_waddstr ( &lt;#resource $window#&gt;, &lt;#string $str#&gt;, &lt;#int $n#&gt; );</string>
+	<string>ncurses_waddstr(&lt;#resource $window#&gt;, &lt;#string $str#&gt;, &lt;#int $n#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A178C3F1-7F3B-4AE6-AEC8-45BAFE29C15A</string>
 	<key>IDECodeSnippetLanguage</key>

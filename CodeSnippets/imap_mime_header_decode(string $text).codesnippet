@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_mime_header_decode ( &lt;#string $text#&gt; );</string>
+	<string>imap_mime_header_decode(&lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>56E3E741-49E2-49D7-8029-0CA0D9D9E395</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_wexitstatus ( &lt;#int $status#&gt; );</string>
+	<string>pcntl_wexitstatus(&lt;#int $status#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8CEE0C58-9AEE-4925-ABAB-3C0BE386D7E8</string>
 	<key>IDECodeSnippetLanguage</key>

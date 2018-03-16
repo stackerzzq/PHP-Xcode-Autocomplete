@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>preg_match_all ( &lt;#string $pattern#&gt;, &lt;#string $subject#&gt;, &lt;#array &amp;$matches#&gt;, &lt;#int $flags#&gt;, &lt;#int $offset#&gt; );</string>
+	<string>preg_match_all(&lt;#string $pattern#&gt;, &lt;#string $subject#&gt;, &lt;#array &amp;$matches#&gt;, &lt;#int $flags#&gt;, &lt;#int $offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C7940C48-531D-4AC8-B29E-A67571929F20</string>
 	<key>IDECodeSnippetLanguage</key>

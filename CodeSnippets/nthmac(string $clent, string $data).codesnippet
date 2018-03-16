@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>nthmac ( &lt;#string $clent#&gt;, &lt;#string $data#&gt; );</string>
+	<string>nthmac(&lt;#string $clent#&gt;, &lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0C06E37C-4A63-4CFE-AAFC-66618DAF85F7</string>
 	<key>IDECodeSnippetLanguage</key>

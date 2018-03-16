@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_form_run ( &lt;#resource $form#&gt;, &lt;#array &amp;$exit_struct#&gt; );</string>
+	<string>newt_form_run(&lt;#resource $form#&gt;, &lt;#array &amp;$exit_struct#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2C5F61C5-203E-48F6-B958-4C5D909DBF8A</string>
 	<key>IDECodeSnippetLanguage</key>

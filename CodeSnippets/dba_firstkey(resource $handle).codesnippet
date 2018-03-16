@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dba_firstkey ( &lt;#resource $handle#&gt; );</string>
+	<string>dba_firstkey(&lt;#resource $handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>763ABE75-86EE-4486-B60D-C62BE72D8015</string>
 	<key>IDECodeSnippetLanguage</key>

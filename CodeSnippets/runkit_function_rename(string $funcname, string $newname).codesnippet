@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>runkit_function_rename ( &lt;#string $funcname#&gt;, &lt;#string $newname#&gt; );</string>
+	<string>runkit_function_rename(&lt;#string $funcname#&gt;, &lt;#string $newname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>282CB362-D4C8-48F3-892B-ECD73B070C2C</string>
 	<key>IDECodeSnippetLanguage</key>

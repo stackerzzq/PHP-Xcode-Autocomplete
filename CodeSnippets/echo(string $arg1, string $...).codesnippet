@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>echo ( &lt;#string $arg1#&gt;, &lt;#string $...#&gt; );</string>
+	<string>echo(&lt;#string $arg1#&gt;, &lt;#string $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>06C0A2A3-235D-4DF0-B5BE-5DDF75DA392A</string>
 	<key>IDECodeSnippetLanguage</key>

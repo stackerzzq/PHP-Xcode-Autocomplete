@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_character_set_name ( &lt;#resource $link#&gt; );</string>
+	<string>maxdb_character_set_name(&lt;#resource $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>198F3E86-EE65-43B5-9002-FAFBC4EF0399</string>
 	<key>IDECodeSnippetLanguage</key>

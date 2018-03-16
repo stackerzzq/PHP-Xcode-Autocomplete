@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_win_messagev ( &lt;#string $title#&gt;, &lt;#string $button_text#&gt;, &lt;#string $format#&gt;, &lt;#array $args#&gt; );</string>
+	<string>newt_win_messagev(&lt;#string $title#&gt;, &lt;#string $button_text#&gt;, &lt;#string $format#&gt;, &lt;#array $args#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3A79C9B6-15AC-4E4B-8538-B058C6FD0EA5</string>
 	<key>IDECodeSnippetLanguage</key>

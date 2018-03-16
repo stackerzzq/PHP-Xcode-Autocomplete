@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ssh2_exec ( &lt;#resource $session#&gt;, &lt;#string $command#&gt;, &lt;#string $pty#&gt;, &lt;#array $env#&gt; );</string>
+	<string>ssh2_exec(&lt;#resource $session#&gt;, &lt;#string $command#&gt;, &lt;#string $pty#&gt;, &lt;#array $env#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>23B0F379-DFBB-480E-A1A8-D0C15F1A5F9C</string>
 	<key>IDECodeSnippetLanguage</key>

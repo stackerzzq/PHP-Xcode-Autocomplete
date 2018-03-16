@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apc_add ( &lt;#string $key#&gt;, &lt;#mixed $var#&gt; );</string>
+	<string>apc_add(&lt;#string $key#&gt;, &lt;#mixed $var#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>072CC23C-99E7-409B-94CF-C773AB5D964E</string>
 	<key>IDECodeSnippetLanguage</key>

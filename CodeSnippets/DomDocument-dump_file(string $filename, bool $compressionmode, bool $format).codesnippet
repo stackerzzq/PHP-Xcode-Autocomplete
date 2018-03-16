@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomDocument-&gt;dump_file ( &lt;#string $filename#&gt;, &lt;#bool $compressionmode#&gt;, &lt;#bool $format#&gt; );</string>
+	<string>DomDocument-&gt;dump_file(&lt;#string $filename#&gt;, &lt;#bool $compressionmode#&gt;, &lt;#bool $format#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EDCDF0D5-6D7F-4F43-B376-EB9732CEB552</string>
 	<key>IDECodeSnippetLanguage</key>

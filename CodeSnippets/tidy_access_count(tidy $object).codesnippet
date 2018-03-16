@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>tidy_access_count ( &lt;#tidy $object#&gt; );</string>
+	<string>tidy_access_count(&lt;#tidy $object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E4073B54-1739-4345-83C6-C51A63DAE664</string>
 	<key>IDECodeSnippetLanguage</key>

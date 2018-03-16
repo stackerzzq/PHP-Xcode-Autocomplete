@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mssql_fetch_batch ( &lt;#resource $result#&gt; );</string>
+	<string>mssql_fetch_batch(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D3D39274-C456-40F0-AEC8-01221E56374B</string>
 	<key>IDECodeSnippetLanguage</key>

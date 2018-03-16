@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Memcache::connect ( &lt;#string $host#&gt;, &lt;#int $port#&gt;, &lt;#int $timeout#&gt; );</string>
+	<string>Memcache::connect(&lt;#string $host#&gt;, &lt;#int $port#&gt;, &lt;#int $timeout#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CECF8870-F5A2-4982-9B04-0E88B7F8582D</string>
 	<key>IDECodeSnippetLanguage</key>

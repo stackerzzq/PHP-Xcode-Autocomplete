@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_rcreate ( &lt;#string $name#&gt;, &lt;#mixed $domlist#&gt;, &lt;#bool $overwrite#&gt; );</string>
+	<string>dbplus_rcreate(&lt;#string $name#&gt;, &lt;#mixed $domlist#&gt;, &lt;#bool $overwrite#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>32A37CD7-DAFD-411C-8129-6742206BCB67</string>
 	<key>IDECodeSnippetLanguage</key>

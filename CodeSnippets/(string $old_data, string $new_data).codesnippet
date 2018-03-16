@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> ( &lt;#string $old_data#&gt;, &lt;#string $new_data#&gt; );</string>
+	<string>(&lt;#string $old_data#&gt;, &lt;#string $new_data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7AEA4438-5A11-4CB7-AF4B-FA462769CF6A</string>
 	<key>IDECodeSnippetLanguage</key>

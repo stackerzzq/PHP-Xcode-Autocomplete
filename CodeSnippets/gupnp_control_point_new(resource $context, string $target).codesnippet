@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_control_point_new ( &lt;#resource $context#&gt;, &lt;#string $target#&gt; );</string>
+	<string>gupnp_control_point_new(&lt;#resource $context#&gt;, &lt;#string $target#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E25A3747-058C-4F94-8B72-CAE560BD4DF6</string>
 	<key>IDECodeSnippetLanguage</key>

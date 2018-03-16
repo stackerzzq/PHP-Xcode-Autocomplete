@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xpath_eval ( &lt;#string $xpath_expression#&gt;, &lt;#domnode $contextnode#&gt;, &lt;#XPathContext $xpath_context#&gt;, &lt;#string $xpath_expression#&gt;, &lt;#domnode $contextnode#&gt; );</string>
+	<string>xpath_eval(&lt;#string $xpath_expression#&gt;, &lt;#domnode $contextnode#&gt;, &lt;#XPathContext $xpath_context#&gt;, &lt;#string $xpath_expression#&gt;, &lt;#domnode $contextnode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4E40B8D9-CA8E-4B96-9508-1E2DA5536C70</string>
 	<key>IDECodeSnippetLanguage</key>

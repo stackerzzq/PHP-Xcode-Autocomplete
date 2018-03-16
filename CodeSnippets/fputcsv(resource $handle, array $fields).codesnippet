@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fputcsv ( &lt;#resource $handle#&gt;, &lt;#array $fields#&gt; );</string>
+	<string>fputcsv(&lt;#resource $handle#&gt;, &lt;#array $fields#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6D4555DD-23F6-414F-A5ED-67B1C4B3B362</string>
 	<key>IDECodeSnippetLanguage</key>

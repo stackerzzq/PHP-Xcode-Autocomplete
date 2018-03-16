@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_errno (  );</string>
+	<string>dbplus_errno();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>50116042-08F8-4147-965A-22CD0FBB6A90</string>
 	<key>IDECodeSnippetLanguage</key>

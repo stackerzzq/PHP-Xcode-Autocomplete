@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_show_boxed ( &lt;#resource $psdoc#&gt;, &lt;#string $text#&gt;, &lt;#float $left#&gt;, &lt;#float $bottom#&gt;, &lt;#float $width#&gt;, &lt;#float $height#&gt;, &lt;#string $hmode#&gt;, &lt;#string $feature#&gt; );</string>
+	<string>ps_show_boxed(&lt;#resource $psdoc#&gt;, &lt;#string $text#&gt;, &lt;#float $left#&gt;, &lt;#float $bottom#&gt;, &lt;#float $width#&gt;, &lt;#float $height#&gt;, &lt;#string $hmode#&gt;, &lt;#string $feature#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>395AC344-51B4-460B-9B19-10F8E1311FA9</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_rollback ( &lt;#resource $link#&gt; );</string>
+	<string>maxdb_rollback(&lt;#resource $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D33C00F6-F3EA-4DD7-8181-0E911ED34D67</string>
 	<key>IDECodeSnippetLanguage</key>

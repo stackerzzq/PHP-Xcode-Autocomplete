@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>register_shutdown_function ( &lt;#callback $function#&gt;, &lt;#mixed $parameter#&gt;, &lt;#mixed $...#&gt; );</string>
+	<string>register_shutdown_function(&lt;#callback $function#&gt;, &lt;#mixed $parameter#&gt;, &lt;#mixed $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>456234AE-8603-457E-B074-65535CD97697</string>
 	<key>IDECodeSnippetLanguage</key>

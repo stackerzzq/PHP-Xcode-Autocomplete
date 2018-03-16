@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_pkey_export ( &lt;#mixed $key#&gt;, &lt;#string &amp;$out#&gt;, &lt;#string $passphrase#&gt;, &lt;#array $configargs#&gt; );</string>
+	<string>openssl_pkey_export(&lt;#mixed $key#&gt;, &lt;#string &amp;$out#&gt;, &lt;#string $passphrase#&gt;, &lt;#array $configargs#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1CB2BFAA-6324-450C-A4D4-FE76BA2F58C1</string>
 	<key>IDECodeSnippetLanguage</key>

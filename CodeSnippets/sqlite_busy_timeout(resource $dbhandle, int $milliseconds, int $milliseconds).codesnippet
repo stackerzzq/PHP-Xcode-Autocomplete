@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_busy_timeout ( &lt;#resource $dbhandle#&gt;, &lt;#int $milliseconds#&gt;, &lt;#int $milliseconds#&gt; );</string>
+	<string>sqlite_busy_timeout(&lt;#resource $dbhandle#&gt;, &lt;#int $milliseconds#&gt;, &lt;#int $milliseconds#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DA8AF282-47D0-44A8-A4E4-BAF4F1F930E2</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_startbutton ( &lt;#int $objid#&gt;, &lt;#int $type#&gt; );</string>
+	<string>swf_startbutton(&lt;#int $objid#&gt;, &lt;#int $type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2D189AAE-D18C-4AA9-9A9A-8F3D41C7401E</string>
 	<key>IDECodeSnippetLanguage</key>

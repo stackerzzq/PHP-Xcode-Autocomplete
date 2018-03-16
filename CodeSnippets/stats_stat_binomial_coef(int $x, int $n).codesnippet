@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_stat_binomial_coef ( &lt;#int $x#&gt;, &lt;#int $n#&gt; );</string>
+	<string>stats_stat_binomial_coef(&lt;#int $x#&gt;, &lt;#int $n#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7155A362-EFA8-4E44-867D-A806A4D04A47</string>
 	<key>IDECodeSnippetLanguage</key>

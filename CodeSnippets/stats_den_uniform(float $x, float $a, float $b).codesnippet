@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_den_uniform ( &lt;#float $x#&gt;, &lt;#float $a#&gt;, &lt;#float $b#&gt; );</string>
+	<string>stats_den_uniform(&lt;#float $x#&gt;, &lt;#float $a#&gt;, &lt;#float $b#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>39F6D990-2BFC-4C26-BDA3-24827125D050</string>
 	<key>IDECodeSnippetLanguage</key>

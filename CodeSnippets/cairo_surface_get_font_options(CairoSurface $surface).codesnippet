@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_surface_get_font_options ( &lt;#CairoSurface $surface#&gt; );</string>
+	<string>cairo_surface_get_font_options(&lt;#CairoSurface $surface#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9D74B35B-2A5F-40A1-A03A-6A0E33D8D38D</string>
 	<key>IDECodeSnippetLanguage</key>

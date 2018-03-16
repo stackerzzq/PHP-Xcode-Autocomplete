@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_fs_check_path ( &lt;#resource $fsroot#&gt;, &lt;#string $path#&gt; );</string>
+	<string>svn_fs_check_path(&lt;#resource $fsroot#&gt;, &lt;#string $path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A70B06CB-EA82-425E-AA41-E4138B7A2906</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xslt_free ( &lt;#resource $xh#&gt; );</string>
+	<string>xslt_free(&lt;#resource $xh#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>29BEDECB-360A-4342-B668-FB530757C263</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbx_fetch_row ( &lt;#object $result_identifier#&gt; );</string>
+	<string>dbx_fetch_row(&lt;#object $result_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D956CA74-2496-41B0-889F-3D135F919F2A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_makespotcolor ( &lt;#resource $psdoc#&gt;, &lt;#string $name#&gt; );</string>
+	<string>ps_makespotcolor(&lt;#resource $psdoc#&gt;, &lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EC2BFE02-7287-4B84-9BE4-FF23A5670FB5</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::setDash ( &lt;#array $pattern#&gt;, &lt;#int $phase#&gt; );</string>
+	<string>HaruPage::setDash(&lt;#array $pattern#&gt;, &lt;#int $phase#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A6C94DA8-4E33-4533-B657-01EA6E0C6ED3</string>
 	<key>IDECodeSnippetLanguage</key>

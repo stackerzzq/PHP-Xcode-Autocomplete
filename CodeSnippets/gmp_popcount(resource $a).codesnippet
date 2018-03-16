@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_popcount ( &lt;#resource $a#&gt; );</string>
+	<string>gmp_popcount(&lt;#resource $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3806341D-EA7B-4236-A1D4-AA4228AD59C0</string>
 	<key>IDECodeSnippetLanguage</key>

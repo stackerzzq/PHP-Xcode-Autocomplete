@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>basename ( &lt;#string $path#&gt;, &lt;#string $suffix#&gt; );</string>
+	<string>basename(&lt;#string $path#&gt;, &lt;#string $suffix#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FB07B2F8-1ABF-4EB5-B9B0-47138CA1DDCF</string>
 	<key>IDECodeSnippetLanguage</key>

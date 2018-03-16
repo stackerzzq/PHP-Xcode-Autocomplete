@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomDocument-&gt;create_processing_instruction ( &lt;#string $content#&gt; );</string>
+	<string>DomDocument-&gt;create_processing_instruction(&lt;#string $content#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A2E5D583-8A2D-48FB-B391-EF3CE5129E3D</string>
 	<key>IDECodeSnippetLanguage</key>

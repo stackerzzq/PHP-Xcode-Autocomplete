@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>streamMP3 ( &lt;#mixed $mp3file#&gt; );</string>
+	<string>streamMP3(&lt;#mixed $mp3file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BFDFD2E6-F9E3-4EDE-AC16-6F9E4AB2B58A</string>
 	<key>IDECodeSnippetLanguage</key>

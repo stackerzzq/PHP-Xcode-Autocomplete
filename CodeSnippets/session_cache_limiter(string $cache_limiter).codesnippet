@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_cache_limiter ( &lt;#string $cache_limiter#&gt; );</string>
+	<string>session_cache_limiter(&lt;#string $cache_limiter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CFB4C397-B645-4650-B626-FD69521802CD</string>
 	<key>IDECodeSnippetLanguage</key>

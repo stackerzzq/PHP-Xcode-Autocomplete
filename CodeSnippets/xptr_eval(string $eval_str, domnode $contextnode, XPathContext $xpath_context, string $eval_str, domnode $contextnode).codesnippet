@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xptr_eval ( &lt;#string $eval_str#&gt;, &lt;#domnode $contextnode#&gt;, &lt;#XPathContext $xpath_context#&gt;, &lt;#string $eval_str#&gt;, &lt;#domnode $contextnode#&gt; );</string>
+	<string>xptr_eval(&lt;#string $eval_str#&gt;, &lt;#domnode $contextnode#&gt;, &lt;#XPathContext $xpath_context#&gt;, &lt;#string $eval_str#&gt;, &lt;#domnode $contextnode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2B4925CE-6500-4BB0-B97B-89342DF5511B</string>
 	<key>IDECodeSnippetLanguage</key>

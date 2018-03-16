@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::previousImage (  );</string>
+	<string>Imagick::previousImage();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E7BBFB23-A801-4C09-A710-6285B03489EB</string>
 	<key>IDECodeSnippetLanguage</key>

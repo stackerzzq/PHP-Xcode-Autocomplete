@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SwishSearch-&gt;setSort ( &lt;#string $sort#&gt; );</string>
+	<string>SwishSearch-&gt;setSort(&lt;#string $sort#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>061B2B4A-43C1-4687-A6D0-CDC606A34216</string>
 	<key>IDECodeSnippetLanguage</key>

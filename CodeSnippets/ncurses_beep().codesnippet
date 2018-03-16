@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_beep (  );</string>
+	<string>ncurses_beep();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D83CB615-5331-43AF-8904-A4514668E2B2</string>
 	<key>IDECodeSnippetLanguage</key>

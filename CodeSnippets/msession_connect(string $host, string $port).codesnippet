@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msession_connect ( &lt;#string $host#&gt;, &lt;#string $port#&gt; );</string>
+	<string>msession_connect(&lt;#string $host#&gt;, &lt;#string $port#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>003C9E54-2D42-42F2-99DA-2C9EDDB10976</string>
 	<key>IDECodeSnippetLanguage</key>

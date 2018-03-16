@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>proc_close ( &lt;#resource $process#&gt; );</string>
+	<string>proc_close(&lt;#resource $process#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D0D59ACE-013F-4A5A-BCB2-3C2ACA0B0B43</string>
 	<key>IDECodeSnippetLanguage</key>

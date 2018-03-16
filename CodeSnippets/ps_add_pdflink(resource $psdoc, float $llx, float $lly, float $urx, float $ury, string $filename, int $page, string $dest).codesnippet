@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_add_pdflink ( &lt;#resource $psdoc#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt;, &lt;#string $filename#&gt;, &lt;#int $page#&gt;, &lt;#string $dest#&gt; );</string>
+	<string>ps_add_pdflink(&lt;#resource $psdoc#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt;, &lt;#string $filename#&gt;, &lt;#int $page#&gt;, &lt;#string $dest#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B614623C-3A5E-4144-BAE6-586B3D55CA24</string>
 	<key>IDECodeSnippetLanguage</key>

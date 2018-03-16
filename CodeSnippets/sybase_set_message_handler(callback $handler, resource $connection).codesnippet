@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sybase_set_message_handler ( &lt;#callback $handler#&gt;, &lt;#resource $connection#&gt; );</string>
+	<string>sybase_set_message_handler(&lt;#callback $handler#&gt;, &lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C2CA4738-6792-4BBF-A7AB-B3AF9E050740</string>
 	<key>IDECodeSnippetLanguage</key>

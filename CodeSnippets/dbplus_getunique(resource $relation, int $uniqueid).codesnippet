@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_getunique ( &lt;#resource $relation#&gt;, &lt;#int $uniqueid#&gt; );</string>
+	<string>dbplus_getunique(&lt;#resource $relation#&gt;, &lt;#int $uniqueid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BA96EAE2-2334-4461-A203-0CF2144E0CFD</string>
 	<key>IDECodeSnippetLanguage</key>

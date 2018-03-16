@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_filter ( &lt;#array $input#&gt;, &lt;#callback $callback#&gt; );</string>
+	<string>array_filter(&lt;#array $input#&gt;, &lt;#callback $callback#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E8A111FF-92C4-40A5-9B3F-AF05DB399037</string>
 	<key>IDECodeSnippetLanguage</key>

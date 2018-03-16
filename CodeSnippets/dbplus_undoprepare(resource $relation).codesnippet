@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_undoprepare ( &lt;#resource $relation#&gt; );</string>
+	<string>dbplus_undoprepare(&lt;#resource $relation#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6682B85A-0C7F-4749-A234-A2CDC85CDB8D</string>
 	<key>IDECodeSnippetLanguage</key>

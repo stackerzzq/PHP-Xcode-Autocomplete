@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ingres_unbuffered_query ( &lt;#resource $link#&gt;, &lt;#string $query#&gt;, &lt;#array $params#&gt;, &lt;#string $types#&gt; );</string>
+	<string>ingres_unbuffered_query(&lt;#resource $link#&gt;, &lt;#string $query#&gt;, &lt;#array $params#&gt;, &lt;#string $types#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B0875EE0-9E3A-494C-90CF-49E352C27032</string>
 	<key>IDECodeSnippetLanguage</key>

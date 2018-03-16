@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>append_child ( &lt;#DOMNode $newnode#&gt; );</string>
+	<string>append_child(&lt;#DOMNode $newnode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AD84FB0C-4CD4-42C0-9B43-AC1AB2A6A607</string>
 	<key>IDECodeSnippetLanguage</key>

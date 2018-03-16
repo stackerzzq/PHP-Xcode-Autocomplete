@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_ereg_search_setpos ( &lt;#int $position#&gt; );</string>
+	<string>mb_ereg_search_setpos(&lt;#int $position#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>063DEF94-C89C-422B-B200-F073E2BB4F7D</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_closefile ( &lt;#int $return_file#&gt; );</string>
+	<string>swf_closefile(&lt;#int $return_file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1B88B693-3F1F-4FBF-8E52-25BF07C9C760</string>
 	<key>IDECodeSnippetLanguage</key>

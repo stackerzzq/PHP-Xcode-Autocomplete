@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>output_add_rewrite_var ( &lt;#string $name#&gt;, &lt;#string $value#&gt; );</string>
+	<string>output_add_rewrite_var(&lt;#string $name#&gt;, &lt;#string $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2BA04B02-AFC7-40F1-89EC-4BB94435ECA0</string>
 	<key>IDECodeSnippetLanguage</key>

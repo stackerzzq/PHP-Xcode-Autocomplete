@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_csr_export ( &lt;#resource $csr#&gt;, &lt;#string &amp;$out#&gt; );</string>
+	<string>openssl_csr_export(&lt;#resource $csr#&gt;, &lt;#string &amp;$out#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>724ACB16-2E43-4707-8006-4C922FAD48CA</string>
 	<key>IDECodeSnippetLanguage</key>

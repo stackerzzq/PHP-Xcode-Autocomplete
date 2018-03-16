@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setIndentation ( &lt;#float $width#&gt; );</string>
+	<string>setIndentation(&lt;#float $width#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BFAC5AED-B083-4439-84EF-CC13176483BB</string>
 	<key>IDECodeSnippetLanguage</key>

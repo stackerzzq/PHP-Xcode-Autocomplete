@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iis_stop_service ( &lt;#string $service_id#&gt; );</string>
+	<string>iis_stop_service(&lt;#string $service_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>240C4162-2C00-4146-9FA5-D0F515407B80</string>
 	<key>IDECodeSnippetLanguage</key>

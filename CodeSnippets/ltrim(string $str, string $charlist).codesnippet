@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ltrim ( &lt;#string $str#&gt;, &lt;#string $charlist#&gt; );</string>
+	<string>ltrim(&lt;#string $str#&gt;, &lt;#string $charlist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D01F1D40-4977-4F26-9F6E-4F9F8D64767C</string>
 	<key>IDECodeSnippetLanguage</key>

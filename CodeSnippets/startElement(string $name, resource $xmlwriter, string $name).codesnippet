@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>startElement ( &lt;#string $name#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#string $name#&gt; );</string>
+	<string>startElement(&lt;#string $name#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>98769810-FCA2-4A44-A621-488114C87843</string>
 	<key>IDECodeSnippetLanguage</key>

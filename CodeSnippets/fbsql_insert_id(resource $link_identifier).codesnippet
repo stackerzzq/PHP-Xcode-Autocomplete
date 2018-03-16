@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fbsql_insert_id ( &lt;#resource $link_identifier#&gt; );</string>
+	<string>fbsql_insert_id(&lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FB3615AF-33C4-439D-8CDE-BF47AFDC2F2F</string>
 	<key>IDECodeSnippetLanguage</key>

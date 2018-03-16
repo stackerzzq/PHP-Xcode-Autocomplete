@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ftp_chdir ( &lt;#resource $ftp_stream#&gt;, &lt;#string $directory#&gt; );</string>
+	<string>ftp_chdir(&lt;#resource $ftp_stream#&gt;, &lt;#string $directory#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0582E6DB-AC69-473A-B921-274279BF6CF7</string>
 	<key>IDECodeSnippetLanguage</key>

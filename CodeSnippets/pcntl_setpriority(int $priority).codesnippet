@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_setpriority ( &lt;#int $priority#&gt; );</string>
+	<string>pcntl_setpriority(&lt;#int $priority#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3EC97D51-9D05-49B6-8B0F-366A3C1EC38D</string>
 	<key>IDECodeSnippetLanguage</key>

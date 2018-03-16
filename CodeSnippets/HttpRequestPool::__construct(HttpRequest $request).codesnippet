@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequestPool::__construct ( &lt;#HttpRequest $request#&gt; );</string>
+	<string>HttpRequestPool::__construct(&lt;#HttpRequest $request#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B041A686-53DD-4CDD-BF69-0A3EE7AF59C2</string>
 	<key>IDECodeSnippetLanguage</key>

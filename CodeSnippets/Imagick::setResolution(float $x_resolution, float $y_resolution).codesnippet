@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setResolution ( &lt;#float $x_resolution#&gt;, &lt;#float $y_resolution#&gt; );</string>
+	<string>Imagick::setResolution(&lt;#float $x_resolution#&gt;, &lt;#float $y_resolution#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A54F3ABB-3E8E-442F-B8C6-3D60D480BED9</string>
 	<key>IDECodeSnippetLanguage</key>

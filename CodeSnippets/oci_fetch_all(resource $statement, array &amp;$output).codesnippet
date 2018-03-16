@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_fetch_all ( &lt;#resource $statement#&gt;, &lt;#array &amp;$output#&gt; );</string>
+	<string>oci_fetch_all(&lt;#resource $statement#&gt;, &lt;#array &amp;$output#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>42F0E7AA-2440-4FB9-B594-AAA439BF4B42</string>
 	<key>IDECodeSnippetLanguage</key>

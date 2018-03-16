@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_set_module_name ( &lt;#resource $connection#&gt;, &lt;#string $module_name#&gt; );</string>
+	<string>oci_set_module_name(&lt;#resource $connection#&gt;, &lt;#string $module_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3FA107B1-39A7-41D2-9A96-139801CA786C</string>
 	<key>IDECodeSnippetLanguage</key>

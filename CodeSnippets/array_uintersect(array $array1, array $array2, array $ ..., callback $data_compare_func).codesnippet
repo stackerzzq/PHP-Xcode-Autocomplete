@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_uintersect ( &lt;#array $array1#&gt;, &lt;#array $array2#&gt;, &lt;#array $ ...#&gt;, &lt;#callback $data_compare_func#&gt; );</string>
+	<string>array_uintersect(&lt;#array $array1#&gt;, &lt;#array $array2#&gt;, &lt;#array $ ...#&gt;, &lt;#callback $data_compare_func#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6C15714A-DF8F-4E15-8D75-2960B7A970CD</string>
 	<key>IDECodeSnippetLanguage</key>

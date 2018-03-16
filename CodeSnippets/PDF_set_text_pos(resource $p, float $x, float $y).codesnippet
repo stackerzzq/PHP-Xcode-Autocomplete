@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_set_text_pos ( &lt;#resource $p#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>PDF_set_text_pos(&lt;#resource $p#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A9241B47-050D-4B32-AC02-48FC52C1DE01</string>
 	<key>IDECodeSnippetLanguage</key>

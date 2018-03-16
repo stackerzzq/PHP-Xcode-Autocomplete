@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fbsql_drop_db ( &lt;#string $database_name#&gt;, &lt;#resource $link_identifier#&gt; );</string>
+	<string>fbsql_drop_db(&lt;#string $database_name#&gt;, &lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>28795612-5B6B-4CF8-8D4C-F6A35085C458</string>
 	<key>IDECodeSnippetLanguage</key>

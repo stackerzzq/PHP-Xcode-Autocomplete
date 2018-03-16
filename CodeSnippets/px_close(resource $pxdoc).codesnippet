@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>px_close ( &lt;#resource $pxdoc#&gt; );</string>
+	<string>px_close(&lt;#resource $pxdoc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>55CC6B5C-EA10-4B11-8661-DD9FACBC01A1</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_options ( &lt;#resource $link#&gt;, &lt;#int $option#&gt;, &lt;#mixed $value#&gt;, &lt;#int $option#&gt;, &lt;#mixed $value#&gt; );</string>
+	<string>maxdb_options(&lt;#resource $link#&gt;, &lt;#int $option#&gt;, &lt;#mixed $value#&gt;, &lt;#int $option#&gt;, &lt;#mixed $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>762F0BD0-FD64-4E35-B933-A7F3C4712872</string>
 	<key>IDECodeSnippetLanguage</key>

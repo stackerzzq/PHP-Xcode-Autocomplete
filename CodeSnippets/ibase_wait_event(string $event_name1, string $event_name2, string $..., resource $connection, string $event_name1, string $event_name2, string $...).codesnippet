@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_wait_event ( &lt;#string $event_name1#&gt;, &lt;#string $event_name2#&gt;, &lt;#string $...#&gt;, &lt;#resource $connection#&gt;, &lt;#string $event_name1#&gt;, &lt;#string $event_name2#&gt;, &lt;#string $...#&gt; );</string>
+	<string>ibase_wait_event(&lt;#string $event_name1#&gt;, &lt;#string $event_name2#&gt;, &lt;#string $...#&gt;, &lt;#resource $connection#&gt;, &lt;#string $event_name1#&gt;, &lt;#string $event_name2#&gt;, &lt;#string $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0CD1C123-F899-422F-8764-725052CB737B</string>
 	<key>IDECodeSnippetLanguage</key>

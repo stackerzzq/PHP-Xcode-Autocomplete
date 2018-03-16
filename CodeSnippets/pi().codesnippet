@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pi (  );</string>
+	<string>pi();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5F933665-2A8C-4DB5-B210-BDE12AAABD4F</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::setLineWidth ( &lt;#float $width#&gt; );</string>
+	<string>HaruPage::setLineWidth(&lt;#float $width#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2745F63F-9945-4E52-B0FA-F4D815DDB6E7</string>
 	<key>IDECodeSnippetLanguage</key>

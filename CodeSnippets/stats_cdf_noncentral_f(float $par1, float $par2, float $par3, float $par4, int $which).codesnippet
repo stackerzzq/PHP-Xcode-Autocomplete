@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_cdf_noncentral_f ( &lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#float $par3#&gt;, &lt;#float $par4#&gt;, &lt;#int $which#&gt; );</string>
+	<string>stats_cdf_noncentral_f(&lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#float $par3#&gt;, &lt;#float $par4#&gt;, &lt;#int $which#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1CB65B4C-40E0-4F1B-B584-E352E651257C</string>
 	<key>IDECodeSnippetLanguage</key>

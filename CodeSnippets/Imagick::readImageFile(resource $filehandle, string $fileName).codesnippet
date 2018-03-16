@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::readImageFile ( &lt;#resource $filehandle#&gt;, &lt;#string $fileName#&gt; );</string>
+	<string>Imagick::readImageFile(&lt;#resource $filehandle#&gt;, &lt;#string $fileName#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A2D85310-4B58-4FA2-9DC4-1528C45FF094</string>
 	<key>IDECodeSnippetLanguage</key>

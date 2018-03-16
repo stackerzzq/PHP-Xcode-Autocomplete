@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msession_count (  );</string>
+	<string>msession_count();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>755A0F9A-4E23-433D-8EBE-85B2709326CD</string>
 	<key>IDECodeSnippetLanguage</key>

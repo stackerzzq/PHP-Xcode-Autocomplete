@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getallheaders (  );</string>
+	<string>getallheaders();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>04CA70E3-2F85-42C2-BFE9-70497D08B7BD</string>
 	<key>IDECodeSnippetLanguage</key>

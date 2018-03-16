@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_pkey_free ( &lt;#resource $key#&gt; );</string>
+	<string>openssl_pkey_free(&lt;#resource $key#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BF5328C6-9464-4CF6-8C21-F70952C114BE</string>
 	<key>IDECodeSnippetLanguage</key>

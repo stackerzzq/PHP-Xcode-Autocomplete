@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_close_pdi_page ( &lt;#resource $p#&gt;, &lt;#int $page#&gt; );</string>
+	<string>PDF_close_pdi_page(&lt;#resource $p#&gt;, &lt;#int $page#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D7169F01-3380-460D-8EF0-82D17411C0D0</string>
 	<key>IDECodeSnippetLanguage</key>

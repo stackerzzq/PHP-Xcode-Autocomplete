@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bcadd ( &lt;#string $left_operand#&gt;, &lt;#string $right_operand#&gt;, &lt;#int $scale#&gt; );</string>
+	<string>bcadd(&lt;#string $left_operand#&gt;, &lt;#string $right_operand#&gt;, &lt;#int $scale#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4D8449E5-E9F3-445B-893D-F2514E3412B7</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::flopImage (  );</string>
+	<string>Imagick::flopImage();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FAF5457B-8F79-4193-A7B5-6AC070DA12AB</string>
 	<key>IDECodeSnippetLanguage</key>

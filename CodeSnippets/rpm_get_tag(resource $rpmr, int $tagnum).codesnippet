@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>rpm_get_tag ( &lt;#resource $rpmr#&gt;, &lt;#int $tagnum#&gt; );</string>
+	<string>rpm_get_tag(&lt;#resource $rpmr#&gt;, &lt;#int $tagnum#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6F2BFE36-9554-4275-8649-B9CAD57B66D0</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gztell ( &lt;#resource $zp#&gt; );</string>
+	<string>gztell(&lt;#resource $zp#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>339A2722-D120-4D20-9852-945E7B805D20</string>
 	<key>IDECodeSnippetLanguage</key>

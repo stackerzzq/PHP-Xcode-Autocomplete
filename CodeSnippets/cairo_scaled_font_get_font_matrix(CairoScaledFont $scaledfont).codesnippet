@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_scaled_font_get_font_matrix ( &lt;#CairoScaledFont $scaledfont#&gt; );</string>
+	<string>cairo_scaled_font_get_font_matrix(&lt;#CairoScaledFont $scaledfont#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>75082114-A32D-4911-9643-93BF9255A627</string>
 	<key>IDECodeSnippetLanguage</key>

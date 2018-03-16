@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::queryFontMetrics ( &lt;#ImagickDraw $properties#&gt;, &lt;#string $text#&gt;, &lt;#bool $multiline#&gt; );</string>
+	<string>Imagick::queryFontMetrics(&lt;#ImagickDraw $properties#&gt;, &lt;#string $text#&gt;, &lt;#bool $multiline#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>18A9D06C-18DE-4584-8A79-AD8CD7ECAC2A</string>
 	<key>IDECodeSnippetLanguage</key>

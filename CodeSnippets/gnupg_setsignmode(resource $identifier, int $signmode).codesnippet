@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gnupg_setsignmode ( &lt;#resource $identifier#&gt;, &lt;#int $signmode#&gt; );</string>
+	<string>gnupg_setsignmode(&lt;#resource $identifier#&gt;, &lt;#int $signmode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>649B8AA8-9846-40FF-8EF4-A1CDA45AE3FC</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>parse_ini_file ( &lt;#string $filename#&gt; );</string>
+	<string>parse_ini_file(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>67302560-1B50-436B-A90F-A0FC93FE54E9</string>
 	<key>IDECodeSnippetLanguage</key>

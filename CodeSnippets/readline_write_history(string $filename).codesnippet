@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>readline_write_history ( &lt;#string $filename#&gt; );</string>
+	<string>readline_write_history(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E2A07DE3-FA8E-40D5-B839-CA300FF7EF8E</string>
 	<key>IDECodeSnippetLanguage</key>

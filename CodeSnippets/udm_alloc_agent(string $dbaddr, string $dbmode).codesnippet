@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_alloc_agent ( &lt;#string $dbaddr#&gt;, &lt;#string $dbmode#&gt; );</string>
+	<string>udm_alloc_agent(&lt;#string $dbaddr#&gt;, &lt;#string $dbmode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5DE1CAAA-D319-4DA8-9917-8A9B8B8B832A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imageistruecolor ( &lt;#resource $image#&gt; );</string>
+	<string>imageistruecolor(&lt;#resource $image#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>015F9B1C-F849-4DA2-82CB-38B4FF5B52C1</string>
 	<key>IDECodeSnippetLanguage</key>

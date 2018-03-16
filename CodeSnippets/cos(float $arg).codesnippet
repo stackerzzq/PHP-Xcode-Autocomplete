@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cos ( &lt;#float $arg#&gt; );</string>
+	<string>cos(&lt;#float $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C7E25E01-2128-4B87-87A7-51F2DBC33127</string>
 	<key>IDECodeSnippetLanguage</key>

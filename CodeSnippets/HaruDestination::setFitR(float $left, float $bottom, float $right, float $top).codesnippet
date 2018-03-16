@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDestination::setFitR ( &lt;#float $left#&gt;, &lt;#float $bottom#&gt;, &lt;#float $right#&gt;, &lt;#float $top#&gt; );</string>
+	<string>HaruDestination::setFitR(&lt;#float $left#&gt;, &lt;#float $bottom#&gt;, &lt;#float $right#&gt;, &lt;#float $top#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>05F4E198-63AA-4C1A-992D-573D26F44159</string>
 	<key>IDECodeSnippetLanguage</key>

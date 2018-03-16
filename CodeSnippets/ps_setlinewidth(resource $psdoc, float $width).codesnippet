@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_setlinewidth ( &lt;#resource $psdoc#&gt;, &lt;#float $width#&gt; );</string>
+	<string>ps_setlinewidth(&lt;#resource $psdoc#&gt;, &lt;#float $width#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4FB622A5-5333-46A6-93C8-4F3B313471B5</string>
 	<key>IDECodeSnippetLanguage</key>

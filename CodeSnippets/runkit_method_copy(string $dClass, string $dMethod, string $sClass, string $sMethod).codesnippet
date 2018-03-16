@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>runkit_method_copy ( &lt;#string $dClass#&gt;, &lt;#string $dMethod#&gt;, &lt;#string $sClass#&gt;, &lt;#string $sMethod#&gt; );</string>
+	<string>runkit_method_copy(&lt;#string $dClass#&gt;, &lt;#string $dMethod#&gt;, &lt;#string $sClass#&gt;, &lt;#string $sMethod#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1395C69E-29E2-4BDE-944E-496AC2432800</string>
 	<key>IDECodeSnippetLanguage</key>

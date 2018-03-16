@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SwishSearch-&gt;setLimit ( &lt;#string $property#&gt;, &lt;#string $low#&gt;, &lt;#string $high#&gt; );</string>
+	<string>SwishSearch-&gt;setLimit(&lt;#string $property#&gt;, &lt;#string $low#&gt;, &lt;#string $high#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>208CF551-9796-417F-BE0A-139BDC97236D</string>
 	<key>IDECodeSnippetLanguage</key>

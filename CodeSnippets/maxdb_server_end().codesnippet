@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_server_end (  );</string>
+	<string>maxdb_server_end();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EDAF4077-6352-4824-AE4D-8D5471EBC5DB</string>
 	<key>IDECodeSnippetLanguage</key>

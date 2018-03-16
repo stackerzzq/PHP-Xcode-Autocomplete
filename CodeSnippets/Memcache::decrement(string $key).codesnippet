@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Memcache::decrement ( &lt;#string $key#&gt; );</string>
+	<string>Memcache::decrement(&lt;#string $key#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F4F8D742-692A-4767-9C5A-F422FAB7B62F</string>
 	<key>IDECodeSnippetLanguage</key>

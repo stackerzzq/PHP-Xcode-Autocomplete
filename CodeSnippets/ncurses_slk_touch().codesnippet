@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_slk_touch (  );</string>
+	<string>ncurses_slk_touch();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6785BA48-5D9C-4E6E-9E1B-C6D9471176AE</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_times (  );</string>
+	<string>posix_times();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D00E1CA7-1B20-41E9-AE5D-533B6254BCC1</string>
 	<key>IDECodeSnippetLanguage</key>

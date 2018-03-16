@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_use_env ( &lt;#bool $flag#&gt; );</string>
+	<string>ncurses_use_env(&lt;#bool $flag#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9D638E7A-54B1-402C-9474-D1CB9645B8C8</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_lo_seek ( &lt;#resource $large_object#&gt;, &lt;#int $offset#&gt; );</string>
+	<string>pg_lo_seek(&lt;#resource $large_object#&gt;, &lt;#int $offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B792416D-76EB-48E2-9FA3-CAD05E01D3D7</string>
 	<key>IDECodeSnippetLanguage</key>

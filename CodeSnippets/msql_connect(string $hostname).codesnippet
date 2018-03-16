@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msql_connect ( &lt;#string $hostname#&gt; );</string>
+	<string>msql_connect(&lt;#string $hostname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>399C0E2A-AB1B-4A52-BE24-9BDCB2746788</string>
 	<key>IDECodeSnippetLanguage</key>

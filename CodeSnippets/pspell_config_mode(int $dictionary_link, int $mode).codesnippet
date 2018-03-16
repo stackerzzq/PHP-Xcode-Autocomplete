@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pspell_config_mode ( &lt;#int $dictionary_link#&gt;, &lt;#int $mode#&gt; );</string>
+	<string>pspell_config_mode(&lt;#int $dictionary_link#&gt;, &lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>52014920-E7BE-40C2-833F-D2FBC3CFB0B0</string>
 	<key>IDECodeSnippetLanguage</key>

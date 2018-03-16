@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_select_font ( &lt;#resource $printer_handle#&gt;, &lt;#resource $font_handle#&gt; );</string>
+	<string>printer_select_font(&lt;#resource $printer_handle#&gt;, &lt;#resource $font_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>703FE13C-A3C1-4367-9D94-14E8D439CAB3</string>
 	<key>IDECodeSnippetLanguage</key>

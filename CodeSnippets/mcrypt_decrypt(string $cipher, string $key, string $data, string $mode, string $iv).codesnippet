@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mcrypt_decrypt ( &lt;#string $cipher#&gt;, &lt;#string $key#&gt;, &lt;#string $data#&gt;, &lt;#string $mode#&gt;, &lt;#string $iv#&gt; );</string>
+	<string>mcrypt_decrypt(&lt;#string $cipher#&gt;, &lt;#string $key#&gt;, &lt;#string $data#&gt;, &lt;#string $mode#&gt;, &lt;#string $iv#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A81FA985-DD65-4CEB-AC86-6B3EA6D8F15D</string>
 	<key>IDECodeSnippetLanguage</key>

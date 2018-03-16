@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_getrellink ( &lt;#int $link#&gt;, &lt;#int $rootid#&gt;, &lt;#int $sourceid#&gt;, &lt;#int $destid#&gt; );</string>
+	<string>hw_getrellink(&lt;#int $link#&gt;, &lt;#int $rootid#&gt;, &lt;#int $sourceid#&gt;, &lt;#int $destid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A736BF1E-4B56-4D8B-9A75-F4D4C5EC2058</string>
 	<key>IDECodeSnippetLanguage</key>

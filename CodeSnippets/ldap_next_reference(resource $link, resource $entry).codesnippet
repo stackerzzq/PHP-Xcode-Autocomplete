@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_next_reference ( &lt;#resource $link#&gt;, &lt;#resource $entry#&gt; );</string>
+	<string>ldap_next_reference(&lt;#resource $link#&gt;, &lt;#resource $entry#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A24D781F-88D7-4A34-A031-23BBF0325A0E</string>
 	<key>IDECodeSnippetLanguage</key>

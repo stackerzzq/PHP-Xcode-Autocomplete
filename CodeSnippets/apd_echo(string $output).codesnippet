@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apd_echo ( &lt;#string $output#&gt; );</string>
+	<string>apd_echo(&lt;#string $output#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>808D315A-DE31-4223-A1B4-3D22B0CD83D8</string>
 	<key>IDECodeSnippetLanguage</key>

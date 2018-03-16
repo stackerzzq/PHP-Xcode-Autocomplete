@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_autocommit ( &lt;#resource $link#&gt;, &lt;#bool $mode#&gt;, &lt;#bool $mode#&gt; );</string>
+	<string>maxdb_autocommit(&lt;#resource $link#&gt;, &lt;#bool $mode#&gt;, &lt;#bool $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>83E33C70-290C-4D62-87F9-92EF4F9F417C</string>
 	<key>IDECodeSnippetLanguage</key>

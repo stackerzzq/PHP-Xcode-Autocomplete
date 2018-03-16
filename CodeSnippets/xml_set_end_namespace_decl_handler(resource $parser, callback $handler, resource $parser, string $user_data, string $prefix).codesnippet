@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xml_set_end_namespace_decl_handler ( &lt;#resource $parser#&gt;, &lt;#callback $handler#&gt;, &lt;#resource $parser#&gt;, &lt;#string $user_data#&gt;, &lt;#string $prefix#&gt; );</string>
+	<string>xml_set_end_namespace_decl_handler(&lt;#resource $parser#&gt;, &lt;#callback $handler#&gt;, &lt;#resource $parser#&gt;, &lt;#string $user_data#&gt;, &lt;#string $prefix#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C0DE1DA8-1B81-4E8E-9EA0-03B977E3B567</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_dens_negative_binomial ( &lt;#float $x#&gt;, &lt;#float $n#&gt;, &lt;#float $pi#&gt; );</string>
+	<string>stats_dens_negative_binomial(&lt;#float $x#&gt;, &lt;#float $n#&gt;, &lt;#float $pi#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0ED09EEC-7333-4B82-94D3-DC3FA738BA8B</string>
 	<key>IDECodeSnippetLanguage</key>

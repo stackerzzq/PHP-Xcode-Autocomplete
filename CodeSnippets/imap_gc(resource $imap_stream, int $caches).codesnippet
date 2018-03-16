@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_gc ( &lt;#resource $imap_stream#&gt;, &lt;#int $caches#&gt; );</string>
+	<string>imap_gc(&lt;#resource $imap_stream#&gt;, &lt;#int $caches#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>61760FCB-A89E-43FC-BAA3-6B6142C18D38</string>
 	<key>IDECodeSnippetLanguage</key>

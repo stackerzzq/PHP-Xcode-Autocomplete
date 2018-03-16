@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_sigtimedwait ( &lt;#array $set#&gt;, &lt;#array &amp;$siginfo#&gt; );</string>
+	<string>pcntl_sigtimedwait(&lt;#array $set#&gt;, &lt;#array &amp;$siginfo#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7B686D4F-8AA0-4AC7-B2CC-83352750A4A3</string>
 	<key>IDECodeSnippetLanguage</key>

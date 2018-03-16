@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dngettext ( &lt;#string $domain#&gt;, &lt;#string $msgid1#&gt;, &lt;#string $msgid2#&gt;, &lt;#int $n#&gt; );</string>
+	<string>dngettext(&lt;#string $domain#&gt;, &lt;#string $msgid1#&gt;, &lt;#string $msgid2#&gt;, &lt;#int $n#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DD730158-DBAB-404A-99EE-43759E4DA668</string>
 	<key>IDECodeSnippetLanguage</key>

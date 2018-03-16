@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>event_add ( &lt;#resource $event#&gt; );</string>
+	<string>event_add(&lt;#resource $event#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>945EE520-E24E-41FD-B638-681611F5404A</string>
 	<key>IDECodeSnippetLanguage</key>

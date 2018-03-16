@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_prepare ( &lt;#resource $connection#&gt;, &lt;#string $statement#&gt;, &lt;#array $options#&gt; );</string>
+	<string>db2_prepare(&lt;#resource $connection#&gt;, &lt;#string $statement#&gt;, &lt;#array $options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FE1DACBD-90A1-4D9A-B826-622315893EF0</string>
 	<key>IDECodeSnippetLanguage</key>

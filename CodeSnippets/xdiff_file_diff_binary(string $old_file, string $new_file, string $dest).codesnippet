@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xdiff_file_diff_binary ( &lt;#string $old_file#&gt;, &lt;#string $new_file#&gt;, &lt;#string $dest#&gt; );</string>
+	<string>xdiff_file_diff_binary(&lt;#string $old_file#&gt;, &lt;#string $new_file#&gt;, &lt;#string $dest#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E9DD32A1-DD72-468D-AF80-834E19AEACED</string>
 	<key>IDECodeSnippetLanguage</key>

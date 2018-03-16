@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>usleep ( &lt;#int $micro_seconds#&gt; );</string>
+	<string>usleep(&lt;#int $micro_seconds#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B07C1AD8-6E06-4A18-B406-60AD0C720C94</string>
 	<key>IDECodeSnippetLanguage</key>

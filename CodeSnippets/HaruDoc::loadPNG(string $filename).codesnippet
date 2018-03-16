@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::loadPNG ( &lt;#string $filename#&gt; );</string>
+	<string>HaruDoc::loadPNG(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4247FA1E-E433-4661-A2E5-FB1FA108914D</string>
 	<key>IDECodeSnippetLanguage</key>

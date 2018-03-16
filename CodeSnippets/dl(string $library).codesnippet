@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dl ( &lt;#string $library#&gt; );</string>
+	<string>dl(&lt;#string $library#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D411D244-E075-4972-8B23-030533528B24</string>
 	<key>IDECodeSnippetLanguage</key>

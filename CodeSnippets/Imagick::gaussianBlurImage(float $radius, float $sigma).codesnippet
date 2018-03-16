@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::gaussianBlurImage ( &lt;#float $radius#&gt;, &lt;#float $sigma#&gt; );</string>
+	<string>Imagick::gaussianBlurImage(&lt;#float $radius#&gt;, &lt;#float $sigma#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F38F017A-2B5B-43DD-84F4-94009D387FDC</string>
 	<key>IDECodeSnippetLanguage</key>

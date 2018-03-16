@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpResponse::getThrottleDelay (  );</string>
+	<string>HttpResponse::getThrottleDelay();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DCD63D1E-29B8-4FF9-AA78-F3AC705ACA80</string>
 	<key>IDECodeSnippetLanguage</key>

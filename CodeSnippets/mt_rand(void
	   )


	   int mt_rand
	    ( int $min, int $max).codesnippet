@@ -14,7 +14,7 @@
 
 
 	   int mt_rand
-	    ( int $min#&gt;, &lt;#int $max#&gt; );</string>
+	   (int $min#&gt;, &lt;#int $max#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>564B9E3E-EFFC-4830-BD87-53537C9029BC</string>
 	<key>IDECodeSnippetLanguage</key>

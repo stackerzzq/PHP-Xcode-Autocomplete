@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_stmt_prepare ( &lt;#resource $stmt#&gt;, &lt;#string $query#&gt;, &lt;#string $query#&gt; );</string>
+	<string>maxdb_stmt_prepare(&lt;#resource $stmt#&gt;, &lt;#string $query#&gt;, &lt;#string $query#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2EC918EA-2998-49D9-AA19-84F80F0C7D95</string>
 	<key>IDECodeSnippetLanguage</key>

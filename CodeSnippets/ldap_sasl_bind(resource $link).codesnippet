@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_sasl_bind ( &lt;#resource $link#&gt; );</string>
+	<string>ldap_sasl_bind(&lt;#resource $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6FAEC993-4C5A-4EA2-A0A5-25482A86B707</string>
 	<key>IDECodeSnippetLanguage</key>

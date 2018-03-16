@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ini_restore ( &lt;#string $varname#&gt; );</string>
+	<string>ini_restore(&lt;#string $varname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FC82F7C1-CD80-4720-8E9C-63A99DB22458</string>
 	<key>IDECodeSnippetLanguage</key>

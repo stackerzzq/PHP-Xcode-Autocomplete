@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_reverse ( &lt;#array $array#&gt; );</string>
+	<string>array_reverse(&lt;#array $array#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C14A9B35-7BB4-4EE0-900C-C3B87E6478CE</string>
 	<key>IDECodeSnippetLanguage</key>

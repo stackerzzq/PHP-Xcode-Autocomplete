@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getFillingColorSpace (  );</string>
+	<string>HaruPage::getFillingColorSpace();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC3F040F-5E83-4F3B-A806-711832D2AA9B</string>
 	<key>IDECodeSnippetLanguage</key>

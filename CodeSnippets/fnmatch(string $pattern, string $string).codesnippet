@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fnmatch ( &lt;#string $pattern#&gt;, &lt;#string $string#&gt; );</string>
+	<string>fnmatch(&lt;#string $pattern#&gt;, &lt;#string $string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E1494790-8CAF-4F51-901D-948626A86B47</string>
 	<key>IDECodeSnippetLanguage</key>

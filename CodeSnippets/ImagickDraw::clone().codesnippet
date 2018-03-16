@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::clone (  );</string>
+	<string>ImagickDraw::clone();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B498649C-D944-488E-8558-C40035DECF48</string>
 	<key>IDECodeSnippetLanguage</key>

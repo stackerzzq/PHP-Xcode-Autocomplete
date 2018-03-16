@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_checkbox_tree_get_selection ( &lt;#resource $checkboxtree#&gt; );</string>
+	<string>newt_checkbox_tree_get_selection(&lt;#resource $checkboxtree#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A9F3201C-3AEB-4B62-9A9B-B08862D10311</string>
 	<key>IDECodeSnippetLanguage</key>

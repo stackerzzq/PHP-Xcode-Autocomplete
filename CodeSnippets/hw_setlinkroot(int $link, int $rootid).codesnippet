@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_setlinkroot ( &lt;#int $link#&gt;, &lt;#int $rootid#&gt; );</string>
+	<string>hw_setlinkroot(&lt;#int $link#&gt;, &lt;#int $rootid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>22DD1F5B-4B25-4E91-A44E-D954F057B0D8</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>intl_get_error_code (  );</string>
+	<string>intl_get_error_code();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BA023B4B-A119-4F88-AB7C-E36C919FC283</string>
 	<key>IDECodeSnippetLanguage</key>

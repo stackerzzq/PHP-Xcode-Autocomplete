@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_timeout ( &lt;#int $timeout_type#&gt; );</string>
+	<string>imap_timeout(&lt;#int $timeout_type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B2AE6C3F-F8C0-4D1D-85BC-97C682D8F34B</string>
 	<key>IDECodeSnippetLanguage</key>

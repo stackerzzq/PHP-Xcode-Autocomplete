@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::cropImage ( &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt; );</string>
+	<string>Imagick::cropImage(&lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>50596D23-5FFD-45F2-9DC5-3ED8C77F9233</string>
 	<key>IDECodeSnippetLanguage</key>

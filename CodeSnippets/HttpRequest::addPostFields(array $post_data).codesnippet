@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequest::addPostFields ( &lt;#array $post_data#&gt; );</string>
+	<string>HttpRequest::addPostFields(&lt;#array $post_data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A4F8B874-2DC1-4E42-B74F-DC6BD8D741EA</string>
 	<key>IDECodeSnippetLanguage</key>

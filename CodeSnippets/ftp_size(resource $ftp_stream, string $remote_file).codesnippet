@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ftp_size ( &lt;#resource $ftp_stream#&gt;, &lt;#string $remote_file#&gt; );</string>
+	<string>ftp_size(&lt;#resource $ftp_stream#&gt;, &lt;#string $remote_file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>40FC18C6-3238-4522-B25C-7A2E383179DB</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getNumFrames (  );</string>
+	<string>getNumFrames();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F617B720-8537-4B46-B2F4-330ECC7877B9</string>
 	<key>IDECodeSnippetLanguage</key>

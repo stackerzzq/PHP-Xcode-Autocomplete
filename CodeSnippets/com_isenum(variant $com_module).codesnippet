@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>com_isenum ( &lt;#variant $com_module#&gt; );</string>
+	<string>com_isenum(&lt;#variant $com_module#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>28F8F377-0808-46C1-B94F-A56A54406E54</string>
 	<key>IDECodeSnippetLanguage</key>

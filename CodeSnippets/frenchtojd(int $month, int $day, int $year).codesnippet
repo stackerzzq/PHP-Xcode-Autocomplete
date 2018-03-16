@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>frenchtojd ( &lt;#int $month#&gt;, &lt;#int $day#&gt;, &lt;#int $year#&gt; );</string>
+	<string>frenchtojd(&lt;#int $month#&gt;, &lt;#int $day#&gt;, &lt;#int $year#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A9E089CE-D8A5-4D2A-B674-36006C7F278D</string>
 	<key>IDECodeSnippetLanguage</key>

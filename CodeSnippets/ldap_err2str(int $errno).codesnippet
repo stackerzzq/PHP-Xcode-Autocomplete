@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_err2str ( &lt;#int $errno#&gt; );</string>
+	<string>ldap_err2str(&lt;#int $errno#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AE6972ED-085C-4BF7-95DE-3449BDD38FB7</string>
 	<key>IDECodeSnippetLanguage</key>

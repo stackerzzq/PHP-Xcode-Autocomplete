@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>enchant_dict_add_to_personal ( &lt;#resource $dict#&gt;, &lt;#string $word#&gt; );</string>
+	<string>enchant_dict_add_to_personal(&lt;#resource $dict#&gt;, &lt;#string $word#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6CB20D07-399A-4B46-9AF9-53D1CE73DCB8</string>
 	<key>IDECodeSnippetLanguage</key>

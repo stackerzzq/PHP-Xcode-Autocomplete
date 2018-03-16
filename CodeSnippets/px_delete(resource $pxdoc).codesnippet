@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>px_delete ( &lt;#resource $pxdoc#&gt; );</string>
+	<string>px_delete(&lt;#resource $pxdoc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F92D6390-73B3-4996-9575-10561E0482A6</string>
 	<key>IDECodeSnippetLanguage</key>

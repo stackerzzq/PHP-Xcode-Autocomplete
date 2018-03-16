@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::adaptiveSharpenImage ( &lt;#float $radius#&gt;, &lt;#float $sigma#&gt; );</string>
+	<string>Imagick::adaptiveSharpenImage(&lt;#float $radius#&gt;, &lt;#float $sigma#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F740340F-F7CE-4ADA-96AC-EEF7F98C6CC9</string>
 	<key>IDECodeSnippetLanguage</key>

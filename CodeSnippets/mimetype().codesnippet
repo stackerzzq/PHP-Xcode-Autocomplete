@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mimetype (  );</string>
+	<string>mimetype();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DE1E031A-AF71-4D01-BBCB-0468D2E1CBD5</string>
 	<key>IDECodeSnippetLanguage</key>

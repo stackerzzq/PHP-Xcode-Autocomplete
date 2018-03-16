@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_bkgd ( &lt;#int $attrchar#&gt; );</string>
+	<string>ncurses_bkgd(&lt;#int $attrchar#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9CB276E8-CDFC-4640-8F67-4E9A4EB08534</string>
 	<key>IDECodeSnippetLanguage</key>

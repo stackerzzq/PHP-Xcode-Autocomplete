@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_statistics ( &lt;#resource $connection#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $schema#&gt;, &lt;#string $table-name#&gt;, &lt;#bool $unique#&gt; );</string>
+	<string>db2_statistics(&lt;#resource $connection#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $schema#&gt;, &lt;#string $table-name#&gt;, &lt;#bool $unique#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7B568B20-63AF-458F-ACC2-EF09DE5848CF</string>
 	<key>IDECodeSnippetLanguage</key>

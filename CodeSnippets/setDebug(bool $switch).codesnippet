@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setDebug ( &lt;#bool $switch#&gt; );</string>
+	<string>setDebug(&lt;#bool $switch#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2AD1AC60-23F4-46C8-B30A-C7BAA9B8C4CE</string>
 	<key>IDECodeSnippetLanguage</key>

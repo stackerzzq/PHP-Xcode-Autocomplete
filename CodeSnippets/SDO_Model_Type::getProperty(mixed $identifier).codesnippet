@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_Model_Type::getProperty ( &lt;#mixed $identifier#&gt; );</string>
+	<string>SDO_Model_Type::getProperty(&lt;#mixed $identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4E539A56-F338-4CB1-817C-ACC918F33D2C</string>
 	<key>IDECodeSnippetLanguage</key>

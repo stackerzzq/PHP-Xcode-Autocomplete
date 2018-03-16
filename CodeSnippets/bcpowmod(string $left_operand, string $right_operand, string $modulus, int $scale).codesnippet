@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bcpowmod ( &lt;#string $left_operand#&gt;, &lt;#string $right_operand#&gt;, &lt;#string $modulus#&gt;, &lt;#int $scale#&gt; );</string>
+	<string>bcpowmod(&lt;#string $left_operand#&gt;, &lt;#string $right_operand#&gt;, &lt;#string $modulus#&gt;, &lt;#int $scale#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9EAC7E80-71BF-48EB-B009-40F33454215A</string>
 	<key>IDECodeSnippetLanguage</key>

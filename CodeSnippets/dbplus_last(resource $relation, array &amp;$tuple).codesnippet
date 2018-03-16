@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_last ( &lt;#resource $relation#&gt;, &lt;#array &amp;$tuple#&gt; );</string>
+	<string>dbplus_last(&lt;#resource $relation#&gt;, &lt;#array &amp;$tuple#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1AD8DBAD-48C0-439F-961A-B694ED144598</string>
 	<key>IDECodeSnippetLanguage</key>

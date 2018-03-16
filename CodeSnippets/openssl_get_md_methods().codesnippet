@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_get_md_methods (  );</string>
+	<string>openssl_get_md_methods();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>17827933-5BB8-48E7-8140-63548685001A</string>
 	<key>IDECodeSnippetLanguage</key>

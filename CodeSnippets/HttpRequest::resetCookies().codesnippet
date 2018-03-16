@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequest::resetCookies (  );</string>
+	<string>HttpRequest::resetCookies();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FFA47B1E-0812-4F92-B49E-77E78BA7CDF7</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_pnoutrefresh ( &lt;#resource $pad#&gt;, &lt;#int $pminrow#&gt;, &lt;#int $pmincol#&gt;, &lt;#int $sminrow#&gt;, &lt;#int $smincol#&gt;, &lt;#int $smaxrow#&gt;, &lt;#int $smaxcol#&gt; );</string>
+	<string>ncurses_pnoutrefresh(&lt;#resource $pad#&gt;, &lt;#int $pminrow#&gt;, &lt;#int $pmincol#&gt;, &lt;#int $sminrow#&gt;, &lt;#int $smincol#&gt;, &lt;#int $smaxrow#&gt;, &lt;#int $smaxcol#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9B94D79A-1B8E-44BC-BCB3-81FDD02BEB67</string>
 	<key>IDECodeSnippetLanguage</key>

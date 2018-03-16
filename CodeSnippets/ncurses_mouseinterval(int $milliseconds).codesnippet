@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_mouseinterval ( &lt;#int $milliseconds#&gt; );</string>
+	<string>ncurses_mouseinterval(&lt;#int $milliseconds#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E4305BEF-EF7F-456B-986C-384B4FF51F81</string>
 	<key>IDECodeSnippetLanguage</key>

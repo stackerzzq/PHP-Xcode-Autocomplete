@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>date_parse_from_format ( &lt;#string $format#&gt;, &lt;#string $date#&gt; );</string>
+	<string>date_parse_from_format(&lt;#string $format#&gt;, &lt;#string $date#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>50D50CDD-C6E0-4628-9470-362B23A06D55</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_Model_Type::isInstance ( &lt;#SDO_DataObject $data_object#&gt; );</string>
+	<string>SDO_Model_Type::isInstance(&lt;#SDO_DataObject $data_object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>84B1D836-239D-48E5-942B-2F318BD15585</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>com_addref (  );</string>
+	<string>com_addref();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9C6B3C8F-D1E7-417E-A58B-DE41E4A6988F</string>
 	<key>IDECodeSnippetLanguage</key>

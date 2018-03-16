@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>internal_subset (  );</string>
+	<string>internal_subset();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C0EF3E5C-0BD0-4D2C-B3B6-4B226D44E2DF</string>
 	<key>IDECodeSnippetLanguage</key>

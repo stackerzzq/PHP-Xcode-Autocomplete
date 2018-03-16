@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_def_shell_mode (  );</string>
+	<string>ncurses_def_shell_mode();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4A85E0A7-58FD-47B1-ABF1-51A535C04FB5</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_rewind ( &lt;#resource $result#&gt; );</string>
+	<string>sqlite_rewind(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>965C3284-7442-4F60-9702-612070ECEA15</string>
 	<key>IDECodeSnippetLanguage</key>

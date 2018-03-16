@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagepsloadfont ( &lt;#string $filename#&gt; );</string>
+	<string>imagepsloadfont(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B3F0F591-C4FC-4CF1-88A9-8273A0C79169</string>
 	<key>IDECodeSnippetLanguage</key>

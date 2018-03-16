@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_numcolumns ( &lt;#resource $conn#&gt;, &lt;#int $identifier#&gt; );</string>
+	<string>m_numcolumns(&lt;#resource $conn#&gt;, &lt;#int $identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>48D25AF6-8B3C-420A-AB07-0B64E703541B</string>
 	<key>IDECodeSnippetLanguage</key>

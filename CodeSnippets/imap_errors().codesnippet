@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_errors (  );</string>
+	<string>imap_errors();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D4EE5603-E3D8-4CC9-9354-EE7BACC62908</string>
 	<key>IDECodeSnippetLanguage</key>

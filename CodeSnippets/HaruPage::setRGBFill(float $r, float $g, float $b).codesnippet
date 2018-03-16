@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::setRGBFill ( &lt;#float $r#&gt;, &lt;#float $g#&gt;, &lt;#float $b#&gt; );</string>
+	<string>HaruPage::setRGBFill(&lt;#float $r#&gt;, &lt;#float $g#&gt;, &lt;#float $b#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>72105264-15DE-411C-B7DB-AC5857B1C70F</string>
 	<key>IDECodeSnippetLanguage</key>

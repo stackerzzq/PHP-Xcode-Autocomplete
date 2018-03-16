@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>asinh ( &lt;#float $arg#&gt; );</string>
+	<string>asinh(&lt;#float $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FE0E9120-35F7-4CEA-B61D-FE7F2B45AEC3</string>
 	<key>IDECodeSnippetLanguage</key>

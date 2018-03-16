@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mcrypt_list_algorithms (  );</string>
+	<string>mcrypt_list_algorithms();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C2FB8D0C-7AC4-4C55-AA05-055C57E32BDF</string>
 	<key>IDECodeSnippetLanguage</key>

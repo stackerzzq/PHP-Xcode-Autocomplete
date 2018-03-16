@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sybase_fetch_object ( &lt;#resource $result#&gt;, &lt;#mixed $object#&gt; );</string>
+	<string>sybase_fetch_object(&lt;#resource $result#&gt;, &lt;#mixed $object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>494284AB-BA22-4FF8-A47F-E0DFCA5CAD93</string>
 	<key>IDECodeSnippetLanguage</key>

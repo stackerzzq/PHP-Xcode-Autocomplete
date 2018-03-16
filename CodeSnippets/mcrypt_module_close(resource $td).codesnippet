@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mcrypt_module_close ( &lt;#resource $td#&gt; );</string>
+	<string>mcrypt_module_close(&lt;#resource $td#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>392C5EB1-AF70-47C9-9B82-03F95744C0D8</string>
 	<key>IDECodeSnippetLanguage</key>

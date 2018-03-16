@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>extension_loaded ( &lt;#string $name#&gt; );</string>
+	<string>extension_loaded(&lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>313C0487-A0F1-44DC-9F01-39B34BC1BE50</string>
 	<key>IDECodeSnippetLanguage</key>

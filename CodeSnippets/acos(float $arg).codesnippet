@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>acos ( &lt;#float $arg#&gt; );</string>
+	<string>acos(&lt;#float $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F8E91253-0CF9-4047-80FC-CF3E9EAE214A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_root_device_get_relative_location ( &lt;#resource $root_device#&gt; );</string>
+	<string>gupnp_root_device_get_relative_location(&lt;#resource $root_device#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C68387C9-A886-4873-9788-7C270A4FA3C5</string>
 	<key>IDECodeSnippetLanguage</key>

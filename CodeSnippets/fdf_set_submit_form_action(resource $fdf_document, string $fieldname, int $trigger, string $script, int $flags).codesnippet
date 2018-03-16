@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_set_submit_form_action ( &lt;#resource $fdf_document#&gt;, &lt;#string $fieldname#&gt;, &lt;#int $trigger#&gt;, &lt;#string $script#&gt;, &lt;#int $flags#&gt; );</string>
+	<string>fdf_set_submit_form_action(&lt;#resource $fdf_document#&gt;, &lt;#string $fieldname#&gt;, &lt;#int $trigger#&gt;, &lt;#string $script#&gt;, &lt;#int $flags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9B8E860E-AF7E-45A0-B863-85A3822FFD55</string>
 	<key>IDECodeSnippetLanguage</key>

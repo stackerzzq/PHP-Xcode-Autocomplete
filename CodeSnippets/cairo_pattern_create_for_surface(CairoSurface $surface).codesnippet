@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_pattern_create_for_surface ( &lt;#CairoSurface $surface#&gt; );</string>
+	<string>cairo_pattern_create_for_surface(&lt;#CairoSurface $surface#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8571CE4A-AF2E-4BEA-9811-E924DE5D83EB</string>
 	<key>IDECodeSnippetLanguage</key>

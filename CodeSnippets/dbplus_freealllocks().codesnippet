@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_freealllocks (  );</string>
+	<string>dbplus_freealllocks();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>946EA1AB-ED1C-4187-A952-07877FA83487</string>
 	<key>IDECodeSnippetLanguage</key>

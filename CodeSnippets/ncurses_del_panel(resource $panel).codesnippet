@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_del_panel ( &lt;#resource $panel#&gt; );</string>
+	<string>ncurses_del_panel(&lt;#resource $panel#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5DE83437-C973-4E57-9D77-CC3BE4D28DDD</string>
 	<key>IDECodeSnippetLanguage</key>

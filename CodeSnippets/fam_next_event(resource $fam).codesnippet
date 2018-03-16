@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fam_next_event ( &lt;#resource $fam#&gt; );</string>
+	<string>fam_next_event(&lt;#resource $fam#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>02DBE837-232B-482F-BA93-7D5C7364BBBD</string>
 	<key>IDECodeSnippetLanguage</key>

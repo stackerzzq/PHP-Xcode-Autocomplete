@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>exif_tagname ( &lt;#int $index#&gt; );</string>
+	<string>exif_tagname(&lt;#int $index#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CC314905-970A-43D1-8785-A8AD664ACE8F</string>
 	<key>IDECodeSnippetLanguage</key>

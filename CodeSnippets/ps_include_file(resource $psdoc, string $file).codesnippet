@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_include_file ( &lt;#resource $psdoc#&gt;, &lt;#string $file#&gt; );</string>
+	<string>ps_include_file(&lt;#resource $psdoc#&gt;, &lt;#string $file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>78C3595F-C647-400E-AF9A-E8AF57E3E6AB</string>
 	<key>IDECodeSnippetLanguage</key>

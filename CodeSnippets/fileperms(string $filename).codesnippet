@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fileperms ( &lt;#string $filename#&gt; );</string>
+	<string>fileperms(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B1DC25A5-AB07-4D9D-9DC1-55CDE1A6C992</string>
 	<key>IDECodeSnippetLanguage</key>

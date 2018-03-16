@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_border ( &lt;#int $left#&gt;, &lt;#int $right#&gt;, &lt;#int $top#&gt;, &lt;#int $bottom#&gt;, &lt;#int $tl_corner#&gt;, &lt;#int $tr_corner#&gt;, &lt;#int $bl_corner#&gt;, &lt;#int $br_corner#&gt; );</string>
+	<string>ncurses_border(&lt;#int $left#&gt;, &lt;#int $right#&gt;, &lt;#int $top#&gt;, &lt;#int $bottom#&gt;, &lt;#int $tl_corner#&gt;, &lt;#int $tr_corner#&gt;, &lt;#int $bl_corner#&gt;, &lt;#int $br_corner#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CA681141-3046-413B-B317-C9EA21E66A4A</string>
 	<key>IDECodeSnippetLanguage</key>

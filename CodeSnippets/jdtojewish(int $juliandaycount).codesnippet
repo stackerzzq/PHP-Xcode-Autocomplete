@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>jdtojewish ( &lt;#int $juliandaycount#&gt; );</string>
+	<string>jdtojewish(&lt;#int $juliandaycount#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5B274768-2550-44AD-9203-57C1365ACAD6</string>
 	<key>IDECodeSnippetLanguage</key>

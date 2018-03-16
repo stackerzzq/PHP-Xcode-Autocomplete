@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_keyok ( &lt;#int $keycode#&gt;, &lt;#bool $enable#&gt; );</string>
+	<string>ncurses_keyok(&lt;#int $keycode#&gt;, &lt;#bool $enable#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>854EFBE8-0BF4-4FD1-A730-E6B710151153</string>
 	<key>IDECodeSnippetLanguage</key>

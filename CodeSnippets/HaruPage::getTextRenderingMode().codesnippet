@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getTextRenderingMode (  );</string>
+	<string>HaruPage::getTextRenderingMode();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3ED03F93-26DC-445D-9D8E-A2652DF5D1C1</string>
 	<key>IDECodeSnippetLanguage</key>

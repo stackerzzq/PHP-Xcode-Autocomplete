@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_api_content ( &lt;#string $content#&gt;, &lt;#string $mimetype#&gt; );</string>
+	<string>hw_api_content(&lt;#string $content#&gt;, &lt;#string $mimetype#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>722AA54B-3749-427C-82F5-EB29A63B92C6</string>
 	<key>IDECodeSnippetLanguage</key>

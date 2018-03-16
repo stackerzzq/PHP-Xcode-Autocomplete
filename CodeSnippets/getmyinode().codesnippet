@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getmyinode (  );</string>
+	<string>getmyinode();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C07F8BCE-65C6-42BE-86E4-3D10A934F045</string>
 	<key>IDECodeSnippetLanguage</key>

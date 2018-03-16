@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_form_set_height ( &lt;#resource $form#&gt;, &lt;#int $height#&gt; );</string>
+	<string>newt_form_set_height(&lt;#resource $form#&gt;, &lt;#int $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>268BE0F8-40B8-4239-BCD5-A7953F178B22</string>
 	<key>IDECodeSnippetLanguage</key>

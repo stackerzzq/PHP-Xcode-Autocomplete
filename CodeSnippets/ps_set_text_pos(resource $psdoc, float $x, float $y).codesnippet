@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_set_text_pos ( &lt;#resource $psdoc#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>ps_set_text_pos(&lt;#resource $psdoc#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DD8E8D3C-6079-4D82-8FC2-D3811100010F</string>
 	<key>IDECodeSnippetLanguage</key>

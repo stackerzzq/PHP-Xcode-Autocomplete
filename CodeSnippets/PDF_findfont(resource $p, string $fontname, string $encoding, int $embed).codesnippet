@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_findfont ( &lt;#resource $p#&gt;, &lt;#string $fontname#&gt;, &lt;#string $encoding#&gt;, &lt;#int $embed#&gt; );</string>
+	<string>PDF_findfont(&lt;#resource $p#&gt;, &lt;#string $fontname#&gt;, &lt;#string $encoding#&gt;, &lt;#int $embed#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4F683A14-6052-4531-9272-E51BD952645A</string>
 	<key>IDECodeSnippetLanguage</key>

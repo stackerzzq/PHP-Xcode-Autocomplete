@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Memcache::getStats ( &lt;#string $type#&gt;, &lt;#int $slabid#&gt; );</string>
+	<string>Memcache::getStats(&lt;#string $type#&gt;, &lt;#int $slabid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F93B6164-D57D-48C9-99AA-9923FCFC44DB</string>
 	<key>IDECodeSnippetLanguage</key>

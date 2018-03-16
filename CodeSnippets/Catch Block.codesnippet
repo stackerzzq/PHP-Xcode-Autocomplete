@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>catch ( &lt;#exception#&gt; ) {
+	<string>catch(&lt;#exception#&gt;) {
 	&lt;#!handler!#&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>

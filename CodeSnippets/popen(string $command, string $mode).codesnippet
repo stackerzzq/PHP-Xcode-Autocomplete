@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>popen ( &lt;#string $command#&gt;, &lt;#string $mode#&gt; );</string>
+	<string>popen(&lt;#string $command#&gt;, &lt;#string $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>48F28338-B770-40C3-85CA-54CC0B5D883A</string>
 	<key>IDECodeSnippetLanguage</key>

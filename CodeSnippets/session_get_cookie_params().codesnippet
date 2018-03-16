@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_get_cookie_params (  );</string>
+	<string>session_get_cookie_params();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2A2060C1-F284-448D-94D2-D524674AA4E7</string>
 	<key>IDECodeSnippetLanguage</key>

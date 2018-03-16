@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hash_hmac_file ( &lt;#string $algo#&gt;, &lt;#string $filename#&gt;, &lt;#string $key#&gt; );</string>
+	<string>hash_hmac_file(&lt;#string $algo#&gt;, &lt;#string $filename#&gt;, &lt;#string $key#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B798499A-8DC2-488A-834F-318CBB49EEDA</string>
 	<key>IDECodeSnippetLanguage</key>

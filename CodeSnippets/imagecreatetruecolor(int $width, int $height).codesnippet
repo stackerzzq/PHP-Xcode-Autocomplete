@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagecreatetruecolor ( &lt;#int $width#&gt;, &lt;#int $height#&gt; );</string>
+	<string>imagecreatetruecolor(&lt;#int $width#&gt;, &lt;#int $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BA7E47E9-BCEA-45D2-8F42-5BE16A5D3AA7</string>
 	<key>IDECodeSnippetLanguage</key>

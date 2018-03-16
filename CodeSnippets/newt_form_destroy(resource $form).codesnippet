@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_form_destroy ( &lt;#resource $form#&gt; );</string>
+	<string>newt_form_destroy(&lt;#resource $form#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>72794E62-12AC-4A65-820C-AFC121ECCC7D</string>
 	<key>IDECodeSnippetLanguage</key>

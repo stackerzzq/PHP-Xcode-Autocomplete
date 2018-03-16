@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::eoFillStroke (  );</string>
+	<string>HaruPage::eoFillStroke();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8F2453C0-4889-44CF-8D75-BA83ECFA301A</string>
 	<key>IDECodeSnippetLanguage</key>

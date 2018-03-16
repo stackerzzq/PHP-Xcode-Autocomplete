@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sys_get_temp_dir (  );</string>
+	<string>sys_get_temp_dir();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5286AF1C-1795-4D19-A226-F7E05AE941A4</string>
 	<key>IDECodeSnippetLanguage</key>

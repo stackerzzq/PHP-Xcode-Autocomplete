@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_result_status ( &lt;#resource $result#&gt;, &lt;#int $type#&gt; );</string>
+	<string>pg_result_status(&lt;#resource $result#&gt;, &lt;#int $type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>021326FA-E0FF-4067-B8D4-B782491570A6</string>
 	<key>IDECodeSnippetLanguage</key>

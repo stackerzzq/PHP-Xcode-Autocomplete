@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_context_set_option ( &lt;#resource $stream_or_context#&gt;, &lt;#string $wrapper#&gt;, &lt;#string $option#&gt;, &lt;#mixed $value#&gt;, &lt;#resource $stream_or_context#&gt;, &lt;#array $options#&gt; );</string>
+	<string>stream_context_set_option(&lt;#resource $stream_or_context#&gt;, &lt;#string $wrapper#&gt;, &lt;#string $option#&gt;, &lt;#mixed $value#&gt;, &lt;#resource $stream_or_context#&gt;, &lt;#array $options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BD6248FB-9D5C-4343-AC17-A3F6C3942E34</string>
 	<key>IDECodeSnippetLanguage</key>

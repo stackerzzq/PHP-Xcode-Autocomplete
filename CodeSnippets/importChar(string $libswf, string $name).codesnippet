@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>importChar ( &lt;#string $libswf#&gt;, &lt;#string $name#&gt; );</string>
+	<string>importChar(&lt;#string $libswf#&gt;, &lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C1F9062B-0747-4EBD-95F9-209D04A8A19F</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mssql_num_rows ( &lt;#resource $result#&gt; );</string>
+	<string>mssql_num_rows(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0AE77049-336E-4C85-BEDC-DAF8727D8706</string>
 	<key>IDECodeSnippetLanguage</key>

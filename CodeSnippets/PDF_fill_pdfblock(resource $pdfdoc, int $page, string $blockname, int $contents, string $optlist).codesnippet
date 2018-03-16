@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_fill_pdfblock ( &lt;#resource $pdfdoc#&gt;, &lt;#int $page#&gt;, &lt;#string $blockname#&gt;, &lt;#int $contents#&gt;, &lt;#string $optlist#&gt; );</string>
+	<string>PDF_fill_pdfblock(&lt;#resource $pdfdoc#&gt;, &lt;#int $page#&gt;, &lt;#string $blockname#&gt;, &lt;#int $contents#&gt;, &lt;#string $optlist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CE100799-C1B1-4D46-AEE6-1A35007F8513</string>
 	<key>IDECodeSnippetLanguage</key>

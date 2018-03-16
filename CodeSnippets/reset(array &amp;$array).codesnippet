@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>reset ( &lt;#array &amp;$array#&gt; );</string>
+	<string>reset(&lt;#array &amp;$array#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>86B30E2D-96C4-41E9-B241-8B10A46BECF3</string>
 	<key>IDECodeSnippetLanguage</key>

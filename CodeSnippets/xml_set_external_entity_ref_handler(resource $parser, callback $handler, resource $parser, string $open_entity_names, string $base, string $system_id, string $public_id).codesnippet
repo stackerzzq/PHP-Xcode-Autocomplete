@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xml_set_external_entity_ref_handler ( &lt;#resource $parser#&gt;, &lt;#callback $handler#&gt;, &lt;#resource $parser#&gt;, &lt;#string $open_entity_names#&gt;, &lt;#string $base#&gt;, &lt;#string $system_id#&gt;, &lt;#string $public_id#&gt; );</string>
+	<string>xml_set_external_entity_ref_handler(&lt;#resource $parser#&gt;, &lt;#callback $handler#&gt;, &lt;#resource $parser#&gt;, &lt;#string $open_entity_names#&gt;, &lt;#string $base#&gt;, &lt;#string $system_id#&gt;, &lt;#string $public_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>422E019A-7BA5-49AB-88CE-2CFC34BEB60C</string>
 	<key>IDECodeSnippetLanguage</key>

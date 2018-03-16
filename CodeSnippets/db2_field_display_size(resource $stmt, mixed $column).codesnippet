@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_field_display_size ( &lt;#resource $stmt#&gt;, &lt;#mixed $column#&gt; );</string>
+	<string>db2_field_display_size(&lt;#resource $stmt#&gt;, &lt;#mixed $column#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EF92B866-739F-482C-898C-3038C3DA3788</string>
 	<key>IDECodeSnippetLanguage</key>

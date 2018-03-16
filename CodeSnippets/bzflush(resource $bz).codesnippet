@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bzflush ( &lt;#resource $bz#&gt; );</string>
+	<string>bzflush(&lt;#resource $bz#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7275ECF8-9F32-496A-A895-F58B686FE860</string>
 	<key>IDECodeSnippetLanguage</key>

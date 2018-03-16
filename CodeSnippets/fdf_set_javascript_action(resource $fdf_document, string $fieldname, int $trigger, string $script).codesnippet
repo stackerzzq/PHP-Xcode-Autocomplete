@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_set_javascript_action ( &lt;#resource $fdf_document#&gt;, &lt;#string $fieldname#&gt;, &lt;#int $trigger#&gt;, &lt;#string $script#&gt; );</string>
+	<string>fdf_set_javascript_action(&lt;#resource $fdf_document#&gt;, &lt;#string $fieldname#&gt;, &lt;#int $trigger#&gt;, &lt;#string $script#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA34DE09-C855-44BB-A726-4991699C3520</string>
 	<key>IDECodeSnippetLanguage</key>

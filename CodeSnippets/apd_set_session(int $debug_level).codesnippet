@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apd_set_session ( &lt;#int $debug_level#&gt; );</string>
+	<string>apd_set_session(&lt;#int $debug_level#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>845D1068-ED55-4606-A055-A4F360F4B74C</string>
 	<key>IDECodeSnippetLanguage</key>

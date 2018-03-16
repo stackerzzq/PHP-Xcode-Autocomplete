@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pspell_suggest ( &lt;#int $dictionary_link#&gt;, &lt;#string $word#&gt; );</string>
+	<string>pspell_suggest(&lt;#int $dictionary_link#&gt;, &lt;#string $word#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CEBDBC50-773D-46C8-A0E4-F3A3A9DB8CB9</string>
 	<key>IDECodeSnippetLanguage</key>

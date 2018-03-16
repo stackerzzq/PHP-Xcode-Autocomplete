@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::setOpenAction ( &lt;#object $destination#&gt; );</string>
+	<string>HaruDoc::setOpenAction(&lt;#object $destination#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F916DE05-8FE3-49B0-B135-BF9504EA0025</string>
 	<key>IDECodeSnippetLanguage</key>

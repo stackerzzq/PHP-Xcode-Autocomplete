@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xpath_register_ns_auto ( &lt;#XPathContext $xpath_context#&gt;, &lt;#object $context_node#&gt; );</string>
+	<string>xpath_register_ns_auto(&lt;#XPathContext $xpath_context#&gt;, &lt;#object $context_node#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F8493CFB-9E96-4D5C-9EAE-2EDA977F690D</string>
 	<key>IDECodeSnippetLanguage</key>

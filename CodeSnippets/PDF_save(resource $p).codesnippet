@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_save ( &lt;#resource $p#&gt; );</string>
+	<string>PDF_save(&lt;#resource $p#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>770CF3A3-3C77-4072-91DF-51518769A43E</string>
 	<key>IDECodeSnippetLanguage</key>

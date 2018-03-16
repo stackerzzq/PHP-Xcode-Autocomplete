@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagecolordeallocate ( &lt;#resource $image#&gt;, &lt;#int $color#&gt; );</string>
+	<string>imagecolordeallocate(&lt;#resource $image#&gt;, &lt;#int $color#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4D1DA6DB-3F34-47F3-9BB2-E5D7700C29F5</string>
 	<key>IDECodeSnippetLanguage</key>

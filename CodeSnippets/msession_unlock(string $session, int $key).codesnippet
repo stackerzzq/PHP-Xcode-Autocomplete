@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msession_unlock ( &lt;#string $session#&gt;, &lt;#int $key#&gt; );</string>
+	<string>msession_unlock(&lt;#string $session#&gt;, &lt;#int $key#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>62B93909-BDF8-4B53-B675-03211BA05643</string>
 	<key>IDECodeSnippetLanguage</key>

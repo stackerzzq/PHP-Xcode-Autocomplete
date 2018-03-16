@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_clrtobot (  );</string>
+	<string>ncurses_clrtobot();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>174EA1CE-5CF8-4D8A-87A5-78827D57BC1E</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysql_list_processes ( &lt;#resource $link_identifier#&gt; );</string>
+	<string>mysql_list_processes(&lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BD07B0E3-37F2-4D1A-B840-5FFE6CCFA9A8</string>
 	<key>IDECodeSnippetLanguage</key>

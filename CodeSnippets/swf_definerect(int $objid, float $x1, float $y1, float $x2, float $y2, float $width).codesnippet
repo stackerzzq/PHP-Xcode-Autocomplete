@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_definerect ( &lt;#int $objid#&gt;, &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $width#&gt; );</string>
+	<string>swf_definerect(&lt;#int $objid#&gt;, &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $width#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0F199B08-7778-407F-8789-32A34CFC20CA</string>
 	<key>IDECodeSnippetLanguage</key>

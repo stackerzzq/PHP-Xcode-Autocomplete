@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_lo_import ( &lt;#resource $connection#&gt;, &lt;#string $pathname#&gt;, &lt;#mixed $object_id#&gt;, &lt;#string $pathname#&gt;, &lt;#resource $connection#&gt; );</string>
+	<string>pg_lo_import(&lt;#resource $connection#&gt;, &lt;#string $pathname#&gt;, &lt;#mixed $object_id#&gt;, &lt;#string $pathname#&gt;, &lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1FE234C7-F615-46F7-BB29-7FDACD738056</string>
 	<key>IDECodeSnippetLanguage</key>

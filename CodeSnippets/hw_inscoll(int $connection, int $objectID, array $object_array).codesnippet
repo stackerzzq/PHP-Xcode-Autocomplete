@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_inscoll ( &lt;#int $connection#&gt;, &lt;#int $objectID#&gt;, &lt;#array $object_array#&gt; );</string>
+	<string>hw_inscoll(&lt;#int $connection#&gt;, &lt;#int $objectID#&gt;, &lt;#array $object_array#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2C73A7ED-D7AB-489F-AA43-25CECD874B12</string>
 	<key>IDECodeSnippetLanguage</key>

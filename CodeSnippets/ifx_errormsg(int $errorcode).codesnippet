@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_errormsg ( &lt;#int $errorcode#&gt; );</string>
+	<string>ifx_errormsg(&lt;#int $errorcode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8921D0AC-98B3-4351-923D-DA5B563F720C</string>
 	<key>IDECodeSnippetLanguage</key>

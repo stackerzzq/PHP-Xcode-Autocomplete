@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sybase_query ( &lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt; );</string>
+	<string>sybase_query(&lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2432903C-1054-4B2E-A011-025AB4AA4E34</string>
 	<key>IDECodeSnippetLanguage</key>

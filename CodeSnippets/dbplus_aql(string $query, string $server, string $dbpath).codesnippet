@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_aql ( &lt;#string $query#&gt;, &lt;#string $server#&gt;, &lt;#string $dbpath#&gt; );</string>
+	<string>dbplus_aql(&lt;#string $query#&gt;, &lt;#string $server#&gt;, &lt;#string $dbpath#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6E8DC95D-E75D-4F4C-8A49-3FF1DCC5F4A9</string>
 	<key>IDECodeSnippetLanguage</key>

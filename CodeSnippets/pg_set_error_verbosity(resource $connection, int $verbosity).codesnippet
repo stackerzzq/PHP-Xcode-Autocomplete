@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_set_error_verbosity ( &lt;#resource $connection#&gt;, &lt;#int $verbosity#&gt; );</string>
+	<string>pg_set_error_verbosity(&lt;#resource $connection#&gt;, &lt;#int $verbosity#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>14617AB5-7D3D-4D01-9FD9-DEA27133E201</string>
 	<key>IDECodeSnippetLanguage</key>

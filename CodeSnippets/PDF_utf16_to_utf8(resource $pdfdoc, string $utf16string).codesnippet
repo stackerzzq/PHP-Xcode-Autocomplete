@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_utf16_to_utf8 ( &lt;#resource $pdfdoc#&gt;, &lt;#string $utf16string#&gt; );</string>
+	<string>PDF_utf16_to_utf8(&lt;#resource $pdfdoc#&gt;, &lt;#string $utf16string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>55B0509E-4D23-4088-BC1D-B7D3913169B4</string>
 	<key>IDECodeSnippetLanguage</key>

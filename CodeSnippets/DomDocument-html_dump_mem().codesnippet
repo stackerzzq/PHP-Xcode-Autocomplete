@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomDocument-&gt;html_dump_mem (  );</string>
+	<string>DomDocument-&gt;html_dump_mem();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>96EF2CD1-AF1B-4FFE-B029-786BE4631131</string>
 	<key>IDECodeSnippetLanguage</key>

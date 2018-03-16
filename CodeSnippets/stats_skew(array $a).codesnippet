@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_skew ( &lt;#array $a#&gt; );</string>
+	<string>stats_skew(&lt;#array $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BD4871D8-F7D4-463A-9AE2-9E15B2FAC4BC</string>
 	<key>IDECodeSnippetLanguage</key>

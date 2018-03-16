@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>inotify_rm_watch ( &lt;#resource $inotify_instance#&gt;, &lt;#int $watch_descriptor#&gt; );</string>
+	<string>inotify_rm_watch(&lt;#resource $inotify_instance#&gt;, &lt;#int $watch_descriptor#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4F0CD55F-4DB5-4D8E-8EAC-8B91E1D896F6</string>
 	<key>IDECodeSnippetLanguage</key>

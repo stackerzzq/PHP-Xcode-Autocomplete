@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_rand_gen_beta ( &lt;#float $a#&gt;, &lt;#float $b#&gt; );</string>
+	<string>stats_rand_gen_beta(&lt;#float $a#&gt;, &lt;#float $b#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A3BF9787-E1A2-48A1-BB7C-683960007385</string>
 	<key>IDECodeSnippetLanguage</key>

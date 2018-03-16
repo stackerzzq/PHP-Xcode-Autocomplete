@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dcstat ( &lt;#array $parameter#&gt; );</string>
+	<string>dcstat(&lt;#array $parameter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4F23D1BB-CA68-42D4-BB22-19C889AFEA64</string>
 	<key>IDECodeSnippetLanguage</key>

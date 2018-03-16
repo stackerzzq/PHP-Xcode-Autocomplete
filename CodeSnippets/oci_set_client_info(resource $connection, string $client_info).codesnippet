@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_set_client_info ( &lt;#resource $connection#&gt;, &lt;#string $client_info#&gt; );</string>
+	<string>oci_set_client_info(&lt;#resource $connection#&gt;, &lt;#string $client_info#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CCE9B416-1EA9-474A-96A1-BD4611EF04CA</string>
 	<key>IDECodeSnippetLanguage</key>

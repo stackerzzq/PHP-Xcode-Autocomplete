@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_newwin ( &lt;#int $rows#&gt;, &lt;#int $cols#&gt;, &lt;#int $y#&gt;, &lt;#int $x#&gt; );</string>
+	<string>ncurses_newwin(&lt;#int $rows#&gt;, &lt;#int $cols#&gt;, &lt;#int $y#&gt;, &lt;#int $x#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2D15FFFA-DF31-45C5-B925-0A65E57265AC</string>
 	<key>IDECodeSnippetLanguage</key>

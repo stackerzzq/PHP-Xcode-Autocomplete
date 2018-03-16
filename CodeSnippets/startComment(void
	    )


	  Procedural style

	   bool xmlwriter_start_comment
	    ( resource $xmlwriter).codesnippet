@@ -16,7 +16,7 @@
 	  Procedural style
 
 	   bool xmlwriter_start_comment
-	    ( resource $xmlwriter#&gt; );</string>
+	   (resource $xmlwriter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0EC7B8DD-BB83-428E-B2CD-97FE139E1885</string>
 	<key>IDECodeSnippetLanguage</key>

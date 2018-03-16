@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mailparse_msg_create (  );</string>
+	<string>mailparse_msg_create();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A8DCB497-2C9C-405A-AB28-BA4E0CC3E1FC</string>
 	<key>IDECodeSnippetLanguage</key>

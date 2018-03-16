@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagegrabwindow ( &lt;#int $window_handle#&gt; );</string>
+	<string>imagegrabwindow(&lt;#int $window_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2D9F914E-3158-4051-8771-F163717D59E9</string>
 	<key>IDECodeSnippetLanguage</key>

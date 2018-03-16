@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_font_options_set_antialias ( &lt;#CairoFontOptions $options#&gt;, &lt;#string $antialias#&gt; );</string>
+	<string>cairo_font_options_set_antialias(&lt;#CairoFontOptions $options#&gt;, &lt;#string $antialias#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>658FAB35-63A4-4C2F-829D-040A6AB96F1C</string>
 	<key>IDECodeSnippetLanguage</key>

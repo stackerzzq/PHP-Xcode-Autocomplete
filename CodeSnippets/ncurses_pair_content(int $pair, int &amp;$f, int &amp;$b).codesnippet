@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_pair_content ( &lt;#int $pair#&gt;, &lt;#int &amp;$f#&gt;, &lt;#int &amp;$b#&gt; );</string>
+	<string>ncurses_pair_content(&lt;#int $pair#&gt;, &lt;#int &amp;$f#&gt;, &lt;#int &amp;$b#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C1B0CFA2-29F5-4C11-8C12-A370EFE0F71E</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_setdropfile ( &lt;#resource $conn#&gt;, &lt;#string $directory#&gt; );</string>
+	<string>m_setdropfile(&lt;#resource $conn#&gt;, &lt;#string $directory#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>22408000-A094-49DE-BF97-6CB79EA88970</string>
 	<key>IDECodeSnippetLanguage</key>

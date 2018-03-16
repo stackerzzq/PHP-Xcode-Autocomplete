@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>defined ( &lt;#string $name#&gt; );</string>
+	<string>defined(&lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2A3A03DA-AD8E-4C5F-80E6-44FF67B47167</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_responsekeys ( &lt;#resource $conn#&gt;, &lt;#int $identifier#&gt; );</string>
+	<string>m_responsekeys(&lt;#resource $conn#&gt;, &lt;#int $identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DC873947-15D9-4D8D-845D-2AFC97C32864</string>
 	<key>IDECodeSnippetLanguage</key>

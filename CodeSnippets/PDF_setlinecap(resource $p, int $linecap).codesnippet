@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_setlinecap ( &lt;#resource $p#&gt;, &lt;#int $linecap#&gt; );</string>
+	<string>PDF_setlinecap(&lt;#resource $p#&gt;, &lt;#int $linecap#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>233100FD-5BDD-4AF7-8009-203F9DA86786</string>
 	<key>IDECodeSnippetLanguage</key>

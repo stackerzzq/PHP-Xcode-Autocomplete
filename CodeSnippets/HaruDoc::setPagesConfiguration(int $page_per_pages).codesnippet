@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::setPagesConfiguration ( &lt;#int $page_per_pages#&gt; );</string>
+	<string>HaruDoc::setPagesConfiguration(&lt;#int $page_per_pages#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D9118D18-9062-4436-95B3-CE5B016A5024</string>
 	<key>IDECodeSnippetLanguage</key>

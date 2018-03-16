@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_mulcolor ( &lt;#float $r#&gt;, &lt;#float $g#&gt;, &lt;#float $b#&gt;, &lt;#float $a#&gt; );</string>
+	<string>swf_mulcolor(&lt;#float $r#&gt;, &lt;#float $g#&gt;, &lt;#float $b#&gt;, &lt;#float $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>41ABD738-35F2-430E-B153-6586F54067F8</string>
 	<key>IDECodeSnippetLanguage</key>

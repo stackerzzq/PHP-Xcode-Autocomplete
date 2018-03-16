@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ssh2_tunnel ( &lt;#resource $session#&gt;, &lt;#string $host#&gt;, &lt;#int $port#&gt; );</string>
+	<string>ssh2_tunnel(&lt;#resource $session#&gt;, &lt;#string $host#&gt;, &lt;#int $port#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>40D95713-32CB-4471-AD8E-8511BFEEC664</string>
 	<key>IDECodeSnippetLanguage</key>

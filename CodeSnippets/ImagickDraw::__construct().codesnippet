@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::__construct (  );</string>
+	<string>ImagickDraw::__construct();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C1CF7131-1E84-4412-8935-BE600CF5C06D</string>
 	<key>IDECodeSnippetLanguage</key>

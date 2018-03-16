@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_search ( &lt;#mixed $needle#&gt;, &lt;#array $haystack#&gt;, &lt;#bool $strict#&gt; );</string>
+	<string>array_search(&lt;#mixed $needle#&gt;, &lt;#array $haystack#&gt;, &lt;#bool $strict#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5E758B32-FD29-4907-BFFA-26BB8D73909E</string>
 	<key>IDECodeSnippetLanguage</key>

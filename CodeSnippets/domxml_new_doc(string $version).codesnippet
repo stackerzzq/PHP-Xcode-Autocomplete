@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>domxml_new_doc ( &lt;#string $version#&gt; );</string>
+	<string>domxml_new_doc(&lt;#string $version#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E2BC9D44-2807-404B-AB27-D0731C843D2F</string>
 	<key>IDECodeSnippetLanguage</key>

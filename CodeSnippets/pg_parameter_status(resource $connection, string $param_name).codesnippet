@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_parameter_status ( &lt;#resource $connection#&gt;, &lt;#string $param_name#&gt; );</string>
+	<string>pg_parameter_status(&lt;#resource $connection#&gt;, &lt;#string $param_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CE0D87A2-1C71-4042-837E-18BC8FA1A1DC</string>
 	<key>IDECodeSnippetLanguage</key>

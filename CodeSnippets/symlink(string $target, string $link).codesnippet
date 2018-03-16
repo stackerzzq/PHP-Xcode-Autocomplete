@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>symlink ( &lt;#string $target#&gt;, &lt;#string $link#&gt; );</string>
+	<string>symlink(&lt;#string $target#&gt;, &lt;#string $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7EB366AA-A2AF-4172-AD3C-23FF42E0EF71</string>
 	<key>IDECodeSnippetLanguage</key>

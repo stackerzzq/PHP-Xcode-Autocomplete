@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_setoverprintmode ( &lt;#resource $psdoc#&gt;, &lt;#int $mode#&gt; );</string>
+	<string>ps_setoverprintmode(&lt;#resource $psdoc#&gt;, &lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5069D8F6-422E-4570-B416-7EFF61CE911F</string>
 	<key>IDECodeSnippetLanguage</key>

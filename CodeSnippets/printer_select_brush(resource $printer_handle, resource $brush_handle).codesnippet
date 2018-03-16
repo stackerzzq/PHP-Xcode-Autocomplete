@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_select_brush ( &lt;#resource $printer_handle#&gt;, &lt;#resource $brush_handle#&gt; );</string>
+	<string>printer_select_brush(&lt;#resource $printer_handle#&gt;, &lt;#resource $brush_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>01C5FD17-8945-4B00-8735-6AB010BBFD5B</string>
 	<key>IDECodeSnippetLanguage</key>

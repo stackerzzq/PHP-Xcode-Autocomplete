@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>langdepvalue ( &lt;#string $language#&gt; );</string>
+	<string>langdepvalue(&lt;#string $language#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5F86672E-2980-4859-ABEA-19CB2BF4905B</string>
 	<key>IDECodeSnippetLanguage</key>

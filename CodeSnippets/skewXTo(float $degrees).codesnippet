@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>skewXTo ( &lt;#float $degrees#&gt; );</string>
+	<string>skewXTo(&lt;#float $degrees#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9B9CA249-EA3A-46DC-85CB-D3072D46F057</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_table_privileges ( &lt;#resource $connection#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $schema#&gt;, &lt;#string $table_name#&gt; );</string>
+	<string>db2_table_privileges(&lt;#resource $connection#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $schema#&gt;, &lt;#string $table_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>922161A5-2ABD-48C8-A401-B3A51CE44D81</string>
 	<key>IDECodeSnippetLanguage</key>

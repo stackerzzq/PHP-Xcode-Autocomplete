@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>json_decode ( &lt;#string $json#&gt; );</string>
+	<string>json_decode(&lt;#string $json#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8C9ABC07-99E7-4B9A-94B8-946EF25B9BB1</string>
 	<key>IDECodeSnippetLanguage</key>

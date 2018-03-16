@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gzfile ( &lt;#string $filename#&gt; );</string>
+	<string>gzfile(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>45FD0B2A-11EA-410A-8684-B1A8ED408DF1</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruOutline::setDestination ( &lt;#object $destination#&gt; );</string>
+	<string>HaruOutline::setDestination(&lt;#object $destination#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C1272F73-F070-45B1-9A09-A12E5108CFF1</string>
 	<key>IDECodeSnippetLanguage</key>

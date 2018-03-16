@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_Setting::getListIndex (  );</string>
+	<string>SDO_DAS_Setting::getListIndex();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC493208-E721-46F9-A316-CCC76645B40C</string>
 	<key>IDECodeSnippetLanguage</key>

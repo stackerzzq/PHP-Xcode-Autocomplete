@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::curveTo2 ( &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $x3#&gt;, &lt;#float $y3#&gt; );</string>
+	<string>HaruPage::curveTo2(&lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $x3#&gt;, &lt;#float $y3#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B47FB661-3CF8-4541-9B98-46965B735DC9</string>
 	<key>IDECodeSnippetLanguage</key>

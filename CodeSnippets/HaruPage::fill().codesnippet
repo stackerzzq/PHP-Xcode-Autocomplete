@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::fill (  );</string>
+	<string>HaruPage::fill();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3813CC5E-698D-4AE0-986A-0AEB7EF223A2</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpMessage::reverse (  );</string>
+	<string>HttpMessage::reverse();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5938A305-2C4C-46BE-8E8A-C0B41D4763D9</string>
 	<key>IDECodeSnippetLanguage</key>

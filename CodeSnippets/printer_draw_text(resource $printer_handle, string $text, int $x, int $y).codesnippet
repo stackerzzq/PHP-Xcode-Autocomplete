@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_draw_text ( &lt;#resource $printer_handle#&gt;, &lt;#string $text#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt; );</string>
+	<string>printer_draw_text(&lt;#resource $printer_handle#&gt;, &lt;#string $text#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>32F4E416-D629-4A09-AF47-D4939AF3CE1D</string>
 	<key>IDECodeSnippetLanguage</key>

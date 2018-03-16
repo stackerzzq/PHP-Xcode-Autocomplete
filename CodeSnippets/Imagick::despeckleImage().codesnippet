@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::despeckleImage (  );</string>
+	<string>Imagick::despeckleImage();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA4D9ECE-3A10-4DA7-9E1F-6E5974C2BD86</string>
 	<key>IDECodeSnippetLanguage</key>

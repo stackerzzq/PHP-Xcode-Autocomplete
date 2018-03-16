@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_setgray ( &lt;#resource $psdoc#&gt;, &lt;#float $gray#&gt; );</string>
+	<string>ps_setgray(&lt;#resource $psdoc#&gt;, &lt;#float $gray#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>070CF20C-0F05-4CD6-9330-316222E7BA80</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getHeight (  );</string>
+	<string>getHeight();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DB7EFF63-09E0-4BC7-8773-CB7AFD4A87BC</string>
 	<key>IDECodeSnippetLanguage</key>

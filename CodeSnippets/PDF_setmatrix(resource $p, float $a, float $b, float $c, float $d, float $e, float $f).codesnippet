@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_setmatrix ( &lt;#resource $p#&gt;, &lt;#float $a#&gt;, &lt;#float $b#&gt;, &lt;#float $c#&gt;, &lt;#float $d#&gt;, &lt;#float $e#&gt;, &lt;#float $f#&gt; );</string>
+	<string>PDF_setmatrix(&lt;#resource $p#&gt;, &lt;#float $a#&gt;, &lt;#float $b#&gt;, &lt;#float $c#&gt;, &lt;#float $d#&gt;, &lt;#float $e#&gt;, &lt;#float $f#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3DE41242-D2A9-44E2-908C-7280CEA029F9</string>
 	<key>IDECodeSnippetLanguage</key>

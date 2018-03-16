@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_rfc822_parse_headers ( &lt;#string $headers#&gt; );</string>
+	<string>imap_rfc822_parse_headers(&lt;#string $headers#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F07240A8-FEB3-4B53-B808-5C333F9480B0</string>
 	<key>IDECodeSnippetLanguage</key>

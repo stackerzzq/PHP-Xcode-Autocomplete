@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_symbol_name ( &lt;#resource $psdoc#&gt;, &lt;#int $ord#&gt; );</string>
+	<string>ps_symbol_name(&lt;#resource $psdoc#&gt;, &lt;#int $ord#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6EEB1C0B-D170-46FB-972F-ECCC18A4616F</string>
 	<key>IDECodeSnippetLanguage</key>

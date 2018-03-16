@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>shmop_open ( &lt;#int $key#&gt;, &lt;#string $flags#&gt;, &lt;#int $mode#&gt;, &lt;#int $size#&gt; );</string>
+	<string>shmop_open(&lt;#int $key#&gt;, &lt;#string $flags#&gt;, &lt;#int $mode#&gt;, &lt;#int $size#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>98C6EFE0-515D-4727-86CF-41F21925391C</string>
 	<key>IDECodeSnippetLanguage</key>

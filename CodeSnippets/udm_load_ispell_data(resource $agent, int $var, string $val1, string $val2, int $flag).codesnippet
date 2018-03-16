@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_load_ispell_data ( &lt;#resource $agent#&gt;, &lt;#int $var#&gt;, &lt;#string $val1#&gt;, &lt;#string $val2#&gt;, &lt;#int $flag#&gt; );</string>
+	<string>udm_load_ispell_data(&lt;#resource $agent#&gt;, &lt;#int $var#&gt;, &lt;#string $val1#&gt;, &lt;#string $val2#&gt;, &lt;#int $flag#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F764D07D-6A15-4929-B5A7-809BA18B1A21</string>
 	<key>IDECodeSnippetLanguage</key>

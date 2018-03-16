@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_lo_write ( &lt;#resource $large_object#&gt;, &lt;#string $data#&gt;, &lt;#int $len#&gt; );</string>
+	<string>pg_lo_write(&lt;#resource $large_object#&gt;, &lt;#string $data#&gt;, &lt;#int $len#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>44567DC1-3856-438C-A1E8-B99D247F3562</string>
 	<key>IDECodeSnippetLanguage</key>

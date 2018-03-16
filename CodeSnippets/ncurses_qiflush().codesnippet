@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_qiflush (  );</string>
+	<string>ncurses_qiflush();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A1AA9E08-35B4-4C68-AAED-E7DCB56613F7</string>
 	<key>IDECodeSnippetLanguage</key>

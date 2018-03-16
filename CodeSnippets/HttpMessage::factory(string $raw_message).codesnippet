@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpMessage::factory ( &lt;#string $raw_message#&gt; );</string>
+	<string>HttpMessage::factory(&lt;#string $raw_message#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A3724EFA-73B6-4FF8-B246-942FC38D0FF7</string>
 	<key>IDECodeSnippetLanguage</key>

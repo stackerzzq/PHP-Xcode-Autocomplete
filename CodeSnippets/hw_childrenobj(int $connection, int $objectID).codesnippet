@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_childrenobj ( &lt;#int $connection#&gt;, &lt;#int $objectID#&gt; );</string>
+	<string>hw_childrenobj(&lt;#int $connection#&gt;, &lt;#int $objectID#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E224C601-EAD2-431F-8A65-A59220FBFD03</string>
 	<key>IDECodeSnippetLanguage</key>

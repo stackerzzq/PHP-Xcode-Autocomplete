@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_query_params ( &lt;#resource $connection#&gt;, &lt;#string $query#&gt;, &lt;#array $params#&gt; );</string>
+	<string>pg_query_params(&lt;#resource $connection#&gt;, &lt;#string $query#&gt;, &lt;#array $params#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C98367E3-CA95-49CE-A1BB-E0D40DDEC44D</string>
 	<key>IDECodeSnippetLanguage</key>

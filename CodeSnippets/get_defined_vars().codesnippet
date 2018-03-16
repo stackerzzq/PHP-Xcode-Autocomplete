@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_defined_vars (  );</string>
+	<string>get_defined_vars();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7C1BF571-62C0-45A1-BC9F-8542E8EAD907</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruImage::getBitsPerComponent (  );</string>
+	<string>HaruImage::getBitsPerComponent();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D653E663-DF38-4A90-8FF7-D3B4D1F87BC3</string>
 	<key>IDECodeSnippetLanguage</key>

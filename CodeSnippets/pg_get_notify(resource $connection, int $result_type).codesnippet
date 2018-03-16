@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_get_notify ( &lt;#resource $connection#&gt;, &lt;#int $result_type#&gt; );</string>
+	<string>pg_get_notify(&lt;#resource $connection#&gt;, &lt;#int $result_type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>13E18F48-B256-4865-BCC4-C65108151C80</string>
 	<key>IDECodeSnippetLanguage</key>

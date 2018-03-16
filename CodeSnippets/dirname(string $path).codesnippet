@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dirname ( &lt;#string $path#&gt; );</string>
+	<string>dirname(&lt;#string $path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6F707000-B0E7-4478-B242-F18BAF2A1924</string>
 	<key>IDECodeSnippetLanguage</key>

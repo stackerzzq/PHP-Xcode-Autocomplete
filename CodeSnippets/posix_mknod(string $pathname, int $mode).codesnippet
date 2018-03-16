@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_mknod ( &lt;#string $pathname#&gt;, &lt;#int $mode#&gt; );</string>
+	<string>posix_mknod(&lt;#string $pathname#&gt;, &lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5A05155F-3303-4CF6-9A4E-47CAFC43F957</string>
 	<key>IDECodeSnippetLanguage</key>

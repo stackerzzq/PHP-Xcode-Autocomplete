@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_shapelinesolid ( &lt;#float $r#&gt;, &lt;#float $g#&gt;, &lt;#float $b#&gt;, &lt;#float $a#&gt;, &lt;#float $width#&gt; );</string>
+	<string>swf_shapelinesolid(&lt;#float $r#&gt;, &lt;#float $g#&gt;, &lt;#float $b#&gt;, &lt;#float $a#&gt;, &lt;#float $width#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0F95FF98-390F-4F94-AEC5-82921706473B</string>
 	<key>IDECodeSnippetLanguage</key>

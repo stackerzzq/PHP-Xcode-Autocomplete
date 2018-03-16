@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_lo_open ( &lt;#resource $connection#&gt;, &lt;#int $oid#&gt;, &lt;#string $mode#&gt; );</string>
+	<string>pg_lo_open(&lt;#resource $connection#&gt;, &lt;#int $oid#&gt;, &lt;#string $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>53F4FEF0-BDD9-4FB2-8004-3234EC0BB706</string>
 	<key>IDECodeSnippetLanguage</key>

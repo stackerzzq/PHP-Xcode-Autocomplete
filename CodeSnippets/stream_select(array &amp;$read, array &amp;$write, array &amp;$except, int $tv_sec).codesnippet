@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_select ( &lt;#array &amp;$read#&gt;, &lt;#array &amp;$write#&gt;, &lt;#array &amp;$except#&gt;, &lt;#int $tv_sec#&gt; );</string>
+	<string>stream_select(&lt;#array &amp;$read#&gt;, &lt;#array &amp;$write#&gt;, &lt;#array &amp;$except#&gt;, &lt;#int $tv_sec#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D7D2F2BB-132A-45A8-ACA6-C6DFB7D39691</string>
 	<key>IDECodeSnippetLanguage</key>

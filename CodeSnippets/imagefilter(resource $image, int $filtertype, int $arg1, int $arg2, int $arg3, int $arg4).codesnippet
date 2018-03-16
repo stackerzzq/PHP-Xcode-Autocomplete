@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagefilter ( &lt;#resource $image#&gt;, &lt;#int $filtertype#&gt;, &lt;#int $arg1#&gt;, &lt;#int $arg2#&gt;, &lt;#int $arg3#&gt;, &lt;#int $arg4#&gt; );</string>
+	<string>imagefilter(&lt;#resource $image#&gt;, &lt;#int $filtertype#&gt;, &lt;#int $arg1#&gt;, &lt;#int $arg2#&gt;, &lt;#int $arg3#&gt;, &lt;#int $arg4#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>620B23ED-3CA6-4BB3-8BAD-2B9FC8044E84</string>
 	<key>IDECodeSnippetLanguage</key>

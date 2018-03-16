@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bcdiv ( &lt;#string $left_operand#&gt;, &lt;#string $right_operand#&gt;, &lt;#int $scale#&gt; );</string>
+	<string>bcdiv(&lt;#string $left_operand#&gt;, &lt;#string $right_operand#&gt;, &lt;#int $scale#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B80FE4DD-B739-4753-BEE9-00B8C458F3BE</string>
 	<key>IDECodeSnippetLanguage</key>

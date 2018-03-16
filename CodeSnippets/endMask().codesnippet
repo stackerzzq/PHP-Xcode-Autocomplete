@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>endMask (  );</string>
+	<string>endMask();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EEE93B25-3E07-4433-94B0-26DB1468AA0E</string>
 	<key>IDECodeSnippetLanguage</key>

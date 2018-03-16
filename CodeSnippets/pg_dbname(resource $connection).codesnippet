@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_dbname ( &lt;#resource $connection#&gt; );</string>
+	<string>pg_dbname(&lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C44FC052-4D57-443C-97B6-FC0774614BCD</string>
 	<key>IDECodeSnippetLanguage</key>

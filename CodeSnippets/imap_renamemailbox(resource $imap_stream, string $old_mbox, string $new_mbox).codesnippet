@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_renamemailbox ( &lt;#resource $imap_stream#&gt;, &lt;#string $old_mbox#&gt;, &lt;#string $new_mbox#&gt; );</string>
+	<string>imap_renamemailbox(&lt;#resource $imap_stream#&gt;, &lt;#string $old_mbox#&gt;, &lt;#string $new_mbox#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A0DC44A3-C59F-457F-B859-56DBFDE03A4F</string>
 	<key>IDECodeSnippetLanguage</key>

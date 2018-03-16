@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>soundex ( &lt;#string $str#&gt; );</string>
+	<string>soundex(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9F20DE3A-75E9-456E-837C-967D2EEB9D70</string>
 	<key>IDECodeSnippetLanguage</key>

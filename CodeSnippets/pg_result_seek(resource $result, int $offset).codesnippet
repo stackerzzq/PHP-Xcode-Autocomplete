@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_result_seek ( &lt;#resource $result#&gt;, &lt;#int $offset#&gt; );</string>
+	<string>pg_result_seek(&lt;#resource $result#&gt;, &lt;#int $offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FB3D4907-A538-4F89-9CF0-7CD5672220D6</string>
 	<key>IDECodeSnippetLanguage</key>

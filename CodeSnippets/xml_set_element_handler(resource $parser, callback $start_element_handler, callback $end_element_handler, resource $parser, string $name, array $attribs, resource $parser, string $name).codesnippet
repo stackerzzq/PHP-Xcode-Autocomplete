@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xml_set_element_handler ( &lt;#resource $parser#&gt;, &lt;#callback $start_element_handler#&gt;, &lt;#callback $end_element_handler#&gt;, &lt;#resource $parser#&gt;, &lt;#string $name#&gt;, &lt;#array $attribs#&gt;, &lt;#resource $parser#&gt;, &lt;#string $name#&gt; );</string>
+	<string>xml_set_element_handler(&lt;#resource $parser#&gt;, &lt;#callback $start_element_handler#&gt;, &lt;#callback $end_element_handler#&gt;, &lt;#resource $parser#&gt;, &lt;#string $name#&gt;, &lt;#array $attribs#&gt;, &lt;#resource $parser#&gt;, &lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CA783451-5D3B-46F6-8F90-5927FEAB4545</string>
 	<key>IDECodeSnippetLanguage</key>

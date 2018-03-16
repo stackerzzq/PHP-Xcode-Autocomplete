@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>odbc_foreignkeys ( &lt;#resource $connection_id#&gt;, &lt;#string $pk_qualifier#&gt;, &lt;#string $pk_owner#&gt;, &lt;#string $pk_table#&gt;, &lt;#string $fk_qualifier#&gt;, &lt;#string $fk_owner#&gt;, &lt;#string $fk_table#&gt; );</string>
+	<string>odbc_foreignkeys(&lt;#resource $connection_id#&gt;, &lt;#string $pk_qualifier#&gt;, &lt;#string $pk_owner#&gt;, &lt;#string $pk_table#&gt;, &lt;#string $fk_qualifier#&gt;, &lt;#string $fk_owner#&gt;, &lt;#string $fk_table#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0355E3AF-3EAD-4CE0-B302-5D535E5DBC31</string>
 	<key>IDECodeSnippetLanguage</key>

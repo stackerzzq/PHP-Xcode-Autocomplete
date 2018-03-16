@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_next ( &lt;#resource $relation#&gt;, &lt;#array &amp;$tuple#&gt; );</string>
+	<string>dbplus_next(&lt;#resource $relation#&gt;, &lt;#array &amp;$tuple#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>75D90334-ACA7-4596-9D0F-4F651EF28B0F</string>
 	<key>IDECodeSnippetLanguage</key>

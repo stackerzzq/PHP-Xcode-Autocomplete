@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mcrypt_ofb ( &lt;#int $cipher#&gt;, &lt;#string $key#&gt;, &lt;#string $data#&gt;, &lt;#int $mode#&gt;, &lt;#string $iv#&gt;, &lt;#string $cipher#&gt;, &lt;#string $key#&gt;, &lt;#string $data#&gt;, &lt;#int $mode#&gt;, &lt;#string $iv#&gt; );</string>
+	<string>mcrypt_ofb(&lt;#int $cipher#&gt;, &lt;#string $key#&gt;, &lt;#string $data#&gt;, &lt;#int $mode#&gt;, &lt;#string $iv#&gt;, &lt;#string $cipher#&gt;, &lt;#string $key#&gt;, &lt;#string $data#&gt;, &lt;#int $mode#&gt;, &lt;#string $iv#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>476FEA3E-0633-497E-8529-717134376A48</string>
 	<key>IDECodeSnippetLanguage</key>

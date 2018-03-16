@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_listbox_clear_selection ( &lt;#resource $listbox#&gt; );</string>
+	<string>newt_listbox_clear_selection(&lt;#resource $listbox#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>61AEF213-6938-47B3-AA03-6839F18ED4ED</string>
 	<key>IDECodeSnippetLanguage</key>

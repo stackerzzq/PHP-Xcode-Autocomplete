@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>is_link ( &lt;#string $filename#&gt; );</string>
+	<string>is_link(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>55CE6FAB-6FD8-462C-A113-BB8A5DA173BF</string>
 	<key>IDECodeSnippetLanguage</key>

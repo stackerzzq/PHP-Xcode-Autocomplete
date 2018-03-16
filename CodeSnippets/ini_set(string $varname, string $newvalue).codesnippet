@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ini_set ( &lt;#string $varname#&gt;, &lt;#string $newvalue#&gt; );</string>
+	<string>ini_set(&lt;#string $varname#&gt;, &lt;#string $newvalue#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>28DC5C5E-6402-41C6-AAA9-482E16DED5E4</string>
 	<key>IDECodeSnippetLanguage</key>

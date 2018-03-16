@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yp_order ( &lt;#string $domain#&gt;, &lt;#string $map#&gt; );</string>
+	<string>yp_order(&lt;#string $domain#&gt;, &lt;#string $map#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B609CD89-4776-481D-BECC-F562CBCB50D3</string>
 	<key>IDECodeSnippetLanguage</key>

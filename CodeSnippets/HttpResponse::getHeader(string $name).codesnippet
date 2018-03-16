@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpResponse::getHeader ( &lt;#string $name#&gt; );</string>
+	<string>HttpResponse::getHeader(&lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D9A5DDB9-441A-4D66-8115-42BDB184E3AB</string>
 	<key>IDECodeSnippetLanguage</key>

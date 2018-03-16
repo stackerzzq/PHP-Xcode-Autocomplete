@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>notes_list_msgs ( &lt;#string $db#&gt; );</string>
+	<string>notes_list_msgs(&lt;#string $db#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AF7E1F0E-E6FD-449F-93FE-0418BA91EF4E</string>
 	<key>IDECodeSnippetLanguage</key>

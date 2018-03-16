@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_embedded_connect ( &lt;#string $dbname#&gt; );</string>
+	<string>maxdb_embedded_connect(&lt;#string $dbname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AB98DFE7-015D-4AD6-BEE6-34AC8C98C372</string>
 	<key>IDECodeSnippetLanguage</key>

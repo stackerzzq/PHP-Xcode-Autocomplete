@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_dens_laplace ( &lt;#float $x#&gt;, &lt;#float $ave#&gt;, &lt;#float $stdev#&gt; );</string>
+	<string>stats_dens_laplace(&lt;#float $x#&gt;, &lt;#float $ave#&gt;, &lt;#float $stdev#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FF4A68A7-3286-4A37-95F1-5E989C93E475</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_pattern_create_rgb ( &lt;#float $red#&gt;, &lt;#float $green#&gt;, &lt;#float $blue#&gt; );</string>
+	<string>cairo_pattern_create_rgb(&lt;#float $red#&gt;, &lt;#float $green#&gt;, &lt;#float $blue#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B262AC77-E3C9-429C-9FB5-C0199A81DE62</string>
 	<key>IDECodeSnippetLanguage</key>

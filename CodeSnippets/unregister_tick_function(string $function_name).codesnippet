@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>unregister_tick_function ( &lt;#string $function_name#&gt; );</string>
+	<string>unregister_tick_function(&lt;#string $function_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DA526E5F-C386-4E88-ADCE-74C95C43E0B8</string>
 	<key>IDECodeSnippetLanguage</key>

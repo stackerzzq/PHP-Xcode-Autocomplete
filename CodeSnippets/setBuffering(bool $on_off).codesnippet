@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setBuffering ( &lt;#bool $on_off#&gt; );</string>
+	<string>setBuffering(&lt;#bool $on_off#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E4499A4B-0E8B-4AE2-969E-9BDE47E64B8B</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hash_algos (  );</string>
+	<string>hash_algos();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>05FC8F87-01FC-4398-8E76-4F76861A9A5D</string>
 	<key>IDECodeSnippetLanguage</key>

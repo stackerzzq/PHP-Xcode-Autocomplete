@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ZipArchive::deleteName ( &lt;#string $name#&gt; );</string>
+	<string>ZipArchive::deleteName(&lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3AA1B00A-1476-4D00-9F5C-0DF266F3C8CC</string>
 	<key>IDECodeSnippetLanguage</key>

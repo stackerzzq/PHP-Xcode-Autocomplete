@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>inotify_init (  );</string>
+	<string>inotify_init();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>734C896B-7868-49A1-B669-A267AE724626</string>
 	<key>IDECodeSnippetLanguage</key>

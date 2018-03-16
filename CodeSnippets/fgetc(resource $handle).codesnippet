@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fgetc ( &lt;#resource $handle#&gt; );</string>
+	<string>fgetc(&lt;#resource $handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B1792E45-F857-4CA2-B760-BC94923DCCBF</string>
 	<key>IDECodeSnippetLanguage</key>

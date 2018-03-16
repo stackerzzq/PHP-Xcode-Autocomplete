@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bzdecompress ( &lt;#string $source#&gt; );</string>
+	<string>bzdecompress(&lt;#string $source#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>36D6B840-C7BA-4F8E-B4DC-2DD85BD697E2</string>
 	<key>IDECodeSnippetLanguage</key>

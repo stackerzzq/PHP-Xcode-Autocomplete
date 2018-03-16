@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_cdf_laplace ( &lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#float $par3#&gt;, &lt;#int $which#&gt; );</string>
+	<string>stats_cdf_laplace(&lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#float $par3#&gt;, &lt;#int $which#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D4886654-32A6-43FA-9296-7303321CB5D7</string>
 	<key>IDECodeSnippetLanguage</key>

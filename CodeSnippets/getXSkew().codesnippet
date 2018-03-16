@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getXSkew (  );</string>
+	<string>getXSkew();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DF6204F8-0E0B-4BED-99DD-A0EA8642097D</string>
 	<key>IDECodeSnippetLanguage</key>

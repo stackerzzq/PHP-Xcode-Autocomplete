@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ftp_nb_fput ( &lt;#resource $ftp_stream#&gt;, &lt;#string $remote_file#&gt;, &lt;#resource $handle#&gt;, &lt;#int $mode#&gt; );</string>
+	<string>ftp_nb_fput(&lt;#resource $ftp_stream#&gt;, &lt;#string $remote_file#&gt;, &lt;#resource $handle#&gt;, &lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8BA97CD4-F4D2-44FE-A7CA-C88F15B99026</string>
 	<key>IDECodeSnippetLanguage</key>

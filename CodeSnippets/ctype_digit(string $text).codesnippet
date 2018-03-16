@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ctype_digit ( &lt;#string $text#&gt; );</string>
+	<string>ctype_digit(&lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3BBB5149-C448-4B30-8926-94D3BE02D216</string>
 	<key>IDECodeSnippetLanguage</key>

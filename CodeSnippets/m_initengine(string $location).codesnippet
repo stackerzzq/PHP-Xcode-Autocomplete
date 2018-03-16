@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_initengine ( &lt;#string $location#&gt; );</string>
+	<string>m_initengine(&lt;#string $location#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DADFE29A-950B-4460-B605-51D4E3E6AE3B</string>
 	<key>IDECodeSnippetLanguage</key>

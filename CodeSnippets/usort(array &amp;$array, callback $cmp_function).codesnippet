@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>usort ( &lt;#array &amp;$array#&gt;, &lt;#callback $cmp_function#&gt; );</string>
+	<string>usort(&lt;#array &amp;$array#&gt;, &lt;#callback $cmp_function#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>69191502-8E1B-4CE1-B9AA-738E6569B6A7</string>
 	<key>IDECodeSnippetLanguage</key>

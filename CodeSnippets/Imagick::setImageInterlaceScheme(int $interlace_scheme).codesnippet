@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setImageInterlaceScheme ( &lt;#int $interlace_scheme#&gt; );</string>
+	<string>Imagick::setImageInterlaceScheme(&lt;#int $interlace_scheme#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E5F2A366-F050-4E76-8BC0-9F773DC7B334</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::showTextNextLine ( &lt;#string $text#&gt;, &lt;#float $word_space#&gt;, &lt;#float $char_space#&gt; );</string>
+	<string>HaruPage::showTextNextLine(&lt;#string $text#&gt;, &lt;#float $word_space#&gt;, &lt;#float $char_space#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D6D47FB8-FF74-4B4C-B1A2-42B1E757F063</string>
 	<key>IDECodeSnippetLanguage</key>

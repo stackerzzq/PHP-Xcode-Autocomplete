@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_real_connect ( &lt;#resource $link#&gt;, &lt;#string $hostname#&gt;, &lt;#string $username#&gt;, &lt;#string $passwd#&gt;, &lt;#string $dbname#&gt;, &lt;#int $port#&gt;, &lt;#string $socket#&gt;, &lt;#string $hostname#&gt;, &lt;#string $username#&gt;, &lt;#string $passwd#&gt;, &lt;#string $dbname#&gt;, &lt;#int $port#&gt;, &lt;#string $socket#&gt; );</string>
+	<string>maxdb_real_connect(&lt;#resource $link#&gt;, &lt;#string $hostname#&gt;, &lt;#string $username#&gt;, &lt;#string $passwd#&gt;, &lt;#string $dbname#&gt;, &lt;#int $port#&gt;, &lt;#string $socket#&gt;, &lt;#string $hostname#&gt;, &lt;#string $username#&gt;, &lt;#string $passwd#&gt;, &lt;#string $dbname#&gt;, &lt;#int $port#&gt;, &lt;#string $socket#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA7B67AE-E85D-4FC5-8AFC-297B63A802FB</string>
 	<key>IDECodeSnippetLanguage</key>

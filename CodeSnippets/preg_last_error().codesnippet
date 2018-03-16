@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>preg_last_error (  );</string>
+	<string>preg_last_error();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>98D505B2-7500-4222-AF14-4186AB4336AF</string>
 	<key>IDECodeSnippetLanguage</key>

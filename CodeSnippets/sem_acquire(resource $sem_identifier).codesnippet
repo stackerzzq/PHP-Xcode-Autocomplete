@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sem_acquire ( &lt;#resource $sem_identifier#&gt; );</string>
+	<string>sem_acquire(&lt;#resource $sem_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>27198291-6B49-4C3D-A9D9-5B380E306FEF</string>
 	<key>IDECodeSnippetLanguage</key>

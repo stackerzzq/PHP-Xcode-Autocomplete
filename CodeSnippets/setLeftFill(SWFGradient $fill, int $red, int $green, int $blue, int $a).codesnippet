@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setLeftFill ( &lt;#SWFGradient $fill#&gt;, &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt;, &lt;#int $a#&gt; );</string>
+	<string>setLeftFill(&lt;#SWFGradient $fill#&gt;, &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt;, &lt;#int $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C792255E-C55F-47D1-803D-8391CA670F51</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_close ( &lt;#resource $link_identifier#&gt; );</string>
+	<string>ifx_close(&lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8A2EFBC2-85D4-4EAB-BF97-91E6E61D6031</string>
 	<key>IDECodeSnippetLanguage</key>

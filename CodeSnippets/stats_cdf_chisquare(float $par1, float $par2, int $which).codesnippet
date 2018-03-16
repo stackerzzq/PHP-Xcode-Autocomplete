@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_cdf_chisquare ( &lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#int $which#&gt; );</string>
+	<string>stats_cdf_chisquare(&lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#int $which#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9D4FA454-8CE6-45BF-997A-FAFAC9496AAD</string>
 	<key>IDECodeSnippetLanguage</key>

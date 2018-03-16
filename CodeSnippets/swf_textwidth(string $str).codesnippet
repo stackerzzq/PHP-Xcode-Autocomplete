@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_textwidth ( &lt;#string $str#&gt; );</string>
+	<string>swf_textwidth(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>92D8686B-64E5-471A-927B-04764C57A128</string>
 	<key>IDECodeSnippetLanguage</key>

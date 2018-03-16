@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::getImageGreenPrimary (  );</string>
+	<string>Imagick::getImageGreenPrimary();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>424FA563-405C-43FC-A875-0C952599C6DD</string>
 	<key>IDECodeSnippetLanguage</key>

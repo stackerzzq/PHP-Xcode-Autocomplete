@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_byteasvarchar ( &lt;#int $mode#&gt; );</string>
+	<string>ifx_byteasvarchar(&lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>514BB673-67C1-42FF-A1F4-85BD7FC106F3</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_field_type_oid ( &lt;#resource $result#&gt;, &lt;#int $field_number#&gt; );</string>
+	<string>pg_field_type_oid(&lt;#resource $result#&gt;, &lt;#int $field_number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>933DE249-EC6E-443F-8383-58E1E31F6AB9</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ovrimos_field_len ( &lt;#int $result_id#&gt;, &lt;#int $field_number#&gt; );</string>
+	<string>ovrimos_field_len(&lt;#int $result_id#&gt;, &lt;#int $field_number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B43FB826-2B51-4D5B-BE0A-51EF523070BF</string>
 	<key>IDECodeSnippetLanguage</key>

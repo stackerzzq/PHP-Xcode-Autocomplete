@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_root (  );</string>
+	<string>hw_root();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D3290111-03AF-428A-B42E-2961FFF0538F</string>
 	<key>IDECodeSnippetLanguage</key>

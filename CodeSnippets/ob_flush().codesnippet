@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ob_flush (  );</string>
+	<string>ob_flush();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6D915882-3412-466E-A630-508907700755</string>
 	<key>IDECodeSnippetLanguage</key>

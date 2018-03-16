@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getrandmax (  );</string>
+	<string>getrandmax();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E927FB6C-D638-4A73-9B06-5F3AF9D14673</string>
 	<key>IDECodeSnippetLanguage</key>

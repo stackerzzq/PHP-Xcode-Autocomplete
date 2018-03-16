@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>explode ( &lt;#string $delimiter#&gt;, &lt;#string $string#&gt;, &lt;#int $limit#&gt; );</string>
+	<string>explode(&lt;#string $delimiter#&gt;, &lt;#string $string#&gt;, &lt;#int $limit#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B61CE726-0CAF-4C7C-BF0B-62F2AE2983BD</string>
 	<key>IDECodeSnippetLanguage</key>

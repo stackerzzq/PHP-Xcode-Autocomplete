@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagecopyresized ( &lt;#resource $dst_image#&gt;, &lt;#resource $src_image#&gt;, &lt;#int $dst_x#&gt;, &lt;#int $dst_y#&gt;, &lt;#int $src_x#&gt;, &lt;#int $src_y#&gt;, &lt;#int $dst_w#&gt;, &lt;#int $dst_h#&gt;, &lt;#int $src_w#&gt;, &lt;#int $src_h#&gt; );</string>
+	<string>imagecopyresized(&lt;#resource $dst_image#&gt;, &lt;#resource $src_image#&gt;, &lt;#int $dst_x#&gt;, &lt;#int $dst_y#&gt;, &lt;#int $src_x#&gt;, &lt;#int $src_y#&gt;, &lt;#int $dst_w#&gt;, &lt;#int $dst_h#&gt;, &lt;#int $src_w#&gt;, &lt;#int $src_h#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>07E311EB-461F-42E4-9E7B-18E48703B2FE</string>
 	<key>IDECodeSnippetLanguage</key>

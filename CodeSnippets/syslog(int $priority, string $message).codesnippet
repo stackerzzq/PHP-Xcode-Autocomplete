@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>syslog ( &lt;#int $priority#&gt;, &lt;#string $message#&gt; );</string>
+	<string>syslog(&lt;#int $priority#&gt;, &lt;#string $message#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>60AC5EEF-D06A-4453-9548-FE634585D723</string>
 	<key>IDECodeSnippetLanguage</key>

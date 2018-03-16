@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_posround ( &lt;#int $round#&gt; );</string>
+	<string>swf_posround(&lt;#int $round#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>62CD72EA-1631-4149-8942-FA5D19A98164</string>
 	<key>IDECodeSnippetLanguage</key>

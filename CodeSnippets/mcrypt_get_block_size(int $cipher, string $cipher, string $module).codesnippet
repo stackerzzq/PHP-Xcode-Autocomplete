@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mcrypt_get_block_size ( &lt;#int $cipher#&gt;, &lt;#string $cipher#&gt;, &lt;#string $module#&gt; );</string>
+	<string>mcrypt_get_block_size(&lt;#int $cipher#&gt;, &lt;#string $cipher#&gt;, &lt;#string $module#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6DD8395F-5CB0-4CAB-A6B9-F0DE79BEBCDF</string>
 	<key>IDECodeSnippetLanguage</key>

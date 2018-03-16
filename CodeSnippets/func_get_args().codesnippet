@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>func_get_args (  );</string>
+	<string>func_get_args();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E89D82DC-829C-4396-A365-B8988BB64B71</string>
 	<key>IDECodeSnippetLanguage</key>

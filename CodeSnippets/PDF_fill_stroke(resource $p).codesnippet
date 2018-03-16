@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_fill_stroke ( &lt;#resource $p#&gt; );</string>
+	<string>PDF_fill_stroke(&lt;#resource $p#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F9219B0B-4CA2-4E32-B48D-6F9C68D6578D</string>
 	<key>IDECodeSnippetLanguage</key>

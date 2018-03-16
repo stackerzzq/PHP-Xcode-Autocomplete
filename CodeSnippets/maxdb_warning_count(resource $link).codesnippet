@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_warning_count ( &lt;#resource $link#&gt; );</string>
+	<string>maxdb_warning_count(&lt;#resource $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B1DDF4CD-2DDE-47FA-93A6-9F22976FED4D</string>
 	<key>IDECodeSnippetLanguage</key>

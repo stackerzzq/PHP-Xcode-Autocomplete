@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xdiff_string_bdiff ( &lt;#string $old_data#&gt;, &lt;#string $new_data#&gt; );</string>
+	<string>xdiff_string_bdiff(&lt;#string $old_data#&gt;, &lt;#string $new_data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5CCC9DBC-C0FC-4E97-97A1-5A7103C744AB</string>
 	<key>IDECodeSnippetLanguage</key>

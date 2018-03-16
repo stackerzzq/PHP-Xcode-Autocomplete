@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setPadding ( &lt;#float $padding#&gt; );</string>
+	<string>setPadding(&lt;#float $padding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BDB3FE1F-F445-4812-BAD7-B3ADD15A0467</string>
 	<key>IDECodeSnippetLanguage</key>

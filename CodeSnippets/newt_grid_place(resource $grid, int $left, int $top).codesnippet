@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_grid_place ( &lt;#resource $grid#&gt;, &lt;#int $left#&gt;, &lt;#int $top#&gt; );</string>
+	<string>newt_grid_place(&lt;#resource $grid#&gt;, &lt;#int $left#&gt;, &lt;#int $top#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5B20B169-D3E1-4B8F-B1B8-DCD5A7B196EE</string>
 	<key>IDECodeSnippetLanguage</key>

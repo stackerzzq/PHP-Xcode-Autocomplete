@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>event_base_priority_init ( &lt;#resource $event_base#&gt;, &lt;#int $npriorities#&gt; );</string>
+	<string>event_base_priority_init(&lt;#resource $event_base#&gt;, &lt;#int $npriorities#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>191398C1-62D8-4B72-ABEC-0A85CC3AFE7D</string>
 	<key>IDECodeSnippetLanguage</key>

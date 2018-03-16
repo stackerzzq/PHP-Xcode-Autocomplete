@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_form_add_hot_key ( &lt;#resource $form#&gt;, &lt;#int $key#&gt; );</string>
+	<string>newt_form_add_hot_key(&lt;#resource $form#&gt;, &lt;#int $key#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>60D70FDF-2B05-4DFF-9184-19B4CB3B3BEB</string>
 	<key>IDECodeSnippetLanguage</key>

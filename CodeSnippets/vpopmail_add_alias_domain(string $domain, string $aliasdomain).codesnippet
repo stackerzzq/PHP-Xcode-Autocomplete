@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>vpopmail_add_alias_domain ( &lt;#string $domain#&gt;, &lt;#string $aliasdomain#&gt; );</string>
+	<string>vpopmail_add_alias_domain(&lt;#string $domain#&gt;, &lt;#string $aliasdomain#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>19751F90-A166-49C7-AFAD-443ED1EC8B81</string>
 	<key>IDECodeSnippetLanguage</key>

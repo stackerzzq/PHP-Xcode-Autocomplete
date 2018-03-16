@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_pattern_get_rgba ( &lt;#CairoSolidPattern $pattern#&gt; );</string>
+	<string>cairo_pattern_get_rgba(&lt;#CairoSolidPattern $pattern#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>03C724AD-496B-49FA-8BCA-BD57C696598D</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_List::insert ( &lt;#mixed $value#&gt;, &lt;#int $index#&gt; );</string>
+	<string>SDO_List::insert(&lt;#mixed $value#&gt;, &lt;#int $index#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>63524FF9-7133-44EE-B778-7651B25ACF5B</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_set_layer_dependency ( &lt;#resource $pdfdoc#&gt;, &lt;#string $type#&gt;, &lt;#string $optlist#&gt; );</string>
+	<string>PDF_set_layer_dependency(&lt;#resource $pdfdoc#&gt;, &lt;#string $type#&gt;, &lt;#string $optlist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8BC3E5A0-E85E-4D93-BA63-C076020E3736</string>
 	<key>IDECodeSnippetLanguage</key>

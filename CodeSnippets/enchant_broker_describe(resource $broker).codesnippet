@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>enchant_broker_describe ( &lt;#resource $broker#&gt; );</string>
+	<string>enchant_broker_describe(&lt;#resource $broker#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2D2DEF1D-D311-46EC-AAE4-5F039BCBAFEE</string>
 	<key>IDECodeSnippetLanguage</key>

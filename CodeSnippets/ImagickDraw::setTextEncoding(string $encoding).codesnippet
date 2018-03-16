@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setTextEncoding ( &lt;#string $encoding#&gt; );</string>
+	<string>ImagickDraw::setTextEncoding(&lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6683BC1A-6B17-4840-83BD-BF9B9931A527</string>
 	<key>IDECodeSnippetLanguage</key>

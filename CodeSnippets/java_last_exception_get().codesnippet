@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>java_last_exception_get (  );</string>
+	<string>java_last_exception_get();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>250F65BD-564F-4FF8-8CDB-BBD48F45180A</string>
 	<key>IDECodeSnippetLanguage</key>

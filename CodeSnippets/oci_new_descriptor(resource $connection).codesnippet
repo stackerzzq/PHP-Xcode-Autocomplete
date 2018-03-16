@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_new_descriptor ( &lt;#resource $connection#&gt; );</string>
+	<string>oci_new_descriptor(&lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D2A3C085-26FA-4530-B58E-56EE690CA4AF</string>
 	<key>IDECodeSnippetLanguage</key>

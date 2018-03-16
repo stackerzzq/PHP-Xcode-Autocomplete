@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>set_exception_handler ( &lt;#callback $exception_handler#&gt; );</string>
+	<string>set_exception_handler(&lt;#callback $exception_handler#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8E302B94-15C2-44BA-8D88-BA8CC55E5C89</string>
 	<key>IDECodeSnippetLanguage</key>

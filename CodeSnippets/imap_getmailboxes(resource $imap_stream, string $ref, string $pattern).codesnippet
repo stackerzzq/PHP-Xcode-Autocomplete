@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_getmailboxes ( &lt;#resource $imap_stream#&gt;, &lt;#string $ref#&gt;, &lt;#string $pattern#&gt; );</string>
+	<string>imap_getmailboxes(&lt;#resource $imap_stream#&gt;, &lt;#string $ref#&gt;, &lt;#string $pattern#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3CC7B292-5DCF-4ECD-AFB9-9E5399B7ABFD</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruFont::getTextWidth ( &lt;#string $text#&gt; );</string>
+	<string>HaruFont::getTextWidth(&lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6C458951-A29C-4A27-A02A-2595FD3EBF39</string>
 	<key>IDECodeSnippetLanguage</key>

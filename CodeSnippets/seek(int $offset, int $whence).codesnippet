@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>seek ( &lt;#int $offset#&gt;, &lt;#int $whence#&gt; );</string>
+	<string>seek(&lt;#int $offset#&gt;, &lt;#int $whence#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8A92AD9E-07F3-43A8-9424-EDD5605C6956</string>
 	<key>IDECodeSnippetLanguage</key>

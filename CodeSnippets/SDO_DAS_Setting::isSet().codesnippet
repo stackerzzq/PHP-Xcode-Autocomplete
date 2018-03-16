@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_Setting::isSet (  );</string>
+	<string>SDO_DAS_Setting::isSet();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E872B073-0CA4-417C-8EC1-7FFAC65BE21E</string>
 	<key>IDECodeSnippetLanguage</key>

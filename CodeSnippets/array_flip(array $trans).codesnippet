@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_flip ( &lt;#array $trans#&gt; );</string>
+	<string>array_flip(&lt;#array $trans#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>22418427-F9A7-43A3-913C-88845C5AC16C</string>
 	<key>IDECodeSnippetLanguage</key>

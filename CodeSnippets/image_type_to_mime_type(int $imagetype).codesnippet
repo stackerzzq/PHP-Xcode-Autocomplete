@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>image_type_to_mime_type ( &lt;#int $imagetype#&gt; );</string>
+	<string>image_type_to_mime_type(&lt;#int $imagetype#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>91D0FCC7-7195-4B73-A289-2C9E115F01D8</string>
 	<key>IDECodeSnippetLanguage</key>

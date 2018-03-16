@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xml_get_current_line_number ( &lt;#resource $parser#&gt; );</string>
+	<string>xml_get_current_line_number(&lt;#resource $parser#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8F6402F0-2E35-457D-9635-F321D0C7C84C</string>
 	<key>IDECodeSnippetLanguage</key>

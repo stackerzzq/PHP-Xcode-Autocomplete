@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::getImageChannelExtrema ( &lt;#int $channel#&gt; );</string>
+	<string>Imagick::getImageChannelExtrema(&lt;#int $channel#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DFDC08B8-81F0-47C0-85A7-76508B96B903</string>
 	<key>IDECodeSnippetLanguage</key>

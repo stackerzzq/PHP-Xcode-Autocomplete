@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_setdash ( &lt;#resource $psdoc#&gt;, &lt;#float $on#&gt;, &lt;#float $off#&gt; );</string>
+	<string>ps_setdash(&lt;#resource $psdoc#&gt;, &lt;#float $on#&gt;, &lt;#float $off#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B891EAAF-21A5-4932-9351-BF48DB076D02</string>
 	<key>IDECodeSnippetLanguage</key>

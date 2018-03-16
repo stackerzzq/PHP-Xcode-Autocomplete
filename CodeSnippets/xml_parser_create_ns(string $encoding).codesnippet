@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xml_parser_create_ns ( &lt;#string $encoding#&gt; );</string>
+	<string>xml_parser_create_ns(&lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CA964462-FBDD-4961-91C7-E89F609887B3</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Memcache::getServerStatus ( &lt;#string $host#&gt; );</string>
+	<string>Memcache::getServerStatus(&lt;#string $host#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E032AE2D-BF6C-4BF7-A307-D3EE046A9A1A</string>
 	<key>IDECodeSnippetLanguage</key>

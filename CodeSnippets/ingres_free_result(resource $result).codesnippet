@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ingres_free_result ( &lt;#resource $result#&gt; );</string>
+	<string>ingres_free_result(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FB15E019-D195-4377-9195-B7E9F2B4F89E</string>
 	<key>IDECodeSnippetLanguage</key>

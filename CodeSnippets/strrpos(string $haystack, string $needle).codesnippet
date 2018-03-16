@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>strrpos ( &lt;#string $haystack#&gt;, &lt;#string $needle#&gt; );</string>
+	<string>strrpos(&lt;#string $haystack#&gt;, &lt;#string $needle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>35A5B718-C10A-49D4-A391-D82B43BDF59A</string>
 	<key>IDECodeSnippetLanguage</key>

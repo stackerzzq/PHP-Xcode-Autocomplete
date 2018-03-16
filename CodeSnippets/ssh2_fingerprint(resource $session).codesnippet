@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ssh2_fingerprint ( &lt;#resource $session#&gt; );</string>
+	<string>ssh2_fingerprint(&lt;#resource $session#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FD73C476-FE3D-4AA2-AB75-4AB5706CC6BF</string>
 	<key>IDECodeSnippetLanguage</key>

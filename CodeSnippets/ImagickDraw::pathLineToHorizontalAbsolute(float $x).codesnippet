@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::pathLineToHorizontalAbsolute ( &lt;#float $x#&gt; );</string>
+	<string>ImagickDraw::pathLineToHorizontalAbsolute(&lt;#float $x#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>83C9C6A4-CC58-4FF3-92B9-CE0E7B53DF34</string>
 	<key>IDECodeSnippetLanguage</key>

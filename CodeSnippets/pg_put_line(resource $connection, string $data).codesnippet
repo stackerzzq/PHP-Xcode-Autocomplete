@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_put_line ( &lt;#resource $connection#&gt;, &lt;#string $data#&gt; );</string>
+	<string>pg_put_line(&lt;#resource $connection#&gt;, &lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0E41407A-F3D2-41F2-BFC4-6D822F858075</string>
 	<key>IDECodeSnippetLanguage</key>

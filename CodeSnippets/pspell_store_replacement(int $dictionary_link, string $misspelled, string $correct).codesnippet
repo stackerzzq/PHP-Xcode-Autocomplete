@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pspell_store_replacement ( &lt;#int $dictionary_link#&gt;, &lt;#string $misspelled#&gt;, &lt;#string $correct#&gt; );</string>
+	<string>pspell_store_replacement(&lt;#int $dictionary_link#&gt;, &lt;#string $misspelled#&gt;, &lt;#string $correct#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C2391C2F-14BE-4ACA-9235-3CFD487363E4</string>
 	<key>IDECodeSnippetLanguage</key>

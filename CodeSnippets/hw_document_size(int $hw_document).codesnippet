@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_document_size ( &lt;#int $hw_document#&gt; );</string>
+	<string>hw_document_size(&lt;#int $hw_document#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EBC3FCF0-86E5-4514-A562-B025AA00E9CD</string>
 	<key>IDECodeSnippetLanguage</key>

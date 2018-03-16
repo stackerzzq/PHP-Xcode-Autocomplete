@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_convert_case ( &lt;#string $str#&gt; );</string>
+	<string>mb_convert_case(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BBAB6B64-82EC-4047-8C53-0517FBB7B647</string>
 	<key>IDECodeSnippetLanguage</key>

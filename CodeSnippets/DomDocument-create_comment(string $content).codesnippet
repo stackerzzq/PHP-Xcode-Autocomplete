@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomDocument-&gt;create_comment ( &lt;#string $content#&gt; );</string>
+	<string>DomDocument-&gt;create_comment(&lt;#string $content#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8594F049-D9E3-4987-BF62-A930459AABCD</string>
 	<key>IDECodeSnippetLanguage</key>

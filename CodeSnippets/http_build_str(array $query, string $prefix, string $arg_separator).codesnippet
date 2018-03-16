@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_build_str ( &lt;#array $query#&gt;, &lt;#string $prefix#&gt;, &lt;#string $arg_separator#&gt; );</string>
+	<string>http_build_str(&lt;#array $query#&gt;, &lt;#string $prefix#&gt;, &lt;#string $arg_separator#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>405832DC-65BD-48D7-9400-EBDE7C364664</string>
 	<key>IDECodeSnippetLanguage</key>

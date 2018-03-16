@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_pop_help_line (  );</string>
+	<string>newt_pop_help_line();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2E63083E-3362-4C9F-8C02-A10856ED5E47</string>
 	<key>IDECodeSnippetLanguage</key>

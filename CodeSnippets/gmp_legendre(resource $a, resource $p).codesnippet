@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_legendre ( &lt;#resource $a#&gt;, &lt;#resource $p#&gt; );</string>
+	<string>gmp_legendre(&lt;#resource $a#&gt;, &lt;#resource $p#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D26DF03F-A092-43FA-8151-95E0A944F49F</string>
 	<key>IDECodeSnippetLanguage</key>

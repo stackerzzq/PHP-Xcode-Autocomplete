@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>timezone_open ( &lt;#string $timezone#&gt;, &lt;#string $timezone#&gt; );</string>
+	<string>timezone_open(&lt;#string $timezone#&gt;, &lt;#string $timezone#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9742DE6B-878C-4916-B74D-903DBD1B21B3</string>
 	<key>IDECodeSnippetLanguage</key>

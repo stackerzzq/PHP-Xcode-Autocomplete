@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getlastmod (  );</string>
+	<string>getlastmod();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>883FC0F2-5E93-4953-95C5-C8762ABB9D48</string>
 	<key>IDECodeSnippetLanguage</key>

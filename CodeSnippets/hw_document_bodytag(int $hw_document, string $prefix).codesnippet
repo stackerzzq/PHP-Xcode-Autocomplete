@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_document_bodytag ( &lt;#int $hw_document#&gt;, &lt;#string $prefix#&gt; );</string>
+	<string>hw_document_bodytag(&lt;#int $hw_document#&gt;, &lt;#string $prefix#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC912B73-9A33-4E60-B7CF-4664F642407C</string>
 	<key>IDECodeSnippetLanguage</key>

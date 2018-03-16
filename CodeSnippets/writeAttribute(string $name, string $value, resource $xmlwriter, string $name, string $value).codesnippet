@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>writeAttribute ( &lt;#string $name#&gt;, &lt;#string $value#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#string $name#&gt;, &lt;#string $value#&gt; );</string>
+	<string>writeAttribute(&lt;#string $name#&gt;, &lt;#string $value#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#string $name#&gt;, &lt;#string $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>527E25BB-897E-4DD0-A180-54E224EC46A9</string>
 	<key>IDECodeSnippetLanguage</key>

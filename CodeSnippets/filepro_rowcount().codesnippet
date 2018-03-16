@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>filepro_rowcount (  );</string>
+	<string>filepro_rowcount();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DA9C73E4-7307-413C-9110-8A529A999F72</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_verifyconnection ( &lt;#resource $conn#&gt;, &lt;#int $tf#&gt; );</string>
+	<string>m_verifyconnection(&lt;#resource $conn#&gt;, &lt;#int $tf#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9620FBB5-1E11-4011-A800-C5E580BE0838</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_set_cookie_params ( &lt;#int $lifetime#&gt;, &lt;#string $path#&gt;, &lt;#string $domain#&gt; );</string>
+	<string>session_set_cookie_params(&lt;#int $lifetime#&gt;, &lt;#string $path#&gt;, &lt;#string $domain#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>12B9D6CC-E35E-4A01-8DA8-1E6AF4E9DDDF</string>
 	<key>IDECodeSnippetLanguage</key>

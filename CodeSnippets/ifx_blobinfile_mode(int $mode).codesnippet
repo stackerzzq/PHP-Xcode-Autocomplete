@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_blobinfile_mode ( &lt;#int $mode#&gt; );</string>
+	<string>ifx_blobinfile_mode(&lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>700BFB83-DC7F-424A-9B0E-17C07A1BC223</string>
 	<key>IDECodeSnippetLanguage</key>

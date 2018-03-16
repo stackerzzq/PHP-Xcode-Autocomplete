@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::setCharSpace ( &lt;#float $char_space#&gt; );</string>
+	<string>HaruPage::setCharSpace(&lt;#float $char_space#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F8A9E4ED-2D5F-41A9-87C1-9169CFF0EEE7</string>
 	<key>IDECodeSnippetLanguage</key>

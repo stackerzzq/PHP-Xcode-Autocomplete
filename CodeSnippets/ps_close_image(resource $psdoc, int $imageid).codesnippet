@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_close_image ( &lt;#resource $psdoc#&gt;, &lt;#int $imageid#&gt; );</string>
+	<string>ps_close_image(&lt;#resource $psdoc#&gt;, &lt;#int $imageid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2A359518-15FD-45D0-AEC3-0562EE3632ED</string>
 	<key>IDECodeSnippetLanguage</key>

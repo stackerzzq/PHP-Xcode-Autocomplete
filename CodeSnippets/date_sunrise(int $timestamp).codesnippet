@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>date_sunrise ( &lt;#int $timestamp#&gt; );</string>
+	<string>date_sunrise(&lt;#int $timestamp#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CFC2956D-D7C2-4218-B881-15F18891E1F3</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_standard_deviation ( &lt;#array $a#&gt; );</string>
+	<string>stats_standard_deviation(&lt;#array $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C3B5F065-8F03-44EA-B5B9-27D9F0F2D987</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gopher_parsedir ( &lt;#string $dirent#&gt; );</string>
+	<string>gopher_parsedir(&lt;#string $dirent#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5451622E-B4CF-4538-A6E6-66D84045F494</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fbsql_set_lob_mode ( &lt;#resource $result#&gt;, &lt;#int $lob_mode#&gt; );</string>
+	<string>fbsql_set_lob_mode(&lt;#resource $result#&gt;, &lt;#int $lob_mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3CD746DB-2713-453D-9688-8CC1E218315C</string>
 	<key>IDECodeSnippetLanguage</key>

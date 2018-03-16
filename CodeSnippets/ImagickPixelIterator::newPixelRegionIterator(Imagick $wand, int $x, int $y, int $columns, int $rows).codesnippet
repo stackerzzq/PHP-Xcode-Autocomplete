@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickPixelIterator::newPixelRegionIterator ( &lt;#Imagick $wand#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#int $columns#&gt;, &lt;#int $rows#&gt; );</string>
+	<string>ImagickPixelIterator::newPixelRegionIterator(&lt;#Imagick $wand#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#int $columns#&gt;, &lt;#int $rows#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4799093B-09F2-4023-AF2B-A9382F4C7461</string>
 	<key>IDECodeSnippetLanguage</key>

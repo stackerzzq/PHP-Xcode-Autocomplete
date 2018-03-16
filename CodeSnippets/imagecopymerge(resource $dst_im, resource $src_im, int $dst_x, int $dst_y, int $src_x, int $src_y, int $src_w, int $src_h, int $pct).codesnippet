@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagecopymerge ( &lt;#resource $dst_im#&gt;, &lt;#resource $src_im#&gt;, &lt;#int $dst_x#&gt;, &lt;#int $dst_y#&gt;, &lt;#int $src_x#&gt;, &lt;#int $src_y#&gt;, &lt;#int $src_w#&gt;, &lt;#int $src_h#&gt;, &lt;#int $pct#&gt; );</string>
+	<string>imagecopymerge(&lt;#resource $dst_im#&gt;, &lt;#resource $src_im#&gt;, &lt;#int $dst_x#&gt;, &lt;#int $dst_y#&gt;, &lt;#int $src_x#&gt;, &lt;#int $src_y#&gt;, &lt;#int $src_w#&gt;, &lt;#int $src_h#&gt;, &lt;#int $pct#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B3D128EA-64CC-4AB3-849A-A014960DE10F</string>
 	<key>IDECodeSnippetLanguage</key>

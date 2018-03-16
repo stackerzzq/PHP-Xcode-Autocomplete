@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>finfo_file ( &lt;#resource $finfo#&gt; );</string>
+	<string>finfo_file(&lt;#resource $finfo#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C61E723A-8193-4A15-8B51-6CA766014619</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_ungetch ( &lt;#int $keycode#&gt; );</string>
+	<string>ncurses_ungetch(&lt;#int $keycode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>16BA8DC6-224A-440A-979E-4693AC2DD987</string>
 	<key>IDECodeSnippetLanguage</key>

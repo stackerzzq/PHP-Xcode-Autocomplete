@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>tidy_save_config ( &lt;#string $filename#&gt; );</string>
+	<string>tidy_save_config(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3E3A7305-B0EF-472D-B013-50B4ECEC9FCB</string>
 	<key>IDECodeSnippetLanguage</key>

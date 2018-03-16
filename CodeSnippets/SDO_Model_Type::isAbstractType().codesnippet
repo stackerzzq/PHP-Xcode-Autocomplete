@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_Model_Type::isAbstractType (  );</string>
+	<string>SDO_Model_Type::isAbstractType();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3936A278-D576-4AA9-A4F8-3A8B6A684036</string>
 	<key>IDECodeSnippetLanguage</key>

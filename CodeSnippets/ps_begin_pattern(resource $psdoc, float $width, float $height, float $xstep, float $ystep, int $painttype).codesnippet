@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_begin_pattern ( &lt;#resource $psdoc#&gt;, &lt;#float $width#&gt;, &lt;#float $height#&gt;, &lt;#float $xstep#&gt;, &lt;#float $ystep#&gt;, &lt;#int $painttype#&gt; );</string>
+	<string>ps_begin_pattern(&lt;#resource $psdoc#&gt;, &lt;#float $width#&gt;, &lt;#float $height#&gt;, &lt;#float $xstep#&gt;, &lt;#float $ystep#&gt;, &lt;#int $painttype#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F3424F1C-875A-47A8-9118-6BF7D668EFAA</string>
 	<key>IDECodeSnippetLanguage</key>

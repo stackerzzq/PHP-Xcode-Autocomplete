@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_pipedocument ( &lt;#int $connection#&gt;, &lt;#int $objectID#&gt;, &lt;#array $url_prefixes#&gt; );</string>
+	<string>hw_pipedocument(&lt;#int $connection#&gt;, &lt;#int $objectID#&gt;, &lt;#array $url_prefixes#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1213B057-9591-4950-9650-A6FDE3DCFBDB</string>
 	<key>IDECodeSnippetLanguage</key>

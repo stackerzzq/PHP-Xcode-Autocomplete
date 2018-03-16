@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getUTF8Width ( &lt;#string $string#&gt; );</string>
+	<string>getUTF8Width(&lt;#string $string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8FDF85C7-8E1C-43CF-89E9-69C74F83D327</string>
 	<key>IDECodeSnippetLanguage</key>

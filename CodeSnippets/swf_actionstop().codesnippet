@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_actionstop (  );</string>
+	<string>swf_actionstop();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>94B83BC9-5C6F-4C7D-8041-13A4C9F67295</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setStrokeLineJoin ( &lt;#int $linejoin#&gt; );</string>
+	<string>ImagickDraw::setStrokeLineJoin(&lt;#int $linejoin#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2931F780-DF4E-4F56-B597-C72CD46D0D9F</string>
 	<key>IDECodeSnippetLanguage</key>

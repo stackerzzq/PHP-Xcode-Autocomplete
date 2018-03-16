@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>odbc_rollback ( &lt;#resource $connection_id#&gt; );</string>
+	<string>odbc_rollback(&lt;#resource $connection_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0831DC5B-B074-48FE-A2FA-73877F601ABC</string>
 	<key>IDECodeSnippetLanguage</key>

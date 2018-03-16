@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::pathClose (  );</string>
+	<string>ImagickDraw::pathClose();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>02DE92B9-97F8-4D7D-8356-A623F2523184</string>
 	<key>IDECodeSnippetLanguage</key>

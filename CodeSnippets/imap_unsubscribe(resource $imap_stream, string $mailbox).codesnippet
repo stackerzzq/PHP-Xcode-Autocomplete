@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_unsubscribe ( &lt;#resource $imap_stream#&gt;, &lt;#string $mailbox#&gt; );</string>
+	<string>imap_unsubscribe(&lt;#resource $imap_stream#&gt;, &lt;#string $mailbox#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FAFB488C-50AC-436C-BA1C-B4D9062D26A9</string>
 	<key>IDECodeSnippetLanguage</key>

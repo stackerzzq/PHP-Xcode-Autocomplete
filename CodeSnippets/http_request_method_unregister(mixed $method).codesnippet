@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_request_method_unregister ( &lt;#mixed $method#&gt; );</string>
+	<string>http_request_method_unregister(&lt;#mixed $method#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C15CD374-DD7C-4B60-A2BB-613E2536847C</string>
 	<key>IDECodeSnippetLanguage</key>

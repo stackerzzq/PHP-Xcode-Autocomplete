@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openURI ( &lt;#string $uri#&gt;, &lt;#string $uri#&gt; );</string>
+	<string>openURI(&lt;#string $uri#&gt;, &lt;#string $uri#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7E0D828C-D5C3-44A5-BE3C-C9D2503795A1</string>
 	<key>IDECodeSnippetLanguage</key>

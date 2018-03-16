@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_timeout ( &lt;#int $millisec#&gt; );</string>
+	<string>ncurses_timeout(&lt;#int $millisec#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4CC2D665-8802-4DF6-AF13-B6BFC456B920</string>
 	<key>IDECodeSnippetLanguage</key>

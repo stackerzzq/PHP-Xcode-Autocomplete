@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_cdf_binomial ( &lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#float $par3#&gt;, &lt;#int $which#&gt; );</string>
+	<string>stats_cdf_binomial(&lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#float $par3#&gt;, &lt;#int $which#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7C0D509B-C1C7-4FF9-A4B8-82D8960F6548</string>
 	<key>IDECodeSnippetLanguage</key>

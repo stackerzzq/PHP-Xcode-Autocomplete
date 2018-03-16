@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomDocument-&gt;add_root ( &lt;#string $name#&gt; );</string>
+	<string>DomDocument-&gt;add_root(&lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3A77D43E-7B58-4043-BE08-900B3AB7D5BC</string>
 	<key>IDECodeSnippetLanguage</key>

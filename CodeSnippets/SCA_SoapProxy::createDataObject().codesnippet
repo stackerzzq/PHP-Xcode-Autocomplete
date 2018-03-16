@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SCA_SoapProxy::createDataObject (  );</string>
+	<string>SCA_SoapProxy::createDataObject();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0D0C4E23-710F-4636-91DF-A5488F3AE83A</string>
 	<key>IDECodeSnippetLanguage</key>

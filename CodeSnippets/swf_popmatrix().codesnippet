@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_popmatrix (  );</string>
+	<string>swf_popmatrix();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7604E216-2369-4046-BC6E-1AA2A873371A</string>
 	<key>IDECodeSnippetLanguage</key>

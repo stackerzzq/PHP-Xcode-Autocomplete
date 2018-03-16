@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hash_update ( &lt;#resource $context#&gt;, &lt;#string $data#&gt; );</string>
+	<string>hash_update(&lt;#resource $context#&gt;, &lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A127355E-32D0-40F0-88A8-E2F83B1E9DA3</string>
 	<key>IDECodeSnippetLanguage</key>

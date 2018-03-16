@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_strwidth ( &lt;#string $str#&gt;, &lt;#string $encoding#&gt; );</string>
+	<string>mb_strwidth(&lt;#string $str#&gt;, &lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DE806A5B-C047-4A33-8CB0-FCBE25991E9D</string>
 	<key>IDECodeSnippetLanguage</key>

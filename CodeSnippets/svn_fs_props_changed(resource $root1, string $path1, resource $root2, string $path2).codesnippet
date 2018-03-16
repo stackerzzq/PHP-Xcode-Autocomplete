@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_fs_props_changed ( &lt;#resource $root1#&gt;, &lt;#string $path1#&gt;, &lt;#resource $root2#&gt;, &lt;#string $path2#&gt; );</string>
+	<string>svn_fs_props_changed(&lt;#resource $root1#&gt;, &lt;#string $path1#&gt;, &lt;#resource $root2#&gt;, &lt;#string $path2#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>77B5676E-C5F1-44C7-A646-EAF9B5B9FD07</string>
 	<key>IDECodeSnippetLanguage</key>

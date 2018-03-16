@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openal_buffer_destroy ( &lt;#resource $buffer#&gt; );</string>
+	<string>openal_buffer_destroy(&lt;#resource $buffer#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FB19807F-C69F-485B-929A-3AB44D13B4FA</string>
 	<key>IDECodeSnippetLanguage</key>

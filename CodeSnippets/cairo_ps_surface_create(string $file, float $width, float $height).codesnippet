@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_ps_surface_create ( &lt;#string $file#&gt;, &lt;#float $width#&gt;, &lt;#float $height#&gt; );</string>
+	<string>cairo_ps_surface_create(&lt;#string $file#&gt;, &lt;#float $width#&gt;, &lt;#float $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>016A69CA-273B-4B07-88EB-E9D049CDCD6D</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pspell_config_dict_dir ( &lt;#int $conf#&gt;, &lt;#string $directory#&gt; );</string>
+	<string>pspell_config_dict_dir(&lt;#int $conf#&gt;, &lt;#string $directory#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>001DBFB6-774F-4942-A5A5-BB65AF484396</string>
 	<key>IDECodeSnippetLanguage</key>

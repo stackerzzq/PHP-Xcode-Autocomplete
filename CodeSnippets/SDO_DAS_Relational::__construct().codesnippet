@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_Relational::__construct (  );</string>
+	<string>SDO_DAS_Relational::__construct();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1E465694-AA16-40F0-9AC6-986B11B96297</string>
 	<key>IDECodeSnippetLanguage</key>

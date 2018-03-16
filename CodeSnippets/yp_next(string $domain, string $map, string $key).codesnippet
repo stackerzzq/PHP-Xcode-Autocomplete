@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yp_next ( &lt;#string $domain#&gt;, &lt;#string $map#&gt;, &lt;#string $key#&gt; );</string>
+	<string>yp_next(&lt;#string $domain#&gt;, &lt;#string $map#&gt;, &lt;#string $key#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B5D9F70D-4493-4788-B200-82B118AF6A00</string>
 	<key>IDECodeSnippetLanguage</key>

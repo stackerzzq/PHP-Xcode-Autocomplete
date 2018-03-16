@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_prepare ( &lt;#resource $connection#&gt;, &lt;#string $stmtname#&gt;, &lt;#string $query#&gt; );</string>
+	<string>pg_prepare(&lt;#resource $connection#&gt;, &lt;#string $stmtname#&gt;, &lt;#string $query#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2475F645-B128-4F12-BF06-8CE02898372C</string>
 	<key>IDECodeSnippetLanguage</key>

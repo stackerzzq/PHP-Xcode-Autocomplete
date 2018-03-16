@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>curl_setopt ( &lt;#resource $ch#&gt;, &lt;#int $option#&gt;, &lt;#mixed $value#&gt; );</string>
+	<string>curl_setopt(&lt;#resource $ch#&gt;, &lt;#int $option#&gt;, &lt;#mixed $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6820EE78-0A0A-48A2-AD31-308A1323A357</string>
 	<key>IDECodeSnippetLanguage</key>

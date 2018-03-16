@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xmlrpc_server_destroy ( &lt;#resource $server#&gt; );</string>
+	<string>xmlrpc_server_destroy(&lt;#resource $server#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>824EA05B-0014-49AF-87F5-E15B94690B71</string>
 	<key>IDECodeSnippetLanguage</key>

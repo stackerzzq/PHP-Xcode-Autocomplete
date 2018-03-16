@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::floodFillPaintImage ( &lt;#mixed $fill#&gt;, &lt;#float $fuzz#&gt;, &lt;#mixed $target#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#bool $invert#&gt; );</string>
+	<string>Imagick::floodFillPaintImage(&lt;#mixed $fill#&gt;, &lt;#float $fuzz#&gt;, &lt;#mixed $target#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#bool $invert#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>537643C1-8BBB-41E1-8F42-B86900AD5724</string>
 	<key>IDECodeSnippetLanguage</key>

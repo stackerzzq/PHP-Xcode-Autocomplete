@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ssh2_auth_none ( &lt;#resource $session#&gt;, &lt;#string $username#&gt; );</string>
+	<string>ssh2_auth_none(&lt;#resource $session#&gt;, &lt;#string $username#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B30FD840-7513-4F27-815C-157143BF04A0</string>
 	<key>IDECodeSnippetLanguage</key>

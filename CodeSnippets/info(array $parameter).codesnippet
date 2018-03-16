@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>info ( &lt;#array $parameter#&gt; );</string>
+	<string>info(&lt;#array $parameter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D9F19EAF-CF32-4579-BFC1-CC32DCE6308F</string>
 	<key>IDECodeSnippetLanguage</key>

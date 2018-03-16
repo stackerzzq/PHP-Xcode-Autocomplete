@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imageconvolution ( &lt;#resource $image#&gt;, &lt;#array $matrix#&gt;, &lt;#float $div#&gt;, &lt;#float $offset#&gt; );</string>
+	<string>imageconvolution(&lt;#resource $image#&gt;, &lt;#array $matrix#&gt;, &lt;#float $div#&gt;, &lt;#float $offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>58D3BF37-FF33-43E6-8D13-469B25A77553</string>
 	<key>IDECodeSnippetLanguage</key>

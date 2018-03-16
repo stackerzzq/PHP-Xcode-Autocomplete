@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mssql_field_seek ( &lt;#resource $result#&gt;, &lt;#int $field_offset#&gt; );</string>
+	<string>mssql_field_seek(&lt;#resource $result#&gt;, &lt;#int $field_offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>25D4360E-976C-4ABF-8F27-C1CC1BCC96D2</string>
 	<key>IDECodeSnippetLanguage</key>

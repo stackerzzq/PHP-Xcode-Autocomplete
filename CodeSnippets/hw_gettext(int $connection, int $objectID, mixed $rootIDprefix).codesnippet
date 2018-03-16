@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_gettext ( &lt;#int $connection#&gt;, &lt;#int $objectID#&gt;, &lt;#mixed $rootID/prefix#&gt; );</string>
+	<string>hw_gettext(&lt;#int $connection#&gt;, &lt;#int $objectID#&gt;, &lt;#mixed $rootID/prefix#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B77E7236-88A4-49E4-81B5-314293268CB0</string>
 	<key>IDECodeSnippetLanguage</key>

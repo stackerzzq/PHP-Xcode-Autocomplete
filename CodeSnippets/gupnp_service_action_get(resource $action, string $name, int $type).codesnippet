@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_service_action_get ( &lt;#resource $action#&gt;, &lt;#string $name#&gt;, &lt;#int $type#&gt; );</string>
+	<string>gupnp_service_action_get(&lt;#resource $action#&gt;, &lt;#string $name#&gt;, &lt;#int $type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E485B590-EDEF-4804-98B4-9829F5110C34</string>
 	<key>IDECodeSnippetLanguage</key>

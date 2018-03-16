@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_persistent_handles_count (  );</string>
+	<string>http_persistent_handles_count();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FD7FDBAB-494A-4508-9B44-8DE66EFF6EEE</string>
 	<key>IDECodeSnippetLanguage</key>

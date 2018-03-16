@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>call_user_method ( &lt;#string $method_name#&gt;, &lt;#object &amp;$obj#&gt;, &lt;#mixed $parameter#&gt;, &lt;#mixed $...#&gt; );</string>
+	<string>call_user_method(&lt;#string $method_name#&gt;, &lt;#object &amp;$obj#&gt;, &lt;#mixed $parameter#&gt;, &lt;#mixed $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B17C1963-EDB1-46DF-B6E5-9BD1362BD89E</string>
 	<key>IDECodeSnippetLanguage</key>

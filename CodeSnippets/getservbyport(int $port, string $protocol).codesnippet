@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getservbyport ( &lt;#int $port#&gt;, &lt;#string $protocol#&gt; );</string>
+	<string>getservbyport(&lt;#int $port#&gt;, &lt;#string $protocol#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6321CD20-1D3B-43FC-9D1E-B3AF8B53CBB9</string>
 	<key>IDECodeSnippetLanguage</key>

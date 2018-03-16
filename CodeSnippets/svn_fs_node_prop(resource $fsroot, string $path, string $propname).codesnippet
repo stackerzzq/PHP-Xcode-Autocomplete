@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_fs_node_prop ( &lt;#resource $fsroot#&gt;, &lt;#string $path#&gt;, &lt;#string $propname#&gt; );</string>
+	<string>svn_fs_node_prop(&lt;#resource $fsroot#&gt;, &lt;#string $path#&gt;, &lt;#string $propname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EEF2CD00-5525-4150-ABE9-DBD4C7C2B768</string>
 	<key>IDECodeSnippetLanguage</key>

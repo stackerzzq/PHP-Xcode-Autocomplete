@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_stringwidth ( &lt;#resource $p#&gt;, &lt;#string $text#&gt;, &lt;#int $font#&gt;, &lt;#float $fontsize#&gt; );</string>
+	<string>PDF_stringwidth(&lt;#resource $p#&gt;, &lt;#string $text#&gt;, &lt;#int $font#&gt;, &lt;#float $fontsize#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC748E18-F2A6-41C0-B365-F9ECBD7F4053</string>
 	<key>IDECodeSnippetLanguage</key>

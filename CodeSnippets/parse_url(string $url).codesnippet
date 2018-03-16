@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>parse_url ( &lt;#string $url#&gt; );</string>
+	<string>parse_url(&lt;#string $url#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>400E830C-002D-44A9-B5B6-229B1A0E3327</string>
 	<key>IDECodeSnippetLanguage</key>

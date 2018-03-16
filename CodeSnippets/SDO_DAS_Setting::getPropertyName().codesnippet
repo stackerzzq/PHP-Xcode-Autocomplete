@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_Setting::getPropertyName (  );</string>
+	<string>SDO_DAS_Setting::getPropertyName();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7F908E7C-15E7-4DCD-8EFC-4E18A9ADE6C5</string>
 	<key>IDECodeSnippetLanguage</key>

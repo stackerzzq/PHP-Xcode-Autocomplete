@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xdiff_string_bdiff_size ( &lt;#string $patch#&gt; );</string>
+	<string>xdiff_string_bdiff_size(&lt;#string $patch#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EE79D3C9-50E5-46FB-A4D9-438E09C69446</string>
 	<key>IDECodeSnippetLanguage</key>

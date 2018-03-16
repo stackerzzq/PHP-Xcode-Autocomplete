@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_svg_version_to_string ( &lt;#int $version#&gt; );</string>
+	<string>cairo_svg_version_to_string(&lt;#int $version#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6D7BBF00-FBC8-4D0F-AA0D-FA68A2404C80</string>
 	<key>IDECodeSnippetLanguage</key>

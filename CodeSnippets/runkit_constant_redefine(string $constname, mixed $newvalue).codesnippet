@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>runkit_constant_redefine ( &lt;#string $constname#&gt;, &lt;#mixed $newvalue#&gt; );</string>
+	<string>runkit_constant_redefine(&lt;#string $constname#&gt;, &lt;#mixed $newvalue#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F556FC9D-51E1-46ED-B29D-6198DEDB7C69</string>
 	<key>IDECodeSnippetLanguage</key>

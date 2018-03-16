@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_sort ( &lt;#resource $link#&gt;, &lt;#resource $result#&gt;, &lt;#string $sortfilter#&gt; );</string>
+	<string>ldap_sort(&lt;#resource $link#&gt;, &lt;#resource $result#&gt;, &lt;#string $sortfilter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ECCD5CA8-0D8D-40D5-BBB7-7965E6E55D28</string>
 	<key>IDECodeSnippetLanguage</key>

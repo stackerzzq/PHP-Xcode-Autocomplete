@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_getremotechildren ( &lt;#int $connection#&gt;, &lt;#string $object_record#&gt; );</string>
+	<string>hw_getremotechildren(&lt;#int $connection#&gt;, &lt;#string $object_record#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1ACAB5B7-9982-410A-8A15-7E189C511A22</string>
 	<key>IDECodeSnippetLanguage</key>

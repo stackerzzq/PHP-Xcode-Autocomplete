@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> elseif ( &lt;#condition#&gt; ) {
+	<string> elseif(&lt;#condition#&gt;) {
 	&lt;#statements#&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>

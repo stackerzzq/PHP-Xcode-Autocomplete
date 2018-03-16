@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_setlinejoin ( &lt;#resource $psdoc#&gt;, &lt;#int $type#&gt; );</string>
+	<string>ps_setlinejoin(&lt;#resource $psdoc#&gt;, &lt;#int $type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C2737F9C-55EF-4B44-A64E-6C3DEC95E4B3</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequest::setSslOptions ( &lt;#array $options#&gt; );</string>
+	<string>HttpRequest::setSslOptions(&lt;#array $options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D9132167-E1B3-409A-8630-EA05B8A4E388</string>
 	<key>IDECodeSnippetLanguage</key>

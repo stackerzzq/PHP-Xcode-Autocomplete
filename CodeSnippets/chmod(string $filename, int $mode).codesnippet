@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>chmod ( &lt;#string $filename#&gt;, &lt;#int $mode#&gt; );</string>
+	<string>chmod(&lt;#string $filename#&gt;, &lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AB9FD4B8-03EB-4963-AB13-4A735AF7E38C</string>
 	<key>IDECodeSnippetLanguage</key>

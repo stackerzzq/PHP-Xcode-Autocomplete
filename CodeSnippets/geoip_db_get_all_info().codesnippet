@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>geoip_db_get_all_info (  );</string>
+	<string>geoip_db_get_all_info();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8BFB998E-2E33-4540-86A3-8FF5EE3ACFA7</string>
 	<key>IDECodeSnippetLanguage</key>

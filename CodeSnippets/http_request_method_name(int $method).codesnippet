@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_request_method_name ( &lt;#int $method#&gt; );</string>
+	<string>http_request_method_name(&lt;#int $method#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EC062A1D-D293-4E60-852D-C577ACED64DA</string>
 	<key>IDECodeSnippetLanguage</key>

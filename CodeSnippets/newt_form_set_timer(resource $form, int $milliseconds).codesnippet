@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_form_set_timer ( &lt;#resource $form#&gt;, &lt;#int $milliseconds#&gt; );</string>
+	<string>newt_form_set_timer(&lt;#resource $form#&gt;, &lt;#int $milliseconds#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F2BEE470-CE76-4A4C-8522-3A8CE996B83E</string>
 	<key>IDECodeSnippetLanguage</key>

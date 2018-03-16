@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_getgrgid ( &lt;#int $gid#&gt; );</string>
+	<string>posix_getgrgid(&lt;#int $gid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4DE48ACB-8CC6-48B8-83F8-7A52E040B859</string>
 	<key>IDECodeSnippetLanguage</key>

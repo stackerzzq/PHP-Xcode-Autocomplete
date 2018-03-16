@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_mvcur ( &lt;#int $old_y#&gt;, &lt;#int $old_x#&gt;, &lt;#int $new_y#&gt;, &lt;#int $new_x#&gt; );</string>
+	<string>ncurses_mvcur(&lt;#int $old_y#&gt;, &lt;#int $old_x#&gt;, &lt;#int $new_y#&gt;, &lt;#int $new_x#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>12F3E371-4BBC-453E-BCCE-2CB71A05097B</string>
 	<key>IDECodeSnippetLanguage</key>

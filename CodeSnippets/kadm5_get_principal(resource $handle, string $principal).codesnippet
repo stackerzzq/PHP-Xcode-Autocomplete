@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>kadm5_get_principal ( &lt;#resource $handle#&gt;, &lt;#string $principal#&gt; );</string>
+	<string>kadm5_get_principal(&lt;#resource $handle#&gt;, &lt;#string $principal#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3408C185-D296-4AB2-862B-F8F769D16720</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>enchant_dict_check ( &lt;#resource $dict#&gt;, &lt;#string $word#&gt; );</string>
+	<string>enchant_dict_check(&lt;#resource $dict#&gt;, &lt;#string $word#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9E86F396-C5DC-4360-87A4-730A7CE02970</string>
 	<key>IDECodeSnippetLanguage</key>

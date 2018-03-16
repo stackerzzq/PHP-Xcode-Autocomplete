@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifxus_close_slob ( &lt;#int $bid#&gt; );</string>
+	<string>ifxus_close_slob(&lt;#int $bid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D638AC28-2085-4431-85FA-229D859A67C6</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_draw_bmp ( &lt;#resource $printer_handle#&gt;, &lt;#string $filename#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt; );</string>
+	<string>printer_draw_bmp(&lt;#resource $printer_handle#&gt;, &lt;#string $filename#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8B76967D-63E2-4234-81DB-844491A8A108</string>
 	<key>IDECodeSnippetLanguage</key>

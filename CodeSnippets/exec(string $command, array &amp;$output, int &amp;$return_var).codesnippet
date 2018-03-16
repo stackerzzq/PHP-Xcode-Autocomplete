@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>exec ( &lt;#string $command#&gt;, &lt;#array &amp;$output#&gt;, &lt;#int &amp;$return_var#&gt; );</string>
+	<string>exec(&lt;#string $command#&gt;, &lt;#array &amp;$output#&gt;, &lt;#int &amp;$return_var#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1AE6FAD6-873F-466F-A5B0-BF2DBE88032A</string>
 	<key>IDECodeSnippetLanguage</key>

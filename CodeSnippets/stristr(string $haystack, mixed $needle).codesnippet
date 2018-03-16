@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stristr ( &lt;#string $haystack#&gt;, &lt;#mixed $needle#&gt; );</string>
+	<string>stristr(&lt;#string $haystack#&gt;, &lt;#mixed $needle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BEC3C93F-D162-43A2-8506-8CA84B6F45D2</string>
 	<key>IDECodeSnippetLanguage</key>

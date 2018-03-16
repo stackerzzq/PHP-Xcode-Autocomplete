@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iis_remove_server ( &lt;#int $server_instance#&gt; );</string>
+	<string>iis_remove_server(&lt;#int $server_instance#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>14C7B352-6F36-445A-9037-565F8502418A</string>
 	<key>IDECodeSnippetLanguage</key>

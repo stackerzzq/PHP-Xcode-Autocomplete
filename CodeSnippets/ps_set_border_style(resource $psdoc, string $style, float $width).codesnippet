@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_set_border_style ( &lt;#resource $psdoc#&gt;, &lt;#string $style#&gt;, &lt;#float $width#&gt; );</string>
+	<string>ps_set_border_style(&lt;#resource $psdoc#&gt;, &lt;#string $style#&gt;, &lt;#float $width#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8F2E5524-ED19-4D3A-8249-8605065C43D7</string>
 	<key>IDECodeSnippetLanguage</key>

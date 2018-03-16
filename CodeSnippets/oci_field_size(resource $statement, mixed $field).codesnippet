@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_field_size ( &lt;#resource $statement#&gt;, &lt;#mixed $field#&gt; );</string>
+	<string>oci_field_size(&lt;#resource $statement#&gt;, &lt;#mixed $field#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7F6F93D5-F8CE-4B6A-9128-A6324CE586E6</string>
 	<key>IDECodeSnippetLanguage</key>

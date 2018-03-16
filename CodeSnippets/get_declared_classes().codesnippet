@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_declared_classes (  );</string>
+	<string>get_declared_classes();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BEE18F71-C3A1-400D-81A5-493E4B1145F0</string>
 	<key>IDECodeSnippetLanguage</key>

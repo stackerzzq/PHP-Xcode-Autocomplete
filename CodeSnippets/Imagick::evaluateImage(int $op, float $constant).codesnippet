@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::evaluateImage ( &lt;#int $op#&gt;, &lt;#float $constant#&gt; );</string>
+	<string>Imagick::evaluateImage(&lt;#int $op#&gt;, &lt;#float $constant#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6656085E-9F67-48D5-8749-66C6C7226F46</string>
 	<key>IDECodeSnippetLanguage</key>

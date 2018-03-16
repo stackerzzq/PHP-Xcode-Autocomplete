@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ftp_mdtm ( &lt;#resource $ftp_stream#&gt;, &lt;#string $remote_file#&gt; );</string>
+	<string>ftp_mdtm(&lt;#resource $ftp_stream#&gt;, &lt;#string $remote_file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D5107317-9E50-4639-A59C-978D188CB610</string>
 	<key>IDECodeSnippetLanguage</key>

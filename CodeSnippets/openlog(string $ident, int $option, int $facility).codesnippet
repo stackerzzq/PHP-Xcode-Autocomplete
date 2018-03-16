@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openlog ( &lt;#string $ident#&gt;, &lt;#int $option#&gt;, &lt;#int $facility#&gt; );</string>
+	<string>openlog(&lt;#string $ident#&gt;, &lt;#int $option#&gt;, &lt;#int $facility#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>691810BF-D8D0-4676-95CB-74B3B05D915E</string>
 	<key>IDECodeSnippetLanguage</key>

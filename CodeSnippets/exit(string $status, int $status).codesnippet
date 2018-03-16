@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>exit ( &lt;#string $status#&gt;, &lt;#int $status#&gt; );</string>
+	<string>exit(&lt;#string $status#&gt;, &lt;#int $status#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3C46181C-C648-4B9E-B713-5502969F875C</string>
 	<key>IDECodeSnippetLanguage</key>

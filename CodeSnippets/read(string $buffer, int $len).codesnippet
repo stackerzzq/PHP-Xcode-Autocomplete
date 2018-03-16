@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>read ( &lt;#string $buffer#&gt;, &lt;#int $len#&gt; );</string>
+	<string>read(&lt;#string $buffer#&gt;, &lt;#int $len#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C89D6B95-4311-47D9-8DDD-9EFD55E84C43</string>
 	<key>IDECodeSnippetLanguage</key>

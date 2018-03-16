@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>tagname (  );</string>
+	<string>tagname();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6DBE2166-D530-4DBF-801C-1E80214A68A4</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ssh2_sftp_mkdir ( &lt;#resource $sftp#&gt;, &lt;#string $dirname#&gt; );</string>
+	<string>ssh2_sftp_mkdir(&lt;#resource $sftp#&gt;, &lt;#string $dirname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>03E4A1CB-7190-43A9-B756-9F15A6AB5079</string>
 	<key>IDECodeSnippetLanguage</key>

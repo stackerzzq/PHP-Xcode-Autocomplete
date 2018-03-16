@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setOption ( &lt;#string $key#&gt;, &lt;#string $value#&gt; );</string>
+	<string>Imagick::setOption(&lt;#string $key#&gt;, &lt;#string $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>021FAE64-7D47-4F7B-803F-13E4FD45100C</string>
 	<key>IDECodeSnippetLanguage</key>

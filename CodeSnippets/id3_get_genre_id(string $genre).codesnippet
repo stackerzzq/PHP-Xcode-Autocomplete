@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>id3_get_genre_id ( &lt;#string $genre#&gt; );</string>
+	<string>id3_get_genre_id(&lt;#string $genre#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6177CF57-5DD6-4296-B557-5A7E5882C740</string>
 	<key>IDECodeSnippetLanguage</key>

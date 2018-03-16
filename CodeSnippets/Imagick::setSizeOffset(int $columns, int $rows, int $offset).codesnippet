@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setSizeOffset ( &lt;#int $columns#&gt;, &lt;#int $rows#&gt;, &lt;#int $offset#&gt; );</string>
+	<string>Imagick::setSizeOffset(&lt;#int $columns#&gt;, &lt;#int $rows#&gt;, &lt;#int $offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EBC62F58-D92E-473B-A50E-33171B23AD6E</string>
 	<key>IDECodeSnippetLanguage</key>

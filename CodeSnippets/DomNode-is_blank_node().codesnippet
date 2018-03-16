@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomNode-&gt;is_blank_node (  );</string>
+	<string>DomNode-&gt;is_blank_node();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>79F638C0-CF34-4C40-B254-5CBE95342374</string>
 	<key>IDECodeSnippetLanguage</key>

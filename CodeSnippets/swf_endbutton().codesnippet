@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_endbutton (  );</string>
+	<string>swf_endbutton();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4053B41E-9830-4171-8362-EAB2649430E9</string>
 	<key>IDECodeSnippetLanguage</key>

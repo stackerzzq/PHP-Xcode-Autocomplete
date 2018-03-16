@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apache_get_modules (  );</string>
+	<string>apache_get_modules();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BF2B37BD-FF3C-4AF9-8701-34116715605E</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iis_get_server_by_path ( &lt;#string $path#&gt; );</string>
+	<string>iis_get_server_by_path(&lt;#string $path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3118529E-3129-467D-93A0-04D583A83C42</string>
 	<key>IDECodeSnippetLanguage</key>

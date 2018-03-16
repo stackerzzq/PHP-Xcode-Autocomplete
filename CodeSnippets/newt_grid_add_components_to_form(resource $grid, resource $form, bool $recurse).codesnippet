@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_grid_add_components_to_form ( &lt;#resource $grid#&gt;, &lt;#resource $form#&gt;, &lt;#bool $recurse#&gt; );</string>
+	<string>newt_grid_add_components_to_form(&lt;#resource $grid#&gt;, &lt;#resource $form#&gt;, &lt;#bool $recurse#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>367189CB-D629-4540-B688-E8E6C848E2AC</string>
 	<key>IDECodeSnippetLanguage</key>

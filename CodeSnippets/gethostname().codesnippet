@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gethostname (  );</string>
+	<string>gethostname();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ED883A28-FC87-45F5-9B2F-C5ADBD602B40</string>
 	<key>IDECodeSnippetLanguage</key>

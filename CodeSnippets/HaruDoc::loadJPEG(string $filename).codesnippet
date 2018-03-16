@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::loadJPEG ( &lt;#string $filename#&gt; );</string>
+	<string>HaruDoc::loadJPEG(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ACD127B9-26BD-43BC-8C01-CE530A1BC114</string>
 	<key>IDECodeSnippetLanguage</key>

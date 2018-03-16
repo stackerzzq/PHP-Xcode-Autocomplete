@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_listitem_set ( &lt;#resource $item#&gt;, &lt;#string $text#&gt; );</string>
+	<string>newt_listitem_set(&lt;#resource $item#&gt;, &lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2AA020FD-C2A9-4C99-8441-8CD5913422AD</string>
 	<key>IDECodeSnippetLanguage</key>

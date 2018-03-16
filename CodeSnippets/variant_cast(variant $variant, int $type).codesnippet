@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>variant_cast ( &lt;#variant $variant#&gt;, &lt;#int $type#&gt; );</string>
+	<string>variant_cast(&lt;#variant $variant#&gt;, &lt;#int $type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2C13A5A7-8A2A-4A66-9B7C-6F9F4C3B9AD8</string>
 	<key>IDECodeSnippetLanguage</key>

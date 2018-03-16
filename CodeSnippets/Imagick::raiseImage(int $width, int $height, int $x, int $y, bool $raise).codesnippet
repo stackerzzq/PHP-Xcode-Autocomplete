@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::raiseImage ( &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#bool $raise#&gt; );</string>
+	<string>Imagick::raiseImage(&lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#bool $raise#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B25B1558-E737-4C79-9CB7-00BB0246CE6F</string>
 	<key>IDECodeSnippetLanguage</key>

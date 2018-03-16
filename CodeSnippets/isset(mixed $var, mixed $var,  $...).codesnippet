@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>isset ( &lt;#mixed $var#&gt;, &lt;#mixed $var#&gt;, &lt;# $...#&gt; );</string>
+	<string>isset(&lt;#mixed $var#&gt;, &lt;#mixed $var#&gt;, &lt;# $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>97E37750-A41F-4EA3-9928-1A703D6F5D53</string>
 	<key>IDECodeSnippetLanguage</key>

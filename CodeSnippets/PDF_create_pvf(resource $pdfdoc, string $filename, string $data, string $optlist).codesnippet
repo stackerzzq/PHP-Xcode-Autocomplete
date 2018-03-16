@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_create_pvf ( &lt;#resource $pdfdoc#&gt;, &lt;#string $filename#&gt;, &lt;#string $data#&gt;, &lt;#string $optlist#&gt; );</string>
+	<string>PDF_create_pvf(&lt;#resource $pdfdoc#&gt;, &lt;#string $filename#&gt;, &lt;#string $data#&gt;, &lt;#string $optlist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A87B6927-6FE0-4DA5-A3C3-9DBE66458A70</string>
 	<key>IDECodeSnippetLanguage</key>

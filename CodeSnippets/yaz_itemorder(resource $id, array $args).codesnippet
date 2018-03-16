@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yaz_itemorder ( &lt;#resource $id#&gt;, &lt;#array $args#&gt; );</string>
+	<string>yaz_itemorder(&lt;#resource $id#&gt;, &lt;#array $args#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>89892619-9E58-4A87-9FFD-4A32440A7C2E</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_matrix_transform_distance ( &lt;#CairoMatrix $matrix#&gt;, &lt;#string $dx#&gt;, &lt;#string $dy#&gt; );</string>
+	<string>cairo_matrix_transform_distance(&lt;#CairoMatrix $matrix#&gt;, &lt;#string $dx#&gt;, &lt;#string $dy#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E4930F29-16BE-4CA9-95BF-0437CEAAD399</string>
 	<key>IDECodeSnippetLanguage</key>

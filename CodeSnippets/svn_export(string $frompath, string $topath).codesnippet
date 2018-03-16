@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_export ( &lt;#string $frompath#&gt;, &lt;#string $topath#&gt; );</string>
+	<string>svn_export(&lt;#string $frompath#&gt;, &lt;#string $topath#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7868C0CD-CB97-4A5E-9D7D-4BD12ACC5532</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__construct ( &lt;#mixed $body#&gt; );</string>
+	<string>__construct(&lt;#mixed $body#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5C53AFCB-F732-4BA9-BBB7-50B03C5EBDCE</string>
 	<key>IDECodeSnippetLanguage</key>

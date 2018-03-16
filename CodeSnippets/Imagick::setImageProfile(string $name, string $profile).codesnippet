@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setImageProfile ( &lt;#string $name#&gt;, &lt;#string $profile#&gt; );</string>
+	<string>Imagick::setImageProfile(&lt;#string $name#&gt;, &lt;#string $profile#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E93430AB-C0A8-4684-A8CB-CAA6EBBD8A4A</string>
 	<key>IDECodeSnippetLanguage</key>

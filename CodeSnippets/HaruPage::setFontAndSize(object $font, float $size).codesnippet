@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::setFontAndSize ( &lt;#object $font#&gt;, &lt;#float $size#&gt; );</string>
+	<string>HaruPage::setFontAndSize(&lt;#object $font#&gt;, &lt;#float $size#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4FFE8B00-31C9-4C3B-A179-E3C4899712F8</string>
 	<key>IDECodeSnippetLanguage</key>

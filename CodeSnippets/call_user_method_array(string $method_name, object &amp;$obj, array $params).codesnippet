@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>call_user_method_array ( &lt;#string $method_name#&gt;, &lt;#object &amp;$obj#&gt;, &lt;#array $params#&gt; );</string>
+	<string>call_user_method_array(&lt;#string $method_name#&gt;, &lt;#object &amp;$obj#&gt;, &lt;#array $params#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>194840C0-1309-4D81-9382-2B2E2A7A9F81</string>
 	<key>IDECodeSnippetLanguage</key>

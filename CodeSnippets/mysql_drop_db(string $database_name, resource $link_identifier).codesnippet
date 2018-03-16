@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysql_drop_db ( &lt;#string $database_name#&gt;, &lt;#resource $link_identifier#&gt; );</string>
+	<string>mysql_drop_db(&lt;#string $database_name#&gt;, &lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DBFA389D-66FA-49FD-BD6C-E52CB7A4B1FA</string>
 	<key>IDECodeSnippetLanguage</key>

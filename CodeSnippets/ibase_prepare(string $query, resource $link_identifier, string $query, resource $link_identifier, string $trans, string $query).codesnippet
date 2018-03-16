@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_prepare ( &lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt;, &lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt;, &lt;#string $trans#&gt;, &lt;#string $query#&gt; );</string>
+	<string>ibase_prepare(&lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt;, &lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt;, &lt;#string $trans#&gt;, &lt;#string $query#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6CC1C078-25A2-496B-AE45-043EBC59CF68</string>
 	<key>IDECodeSnippetLanguage</key>

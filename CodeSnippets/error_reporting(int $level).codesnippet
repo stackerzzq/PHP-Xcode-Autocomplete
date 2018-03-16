@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>error_reporting ( &lt;#int $level#&gt; );</string>
+	<string>error_reporting(&lt;#int $level#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>77E71997-7A89-47E6-A6DB-18D5FB64D89B</string>
 	<key>IDECodeSnippetLanguage</key>

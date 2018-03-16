@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_crc32 ( &lt;#resource $agent#&gt;, &lt;#string $str#&gt; );</string>
+	<string>udm_crc32(&lt;#resource $agent#&gt;, &lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>79E8A2F6-9AA8-4061-9831-7A28AC31BB1E</string>
 	<key>IDECodeSnippetLanguage</key>

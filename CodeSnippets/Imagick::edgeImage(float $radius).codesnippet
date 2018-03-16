@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::edgeImage ( &lt;#float $radius#&gt; );</string>
+	<string>Imagick::edgeImage(&lt;#float $radius#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C6278F63-24C2-45F6-B44D-DAAF6650B862</string>
 	<key>IDECodeSnippetLanguage</key>

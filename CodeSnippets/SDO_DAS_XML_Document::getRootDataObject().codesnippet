@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_XML_Document::getRootDataObject (  );</string>
+	<string>SDO_DAS_XML_Document::getRootDataObject();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1DBDEF06-BA00-4A8C-8C24-C90518D19902</string>
 	<key>IDECodeSnippetLanguage</key>

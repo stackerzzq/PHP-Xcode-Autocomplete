@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_stmt_data_seek ( &lt;#resource $statement#&gt;, &lt;#int $offset#&gt;, &lt;#int $offset#&gt; );</string>
+	<string>maxdb_stmt_data_seek(&lt;#resource $statement#&gt;, &lt;#int $offset#&gt;, &lt;#int $offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>75D36287-3E8A-4657-A95F-9262BFE225CE</string>
 	<key>IDECodeSnippetLanguage</key>

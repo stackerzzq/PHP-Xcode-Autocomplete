@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bcompiler_write_included_filename ( &lt;#resource $filehandle#&gt;, &lt;#string $filename#&gt; );</string>
+	<string>bcompiler_write_included_filename(&lt;#resource $filehandle#&gt;, &lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>41567B2F-4A9D-430F-B4CC-B1DD5CEB301D</string>
 	<key>IDECodeSnippetLanguage</key>

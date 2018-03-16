@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_slice ( &lt;#array $array#&gt;, &lt;#int $offset#&gt;, &lt;#int $length#&gt; );</string>
+	<string>array_slice(&lt;#array $array#&gt;, &lt;#int $offset#&gt;, &lt;#int $length#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7A4E8485-43D1-4573-A7EA-E281DB70CD68</string>
 	<key>IDECodeSnippetLanguage</key>

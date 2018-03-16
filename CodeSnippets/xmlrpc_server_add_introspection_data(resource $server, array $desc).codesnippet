@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xmlrpc_server_add_introspection_data ( &lt;#resource $server#&gt;, &lt;#array $desc#&gt; );</string>
+	<string>xmlrpc_server_add_introspection_data(&lt;#resource $server#&gt;, &lt;#array $desc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B8240E0D-552C-4F61-9771-A2B832602B32</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_class_vars ( &lt;#string $class_name#&gt; );</string>
+	<string>get_class_vars(&lt;#string $class_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D9BB92DF-F8FD-4827-9EC3-84E7E1746364</string>
 	<key>IDECodeSnippetLanguage</key>

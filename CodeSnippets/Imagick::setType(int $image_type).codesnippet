@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setType ( &lt;#int $image_type#&gt; );</string>
+	<string>Imagick::setType(&lt;#int $image_type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EDDDFE28-B431-4772-870C-A0B791A0AF14</string>
 	<key>IDECodeSnippetLanguage</key>

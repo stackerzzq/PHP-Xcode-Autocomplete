@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ming_useswfversion ( &lt;#int $version#&gt; );</string>
+	<string>ming_useswfversion(&lt;#int $version#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>665D8AB3-E3AB-49B7-B0FE-973F379C2233</string>
 	<key>IDECodeSnippetLanguage</key>

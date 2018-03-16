@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xmlrpc_is_fault ( &lt;#array $arg#&gt; );</string>
+	<string>xmlrpc_is_fault(&lt;#array $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>907CE9F0-EBD1-4F87-93D0-C4797CE82284</string>
 	<key>IDECodeSnippetLanguage</key>

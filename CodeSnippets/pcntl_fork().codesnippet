@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_fork (  );</string>
+	<string>pcntl_fork();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A1059793-1E5E-4DAF-ADBB-8082B4563AAF</string>
 	<key>IDECodeSnippetLanguage</key>

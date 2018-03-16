@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_service_detach ( &lt;#resource $service_handle#&gt; );</string>
+	<string>ibase_service_detach(&lt;#resource $service_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0CBEA53E-3687-41B7-9409-D9CFB403B2FE</string>
 	<key>IDECodeSnippetLanguage</key>

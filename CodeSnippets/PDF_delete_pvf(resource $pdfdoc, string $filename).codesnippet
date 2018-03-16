@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_delete_pvf ( &lt;#resource $pdfdoc#&gt;, &lt;#string $filename#&gt; );</string>
+	<string>PDF_delete_pvf(&lt;#resource $pdfdoc#&gt;, &lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8B834C8E-FA28-4572-BBF0-F940163289CE</string>
 	<key>IDECodeSnippetLanguage</key>

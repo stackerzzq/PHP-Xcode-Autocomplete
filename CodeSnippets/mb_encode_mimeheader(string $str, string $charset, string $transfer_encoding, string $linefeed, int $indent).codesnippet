@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_encode_mimeheader ( &lt;#string $str#&gt;, &lt;#string $charset#&gt;, &lt;#string $transfer_encoding#&gt;, &lt;#string $linefeed#&gt;, &lt;#int $indent#&gt; );</string>
+	<string>mb_encode_mimeheader(&lt;#string $str#&gt;, &lt;#string $charset#&gt;, &lt;#string $transfer_encoding#&gt;, &lt;#string $linefeed#&gt;, &lt;#int $indent#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F8B8EFA9-4721-4C99-B103-1CAAA7E50C12</string>
 	<key>IDECodeSnippetLanguage</key>

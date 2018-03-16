@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>socket_getsockname ( &lt;#resource $socket#&gt;, &lt;#string &amp;$addr#&gt;, &lt;#int &amp;$port#&gt; );</string>
+	<string>socket_getsockname(&lt;#resource $socket#&gt;, &lt;#string &amp;$addr#&gt;, &lt;#int &amp;$port#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>56EC5CBD-AC96-4A09-8AEE-04E25A87BCC6</string>
 	<key>IDECodeSnippetLanguage</key>

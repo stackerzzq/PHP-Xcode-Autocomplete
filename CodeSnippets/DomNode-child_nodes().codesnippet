@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomNode-&gt;child_nodes (  );</string>
+	<string>DomNode-&gt;child_nodes();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3F52336A-C7F9-471B-8634-91C1F3B3563C</string>
 	<key>IDECodeSnippetLanguage</key>

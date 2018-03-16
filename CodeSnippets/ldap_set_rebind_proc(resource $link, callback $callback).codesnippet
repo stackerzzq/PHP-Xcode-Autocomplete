@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_set_rebind_proc ( &lt;#resource $link#&gt;, &lt;#callback $callback#&gt; );</string>
+	<string>ldap_set_rebind_proc(&lt;#resource $link#&gt;, &lt;#callback $callback#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4B9DADD6-7C35-40D6-939F-6559032CC075</string>
 	<key>IDECodeSnippetLanguage</key>

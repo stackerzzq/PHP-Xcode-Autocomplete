@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>remove (  );</string>
+	<string>remove();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1A924244-49A5-4B93-BB8E-F4945E413B0B</string>
 	<key>IDECodeSnippetLanguage</key>

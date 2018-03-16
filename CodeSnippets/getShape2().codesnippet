@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getShape2 (  );</string>
+	<string>getShape2();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2D519799-E63C-44FE-AD3B-DF4FF556485B</string>
 	<key>IDECodeSnippetLanguage</key>

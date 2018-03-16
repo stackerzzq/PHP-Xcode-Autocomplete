@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_assume_default_colors ( &lt;#int $fg#&gt;, &lt;#int $bg#&gt; );</string>
+	<string>ncurses_assume_default_colors(&lt;#int $fg#&gt;, &lt;#int $bg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>22E5CCD7-3720-4A6A-8A59-18803BEEC15B</string>
 	<key>IDECodeSnippetLanguage</key>

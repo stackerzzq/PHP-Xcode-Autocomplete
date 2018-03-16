@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setStrokeAntialias ( &lt;#bool $stroke_antialias#&gt; );</string>
+	<string>ImagickDraw::setStrokeAntialias(&lt;#bool $stroke_antialias#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D63509EB-ED60-44F0-A611-BE2AF3812E14</string>
 	<key>IDECodeSnippetLanguage</key>

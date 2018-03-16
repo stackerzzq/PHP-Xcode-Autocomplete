@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_sqrt ( &lt;#resource $a#&gt; );</string>
+	<string>gmp_sqrt(&lt;#resource $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A69D6B90-9444-45DC-94A6-985D9E4CA00C</string>
 	<key>IDECodeSnippetLanguage</key>

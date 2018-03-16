@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>event_free ( &lt;#resource $event#&gt; );</string>
+	<string>event_free(&lt;#resource $event#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B71F7669-2B24-4413-A877-95750CCD32AC</string>
 	<key>IDECodeSnippetLanguage</key>

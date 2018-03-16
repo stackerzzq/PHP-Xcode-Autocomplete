@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_verifysslcert ( &lt;#resource $conn#&gt;, &lt;#int $tf#&gt; );</string>
+	<string>m_verifysslcert(&lt;#resource $conn#&gt;, &lt;#int $tf#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C4E13817-F290-4270-B152-18181D62A0B2</string>
 	<key>IDECodeSnippetLanguage</key>

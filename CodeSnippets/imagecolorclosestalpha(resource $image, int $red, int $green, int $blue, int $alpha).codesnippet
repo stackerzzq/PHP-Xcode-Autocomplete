@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagecolorclosestalpha ( &lt;#resource $image#&gt;, &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt;, &lt;#int $alpha#&gt; );</string>
+	<string>imagecolorclosestalpha(&lt;#resource $image#&gt;, &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt;, &lt;#int $alpha#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>55EF7E05-7E04-4041-BA84-AB9560E70893</string>
 	<key>IDECodeSnippetLanguage</key>

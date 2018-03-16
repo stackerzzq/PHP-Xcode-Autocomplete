@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_textbox_reflowed ( &lt;#int $left#&gt;, &lt;#int $top#&gt;, &lt;#char $*text#&gt;, &lt;#int $width#&gt;, &lt;#int $flex_down#&gt;, &lt;#int $flex_up#&gt;, &lt;#int $flags#&gt; );</string>
+	<string>newt_textbox_reflowed(&lt;#int $left#&gt;, &lt;#int $top#&gt;, &lt;#char $*text#&gt;, &lt;#int $width#&gt;, &lt;#int $flex_down#&gt;, &lt;#int $flex_up#&gt;, &lt;#int $flags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E44A68B5-C41D-4A11-AF9B-E8ABFC3E1E0F</string>
 	<key>IDECodeSnippetLanguage</key>

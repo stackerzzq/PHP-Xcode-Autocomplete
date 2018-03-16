@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fprintf ( &lt;#resource $handle#&gt;, &lt;#string $format#&gt;, &lt;#mixed $args#&gt;, &lt;#mixed $...#&gt; );</string>
+	<string>fprintf(&lt;#resource $handle#&gt;, &lt;#string $format#&gt;, &lt;#mixed $args#&gt;, &lt;#mixed $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B86AFCB9-801F-4938-8E4E-E79CF13A002D</string>
 	<key>IDECodeSnippetLanguage</key>

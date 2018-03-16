@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_delwin ( &lt;#resource $window#&gt; );</string>
+	<string>ncurses_delwin(&lt;#resource $window#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EA42EFD6-DD05-41AA-8B43-10C5ECB45E22</string>
 	<key>IDECodeSnippetLanguage</key>

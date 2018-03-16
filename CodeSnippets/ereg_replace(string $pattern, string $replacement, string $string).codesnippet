@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ereg_replace ( &lt;#string $pattern#&gt;, &lt;#string $replacement#&gt;, &lt;#string $string#&gt; );</string>
+	<string>ereg_replace(&lt;#string $pattern#&gt;, &lt;#string $replacement#&gt;, &lt;#string $string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>837BA293-C643-4087-BC50-787E673D0983</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_nextprime ( &lt;#int $a#&gt; );</string>
+	<string>gmp_nextprime(&lt;#int $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>198C0F0A-6902-4B9C-B97E-6D1929EE19D7</string>
 	<key>IDECodeSnippetLanguage</key>

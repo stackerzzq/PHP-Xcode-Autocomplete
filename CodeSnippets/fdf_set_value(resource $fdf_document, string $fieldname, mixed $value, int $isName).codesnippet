@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_set_value ( &lt;#resource $fdf_document#&gt;, &lt;#string $fieldname#&gt;, &lt;#mixed $value#&gt;, &lt;#int $isName#&gt; );</string>
+	<string>fdf_set_value(&lt;#resource $fdf_document#&gt;, &lt;#string $fieldname#&gt;, &lt;#mixed $value#&gt;, &lt;#int $isName#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C5223B96-EDD8-4023-B0A3-897A78BD9A51</string>
 	<key>IDECodeSnippetLanguage</key>

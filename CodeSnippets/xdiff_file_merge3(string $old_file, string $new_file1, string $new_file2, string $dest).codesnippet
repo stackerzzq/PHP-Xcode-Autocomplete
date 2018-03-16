@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xdiff_file_merge3 ( &lt;#string $old_file#&gt;, &lt;#string $new_file1#&gt;, &lt;#string $new_file2#&gt;, &lt;#string $dest#&gt; );</string>
+	<string>xdiff_file_merge3(&lt;#string $old_file#&gt;, &lt;#string $new_file1#&gt;, &lt;#string $new_file2#&gt;, &lt;#string $dest#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>61904A7E-D9E9-4BCA-A35F-E1A8101C8905</string>
 	<key>IDECodeSnippetLanguage</key>

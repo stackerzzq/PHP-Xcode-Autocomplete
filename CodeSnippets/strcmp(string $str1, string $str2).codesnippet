@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>strcmp ( &lt;#string $str1#&gt;, &lt;#string $str2#&gt; );</string>
+	<string>strcmp(&lt;#string $str1#&gt;, &lt;#string $str2#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>77CE6DFE-FD99-4ED4-89B8-3DE8CEA52C7B</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_binary ( &lt;#string $string#&gt; );</string>
+	<string>imap_binary(&lt;#string $string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DF9AB190-E71B-49DC-9C09-A4AB1B62CD68</string>
 	<key>IDECodeSnippetLanguage</key>

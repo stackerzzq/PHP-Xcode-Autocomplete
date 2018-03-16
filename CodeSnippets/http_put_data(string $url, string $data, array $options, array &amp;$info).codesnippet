@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_put_data ( &lt;#string $url#&gt;, &lt;#string $data#&gt;, &lt;#array $options#&gt;, &lt;#array &amp;$info#&gt; );</string>
+	<string>http_put_data(&lt;#string $url#&gt;, &lt;#string $data#&gt;, &lt;#array $options#&gt;, &lt;#array &amp;$info#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>41619378-D553-4D9E-9754-05A681600945</string>
 	<key>IDECodeSnippetLanguage</key>

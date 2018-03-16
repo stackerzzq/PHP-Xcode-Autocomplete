@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sybase_free_result ( &lt;#resource $result#&gt; );</string>
+	<string>sybase_free_result(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B5077CEC-FF66-416D-815C-450C7A93328B</string>
 	<key>IDECodeSnippetLanguage</key>

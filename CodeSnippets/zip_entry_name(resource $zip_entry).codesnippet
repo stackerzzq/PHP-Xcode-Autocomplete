@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>zip_entry_name ( &lt;#resource $zip_entry#&gt; );</string>
+	<string>zip_entry_name(&lt;#resource $zip_entry#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7DA998F1-500E-4D81-880E-3EA300599C2E</string>
 	<key>IDECodeSnippetLanguage</key>

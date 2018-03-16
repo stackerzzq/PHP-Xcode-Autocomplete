@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_random_pseudo_bytes ( &lt;#string $length#&gt;, &lt;#string $strong#&gt; );</string>
+	<string>openssl_random_pseudo_bytes(&lt;#string $length#&gt;, &lt;#string $strong#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3B4D223D-21F7-4397-AAFE-DC1C403AA1E8</string>
 	<key>IDECodeSnippetLanguage</key>

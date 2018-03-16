@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SwishResults-&gt;getRemovedStopwords ( &lt;#string $index_name#&gt; );</string>
+	<string>SwishResults-&gt;getRemovedStopwords(&lt;#string $index_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F6EA882F-75BE-4206-81CA-F5830EB6FB1F</string>
 	<key>IDECodeSnippetLanguage</key>

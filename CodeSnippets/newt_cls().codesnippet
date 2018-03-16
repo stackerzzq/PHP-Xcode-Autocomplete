@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_cls (  );</string>
+	<string>newt_cls();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>826E60D8-6210-4060-9389-EB4A1E0773C8</string>
 	<key>IDECodeSnippetLanguage</key>

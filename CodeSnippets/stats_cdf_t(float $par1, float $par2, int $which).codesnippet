@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_cdf_t ( &lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#int $which#&gt; );</string>
+	<string>stats_cdf_t(&lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#int $which#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>99BE5781-C9CB-40B3-B06A-04F528269AFA</string>
 	<key>IDECodeSnippetLanguage</key>

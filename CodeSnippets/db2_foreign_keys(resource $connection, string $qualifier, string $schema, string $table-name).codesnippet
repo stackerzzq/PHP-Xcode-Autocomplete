@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_foreign_keys ( &lt;#resource $connection#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $schema#&gt;, &lt;#string $table-name#&gt; );</string>
+	<string>db2_foreign_keys(&lt;#resource $connection#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $schema#&gt;, &lt;#string $table-name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C8A384F2-A8F8-44AB-B2B2-48035378D055</string>
 	<key>IDECodeSnippetLanguage</key>

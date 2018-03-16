@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_kurtosis ( &lt;#array $a#&gt; );</string>
+	<string>stats_kurtosis(&lt;#array $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C69525A0-6A65-4CF6-94D8-15EC00030E2B</string>
 	<key>IDECodeSnippetLanguage</key>

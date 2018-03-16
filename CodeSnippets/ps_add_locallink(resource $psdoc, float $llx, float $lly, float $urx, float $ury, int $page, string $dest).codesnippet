@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_add_locallink ( &lt;#resource $psdoc#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt;, &lt;#int $page#&gt;, &lt;#string $dest#&gt; );</string>
+	<string>ps_add_locallink(&lt;#resource $psdoc#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt;, &lt;#int $page#&gt;, &lt;#string $dest#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>76B6FD73-A57C-429F-B185-EE7752450174</string>
 	<key>IDECodeSnippetLanguage</key>

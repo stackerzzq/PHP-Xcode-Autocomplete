@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fam_pending ( &lt;#resource $fam#&gt; );</string>
+	<string>fam_pending(&lt;#resource $fam#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EBB4ED24-DD8B-4A0C-BE3C-14F6F1562617</string>
 	<key>IDECodeSnippetLanguage</key>

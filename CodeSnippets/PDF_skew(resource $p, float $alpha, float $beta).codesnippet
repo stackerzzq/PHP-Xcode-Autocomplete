@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_skew ( &lt;#resource $p#&gt;, &lt;#float $alpha#&gt;, &lt;#float $beta#&gt; );</string>
+	<string>PDF_skew(&lt;#resource $p#&gt;, &lt;#float $alpha#&gt;, &lt;#float $beta#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A4F428E4-EB8F-4A4C-85B0-6C87A2333FC9</string>
 	<key>IDECodeSnippetLanguage</key>

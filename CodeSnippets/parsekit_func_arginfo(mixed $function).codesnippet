@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>parsekit_func_arginfo ( &lt;#mixed $function#&gt; );</string>
+	<string>parsekit_func_arginfo(&lt;#mixed $function#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7153BE55-8E79-4386-B211-A2F50BA9246A</string>
 	<key>IDECodeSnippetLanguage</key>

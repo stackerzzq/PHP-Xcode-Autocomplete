@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_map ( &lt;#callback $callback#&gt;, &lt;#array $arr1#&gt;, &lt;#array $...#&gt; );</string>
+	<string>array_map(&lt;#callback $callback#&gt;, &lt;#array $arr1#&gt;, &lt;#array $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DD3F9E76-4C1F-48E0-9157-F2697B9336D4</string>
 	<key>IDECodeSnippetLanguage</key>

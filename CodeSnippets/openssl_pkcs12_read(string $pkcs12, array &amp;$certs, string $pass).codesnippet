@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_pkcs12_read ( &lt;#string $pkcs12#&gt;, &lt;#array &amp;$certs#&gt;, &lt;#string $pass#&gt; );</string>
+	<string>openssl_pkcs12_read(&lt;#string $pkcs12#&gt;, &lt;#array &amp;$certs#&gt;, &lt;#string $pass#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C47B3040-6AB6-4748-A43A-48A80AAA3C79</string>
 	<key>IDECodeSnippetLanguage</key>

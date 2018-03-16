@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::setLineCap ( &lt;#int $cap#&gt; );</string>
+	<string>HaruPage::setLineCap(&lt;#int $cap#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D013181A-52AA-4956-AD68-5947096D1068</string>
 	<key>IDECodeSnippetLanguage</key>

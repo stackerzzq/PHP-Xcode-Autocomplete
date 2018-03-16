@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mssql_query ( &lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt; );</string>
+	<string>mssql_query(&lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E16258B6-62CA-473B-9C7D-6826EF17CDC5</string>
 	<key>IDECodeSnippetLanguage</key>

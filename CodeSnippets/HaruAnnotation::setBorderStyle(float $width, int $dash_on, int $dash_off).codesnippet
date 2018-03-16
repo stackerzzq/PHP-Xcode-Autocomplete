@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruAnnotation::setBorderStyle ( &lt;#float $width#&gt;, &lt;#int $dash_on#&gt;, &lt;#int $dash_off#&gt; );</string>
+	<string>HaruAnnotation::setBorderStyle(&lt;#float $width#&gt;, &lt;#int $dash_on#&gt;, &lt;#int $dash_off#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9D00B8D1-0BD8-4753-B619-5AD64613773E</string>
 	<key>IDECodeSnippetLanguage</key>

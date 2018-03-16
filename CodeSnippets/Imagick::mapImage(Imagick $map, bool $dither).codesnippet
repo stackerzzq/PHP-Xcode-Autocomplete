@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::mapImage ( &lt;#Imagick $map#&gt;, &lt;#bool $dither#&gt; );</string>
+	<string>Imagick::mapImage(&lt;#Imagick $map#&gt;, &lt;#bool $dither#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C23120FE-4F6A-4EDE-ACC3-7E73A716B65E</string>
 	<key>IDECodeSnippetLanguage</key>

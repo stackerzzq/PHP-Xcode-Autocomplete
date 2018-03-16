@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_request ( &lt;#int $method#&gt;, &lt;#string $url#&gt;, &lt;#string $body#&gt;, &lt;#array $options#&gt;, &lt;#array &amp;$info#&gt; );</string>
+	<string>http_request(&lt;#int $method#&gt;, &lt;#string $url#&gt;, &lt;#string $body#&gt;, &lt;#array $options#&gt;, &lt;#array &amp;$info#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B63AD283-A15F-445E-B2BB-1BD3CD405FCB</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>import_request_variables ( &lt;#string $types#&gt;, &lt;#string $prefix#&gt; );</string>
+	<string>import_request_variables(&lt;#string $types#&gt;, &lt;#string $prefix#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>66F79399-AE99-4D26-98A3-6D2297F6636E</string>
 	<key>IDECodeSnippetLanguage</key>

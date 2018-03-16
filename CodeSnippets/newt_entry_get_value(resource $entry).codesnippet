@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_entry_get_value ( &lt;#resource $entry#&gt; );</string>
+	<string>newt_entry_get_value(&lt;#resource $entry#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>996A2FBD-8B99-40D5-9F4E-8FA65C64BB38</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>umask ( &lt;#int $mask#&gt; );</string>
+	<string>umask(&lt;#int $mask#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>99BD75A5-34A4-46DA-B393-7594EF8F9B9F</string>
 	<key>IDECodeSnippetLanguage</key>

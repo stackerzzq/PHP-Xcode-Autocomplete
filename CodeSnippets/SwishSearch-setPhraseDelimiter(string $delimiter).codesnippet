@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SwishSearch-&gt;setPhraseDelimiter ( &lt;#string $delimiter#&gt; );</string>
+	<string>SwishSearch-&gt;setPhraseDelimiter(&lt;#string $delimiter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>835D74E6-D401-4529-8D31-68C7E41E5978</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_strerror ( &lt;#int $errno#&gt; );</string>
+	<string>posix_strerror(&lt;#int $errno#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FCC58857-EEB1-4E9D-89A0-4671250532F5</string>
 	<key>IDECodeSnippetLanguage</key>

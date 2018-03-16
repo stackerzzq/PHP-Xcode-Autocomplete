@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_ps_surface_set_size ( &lt;#CairoPsSurface $surface#&gt;, &lt;#string $width#&gt;, &lt;#string $height#&gt; );</string>
+	<string>cairo_ps_surface_set_size(&lt;#CairoPsSurface $surface#&gt;, &lt;#string $width#&gt;, &lt;#string $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D882892E-B73A-4355-A7BD-2E6F8A14244B</string>
 	<key>IDECodeSnippetLanguage</key>

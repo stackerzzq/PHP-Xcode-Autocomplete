@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_wattroff ( &lt;#resource $window#&gt;, &lt;#int $attrs#&gt; );</string>
+	<string>ncurses_wattroff(&lt;#resource $window#&gt;, &lt;#int $attrs#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6A537F0B-F904-4114-90A0-285A11BBB0E1</string>
 	<key>IDECodeSnippetLanguage</key>

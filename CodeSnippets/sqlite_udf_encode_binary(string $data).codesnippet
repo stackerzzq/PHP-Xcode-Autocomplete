@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_udf_encode_binary ( &lt;#string $data#&gt; );</string>
+	<string>sqlite_udf_encode_binary(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>979F8864-8D11-4319-9117-8BF86AB350BA</string>
 	<key>IDECodeSnippetLanguage</key>

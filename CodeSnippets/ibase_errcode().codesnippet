@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_errcode (  );</string>
+	<string>ibase_errcode();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>58A089A0-CAEF-446C-9430-315657448363</string>
 	<key>IDECodeSnippetLanguage</key>

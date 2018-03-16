@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openal_buffer_loadwav ( &lt;#resource $buffer#&gt;, &lt;#string $wavfile#&gt; );</string>
+	<string>openal_buffer_loadwav(&lt;#resource $buffer#&gt;, &lt;#string $wavfile#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C92A1AE0-F569-496D-9EEB-2C94556DB3B4</string>
 	<key>IDECodeSnippetLanguage</key>

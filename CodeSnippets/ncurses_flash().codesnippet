@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_flash (  );</string>
+	<string>ncurses_flash();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AE715B56-2507-4CF3-B017-918984832134</string>
 	<key>IDECodeSnippetLanguage</key>

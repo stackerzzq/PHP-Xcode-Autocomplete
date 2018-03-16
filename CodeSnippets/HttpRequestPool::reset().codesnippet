@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequestPool::reset (  );</string>
+	<string>HttpRequestPool::reset();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>184783CA-A006-4305-BF42-3E2790C295B7</string>
 	<key>IDECodeSnippetLanguage</key>

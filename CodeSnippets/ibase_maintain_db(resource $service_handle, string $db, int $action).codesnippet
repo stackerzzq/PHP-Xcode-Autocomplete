@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_maintain_db ( &lt;#resource $service_handle#&gt;, &lt;#string $db#&gt;, &lt;#int $action#&gt; );</string>
+	<string>ibase_maintain_db(&lt;#resource $service_handle#&gt;, &lt;#string $db#&gt;, &lt;#int $action#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D8440B79-50CE-4BDE-81E1-2E9E7F681CD0</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>class_alias ( &lt;#string $original#&gt;, &lt;#string $alias#&gt; );</string>
+	<string>class_alias(&lt;#string $original#&gt;, &lt;#string $alias#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D19527C5-C1C4-4C84-BFAC-B348EBD150CE</string>
 	<key>IDECodeSnippetLanguage</key>

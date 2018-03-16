@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_rand_gen_f ( &lt;#float $dfn#&gt;, &lt;#float $dfd#&gt; );</string>
+	<string>stats_rand_gen_f(&lt;#float $dfn#&gt;, &lt;#float $dfd#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>55CF793D-B7C3-4EE4-B879-6F5495DBD724</string>
 	<key>IDECodeSnippetLanguage</key>

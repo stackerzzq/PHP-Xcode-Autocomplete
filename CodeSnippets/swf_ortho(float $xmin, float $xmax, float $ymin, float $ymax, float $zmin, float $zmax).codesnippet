@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_ortho ( &lt;#float $xmin#&gt;, &lt;#float $xmax#&gt;, &lt;#float $ymin#&gt;, &lt;#float $ymax#&gt;, &lt;#float $zmin#&gt;, &lt;#float $zmax#&gt; );</string>
+	<string>swf_ortho(&lt;#float $xmin#&gt;, &lt;#float $xmax#&gt;, &lt;#float $ymin#&gt;, &lt;#float $ymax#&gt;, &lt;#float $zmin#&gt;, &lt;#float $zmax#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>807C2FF4-116A-40FB-8F63-3B48D1D52F56</string>
 	<key>IDECodeSnippetLanguage</key>

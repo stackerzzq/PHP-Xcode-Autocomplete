@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setDepth ( &lt;#int $depth#&gt; );</string>
+	<string>setDepth(&lt;#int $depth#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0339C62F-C528-4DFA-B997-7978BC6024CE</string>
 	<key>IDECodeSnippetLanguage</key>

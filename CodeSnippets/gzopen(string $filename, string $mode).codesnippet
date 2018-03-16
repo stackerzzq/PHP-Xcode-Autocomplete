@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gzopen ( &lt;#string $filename#&gt;, &lt;#string $mode#&gt; );</string>
+	<string>gzopen(&lt;#string $filename#&gt;, &lt;#string $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>52F578AA-FA68-4566-9850-C9CE90879B94</string>
 	<key>IDECodeSnippetLanguage</key>

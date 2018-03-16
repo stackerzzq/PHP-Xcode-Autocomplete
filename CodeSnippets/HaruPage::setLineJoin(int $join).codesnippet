@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::setLineJoin ( &lt;#int $join#&gt; );</string>
+	<string>HaruPage::setLineJoin(&lt;#int $join#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D439315B-3A63-4842-9E0E-5829F072941C</string>
 	<key>IDECodeSnippetLanguage</key>

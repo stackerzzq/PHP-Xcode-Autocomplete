@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>srand ( &lt;#int $seed#&gt; );</string>
+	<string>srand(&lt;#int $seed#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0561E193-957B-4695-AACB-6944A73C8ECD</string>
 	<key>IDECodeSnippetLanguage</key>

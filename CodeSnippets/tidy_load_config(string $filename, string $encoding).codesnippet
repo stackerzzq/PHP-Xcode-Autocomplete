@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>tidy_load_config ( &lt;#string $filename#&gt;, &lt;#string $encoding#&gt; );</string>
+	<string>tidy_load_config(&lt;#string $filename#&gt;, &lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6456441A-6C39-47A5-847B-C816D3E7BD1E</string>
 	<key>IDECodeSnippetLanguage</key>

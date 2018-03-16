@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>crack_getlastmessage (  );</string>
+	<string>crack_getlastmessage();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2B44C895-CCE7-465A-A1F5-A250D0CA1015</string>
 	<key>IDECodeSnippetLanguage</key>

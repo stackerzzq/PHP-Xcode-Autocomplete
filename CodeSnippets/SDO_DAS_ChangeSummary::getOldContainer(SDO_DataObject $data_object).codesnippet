@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_ChangeSummary::getOldContainer ( &lt;#SDO_DataObject $data_object#&gt; );</string>
+	<string>SDO_DAS_ChangeSummary::getOldContainer(&lt;#SDO_DataObject $data_object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6CD96C26-305F-42CC-9398-56B55D3A0320</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_mkdir ( &lt;#string $path#&gt; );</string>
+	<string>svn_mkdir(&lt;#string $path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FFA58B48-1644-434E-B7A8-F38C846D3CDD</string>
 	<key>IDECodeSnippetLanguage</key>

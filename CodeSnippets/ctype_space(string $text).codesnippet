@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ctype_space ( &lt;#string $text#&gt; );</string>
+	<string>ctype_space(&lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>10E5A84D-18BD-4ACF-B85A-9E52E81B210F</string>
 	<key>IDECodeSnippetLanguage</key>

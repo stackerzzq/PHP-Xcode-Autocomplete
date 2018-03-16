@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>domxml_xslt_version (  );</string>
+	<string>domxml_xslt_version();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D3F1824D-4582-4E9E-9098-0F46976FF61F</string>
 	<key>IDECodeSnippetLanguage</key>

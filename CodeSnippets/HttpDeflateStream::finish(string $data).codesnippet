@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpDeflateStream::finish ( &lt;#string $data#&gt; );</string>
+	<string>HttpDeflateStream::finish(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>64E483AA-053E-4D56-8CB1-47638317A4C4</string>
 	<key>IDECodeSnippetLanguage</key>

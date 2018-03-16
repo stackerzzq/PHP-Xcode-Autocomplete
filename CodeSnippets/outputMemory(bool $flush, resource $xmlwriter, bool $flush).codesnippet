@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>outputMemory ( &lt;#bool $flush#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#bool $flush#&gt; );</string>
+	<string>outputMemory(&lt;#bool $flush#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#bool $flush#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FAB96B25-9D1E-473C-B9D5-27DF71213A2E</string>
 	<key>IDECodeSnippetLanguage</key>

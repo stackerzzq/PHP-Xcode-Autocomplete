@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::enhanceImage (  );</string>
+	<string>Imagick::enhanceImage();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>62E55CD8-9EC3-42A8-9E0E-35B7CAF651B5</string>
 	<key>IDECodeSnippetLanguage</key>

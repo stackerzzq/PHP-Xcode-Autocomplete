@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_deflate ( &lt;#string $data#&gt; );</string>
+	<string>http_deflate(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>730C23C7-4EAD-4988-AD40-2FBC62203D11</string>
 	<key>IDECodeSnippetLanguage</key>

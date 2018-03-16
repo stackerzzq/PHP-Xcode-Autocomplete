@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>readdir ( &lt;#resource $dir_handle#&gt; );</string>
+	<string>readdir(&lt;#resource $dir_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>87D38682-3FD1-47BD-B27A-5019B84AB324</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_error_string ( &lt;#int $error_code#&gt; );</string>
+	<string>sqlite_error_string(&lt;#int $error_code#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C3363786-0C0C-41AC-865B-E61B7E590C97</string>
 	<key>IDECodeSnippetLanguage</key>

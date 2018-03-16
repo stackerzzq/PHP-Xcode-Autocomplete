@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_ps_surface_dsc_comment ( &lt;#CairoPsSurface $surface#&gt;, &lt;#string $comment#&gt; );</string>
+	<string>cairo_ps_surface_dsc_comment(&lt;#CairoPsSurface $surface#&gt;, &lt;#string $comment#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6831585E-3B7F-491E-BBEC-B11631D472FC</string>
 	<key>IDECodeSnippetLanguage</key>

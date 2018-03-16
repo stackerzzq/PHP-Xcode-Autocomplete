@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>uasort ( &lt;#array &amp;$array#&gt;, &lt;#callback $cmp_function#&gt; );</string>
+	<string>uasort(&lt;#array &amp;$array#&gt;, &lt;#callback $cmp_function#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>97233CAE-6013-4015-8921-0413AB60E70E</string>
 	<key>IDECodeSnippetLanguage</key>

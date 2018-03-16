@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequest::getHeaders (  );</string>
+	<string>HttpRequest::getHeaders();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DABCBE64-7343-4B2F-8637-B52E9A2A29A0</string>
 	<key>IDECodeSnippetLanguage</key>

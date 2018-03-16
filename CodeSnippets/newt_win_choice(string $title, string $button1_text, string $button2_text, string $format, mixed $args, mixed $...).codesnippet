@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_win_choice ( &lt;#string $title#&gt;, &lt;#string $button1_text#&gt;, &lt;#string $button2_text#&gt;, &lt;#string $format#&gt;, &lt;#mixed $args#&gt;, &lt;#mixed $...#&gt; );</string>
+	<string>newt_win_choice(&lt;#string $title#&gt;, &lt;#string $button1_text#&gt;, &lt;#string $button2_text#&gt;, &lt;#string $format#&gt;, &lt;#mixed $args#&gt;, &lt;#mixed $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FF82858C-4321-4E90-95EB-C5A2A199848D</string>
 	<key>IDECodeSnippetLanguage</key>

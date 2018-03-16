@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>px_set_blob_file ( &lt;#resource $pxdoc#&gt;, &lt;#string $filename#&gt; );</string>
+	<string>px_set_blob_file(&lt;#resource $pxdoc#&gt;, &lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B76E0333-C191-4346-B9AA-10E15C5063EE</string>
 	<key>IDECodeSnippetLanguage</key>

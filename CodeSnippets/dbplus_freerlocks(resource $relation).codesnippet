@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_freerlocks ( &lt;#resource $relation#&gt; );</string>
+	<string>dbplus_freerlocks(&lt;#resource $relation#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4B1CC57E-5A77-478D-AFD0-1A5C2F7D3EDD</string>
 	<key>IDECodeSnippetLanguage</key>

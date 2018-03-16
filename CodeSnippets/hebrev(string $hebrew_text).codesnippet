@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hebrev ( &lt;#string $hebrew_text#&gt; );</string>
+	<string>hebrev(&lt;#string $hebrew_text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>34A4FDFC-FA19-403A-A09D-68172C5E7EB3</string>
 	<key>IDECodeSnippetLanguage</key>

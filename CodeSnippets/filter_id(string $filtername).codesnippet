@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>filter_id ( &lt;#string $filtername#&gt; );</string>
+	<string>filter_id(&lt;#string $filtername#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B29165F6-0B2D-402D-9C47-1EF0FD3E60B8</string>
 	<key>IDECodeSnippetLanguage</key>

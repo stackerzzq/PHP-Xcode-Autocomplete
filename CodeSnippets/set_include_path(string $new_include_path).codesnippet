@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>set_include_path ( &lt;#string $new_include_path#&gt; );</string>
+	<string>set_include_path(&lt;#string $new_include_path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>68CE2E53-E28A-46CA-9F8F-31ABD575F2A5</string>
 	<key>IDECodeSnippetLanguage</key>

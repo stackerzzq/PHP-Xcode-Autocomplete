@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_client_version (  );</string>
+	<string>svn_client_version();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>86EB9BED-9E2E-429D-AB80-72B3263D63D3</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_bucket_new ( &lt;#resource $stream#&gt;, &lt;#string $buffer#&gt; );</string>
+	<string>stream_bucket_new(&lt;#resource $stream#&gt;, &lt;#string $buffer#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>193D4C94-87AE-4C15-B322-3905903D9344</string>
 	<key>IDECodeSnippetLanguage</key>

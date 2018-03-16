@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ming_keypress ( &lt;#string $char#&gt; );</string>
+	<string>ming_keypress(&lt;#string $char#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>041E5BEC-2A69-4B3B-A4D8-65E3A8C4096A</string>
 	<key>IDECodeSnippetLanguage</key>

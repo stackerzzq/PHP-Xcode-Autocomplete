@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::mergeImageLayers ( &lt;#int $layer_method#&gt; );</string>
+	<string>Imagick::mergeImageLayers(&lt;#int $layer_method#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6FDA5DBA-6666-480D-AC6F-A23266A3BBAB</string>
 	<key>IDECodeSnippetLanguage</key>

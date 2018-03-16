@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_open_ccitt ( &lt;#resource $pdfdoc#&gt;, &lt;#string $filename#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $BitReverse#&gt;, &lt;#int $k#&gt;, &lt;#int $Blackls1#&gt; );</string>
+	<string>PDF_open_ccitt(&lt;#resource $pdfdoc#&gt;, &lt;#string $filename#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $BitReverse#&gt;, &lt;#int $k#&gt;, &lt;#int $Blackls1#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>41F50FE7-36AB-4F97-A3D7-9BD4748F7B6B</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>print_r ( &lt;#mixed $expression#&gt; );</string>
+	<string>print_r(&lt;#mixed $expression#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8A3C37B0-1AF8-4D70-99B4-8D96A5A25EE5</string>
 	<key>IDECodeSnippetLanguage</key>

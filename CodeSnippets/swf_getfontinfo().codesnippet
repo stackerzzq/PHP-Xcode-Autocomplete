@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_getfontinfo (  );</string>
+	<string>swf_getfontinfo();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1F0F1534-1E6D-436D-B923-AD745F953CF5</string>
 	<key>IDECodeSnippetLanguage</key>

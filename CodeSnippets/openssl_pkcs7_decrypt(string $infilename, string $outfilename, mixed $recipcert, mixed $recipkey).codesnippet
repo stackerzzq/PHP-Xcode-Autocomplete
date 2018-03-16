@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_pkcs7_decrypt ( &lt;#string $infilename#&gt;, &lt;#string $outfilename#&gt;, &lt;#mixed $recipcert#&gt;, &lt;#mixed $recipkey#&gt; );</string>
+	<string>openssl_pkcs7_decrypt(&lt;#string $infilename#&gt;, &lt;#string $outfilename#&gt;, &lt;#mixed $recipcert#&gt;, &lt;#mixed $recipkey#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1C2EE68D-3919-499D-A655-2A2BD9085F94</string>
 	<key>IDECodeSnippetLanguage</key>

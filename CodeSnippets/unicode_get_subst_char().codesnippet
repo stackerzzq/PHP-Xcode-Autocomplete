@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>unicode_get_subst_char (  );</string>
+	<string>unicode_get_subst_char();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9970007B-E78E-4A6A-8177-BC5238BC8BE8</string>
 	<key>IDECodeSnippetLanguage</key>

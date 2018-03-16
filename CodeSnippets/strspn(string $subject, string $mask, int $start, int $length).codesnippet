@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>strspn ( &lt;#string $subject#&gt;, &lt;#string $mask#&gt;, &lt;#int $start#&gt;, &lt;#int $length#&gt; );</string>
+	<string>strspn(&lt;#string $subject#&gt;, &lt;#string $mask#&gt;, &lt;#int $start#&gt;, &lt;#int $length#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8A11154E-69D8-456F-88BF-9CBAAAB0D08B</string>
 	<key>IDECodeSnippetLanguage</key>

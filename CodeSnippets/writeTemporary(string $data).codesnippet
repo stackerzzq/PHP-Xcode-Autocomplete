@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>writeTemporary ( &lt;#string $data#&gt; );</string>
+	<string>writeTemporary(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>51472254-4D12-4AF5-AD9C-88B80944B831</string>
 	<key>IDECodeSnippetLanguage</key>

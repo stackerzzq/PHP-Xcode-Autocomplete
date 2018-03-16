@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getCurrentPos (  );</string>
+	<string>HaruPage::getCurrentPos();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8FA1F564-8A86-440A-87C6-FD259063E771</string>
 	<key>IDECodeSnippetLanguage</key>

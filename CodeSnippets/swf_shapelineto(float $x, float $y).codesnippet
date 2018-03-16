@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_shapelineto ( &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>swf_shapelineto(&lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F40C4DF2-0411-49A7-A3E0-D2891C1C0450</string>
 	<key>IDECodeSnippetLanguage</key>

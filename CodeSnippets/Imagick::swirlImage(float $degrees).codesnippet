@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::swirlImage ( &lt;#float $degrees#&gt; );</string>
+	<string>Imagick::swirlImage(&lt;#float $degrees#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8C6C6896-0DB3-4358-A912-1BEC2094C5B9</string>
 	<key>IDECodeSnippetLanguage</key>

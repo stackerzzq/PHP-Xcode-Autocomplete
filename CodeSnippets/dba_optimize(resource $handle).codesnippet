@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dba_optimize ( &lt;#resource $handle#&gt; );</string>
+	<string>dba_optimize(&lt;#resource $handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7F3B78C5-2EE7-4334-8B1C-21C415982532</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::textRect ( &lt;#float $left#&gt;, &lt;#float $top#&gt;, &lt;#float $right#&gt;, &lt;#float $bottom#&gt;, &lt;#string $text#&gt; );</string>
+	<string>HaruPage::textRect(&lt;#float $left#&gt;, &lt;#float $top#&gt;, &lt;#float $right#&gt;, &lt;#float $bottom#&gt;, &lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>27D9FA53-CE20-4EB3-8A6A-7F59CEDB5F50</string>
 	<key>IDECodeSnippetLanguage</key>

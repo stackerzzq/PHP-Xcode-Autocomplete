@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getXScale (  );</string>
+	<string>getXScale();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9D63D807-4914-4FF2-A70C-76A44C2797AE</string>
 	<key>IDECodeSnippetLanguage</key>

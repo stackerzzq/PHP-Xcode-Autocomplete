@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_start_tls ( &lt;#resource $link#&gt; );</string>
+	<string>ldap_start_tls(&lt;#resource $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BA2EE8DC-232A-4B4D-B447-7D7269F5DD35</string>
 	<key>IDECodeSnippetLanguage</key>

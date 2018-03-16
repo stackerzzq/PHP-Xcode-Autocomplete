@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_definepoly ( &lt;#int $objid#&gt;, &lt;#array $coords#&gt;, &lt;#int $npoints#&gt;, &lt;#float $width#&gt; );</string>
+	<string>swf_definepoly(&lt;#int $objid#&gt;, &lt;#array $coords#&gt;, &lt;#int $npoints#&gt;, &lt;#float $width#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CD097C3D-E985-4B93-8FB5-C5C4AB6E8990</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_lo_tell ( &lt;#resource $large_object#&gt; );</string>
+	<string>pg_lo_tell(&lt;#resource $large_object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>348C0FA3-92B9-4F1F-9E82-1E5571430EB0</string>
 	<key>IDECodeSnippetLanguage</key>

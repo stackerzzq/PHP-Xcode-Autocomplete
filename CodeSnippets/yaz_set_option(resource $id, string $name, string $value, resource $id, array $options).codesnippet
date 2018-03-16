@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yaz_set_option ( &lt;#resource $id#&gt;, &lt;#string $name#&gt;, &lt;#string $value#&gt;, &lt;#resource $id#&gt;, &lt;#array $options#&gt; );</string>
+	<string>yaz_set_option(&lt;#resource $id#&gt;, &lt;#string $name#&gt;, &lt;#string $value#&gt;, &lt;#resource $id#&gt;, &lt;#array $options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>063AFD9D-42D9-40DD-AAC1-67BFFBF88DD9</string>
 	<key>IDECodeSnippetLanguage</key>

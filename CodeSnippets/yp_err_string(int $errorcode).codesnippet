@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yp_err_string ( &lt;#int $errorcode#&gt; );</string>
+	<string>yp_err_string(&lt;#int $errorcode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2E5C608D-717F-45A6-B33E-A4CDD8F6F9E5</string>
 	<key>IDECodeSnippetLanguage</key>

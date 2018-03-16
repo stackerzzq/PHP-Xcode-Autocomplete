@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysql_connect (  );</string>
+	<string>mysql_connect();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3B527459-E066-44BC-99E8-F62990C84BCF</string>
 	<key>IDECodeSnippetLanguage</key>

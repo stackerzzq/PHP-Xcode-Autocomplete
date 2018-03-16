@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>filemtime ( &lt;#string $filename#&gt; );</string>
+	<string>filemtime(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5BE033D7-074D-40BA-A84B-F0012DC6A28E</string>
 	<key>IDECodeSnippetLanguage</key>

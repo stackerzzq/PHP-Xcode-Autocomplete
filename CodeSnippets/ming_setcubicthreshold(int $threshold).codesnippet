@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ming_setcubicthreshold ( &lt;#int $threshold#&gt; );</string>
+	<string>ming_setcubicthreshold(&lt;#int $threshold#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D40DBD97-D020-4178-8A19-BFD89E69D74E</string>
 	<key>IDECodeSnippetLanguage</key>

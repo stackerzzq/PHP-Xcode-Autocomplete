@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fam_cancel_monitor ( &lt;#resource $fam#&gt;, &lt;#resource $fam_monitor#&gt; );</string>
+	<string>fam_cancel_monitor(&lt;#resource $fam#&gt;, &lt;#resource $fam_monitor#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>731E4D3D-262E-40C1-AD39-B1CF3A758214</string>
 	<key>IDECodeSnippetLanguage</key>

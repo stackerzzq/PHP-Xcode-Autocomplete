@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_rotate ( &lt;#resource $p#&gt;, &lt;#float $phi#&gt; );</string>
+	<string>PDF_rotate(&lt;#resource $p#&gt;, &lt;#float $phi#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>525C71DF-233D-4E5F-8E5E-9852D0662CB2</string>
 	<key>IDECodeSnippetLanguage</key>

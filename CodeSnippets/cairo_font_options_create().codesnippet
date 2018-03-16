@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_font_options_create (  );</string>
+	<string>cairo_font_options_create();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>44788862-511F-4A49-B10A-6F0EDF9FB85B</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_affected_rows ( &lt;#resource $result_id#&gt; );</string>
+	<string>ifx_affected_rows(&lt;#resource $result_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>31A5950B-8B26-48CE-A43A-AD3BBAD1B112</string>
 	<key>IDECodeSnippetLanguage</key>

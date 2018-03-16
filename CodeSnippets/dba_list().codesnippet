@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dba_list (  );</string>
+	<string>dba_list();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3465CF1A-7D37-48CF-B9B9-6EA02102A687</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>system_id (  );</string>
+	<string>system_id();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D5536471-4118-4376-87E4-EE9B6E423E3D</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_defined_functions (  );</string>
+	<string>get_defined_functions();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>537D3571-5B11-4791-8790-720A4DB33A09</string>
 	<key>IDECodeSnippetLanguage</key>

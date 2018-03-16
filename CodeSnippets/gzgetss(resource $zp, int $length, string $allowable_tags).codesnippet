@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gzgetss ( &lt;#resource $zp#&gt;, &lt;#int $length#&gt;, &lt;#string $allowable_tags#&gt; );</string>
+	<string>gzgetss(&lt;#resource $zp#&gt;, &lt;#int $length#&gt;, &lt;#string $allowable_tags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>09545967-6B70-404B-A091-9D855B7BC54E</string>
 	<key>IDECodeSnippetLanguage</key>

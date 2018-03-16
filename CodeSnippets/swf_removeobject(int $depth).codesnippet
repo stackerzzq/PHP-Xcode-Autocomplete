@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_removeobject ( &lt;#int $depth#&gt; );</string>
+	<string>swf_removeobject(&lt;#int $depth#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7D53999C-AF03-4387-A91B-BF73A149565A</string>
 	<key>IDECodeSnippetLanguage</key>

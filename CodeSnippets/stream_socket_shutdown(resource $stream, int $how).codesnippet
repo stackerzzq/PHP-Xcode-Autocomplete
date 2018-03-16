@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_socket_shutdown ( &lt;#resource $stream#&gt;, &lt;#int $how#&gt; );</string>
+	<string>stream_socket_shutdown(&lt;#resource $stream#&gt;, &lt;#int $how#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D89B3563-C2EC-47B3-93A0-F8EBB21E0DA8</string>
 	<key>IDECodeSnippetLanguage</key>

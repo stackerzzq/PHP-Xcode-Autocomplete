@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>radius_auth_open (  );</string>
+	<string>radius_auth_open();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EE9D6AB5-552B-43B3-BDE8-2732ECC94A21</string>
 	<key>IDECodeSnippetLanguage</key>

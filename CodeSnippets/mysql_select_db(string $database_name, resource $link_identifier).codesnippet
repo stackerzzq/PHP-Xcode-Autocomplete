@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysql_select_db ( &lt;#string $database_name#&gt;, &lt;#resource $link_identifier#&gt; );</string>
+	<string>mysql_select_db(&lt;#string $database_name#&gt;, &lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2A2CCB3E-D5B0-46D4-83A3-7649E84CE6E0</string>
 	<key>IDECodeSnippetLanguage</key>

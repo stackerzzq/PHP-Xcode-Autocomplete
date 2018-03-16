@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yp_first ( &lt;#string $domain#&gt;, &lt;#string $map#&gt; );</string>
+	<string>yp_first(&lt;#string $domain#&gt;, &lt;#string $map#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D26F6028-ED88-4DA6-B51D-D147301711C8</string>
 	<key>IDECodeSnippetLanguage</key>

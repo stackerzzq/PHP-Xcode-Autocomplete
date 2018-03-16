@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_lob_copy ( &lt;#OCI-Lob $lob_to#&gt;, &lt;#OCI-Lob $lob_from#&gt; );</string>
+	<string>oci_lob_copy(&lt;#OCI-Lob $lob_to#&gt;, &lt;#OCI-Lob $lob_from#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FBB36570-0F0C-408B-8553-742DDD4664CE</string>
 	<key>IDECodeSnippetLanguage</key>

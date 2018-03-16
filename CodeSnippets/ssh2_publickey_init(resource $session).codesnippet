@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ssh2_publickey_init ( &lt;#resource $session#&gt; );</string>
+	<string>ssh2_publickey_init(&lt;#resource $session#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A448D427-AD8F-466F-9C95-037FDF884C85</string>
 	<key>IDECodeSnippetLanguage</key>

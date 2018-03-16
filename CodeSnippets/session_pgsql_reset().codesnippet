@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_pgsql_reset (  );</string>
+	<string>session_pgsql_reset();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9B78D4D6-B971-452E-9035-76315C52FDB7</string>
 	<key>IDECodeSnippetLanguage</key>

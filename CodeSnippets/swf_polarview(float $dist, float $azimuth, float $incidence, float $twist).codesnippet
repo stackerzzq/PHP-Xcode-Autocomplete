@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_polarview ( &lt;#float $dist#&gt;, &lt;#float $azimuth#&gt;, &lt;#float $incidence#&gt;, &lt;#float $twist#&gt; );</string>
+	<string>swf_polarview(&lt;#float $dist#&gt;, &lt;#float $azimuth#&gt;, &lt;#float $incidence#&gt;, &lt;#float $twist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F2DA270D-996D-446F-A474-5A762968B027</string>
 	<key>IDECodeSnippetLanguage</key>

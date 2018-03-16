@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_service_info_get_introspection ( &lt;#resource $proxy#&gt;, &lt;#mixed $callback#&gt;, &lt;#mixed $arg#&gt; );</string>
+	<string>gupnp_service_info_get_introspection(&lt;#resource $proxy#&gt;, &lt;#mixed $callback#&gt;, &lt;#mixed $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E902F055-046C-4F3F-ADD1-668440B64141</string>
 	<key>IDECodeSnippetLanguage</key>

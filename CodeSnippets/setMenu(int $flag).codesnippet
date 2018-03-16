@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setMenu ( &lt;#int $flag#&gt; );</string>
+	<string>setMenu(&lt;#int $flag#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>955FE576-8F5C-4467-9A1D-7CD81DFCAF88</string>
 	<key>IDECodeSnippetLanguage</key>

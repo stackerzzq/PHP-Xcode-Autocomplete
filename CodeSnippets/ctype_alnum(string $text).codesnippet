@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ctype_alnum ( &lt;#string $text#&gt; );</string>
+	<string>ctype_alnum(&lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5DE580D5-5210-4C9A-8EB8-53152C2C0CD8</string>
 	<key>IDECodeSnippetLanguage</key>

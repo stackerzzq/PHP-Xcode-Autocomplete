@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_pkcs7_verify ( &lt;#string $filename#&gt;, &lt;#int $flags#&gt;, &lt;#string $outfilename#&gt;, &lt;#array $cainfo#&gt;, &lt;#string $extracerts#&gt;, &lt;#string $content#&gt; );</string>
+	<string>openssl_pkcs7_verify(&lt;#string $filename#&gt;, &lt;#int $flags#&gt;, &lt;#string $outfilename#&gt;, &lt;#array $cainfo#&gt;, &lt;#string $extracerts#&gt;, &lt;#string $content#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E9722E1B-914B-4DCB-9225-FBBEAD5594CA</string>
 	<key>IDECodeSnippetLanguage</key>

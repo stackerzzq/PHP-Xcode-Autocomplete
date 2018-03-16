@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::compareImageLayers ( &lt;#int $method#&gt; );</string>
+	<string>Imagick::compareImageLayers(&lt;#int $method#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>13BC5F4F-FCBB-415E-ABDA-2931E326E7B0</string>
 	<key>IDECodeSnippetLanguage</key>

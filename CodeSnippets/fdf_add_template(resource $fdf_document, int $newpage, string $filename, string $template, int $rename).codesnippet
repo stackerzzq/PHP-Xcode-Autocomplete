@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_add_template ( &lt;#resource $fdf_document#&gt;, &lt;#int $newpage#&gt;, &lt;#string $filename#&gt;, &lt;#string $template#&gt;, &lt;#int $rename#&gt; );</string>
+	<string>fdf_add_template(&lt;#resource $fdf_document#&gt;, &lt;#int $newpage#&gt;, &lt;#string $filename#&gt;, &lt;#string $template#&gt;, &lt;#int $rename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B2E36AD9-5DF7-4B3D-B347-46BF0B9F0A5F</string>
 	<key>IDECodeSnippetLanguage</key>

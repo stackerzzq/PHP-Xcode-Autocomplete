@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xslt_errno ( &lt;#resource $xh#&gt; );</string>
+	<string>xslt_errno(&lt;#resource $xh#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E835F35B-D9E5-47B7-8A66-7F3ABA652300</string>
 	<key>IDECodeSnippetLanguage</key>

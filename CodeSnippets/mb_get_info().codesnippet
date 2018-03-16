@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_get_info (  );</string>
+	<string>mb_get_info();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>293065EE-9DBE-421F-BDBC-C74B1B936BE6</string>
 	<key>IDECodeSnippetLanguage</key>

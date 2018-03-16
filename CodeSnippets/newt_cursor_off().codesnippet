@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_cursor_off (  );</string>
+	<string>newt_cursor_off();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2189749F-C8F8-4A6F-9BD7-E748B5869B1C</string>
 	<key>IDECodeSnippetLanguage</key>

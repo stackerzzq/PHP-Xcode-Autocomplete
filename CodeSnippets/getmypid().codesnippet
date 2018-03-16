@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getmypid (  );</string>
+	<string>getmypid();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>46FAABF7-4FE6-40B8-9D9F-62A404A7E620</string>
 	<key>IDECodeSnippetLanguage</key>

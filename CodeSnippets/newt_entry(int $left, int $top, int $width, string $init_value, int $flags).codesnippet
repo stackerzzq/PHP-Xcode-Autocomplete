@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_entry ( &lt;#int $left#&gt;, &lt;#int $top#&gt;, &lt;#int $width#&gt;, &lt;#string $init_value#&gt;, &lt;#int $flags#&gt; );</string>
+	<string>newt_entry(&lt;#int $left#&gt;, &lt;#int $top#&gt;, &lt;#int $width#&gt;, &lt;#string $init_value#&gt;, &lt;#int $flags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D16AE2CC-EF89-43FA-8AC9-C795B8A1A063</string>
 	<key>IDECodeSnippetLanguage</key>

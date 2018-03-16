@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mssql_bind ( &lt;#resource $stmt#&gt;, &lt;#string $param_name#&gt;, &lt;#mixed &amp;$var#&gt;, &lt;#int $type#&gt; );</string>
+	<string>mssql_bind(&lt;#resource $stmt#&gt;, &lt;#string $param_name#&gt;, &lt;#mixed &amp;$var#&gt;, &lt;#int $type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D51453C6-F0F6-410D-9CE2-FEA4D32CFED6</string>
 	<key>IDECodeSnippetLanguage</key>

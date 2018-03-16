@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ctype_punct ( &lt;#string $text#&gt; );</string>
+	<string>ctype_punct(&lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CB258785-4A24-4C47-9ECF-249EFE6B9ABE</string>
 	<key>IDECodeSnippetLanguage</key>

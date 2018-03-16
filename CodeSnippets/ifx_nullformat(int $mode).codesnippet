@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_nullformat ( &lt;#int $mode#&gt; );</string>
+	<string>ifx_nullformat(&lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>62CA5709-C191-4E3F-A599-2850365D054B</string>
 	<key>IDECodeSnippetLanguage</key>

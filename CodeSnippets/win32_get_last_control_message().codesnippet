@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>win32_get_last_control_message (  );</string>
+	<string>win32_get_last_control_message();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DDFBA2F1-98EC-4CF0-B8DF-ACB5B77AE654</string>
 	<key>IDECodeSnippetLanguage</key>

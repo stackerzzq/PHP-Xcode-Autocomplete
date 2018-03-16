@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::commentImage ( &lt;#string $comment#&gt; );</string>
+	<string>Imagick::commentImage(&lt;#string $comment#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CB8E4AA4-6A00-4288-A552-62988BEFC415</string>
 	<key>IDECodeSnippetLanguage</key>

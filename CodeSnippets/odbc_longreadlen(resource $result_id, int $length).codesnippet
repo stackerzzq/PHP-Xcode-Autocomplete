@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>odbc_longreadlen ( &lt;#resource $result_id#&gt;, &lt;#int $length#&gt; );</string>
+	<string>odbc_longreadlen(&lt;#resource $result_id#&gt;, &lt;#int $length#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6CE11BFB-9BCC-4C54-A008-349A260C5C02</string>
 	<key>IDECodeSnippetLanguage</key>

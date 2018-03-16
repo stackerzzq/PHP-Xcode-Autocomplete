@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_killchar (  );</string>
+	<string>ncurses_killchar();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>59F6C649-971D-4B3C-A677-AE98BC7E8645</string>
 	<key>IDECodeSnippetLanguage</key>

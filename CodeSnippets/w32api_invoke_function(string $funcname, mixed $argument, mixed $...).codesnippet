@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>w32api_invoke_function ( &lt;#string $funcname#&gt;, &lt;#mixed $argument#&gt;, &lt;#mixed $...#&gt; );</string>
+	<string>w32api_invoke_function(&lt;#string $funcname#&gt;, &lt;#mixed $argument#&gt;, &lt;#mixed $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B78DA8F6-33D8-4827-B8B6-79F6159C83BD</string>
 	<key>IDECodeSnippetLanguage</key>

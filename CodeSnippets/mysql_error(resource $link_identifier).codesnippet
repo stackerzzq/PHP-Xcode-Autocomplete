@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysql_error ( &lt;#resource $link_identifier#&gt; );</string>
+	<string>mysql_error(&lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1BD220CE-CC32-4204-9B0C-9B5852B5AEDC</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomDocument-&gt;dump_mem ( &lt;#bool $format#&gt;, &lt;#string $encoding#&gt; );</string>
+	<string>DomDocument-&gt;dump_mem(&lt;#bool $format#&gt;, &lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>487DE375-EA24-4495-A5AA-40A505EEA19C</string>
 	<key>IDECodeSnippetLanguage</key>

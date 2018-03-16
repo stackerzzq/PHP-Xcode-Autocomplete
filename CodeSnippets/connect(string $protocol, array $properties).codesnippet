@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>connect ( &lt;#string $protocol#&gt;, &lt;#array $properties#&gt; );</string>
+	<string>connect(&lt;#string $protocol#&gt;, &lt;#array $properties#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D493CC8D-7444-415C-B4AC-8DB2EFA3BEFC</string>
 	<key>IDECodeSnippetLanguage</key>

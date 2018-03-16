@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_preferred_mime_name ( &lt;#string $encoding#&gt; );</string>
+	<string>mb_preferred_mime_name(&lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>00335D0E-469A-4BBB-ADAD-D31EF5347E27</string>
 	<key>IDECodeSnippetLanguage</key>

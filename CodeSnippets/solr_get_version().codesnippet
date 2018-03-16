@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>solr_get_version (  );</string>
+	<string>solr_get_version();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D58FE36E-9DBF-4460-8E38-A4868671D4E6</string>
 	<key>IDECodeSnippetLanguage</key>

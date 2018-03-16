@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>process ( &lt;#DomDocument $xml_doc#&gt;, &lt;#array $xslt_params#&gt;, &lt;#bool $is_xpath_param#&gt;, &lt;#string $profile_filename#&gt; );</string>
+	<string>process(&lt;#DomDocument $xml_doc#&gt;, &lt;#array $xslt_params#&gt;, &lt;#bool $is_xpath_param#&gt;, &lt;#string $profile_filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EE2CA0FA-7FB3-4CE0-B4DD-673882906736</string>
 	<key>IDECodeSnippetLanguage</key>

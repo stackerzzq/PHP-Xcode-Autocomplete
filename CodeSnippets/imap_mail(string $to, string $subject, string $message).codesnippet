@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_mail ( &lt;#string $to#&gt;, &lt;#string $subject#&gt;, &lt;#string $message#&gt; );</string>
+	<string>imap_mail(&lt;#string $to#&gt;, &lt;#string $subject#&gt;, &lt;#string $message#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>983D2202-975B-4D8B-AEDF-C150D31568A8</string>
 	<key>IDECodeSnippetLanguage</key>

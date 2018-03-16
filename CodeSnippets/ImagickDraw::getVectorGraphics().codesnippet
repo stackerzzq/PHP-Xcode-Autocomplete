@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::getVectorGraphics (  );</string>
+	<string>ImagickDraw::getVectorGraphics();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>44DC35D9-8426-4C8B-9280-36CEC1F2456D</string>
 	<key>IDECodeSnippetLanguage</key>

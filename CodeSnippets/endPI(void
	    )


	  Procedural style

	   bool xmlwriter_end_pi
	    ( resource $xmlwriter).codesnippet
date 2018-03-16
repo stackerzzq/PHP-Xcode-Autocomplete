@@ -16,7 +16,7 @@
 	  Procedural style
 
 	   bool xmlwriter_end_pi
-	    ( resource $xmlwriter#&gt; );</string>
+	   (resource $xmlwriter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2F9B49F5-E437-4164-B6A5-FB378C3A60EA</string>
 	<key>IDECodeSnippetLanguage</key>

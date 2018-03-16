@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_fs_begin_txn2 ( &lt;#resource $repos#&gt;, &lt;#int $rev#&gt; );</string>
+	<string>svn_fs_begin_txn2(&lt;#resource $repos#&gt;, &lt;#int $rev#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8C97C7AA-F76C-4FE8-A15F-DDDEC1D232C9</string>
 	<key>IDECodeSnippetLanguage</key>

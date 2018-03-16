@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_getusername ( &lt;#int $connection#&gt; );</string>
+	<string>hw_getusername(&lt;#int $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1806F1EC-20F4-4859-8EDE-A536ABC3FE61</string>
 	<key>IDECodeSnippetLanguage</key>

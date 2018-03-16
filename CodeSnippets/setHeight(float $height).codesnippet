@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setHeight ( &lt;#float $height#&gt; );</string>
+	<string>setHeight(&lt;#float $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F94A24F4-C574-4256-957B-8906AE7A4761</string>
 	<key>IDECodeSnippetLanguage</key>

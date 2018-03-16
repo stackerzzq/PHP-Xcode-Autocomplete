@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_resize_screen ( &lt;#bool $redraw#&gt; );</string>
+	<string>newt_resize_screen(&lt;#bool $redraw#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA4C19D5-B193-4D61-8976-4DC225760AF4</string>
 	<key>IDECodeSnippetLanguage</key>

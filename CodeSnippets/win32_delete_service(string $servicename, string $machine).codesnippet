@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>win32_delete_service ( &lt;#string $servicename#&gt;, &lt;#string $machine#&gt; );</string>
+	<string>win32_delete_service(&lt;#string $servicename#&gt;, &lt;#string $machine#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D03C3649-5555-453F-9F84-2E74BFEA8DF6</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_shfill ( &lt;#resource $pdfdoc#&gt;, &lt;#int $shading#&gt; );</string>
+	<string>PDF_shfill(&lt;#resource $pdfdoc#&gt;, &lt;#int $shading#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D292AE01-46EB-408E-9EC4-BA22D31975DC</string>
 	<key>IDECodeSnippetLanguage</key>

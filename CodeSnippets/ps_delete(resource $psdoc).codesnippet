@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_delete ( &lt;#resource $psdoc#&gt; );</string>
+	<string>ps_delete(&lt;#resource $psdoc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F4F103E1-4AA9-4315-94D9-AD874275A9E5</string>
 	<key>IDECodeSnippetLanguage</key>

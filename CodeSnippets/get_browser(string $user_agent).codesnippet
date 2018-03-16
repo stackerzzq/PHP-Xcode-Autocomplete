@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_browser ( &lt;#string $user_agent#&gt; );</string>
+	<string>get_browser(&lt;#string $user_agent#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>061D0E0C-CC07-40A4-8AAC-C8AB41053193</string>
 	<key>IDECodeSnippetLanguage</key>

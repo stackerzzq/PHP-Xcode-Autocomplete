@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomDocument-&gt;create_element_ns ( &lt;#string $uri#&gt;, &lt;#string $name#&gt;, &lt;#string $prefix#&gt; );</string>
+	<string>DomDocument-&gt;create_element_ns(&lt;#string $uri#&gt;, &lt;#string $name#&gt;, &lt;#string $prefix#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D53891BA-E9E7-417E-8335-3E5161405226</string>
 	<key>IDECodeSnippetLanguage</key>

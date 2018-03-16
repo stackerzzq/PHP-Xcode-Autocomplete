@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_signal ( &lt;#int $signo#&gt;, &lt;#callback $handler#&gt; );</string>
+	<string>pcntl_signal(&lt;#int $signo#&gt;, &lt;#callback $handler#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6D015A1C-E4C7-464F-8FFC-A1DD33C145C0</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mcrypt_enc_get_iv_size ( &lt;#resource $td#&gt; );</string>
+	<string>mcrypt_enc_get_iv_size(&lt;#resource $td#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D94C40DC-BC63-47AD-878D-3E975ED06D65</string>
 	<key>IDECodeSnippetLanguage</key>

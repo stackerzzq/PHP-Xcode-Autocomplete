@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_get_errmsg ( &lt;#resource $pdfdoc#&gt; );</string>
+	<string>PDF_get_errmsg(&lt;#resource $pdfdoc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>57DA65F3-1B60-44CE-B059-3F0E1CAA58F9</string>
 	<key>IDECodeSnippetLanguage</key>

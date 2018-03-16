@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oauth_get_sbs ( &lt;#string $http_method#&gt;, &lt;#string $uri#&gt;, &lt;#array $request_parameters#&gt; );</string>
+	<string>oauth_get_sbs(&lt;#string $http_method#&gt;, &lt;#string $uri#&gt;, &lt;#array $request_parameters#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6D64467B-7665-4021-92F3-27548BFAA5CA</string>
 	<key>IDECodeSnippetLanguage</key>

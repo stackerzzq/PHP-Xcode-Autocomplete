@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_pattern_get_linear_points ( &lt;#CairoLinearGradient $pattern#&gt; );</string>
+	<string>cairo_pattern_get_linear_points(&lt;#CairoLinearGradient $pattern#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>02A6EBD2-1923-4A6B-9EBF-3FE70FC7F3F4</string>
 	<key>IDECodeSnippetLanguage</key>

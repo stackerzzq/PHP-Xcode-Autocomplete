@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>restore_include_path (  );</string>
+	<string>restore_include_path();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D266C921-F599-46AF-BBB0-4F18CF05FB45</string>
 	<key>IDECodeSnippetLanguage</key>

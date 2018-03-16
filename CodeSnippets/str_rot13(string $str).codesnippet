@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>str_rot13 ( &lt;#string $str#&gt; );</string>
+	<string>str_rot13(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>448DD172-AE29-4740-99C7-90721E4614C2</string>
 	<key>IDECodeSnippetLanguage</key>

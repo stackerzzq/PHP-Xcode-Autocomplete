@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yaz_range ( &lt;#resource $id#&gt;, &lt;#int $start#&gt;, &lt;#int $number#&gt; );</string>
+	<string>yaz_range(&lt;#resource $id#&gt;, &lt;#int $start#&gt;, &lt;#int $number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>50178BCE-473D-4B33-BCDC-3ECC607596F6</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_special_columns ( &lt;#resource $connection#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $schema#&gt;, &lt;#string $table_name#&gt;, &lt;#int $scope#&gt; );</string>
+	<string>db2_special_columns(&lt;#resource $connection#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $schema#&gt;, &lt;#string $table_name#&gt;, &lt;#int $scope#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>03E4D695-D35C-4F8F-8D0D-5EF72C7EDD76</string>
 	<key>IDECodeSnippetLanguage</key>

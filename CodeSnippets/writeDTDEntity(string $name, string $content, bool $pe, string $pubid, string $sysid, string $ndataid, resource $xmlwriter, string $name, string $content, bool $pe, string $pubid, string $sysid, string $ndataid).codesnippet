@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>writeDTDEntity ( &lt;#string $name#&gt;, &lt;#string $content#&gt;, &lt;#bool $pe#&gt;, &lt;#string $pubid#&gt;, &lt;#string $sysid#&gt;, &lt;#string $ndataid#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#string $name#&gt;, &lt;#string $content#&gt;, &lt;#bool $pe#&gt;, &lt;#string $pubid#&gt;, &lt;#string $sysid#&gt;, &lt;#string $ndataid#&gt; );</string>
+	<string>writeDTDEntity(&lt;#string $name#&gt;, &lt;#string $content#&gt;, &lt;#bool $pe#&gt;, &lt;#string $pubid#&gt;, &lt;#string $sysid#&gt;, &lt;#string $ndataid#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#string $name#&gt;, &lt;#string $content#&gt;, &lt;#bool $pe#&gt;, &lt;#string $pubid#&gt;, &lt;#string $sysid#&gt;, &lt;#string $ndataid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BDC73F0E-6127-4F76-9AE2-2EAD6F3D920C</string>
 	<key>IDECodeSnippetLanguage</key>

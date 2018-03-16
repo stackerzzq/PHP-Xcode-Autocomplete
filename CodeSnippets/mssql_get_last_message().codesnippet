@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mssql_get_last_message (  );</string>
+	<string>mssql_get_last_message();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0F30BF76-21B3-424C-9D2F-270A94E13696</string>
 	<key>IDECodeSnippetLanguage</key>

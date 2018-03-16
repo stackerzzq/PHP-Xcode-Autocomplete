@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>date_sun_info ( &lt;#int $time#&gt;, &lt;#float $latitude#&gt;, &lt;#float $longitude#&gt; );</string>
+	<string>date_sun_info(&lt;#int $time#&gt;, &lt;#float $latitude#&gt;, &lt;#float $longitude#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FE7361DD-2909-4E61-969E-6DCF4D54AC01</string>
 	<key>IDECodeSnippetLanguage</key>

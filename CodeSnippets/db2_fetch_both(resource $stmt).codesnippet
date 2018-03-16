@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_fetch_both ( &lt;#resource $stmt#&gt; );</string>
+	<string>db2_fetch_both(&lt;#resource $stmt#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6BFC77DA-D128-435B-ADD9-C257D8A49AD0</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_num_fields ( &lt;#resource $result#&gt; );</string>
+	<string>sqlite_num_fields(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3BAD9BFE-B76A-4937-9B74-F957BC53313F</string>
 	<key>IDECodeSnippetLanguage</key>

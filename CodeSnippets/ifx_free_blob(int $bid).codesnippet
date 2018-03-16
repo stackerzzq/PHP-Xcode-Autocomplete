@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_free_blob ( &lt;#int $bid#&gt; );</string>
+	<string>ifx_free_blob(&lt;#int $bid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A9E94625-28F1-44D3-8DF7-9643CF63FCA2</string>
 	<key>IDECodeSnippetLanguage</key>

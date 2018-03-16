@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_win_entries ( &lt;#string $title#&gt;, &lt;#string $text#&gt;, &lt;#int $suggested_width#&gt;, &lt;#int $flex_down#&gt;, &lt;#int $flex_up#&gt;, &lt;#int $data_width#&gt;, &lt;#array &amp;$items#&gt;, &lt;#string $button1#&gt;, &lt;#string $...#&gt; );</string>
+	<string>newt_win_entries(&lt;#string $title#&gt;, &lt;#string $text#&gt;, &lt;#int $suggested_width#&gt;, &lt;#int $flex_down#&gt;, &lt;#int $flex_up#&gt;, &lt;#int $data_width#&gt;, &lt;#array &amp;$items#&gt;, &lt;#string $button1#&gt;, &lt;#string $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2F96718F-96A3-47B6-9649-D7C477EB5B4A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_initconn (  );</string>
+	<string>m_initconn();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1B730049-A092-44CF-BCE5-CA7178C32F49</string>
 	<key>IDECodeSnippetLanguage</key>

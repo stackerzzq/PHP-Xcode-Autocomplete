@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_htmltbl_result ( &lt;#resource $result_id#&gt;, &lt;#string $html_table_options#&gt; );</string>
+	<string>ifx_htmltbl_result(&lt;#resource $result_id#&gt;, &lt;#string $html_table_options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>61C9B972-19A6-43A8-B857-3C207FCA4721</string>
 	<key>IDECodeSnippetLanguage</key>

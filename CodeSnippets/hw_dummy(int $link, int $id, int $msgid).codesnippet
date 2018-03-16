@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_dummy ( &lt;#int $link#&gt;, &lt;#int $id#&gt;, &lt;#int $msgid#&gt; );</string>
+	<string>hw_dummy(&lt;#int $link#&gt;, &lt;#int $id#&gt;, &lt;#int $msgid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EBFBC147-72EB-46E8-BB8C-50FC64A08097</string>
 	<key>IDECodeSnippetLanguage</key>

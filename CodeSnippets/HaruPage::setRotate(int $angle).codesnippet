@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::setRotate ( &lt;#int $angle#&gt; );</string>
+	<string>HaruPage::setRotate(&lt;#int $angle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9044BBA5-6CB2-4389-AA08-0FCE1D8624AC</string>
 	<key>IDECodeSnippetLanguage</key>

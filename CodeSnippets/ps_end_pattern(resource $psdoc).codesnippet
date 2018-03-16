@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_end_pattern ( &lt;#resource $psdoc#&gt; );</string>
+	<string>ps_end_pattern(&lt;#resource $psdoc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>048A7338-48E2-4361-AD9F-A97EECFA7D38</string>
 	<key>IDECodeSnippetLanguage</key>

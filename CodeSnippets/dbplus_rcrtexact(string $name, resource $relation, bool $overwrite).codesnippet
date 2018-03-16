@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_rcrtexact ( &lt;#string $name#&gt;, &lt;#resource $relation#&gt;, &lt;#bool $overwrite#&gt; );</string>
+	<string>dbplus_rcrtexact(&lt;#string $name#&gt;, &lt;#resource $relation#&gt;, &lt;#bool $overwrite#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3D6BBA22-1B61-4418-AAF8-10E8FF2CF306</string>
 	<key>IDECodeSnippetLanguage</key>

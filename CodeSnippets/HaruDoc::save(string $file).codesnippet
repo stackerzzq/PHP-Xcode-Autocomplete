@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::save ( &lt;#string $file#&gt; );</string>
+	<string>HaruDoc::save(&lt;#string $file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F26202FE-B72F-4FC1-9B28-35B950BAC2C9</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_fontsize ( &lt;#float $size#&gt; );</string>
+	<string>swf_fontsize(&lt;#float $size#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>32E55A11-BCF7-485E-80BA-95AE7D0C8ED4</string>
 	<key>IDECodeSnippetLanguage</key>

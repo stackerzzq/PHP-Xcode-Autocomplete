@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_clrbit ( &lt;#resource $a#&gt;, &lt;#int $index#&gt; );</string>
+	<string>gmp_clrbit(&lt;#resource $a#&gt;, &lt;#int $index#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>50489C79-8E68-4299-8A01-43E058336D3C</string>
 	<key>IDECodeSnippetLanguage</key>

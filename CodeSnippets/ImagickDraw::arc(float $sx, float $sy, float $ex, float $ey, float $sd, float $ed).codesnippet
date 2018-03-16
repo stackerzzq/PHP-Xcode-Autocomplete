@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::arc ( &lt;#float $sx#&gt;, &lt;#float $sy#&gt;, &lt;#float $ex#&gt;, &lt;#float $ey#&gt;, &lt;#float $sd#&gt;, &lt;#float $ed#&gt; );</string>
+	<string>ImagickDraw::arc(&lt;#float $sx#&gt;, &lt;#float $sy#&gt;, &lt;#float $ex#&gt;, &lt;#float $ey#&gt;, &lt;#float $sd#&gt;, &lt;#float $ed#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6A9F36B9-7751-4CD0-B02D-CE02EAE497ED</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iis_get_server_by_comment ( &lt;#string $comment#&gt; );</string>
+	<string>iis_get_server_by_comment(&lt;#string $comment#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7CD37637-A5FD-4625-9108-1664395D2CEB</string>
 	<key>IDECodeSnippetLanguage</key>

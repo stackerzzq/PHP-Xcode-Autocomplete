@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openal_context_suspend ( &lt;#resource $context#&gt; );</string>
+	<string>openal_context_suspend(&lt;#resource $context#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D6407A5E-5744-41E3-B4C8-C1F7B6FD2D32</string>
 	<key>IDECodeSnippetLanguage</key>

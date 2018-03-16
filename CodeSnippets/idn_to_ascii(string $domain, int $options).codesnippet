@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>idn_to_ascii ( &lt;#string $domain#&gt;, &lt;#int $options#&gt; );</string>
+	<string>idn_to_ascii(&lt;#string $domain#&gt;, &lt;#int $options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B472A81E-000A-4F29-9ACF-8CC1400F0CFC</string>
 	<key>IDECodeSnippetLanguage</key>

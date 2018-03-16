@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_rfc822_parse_adrlist ( &lt;#string $address#&gt;, &lt;#string $default_host#&gt; );</string>
+	<string>imap_rfc822_parse_adrlist(&lt;#string $address#&gt;, &lt;#string $default_host#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1522B552-B9C7-4945-A632-40250D1C7468</string>
 	<key>IDECodeSnippetLanguage</key>

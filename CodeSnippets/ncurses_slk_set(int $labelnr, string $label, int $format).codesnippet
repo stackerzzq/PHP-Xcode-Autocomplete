@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_slk_set ( &lt;#int $labelnr#&gt;, &lt;#string $label#&gt;, &lt;#int $format#&gt; );</string>
+	<string>ncurses_slk_set(&lt;#int $labelnr#&gt;, &lt;#string $label#&gt;, &lt;#int $format#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>520960FF-5C53-44C5-90CF-021D11EA03A8</string>
 	<key>IDECodeSnippetLanguage</key>

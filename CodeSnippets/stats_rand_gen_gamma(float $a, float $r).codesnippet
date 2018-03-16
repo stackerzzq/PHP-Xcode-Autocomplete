@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_rand_gen_gamma ( &lt;#float $a#&gt;, &lt;#float $r#&gt; );</string>
+	<string>stats_rand_gen_gamma(&lt;#float $a#&gt;, &lt;#float $r#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6D5549AD-D71D-4D2F-9051-3C483C2FC99B</string>
 	<key>IDECodeSnippetLanguage</key>

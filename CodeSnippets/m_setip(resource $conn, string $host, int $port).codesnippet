@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_setip ( &lt;#resource $conn#&gt;, &lt;#string $host#&gt;, &lt;#int $port#&gt; );</string>
+	<string>m_setip(&lt;#resource $conn#&gt;, &lt;#string $host#&gt;, &lt;#int $port#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2C3968B9-060D-429F-9AD6-776982736B54</string>
 	<key>IDECodeSnippetLanguage</key>

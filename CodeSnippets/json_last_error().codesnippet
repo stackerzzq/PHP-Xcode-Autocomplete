@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>json_last_error (  );</string>
+	<string>json_last_error();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>46998A8D-139B-4768-B3AB-9B064E3B3D41</string>
 	<key>IDECodeSnippetLanguage</key>

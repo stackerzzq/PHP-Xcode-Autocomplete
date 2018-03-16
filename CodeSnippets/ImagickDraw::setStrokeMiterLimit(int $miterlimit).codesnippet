@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setStrokeMiterLimit ( &lt;#int $miterlimit#&gt; );</string>
+	<string>ImagickDraw::setStrokeMiterLimit(&lt;#int $miterlimit#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3C2612D5-36F9-480C-8AAE-908607C7B2E4</string>
 	<key>IDECodeSnippetLanguage</key>

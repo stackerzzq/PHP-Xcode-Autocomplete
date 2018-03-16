@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_merge_recursive ( &lt;#array $array1#&gt;, &lt;#array $...#&gt; );</string>
+	<string>array_merge_recursive(&lt;#array $array1#&gt;, &lt;#array $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FB0CD375-4A30-4342-B41B-35F7E2E25AAB</string>
 	<key>IDECodeSnippetLanguage</key>

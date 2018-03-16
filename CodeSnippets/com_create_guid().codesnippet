@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>com_create_guid (  );</string>
+	<string>com_create_guid();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6D17CEE3-0EF3-4D64-8CB0-0F46A31D4C3E</string>
 	<key>IDECodeSnippetLanguage</key>

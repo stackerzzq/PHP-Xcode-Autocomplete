@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_elements_by_tagname ( &lt;#string $name#&gt; );</string>
+	<string>get_elements_by_tagname(&lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A209512B-837B-41E2-8249-D9D5B1812BEF</string>
 	<key>IDECodeSnippetLanguage</key>

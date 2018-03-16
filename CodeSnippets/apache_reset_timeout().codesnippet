@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apache_reset_timeout (  );</string>
+	<string>apache_reset_timeout();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>89803934-3A23-44CC-9970-31C5CED42168</string>
 	<key>IDECodeSnippetLanguage</key>

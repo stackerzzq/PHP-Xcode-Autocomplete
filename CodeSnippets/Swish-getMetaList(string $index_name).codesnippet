@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Swish-&gt;getMetaList ( &lt;#string $index_name#&gt; );</string>
+	<string>Swish-&gt;getMetaList(&lt;#string $index_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>60BEF5B7-357E-4174-9EDB-2D8C14606188</string>
 	<key>IDECodeSnippetLanguage</key>

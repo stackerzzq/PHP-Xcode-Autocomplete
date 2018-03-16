@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_stmt_param_count ( &lt;#resource $stmt#&gt; );</string>
+	<string>maxdb_stmt_param_count(&lt;#resource $stmt#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E4E3B47A-ED57-4E16-908F-BBDEF25D1771</string>
 	<key>IDECodeSnippetLanguage</key>

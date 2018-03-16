@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xslt_error ( &lt;#resource $xh#&gt; );</string>
+	<string>xslt_error(&lt;#resource $xh#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4BC389F0-3DA4-40F0-B10B-472B2000C0E2</string>
 	<key>IDECodeSnippetLanguage</key>

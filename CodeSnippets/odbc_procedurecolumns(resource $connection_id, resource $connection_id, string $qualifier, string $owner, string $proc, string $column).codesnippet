@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>odbc_procedurecolumns ( &lt;#resource $connection_id#&gt;, &lt;#resource $connection_id#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $owner#&gt;, &lt;#string $proc#&gt;, &lt;#string $column#&gt; );</string>
+	<string>odbc_procedurecolumns(&lt;#resource $connection_id#&gt;, &lt;#resource $connection_id#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $owner#&gt;, &lt;#string $proc#&gt;, &lt;#string $column#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>22460A05-F7DF-4647-871C-7F85E60F52BC</string>
 	<key>IDECodeSnippetLanguage</key>

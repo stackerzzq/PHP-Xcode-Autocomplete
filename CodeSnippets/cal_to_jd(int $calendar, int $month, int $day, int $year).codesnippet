@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cal_to_jd ( &lt;#int $calendar#&gt;, &lt;#int $month#&gt;, &lt;#int $day#&gt;, &lt;#int $year#&gt; );</string>
+	<string>cal_to_jd(&lt;#int $calendar#&gt;, &lt;#int $month#&gt;, &lt;#int $day#&gt;, &lt;#int $year#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A2671C6A-1179-4F70-96C7-F83874692AC3</string>
 	<key>IDECodeSnippetLanguage</key>

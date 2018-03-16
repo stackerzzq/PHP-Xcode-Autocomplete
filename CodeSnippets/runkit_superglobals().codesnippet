@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>runkit_superglobals (  );</string>
+	<string>runkit_superglobals();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>83521F10-2905-448B-A776-8B2FF71BDFB9</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yp_errno (  );</string>
+	<string>yp_errno();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>596ED305-25AB-4883-93FD-7AE7F63CADD2</string>
 	<key>IDECodeSnippetLanguage</key>

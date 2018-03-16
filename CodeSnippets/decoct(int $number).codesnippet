@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>decoct ( &lt;#int $number#&gt; );</string>
+	<string>decoct(&lt;#int $number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>948DB559-963A-4C89-BFAD-440CFE3B755B</string>
 	<key>IDECodeSnippetLanguage</key>

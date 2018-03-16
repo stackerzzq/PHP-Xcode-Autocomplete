@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_pcos_get_string ( &lt;#resource $p#&gt;, &lt;#int $doc#&gt;, &lt;#string $path#&gt; );</string>
+	<string>PDF_pcos_get_string(&lt;#resource $p#&gt;, &lt;#int $doc#&gt;, &lt;#string $path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EB763063-5DE4-4FE1-8E89-1DAE8F1BDCFF</string>
 	<key>IDECodeSnippetLanguage</key>

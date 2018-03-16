@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>exif_imagetype ( &lt;#string $filename#&gt; );</string>
+	<string>exif_imagetype(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7AF890F8-ADF0-4485-A400-050FB74F62DF</string>
 	<key>IDECodeSnippetLanguage</key>

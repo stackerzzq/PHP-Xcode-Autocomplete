@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_activate_item ( &lt;#resource $pdfdoc#&gt;, &lt;#int $id#&gt; );</string>
+	<string>PDF_activate_item(&lt;#resource $pdfdoc#&gt;, &lt;#int $id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AF19ADDE-2C0C-4EC3-8F6F-0A2158343EC4</string>
 	<key>IDECodeSnippetLanguage</key>

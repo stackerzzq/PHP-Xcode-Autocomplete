@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_draw_form ( &lt;#resource $form#&gt; );</string>
+	<string>newt_draw_form(&lt;#resource $form#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5BE619E0-A720-4075-94F1-165638D8628C</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>expect_expectl ( &lt;#resource $expect#&gt;, &lt;#array $cases#&gt;, &lt;#array &amp;$match#&gt; );</string>
+	<string>expect_expectl(&lt;#resource $expect#&gt;, &lt;#array $cases#&gt;, &lt;#array &amp;$match#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C8DD08BF-2025-4F25-8EBF-62449738A170</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iconv_mime_decode_headers ( &lt;#string $encoded_headers#&gt; );</string>
+	<string>iconv_mime_decode_headers(&lt;#string $encoded_headers#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>437D2A11-5210-4578-B14E-AF42A60E2914</string>
 	<key>IDECodeSnippetLanguage</key>

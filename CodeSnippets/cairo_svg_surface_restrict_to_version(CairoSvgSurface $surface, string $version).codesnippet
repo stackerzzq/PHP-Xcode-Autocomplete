@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_svg_surface_restrict_to_version ( &lt;#CairoSvgSurface $surface#&gt;, &lt;#string $version#&gt; );</string>
+	<string>cairo_svg_surface_restrict_to_version(&lt;#CairoSvgSurface $surface#&gt;, &lt;#string $version#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1CAFAE59-7CFC-4FB6-AB1C-ECA76FDDB477</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ingres_query ( &lt;#resource $link#&gt;, &lt;#string $query#&gt;, &lt;#array $params#&gt;, &lt;#string $types#&gt; );</string>
+	<string>ingres_query(&lt;#resource $link#&gt;, &lt;#string $query#&gt;, &lt;#array $params#&gt;, &lt;#string $types#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>70AC43E5-5110-415F-B329-3BEA54A81D36</string>
 	<key>IDECodeSnippetLanguage</key>

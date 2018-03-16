@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>id3_set_tag ( &lt;#string $filename#&gt;, &lt;#array $tag#&gt; );</string>
+	<string>id3_set_tag(&lt;#string $filename#&gt;, &lt;#array $tag#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3FBCBEEC-7FC1-491D-8BEC-256A60BA5386</string>
 	<key>IDECodeSnippetLanguage</key>

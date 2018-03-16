@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_end_document ( &lt;#resource $pdfdoc#&gt;, &lt;#string $optlist#&gt; );</string>
+	<string>PDF_end_document(&lt;#resource $pdfdoc#&gt;, &lt;#string $optlist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>80F4BCE7-B8FC-4BD3-8636-64FC2B831431</string>
 	<key>IDECodeSnippetLanguage</key>

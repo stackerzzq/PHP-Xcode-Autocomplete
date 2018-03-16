@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_cursor_type ( &lt;#resource $stmt#&gt; );</string>
+	<string>db2_cursor_type(&lt;#resource $stmt#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F2B04CA0-F1A9-421B-A35A-6631BBC88E2C</string>
 	<key>IDECodeSnippetLanguage</key>

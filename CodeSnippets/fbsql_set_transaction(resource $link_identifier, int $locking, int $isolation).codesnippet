@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fbsql_set_transaction ( &lt;#resource $link_identifier#&gt;, &lt;#int $locking#&gt;, &lt;#int $isolation#&gt; );</string>
+	<string>fbsql_set_transaction(&lt;#resource $link_identifier#&gt;, &lt;#int $locking#&gt;, &lt;#int $isolation#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7DB58E60-D373-46EC-ACD5-80DFC520CD0F</string>
 	<key>IDECodeSnippetLanguage</key>

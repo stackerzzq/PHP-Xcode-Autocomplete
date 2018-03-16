@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ssh2_sftp_readlink ( &lt;#resource $sftp#&gt;, &lt;#string $link#&gt; );</string>
+	<string>ssh2_sftp_readlink(&lt;#resource $sftp#&gt;, &lt;#string $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E49224FF-49D8-4DD5-9E1B-371630F84A61</string>
 	<key>IDECodeSnippetLanguage</key>

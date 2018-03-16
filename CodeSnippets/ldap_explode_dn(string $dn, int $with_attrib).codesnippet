@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_explode_dn ( &lt;#string $dn#&gt;, &lt;#int $with_attrib#&gt; );</string>
+	<string>ldap_explode_dn(&lt;#string $dn#&gt;, &lt;#int $with_attrib#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0029335C-3A8A-41D8-BB7F-9A696E334E2B</string>
 	<key>IDECodeSnippetLanguage</key>

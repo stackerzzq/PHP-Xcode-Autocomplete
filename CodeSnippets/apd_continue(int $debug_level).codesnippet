@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apd_continue ( &lt;#int $debug_level#&gt; );</string>
+	<string>apd_continue(&lt;#int $debug_level#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7E0D6B2D-E970-4A88-B745-0CF8417F49B8</string>
 	<key>IDECodeSnippetLanguage</key>

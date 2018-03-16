@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::__construct (  );</string>
+	<string>HaruDoc::__construct();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FF6D098E-5188-4394-A1B5-015EC8D2220C</string>
 	<key>IDECodeSnippetLanguage</key>

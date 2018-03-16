@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_get_option ( &lt;#resource $link_identifier#&gt;, &lt;#int $option#&gt;, &lt;#mixed &amp;$retval#&gt; );</string>
+	<string>ldap_get_option(&lt;#resource $link_identifier#&gt;, &lt;#int $option#&gt;, &lt;#mixed &amp;$retval#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1A99341A-B52F-4D13-AE4C-07BB1D9DA48A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_suspend_page ( &lt;#resource $pdfdoc#&gt;, &lt;#string $optlist#&gt; );</string>
+	<string>PDF_suspend_page(&lt;#resource $pdfdoc#&gt;, &lt;#string $optlist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4BC95E3E-1D44-4D04-95C8-F3EBD87FE5F6</string>
 	<key>IDECodeSnippetLanguage</key>

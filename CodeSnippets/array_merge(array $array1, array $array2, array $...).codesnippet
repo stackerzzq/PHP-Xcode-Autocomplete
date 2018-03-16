@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_merge ( &lt;#array $array1#&gt;, &lt;#array $array2#&gt;, &lt;#array $...#&gt; );</string>
+	<string>array_merge(&lt;#array $array1#&gt;, &lt;#array $array2#&gt;, &lt;#array $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8670E0DF-E56C-468D-A671-DBD9316AC1FE</string>
 	<key>IDECodeSnippetLanguage</key>

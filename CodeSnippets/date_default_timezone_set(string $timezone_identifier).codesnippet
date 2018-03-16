@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>date_default_timezone_set ( &lt;#string $timezone_identifier#&gt; );</string>
+	<string>date_default_timezone_set(&lt;#string $timezone_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D929CD1C-AE24-4414-9FA3-D830B7D79932</string>
 	<key>IDECodeSnippetLanguage</key>

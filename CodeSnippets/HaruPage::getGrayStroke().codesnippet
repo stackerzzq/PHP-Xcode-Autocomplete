@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getGrayStroke (  );</string>
+	<string>HaruPage::getGrayStroke();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A77B51CA-0FF4-4898-B903-0D46E95198C5</string>
 	<key>IDECodeSnippetLanguage</key>

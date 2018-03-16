@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>call_user_func_array ( &lt;#callback $function#&gt;, &lt;#array $param_arr#&gt; );</string>
+	<string>call_user_func_array(&lt;#callback $function#&gt;, &lt;#array $param_arr#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>00F7F71D-B519-4BE0-B6BC-A808FDAE1163</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mssql_rows_affected ( &lt;#resource $link_identifier#&gt; );</string>
+	<string>mssql_rows_affected(&lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>162821E8-92F4-4328-A5AD-5AFAFB163DFC</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_resume_page ( &lt;#resource $pdfdoc#&gt;, &lt;#string $optlist#&gt; );</string>
+	<string>PDF_resume_page(&lt;#resource $pdfdoc#&gt;, &lt;#string $optlist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DF1F397C-3EE2-41C9-82AC-40C4DB57043A</string>
 	<key>IDECodeSnippetLanguage</key>

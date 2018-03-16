@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysql_get_client_info (  );</string>
+	<string>mysql_get_client_info();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5BAFFE60-34E7-4F78-8B2A-A839F1FE0FEF</string>
 	<key>IDECodeSnippetLanguage</key>

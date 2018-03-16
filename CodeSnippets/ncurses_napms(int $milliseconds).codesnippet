@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_napms ( &lt;#int $milliseconds#&gt; );</string>
+	<string>ncurses_napms(&lt;#int $milliseconds#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9BFCAD4A-7C0F-45C8-BC9D-4B9981DE0E80</string>
 	<key>IDECodeSnippetLanguage</key>

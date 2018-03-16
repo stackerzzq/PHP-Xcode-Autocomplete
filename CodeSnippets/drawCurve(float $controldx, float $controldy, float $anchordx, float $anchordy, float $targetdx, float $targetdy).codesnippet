@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>drawCurve ( &lt;#float $controldx#&gt;, &lt;#float $controldy#&gt;, &lt;#float $anchordx#&gt;, &lt;#float $anchordy#&gt;, &lt;#float $targetdx#&gt;, &lt;#float $targetdy#&gt; );</string>
+	<string>drawCurve(&lt;#float $controldx#&gt;, &lt;#float $controldy#&gt;, &lt;#float $anchordx#&gt;, &lt;#float $anchordy#&gt;, &lt;#float $targetdx#&gt;, &lt;#float $targetdy#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>49C2251B-1112-4F3E-8313-8A7AE688B1F9</string>
 	<key>IDECodeSnippetLanguage</key>

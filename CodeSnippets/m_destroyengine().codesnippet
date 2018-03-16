@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_destroyengine (  );</string>
+	<string>m_destroyengine();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B0363AE5-9032-454C-9EFB-21BBE36DE511</string>
 	<key>IDECodeSnippetLanguage</key>

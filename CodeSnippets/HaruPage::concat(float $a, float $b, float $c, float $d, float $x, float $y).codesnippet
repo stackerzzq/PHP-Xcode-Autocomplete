@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::concat ( &lt;#float $a#&gt;, &lt;#float $b#&gt;, &lt;#float $c#&gt;, &lt;#float $d#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>HaruPage::concat(&lt;#float $a#&gt;, &lt;#float $b#&gt;, &lt;#float $c#&gt;, &lt;#float $d#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E9F8D78E-B011-4B0A-9F62-04D15922AB07</string>
 	<key>IDECodeSnippetLanguage</key>

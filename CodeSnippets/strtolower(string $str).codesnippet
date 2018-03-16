@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>strtolower ( &lt;#string $str#&gt; );</string>
+	<string>strtolower(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA65CD94-9B66-4DC6-964A-8C7F8434E8C0</string>
 	<key>IDECodeSnippetLanguage</key>

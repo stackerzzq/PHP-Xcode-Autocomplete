@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_parse_cookie ( &lt;#string $cookie#&gt;, &lt;#int $flags#&gt;, &lt;#array $allowed_extras#&gt; );</string>
+	<string>http_parse_cookie(&lt;#string $cookie#&gt;, &lt;#int $flags#&gt;, &lt;#array $allowed_extras#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C09E8F33-B277-4A12-A6E5-2BF459243467</string>
 	<key>IDECodeSnippetLanguage</key>

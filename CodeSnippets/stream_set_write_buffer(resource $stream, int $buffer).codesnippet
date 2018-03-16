@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_set_write_buffer ( &lt;#resource $stream#&gt;, &lt;#int $buffer#&gt; );</string>
+	<string>stream_set_write_buffer(&lt;#resource $stream#&gt;, &lt;#int $buffer#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AFB2DC1F-1E44-474B-B93A-BD9B9718D68F</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>parsekit_compile_file ( &lt;#string $filename#&gt;, &lt;#array &amp;$errors#&gt; );</string>
+	<string>parsekit_compile_file(&lt;#string $filename#&gt;, &lt;#array &amp;$errors#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>15EAAB4B-DFE8-4F54-8C4C-3F0C856B10F1</string>
 	<key>IDECodeSnippetLanguage</key>

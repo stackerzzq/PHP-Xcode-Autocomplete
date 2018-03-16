@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mcrypt_create_iv ( &lt;#int $size#&gt; );</string>
+	<string>mcrypt_create_iv(&lt;#int $size#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F4AD4C76-2906-432B-96E1-C98E68E0CDB6</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_restorepos ( &lt;#resource $relation#&gt;, &lt;#array $tuple#&gt; );</string>
+	<string>dbplus_restorepos(&lt;#resource $relation#&gt;, &lt;#array $tuple#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>21C7B4CE-96F1-4722-864F-6946A02106BE</string>
 	<key>IDECodeSnippetLanguage</key>

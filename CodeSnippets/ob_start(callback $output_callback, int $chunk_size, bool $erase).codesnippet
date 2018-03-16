@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ob_start ( &lt;#callback $output_callback#&gt;, &lt;#int $chunk_size#&gt;, &lt;#bool $erase#&gt; );</string>
+	<string>ob_start(&lt;#callback $output_callback#&gt;, &lt;#int $chunk_size#&gt;, &lt;#bool $erase#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CFFAE41F-80FE-48F4-803E-294E824861E2</string>
 	<key>IDECodeSnippetLanguage</key>

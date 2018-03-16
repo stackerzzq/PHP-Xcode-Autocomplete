@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gnupg_verify ( &lt;#resource $identifier#&gt;, &lt;#string $signed_text#&gt;, &lt;#string $signature#&gt;, &lt;#string &amp;$plaintext#&gt; );</string>
+	<string>gnupg_verify(&lt;#resource $identifier#&gt;, &lt;#string $signed_text#&gt;, &lt;#string $signature#&gt;, &lt;#string &amp;$plaintext#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9A1103BB-3BA4-4424-85AE-E9258052A08A</string>
 	<key>IDECodeSnippetLanguage</key>

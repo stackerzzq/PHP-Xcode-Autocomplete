@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_csr_get_subject ( &lt;#mixed $csr#&gt; );</string>
+	<string>openssl_csr_get_subject(&lt;#mixed $csr#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6E523048-AA3A-47DE-A03F-787E909F04C6</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_fs_txn_root ( &lt;#resource $txn#&gt; );</string>
+	<string>svn_fs_txn_root(&lt;#resource $txn#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D8DC9E5E-FFD7-4855-AE2B-EA33AD8BADFE</string>
 	<key>IDECodeSnippetLanguage</key>

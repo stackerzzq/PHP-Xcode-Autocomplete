@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_base64 ( &lt;#string $text#&gt; );</string>
+	<string>imap_base64(&lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A5DBD40D-E738-403A-887F-E2E601682401</string>
 	<key>IDECodeSnippetLanguage</key>

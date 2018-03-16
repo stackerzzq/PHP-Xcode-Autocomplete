@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_add_weblink ( &lt;#resource $pdfdoc#&gt;, &lt;#float $lowerleftx#&gt;, &lt;#float $lowerlefty#&gt;, &lt;#float $upperrightx#&gt;, &lt;#float $upperrighty#&gt;, &lt;#string $url#&gt; );</string>
+	<string>PDF_add_weblink(&lt;#resource $pdfdoc#&gt;, &lt;#float $lowerleftx#&gt;, &lt;#float $lowerlefty#&gt;, &lt;#float $upperrightx#&gt;, &lt;#float $upperrighty#&gt;, &lt;#string $url#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A59D0EE7-6328-41A1-B302-6D968741E52E</string>
 	<key>IDECodeSnippetLanguage</key>

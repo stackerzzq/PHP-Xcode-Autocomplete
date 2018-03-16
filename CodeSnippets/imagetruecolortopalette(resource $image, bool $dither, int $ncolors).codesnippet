@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagetruecolortopalette ( &lt;#resource $image#&gt;, &lt;#bool $dither#&gt;, &lt;#int $ncolors#&gt; );</string>
+	<string>imagetruecolortopalette(&lt;#resource $image#&gt;, &lt;#bool $dither#&gt;, &lt;#int $ncolors#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ACC5FC45-F30D-4156-813A-DBCB92958161</string>
 	<key>IDECodeSnippetLanguage</key>

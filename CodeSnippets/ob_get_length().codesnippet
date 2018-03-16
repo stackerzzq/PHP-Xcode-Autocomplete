@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ob_get_length (  );</string>
+	<string>ob_get_length();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CC848F40-44AC-40E6-85E1-1FA4423B8033</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_lsub ( &lt;#resource $imap_stream#&gt;, &lt;#string $ref#&gt;, &lt;#string $pattern#&gt; );</string>
+	<string>imap_lsub(&lt;#resource $imap_stream#&gt;, &lt;#string $ref#&gt;, &lt;#string $pattern#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>245F22EE-F8A0-4B7E-A154-A6236F4725FE</string>
 	<key>IDECodeSnippetLanguage</key>

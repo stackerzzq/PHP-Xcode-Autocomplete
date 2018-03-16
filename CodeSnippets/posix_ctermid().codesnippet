@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_ctermid (  );</string>
+	<string>posix_ctermid();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>88C3D9C3-BECC-4DB7-9F39-4DF5B6ED1200</string>
 	<key>IDECodeSnippetLanguage</key>

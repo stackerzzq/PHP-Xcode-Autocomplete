@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_lob_read ( &lt;#resource $stmt#&gt;, &lt;#int $colnum#&gt;, &lt;#int $length#&gt; );</string>
+	<string>db2_lob_read(&lt;#resource $stmt#&gt;, &lt;#int $colnum#&gt;, &lt;#int $length#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C423BCF8-7131-412B-89E8-ADCD48C65805</string>
 	<key>IDECodeSnippetLanguage</key>

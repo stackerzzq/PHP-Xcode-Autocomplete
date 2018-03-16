@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apache_child_terminate (  );</string>
+	<string>apache_child_terminate();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>03AF416A-21E4-4F75-BD05-C4BD122AF865</string>
 	<key>IDECodeSnippetLanguage</key>

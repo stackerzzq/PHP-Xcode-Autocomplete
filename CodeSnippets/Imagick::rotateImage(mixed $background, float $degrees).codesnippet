@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::rotateImage ( &lt;#mixed $background#&gt;, &lt;#float $degrees#&gt; );</string>
+	<string>Imagick::rotateImage(&lt;#mixed $background#&gt;, &lt;#float $degrees#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F775B67C-B8B0-40F2-997C-517B7597DD83</string>
 	<key>IDECodeSnippetLanguage</key>

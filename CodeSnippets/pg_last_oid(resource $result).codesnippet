@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_last_oid ( &lt;#resource $result#&gt; );</string>
+	<string>pg_last_oid(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>081A1385-EAE7-4A8D-B996-346920F55222</string>
 	<key>IDECodeSnippetLanguage</key>

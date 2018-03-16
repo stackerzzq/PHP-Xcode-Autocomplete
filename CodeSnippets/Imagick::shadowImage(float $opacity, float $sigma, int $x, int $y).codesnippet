@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::shadowImage ( &lt;#float $opacity#&gt;, &lt;#float $sigma#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt; );</string>
+	<string>Imagick::shadowImage(&lt;#float $opacity#&gt;, &lt;#float $sigma#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B250D1A4-2FB8-4812-B1E2-5FE96D4FB848</string>
 	<key>IDECodeSnippetLanguage</key>

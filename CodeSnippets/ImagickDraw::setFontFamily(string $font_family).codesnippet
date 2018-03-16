@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setFontFamily ( &lt;#string $font_family#&gt; );</string>
+	<string>ImagickDraw::setFontFamily(&lt;#string $font_family#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>659235FD-B668-4C35-9DEF-78513B1707EF</string>
 	<key>IDECodeSnippetLanguage</key>

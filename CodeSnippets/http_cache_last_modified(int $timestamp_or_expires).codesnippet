@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_cache_last_modified ( &lt;#int $timestamp_or_expires#&gt; );</string>
+	<string>http_cache_last_modified(&lt;#int $timestamp_or_expires#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7138E38C-8EAA-4FD9-A052-DD5622833DDF</string>
 	<key>IDECodeSnippetLanguage</key>

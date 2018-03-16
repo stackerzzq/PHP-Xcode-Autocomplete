@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>uniqid (  );</string>
+	<string>uniqid();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0919EC42-4695-4172-8C33-EFB2A2ADCB07</string>
 	<key>IDECodeSnippetLanguage</key>

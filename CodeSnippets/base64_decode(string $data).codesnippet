@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>base64_decode ( &lt;#string $data#&gt; );</string>
+	<string>base64_decode(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>88DC0780-B062-4F7D-B90D-EDE04F729BBC</string>
 	<key>IDECodeSnippetLanguage</key>

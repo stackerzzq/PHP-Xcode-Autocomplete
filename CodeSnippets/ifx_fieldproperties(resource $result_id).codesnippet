@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_fieldproperties ( &lt;#resource $result_id#&gt; );</string>
+	<string>ifx_fieldproperties(&lt;#resource $result_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6442CEF7-603A-47C7-AF02-F27B27EAE3E0</string>
 	<key>IDECodeSnippetLanguage</key>

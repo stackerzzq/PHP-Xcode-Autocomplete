@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mssql_guid_string ( &lt;#string $binary#&gt; );</string>
+	<string>mssql_guid_string(&lt;#string $binary#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>53DAC38D-F595-4A40-AD5D-4594C9BA8795</string>
 	<key>IDECodeSnippetLanguage</key>

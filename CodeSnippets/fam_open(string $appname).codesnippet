@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fam_open ( &lt;#string $appname#&gt; );</string>
+	<string>fam_open(&lt;#string $appname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>747F4EDB-6925-428C-B67B-2BFC8356222F</string>
 	<key>IDECodeSnippetLanguage</key>

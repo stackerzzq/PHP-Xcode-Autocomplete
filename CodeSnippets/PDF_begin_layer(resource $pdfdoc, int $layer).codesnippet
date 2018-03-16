@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_begin_layer ( &lt;#resource $pdfdoc#&gt;, &lt;#int $layer#&gt; );</string>
+	<string>PDF_begin_layer(&lt;#resource $pdfdoc#&gt;, &lt;#int $layer#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5162ACE7-5484-4328-9C48-316028D1B3C8</string>
 	<key>IDECodeSnippetLanguage</key>

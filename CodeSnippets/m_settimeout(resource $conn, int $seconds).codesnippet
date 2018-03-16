@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_settimeout ( &lt;#resource $conn#&gt;, &lt;#int $seconds#&gt; );</string>
+	<string>m_settimeout(&lt;#resource $conn#&gt;, &lt;#int $seconds#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>54448138-6463-4A0F-86BD-99EB121D59A4</string>
 	<key>IDECodeSnippetLanguage</key>

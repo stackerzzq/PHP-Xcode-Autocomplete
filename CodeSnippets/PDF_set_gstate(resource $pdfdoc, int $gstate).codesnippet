@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_set_gstate ( &lt;#resource $pdfdoc#&gt;, &lt;#int $gstate#&gt; );</string>
+	<string>PDF_set_gstate(&lt;#resource $pdfdoc#&gt;, &lt;#int $gstate#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C658ABFC-CA21-4F5A-B335-7B0DD94F0894</string>
 	<key>IDECodeSnippetLanguage</key>

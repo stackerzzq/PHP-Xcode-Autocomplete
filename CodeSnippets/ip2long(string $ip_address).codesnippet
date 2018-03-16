@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ip2long ( &lt;#string $ip_address#&gt; );</string>
+	<string>ip2long(&lt;#string $ip_address#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9C33AC5B-1DF4-433D-A4EE-DB1A8D7B0E11</string>
 	<key>IDECodeSnippetLanguage</key>

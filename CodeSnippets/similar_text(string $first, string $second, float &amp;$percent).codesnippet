@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>similar_text ( &lt;#string $first#&gt;, &lt;#string $second#&gt;, &lt;#float &amp;$percent#&gt; );</string>
+	<string>similar_text(&lt;#string $first#&gt;, &lt;#string $second#&gt;, &lt;#float &amp;$percent#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1A52C185-8DE2-45F8-9EF4-83D96896C1F6</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_bucket_append ( &lt;#resource $brigade#&gt;, &lt;#resource $bucket#&gt; );</string>
+	<string>stream_bucket_append(&lt;#resource $brigade#&gt;, &lt;#resource $bucket#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2622EDEF-A543-456A-B9BE-1DECD0F9D5D3</string>
 	<key>IDECodeSnippetLanguage</key>

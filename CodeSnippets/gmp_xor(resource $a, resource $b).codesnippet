@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_xor ( &lt;#resource $a#&gt;, &lt;#resource $b#&gt; );</string>
+	<string>gmp_xor(&lt;#resource $a#&gt;, &lt;#resource $b#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A7A22FAE-6069-43CD-A3C0-A1E0652DA145</string>
 	<key>IDECodeSnippetLanguage</key>

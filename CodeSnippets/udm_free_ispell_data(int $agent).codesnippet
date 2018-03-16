@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_free_ispell_data ( &lt;#int $agent#&gt; );</string>
+	<string>udm_free_ispell_data(&lt;#int $agent#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0A1EE20A-505B-4300-9978-EE87B4E1FE2D</string>
 	<key>IDECodeSnippetLanguage</key>

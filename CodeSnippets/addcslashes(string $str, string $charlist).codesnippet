@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>addcslashes ( &lt;#string $str#&gt;, &lt;#string $charlist#&gt; );</string>
+	<string>addcslashes(&lt;#string $str#&gt;, &lt;#string $charlist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>86C2E421-A4A7-433B-970A-6AF64D2AAE32</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stopSound ( &lt;#SWFSound $sound#&gt; );</string>
+	<string>stopSound(&lt;#SWFSound $sound#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D5A0CE57-8369-41EE-A3E4-323451A1F5C5</string>
 	<key>IDECodeSnippetLanguage</key>

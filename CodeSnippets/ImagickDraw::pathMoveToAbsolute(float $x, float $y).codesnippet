@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::pathMoveToAbsolute ( &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>ImagickDraw::pathMoveToAbsolute(&lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F34100B1-3E86-4D85-B160-3280F376DF26</string>
 	<key>IDECodeSnippetLanguage</key>

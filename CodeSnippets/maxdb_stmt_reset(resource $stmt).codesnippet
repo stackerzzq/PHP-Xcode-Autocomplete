@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_stmt_reset ( &lt;#resource $stmt#&gt; );</string>
+	<string>maxdb_stmt_reset(&lt;#resource $stmt#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>293CFA6E-18D6-42CD-90F9-419EE0B924C1</string>
 	<key>IDECodeSnippetLanguage</key>

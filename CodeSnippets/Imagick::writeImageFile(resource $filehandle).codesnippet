@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::writeImageFile ( &lt;#resource $filehandle#&gt; );</string>
+	<string>Imagick::writeImageFile(&lt;#resource $filehandle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>322819BA-D522-42D8-B978-03A2C81000DE</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>jdtofrench ( &lt;#int $juliandaycount#&gt; );</string>
+	<string>jdtofrench(&lt;#int $juliandaycount#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>90D8B602-3CFC-479F-8477-15D9B2885536</string>
 	<key>IDECodeSnippetLanguage</key>

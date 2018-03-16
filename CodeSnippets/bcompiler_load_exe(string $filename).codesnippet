@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bcompiler_load_exe ( &lt;#string $filename#&gt; );</string>
+	<string>bcompiler_load_exe(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0EE8266A-7E62-422A-98A3-BA2BD901795F</string>
 	<key>IDECodeSnippetLanguage</key>

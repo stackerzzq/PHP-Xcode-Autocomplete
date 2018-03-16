@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbase_get_header_info ( &lt;#int $dbase_identifier#&gt; );</string>
+	<string>dbase_get_header_info(&lt;#int $dbase_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E409ECC4-A8DF-4CBF-8073-4CE1EC9C478A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setStrokeColor ( &lt;#ImagickPixel $stroke_pixel#&gt; );</string>
+	<string>ImagickDraw::setStrokeColor(&lt;#ImagickPixel $stroke_pixel#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B81D9BAF-25DC-4A8B-BA2B-CD567DEBBD64</string>
 	<key>IDECodeSnippetLanguage</key>

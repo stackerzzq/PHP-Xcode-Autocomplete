@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ingres_field_precision ( &lt;#resource $result#&gt;, &lt;#int $index#&gt; );</string>
+	<string>ingres_field_precision(&lt;#resource $result#&gt;, &lt;#int $index#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A120FEE3-9F5F-489A-8B14-BC9C0051A20A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::loadType1 ( &lt;#string $afmfile#&gt;, &lt;#string $pfmfile#&gt; );</string>
+	<string>HaruDoc::loadType1(&lt;#string $afmfile#&gt;, &lt;#string $pfmfile#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9BB86088-4C92-46D0-91DA-01D9A18DBEB8</string>
 	<key>IDECodeSnippetLanguage</key>

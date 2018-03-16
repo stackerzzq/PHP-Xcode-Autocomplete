@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>tanh ( &lt;#float $arg#&gt; );</string>
+	<string>tanh(&lt;#float $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>730C24D4-9EE0-48A9-A472-A6E8D5BFC078</string>
 	<key>IDECodeSnippetLanguage</key>

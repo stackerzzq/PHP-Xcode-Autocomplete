@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imageftbbox ( &lt;#float $size#&gt;, &lt;#float $angle#&gt;, &lt;#string $fontfile#&gt;, &lt;#string $text#&gt;, &lt;#array $extrainfo#&gt; );</string>
+	<string>imageftbbox(&lt;#float $size#&gt;, &lt;#float $angle#&gt;, &lt;#string $fontfile#&gt;, &lt;#string $text#&gt;, &lt;#array $extrainfo#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>02F0E532-81BB-4AB8-AA5E-FACBA85878F8</string>
 	<key>IDECodeSnippetLanguage</key>

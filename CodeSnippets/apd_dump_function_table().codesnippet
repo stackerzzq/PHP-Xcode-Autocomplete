@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apd_dump_function_table (  );</string>
+	<string>apd_dump_function_table();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CBA18EA6-4AC2-4624-A0E3-403EA3DB0980</string>
 	<key>IDECodeSnippetLanguage</key>

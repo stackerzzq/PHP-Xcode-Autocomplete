@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequest::getPostFields (  );</string>
+	<string>HttpRequest::getPostFields();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>88B6239A-B6E2-433D-8987-39578B01E526</string>
 	<key>IDECodeSnippetLanguage</key>

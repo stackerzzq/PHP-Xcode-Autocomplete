@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_getbitmapinfo ( &lt;#int $bitmapid#&gt; );</string>
+	<string>swf_getbitmapinfo(&lt;#int $bitmapid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>61640D08-DAD6-4377-AC0F-7F606BD595D9</string>
 	<key>IDECodeSnippetLanguage</key>

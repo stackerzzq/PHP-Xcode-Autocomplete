@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_fetch_overview ( &lt;#resource $imap_stream#&gt;, &lt;#string $sequence#&gt; );</string>
+	<string>imap_fetch_overview(&lt;#resource $imap_stream#&gt;, &lt;#string $sequence#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9CA7AE3A-2EB9-4E8F-98D6-5B2D44FC748A</string>
 	<key>IDECodeSnippetLanguage</key>

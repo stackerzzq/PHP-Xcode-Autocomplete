@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_service_proxy_remove_notify ( &lt;#resource $proxy#&gt;, &lt;#string $value#&gt; );</string>
+	<string>gupnp_service_proxy_remove_notify(&lt;#resource $proxy#&gt;, &lt;#string $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3DEA8123-BDB5-4983-90EC-18FBF0E87FB3</string>
 	<key>IDECodeSnippetLanguage</key>

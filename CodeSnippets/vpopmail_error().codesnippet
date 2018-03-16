@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>vpopmail_error (  );</string>
+	<string>vpopmail_error();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4EC35BF7-2861-4B80-BAAA-CA8BB9078F2F</string>
 	<key>IDECodeSnippetLanguage</key>

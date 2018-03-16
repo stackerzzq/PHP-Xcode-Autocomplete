@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getRot (  );</string>
+	<string>getRot();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>99A7399B-A29E-44BF-B477-E33679DA0489</string>
 	<key>IDECodeSnippetLanguage</key>

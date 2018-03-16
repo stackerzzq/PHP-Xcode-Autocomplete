@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_wrapper_restore ( &lt;#string $protocol#&gt; );</string>
+	<string>stream_wrapper_restore(&lt;#string $protocol#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0B21AEBA-C85E-4C7B-A461-77CACD8F35CD</string>
 	<key>IDECodeSnippetLanguage</key>

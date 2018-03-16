@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iis_get_server_rights ( &lt;#int $server_instance#&gt;, &lt;#string $virtual_path#&gt; );</string>
+	<string>iis_get_server_rights(&lt;#int $server_instance#&gt;, &lt;#string $virtual_path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>17F4459F-2588-4332-AAC1-6859558BA59A</string>
 	<key>IDECodeSnippetLanguage</key>

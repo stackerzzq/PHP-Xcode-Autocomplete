@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gethostbyname ( &lt;#string $hostname#&gt; );</string>
+	<string>gethostbyname(&lt;#string $hostname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F41694BF-BF6F-4A02-A6A4-F307E32C4B2F</string>
 	<key>IDECodeSnippetLanguage</key>

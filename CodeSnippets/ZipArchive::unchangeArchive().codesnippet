@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ZipArchive::unchangeArchive (  );</string>
+	<string>ZipArchive::unchangeArchive();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2AE28AFB-6ADF-45C7-B4AB-E56ED5718B22</string>
 	<key>IDECodeSnippetLanguage</key>

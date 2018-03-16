@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xptr_new_context (  );</string>
+	<string>xptr_new_context();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D4EE48D9-9925-48F6-A679-58C491D3E2C8</string>
 	<key>IDECodeSnippetLanguage</key>

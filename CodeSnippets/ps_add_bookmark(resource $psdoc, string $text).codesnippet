@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_add_bookmark ( &lt;#resource $psdoc#&gt;, &lt;#string $text#&gt; );</string>
+	<string>ps_add_bookmark(&lt;#resource $psdoc#&gt;, &lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5C1E4F2E-D261-4BC6-8C99-964E9A7E4099</string>
 	<key>IDECodeSnippetLanguage</key>

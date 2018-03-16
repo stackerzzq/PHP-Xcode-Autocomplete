@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>notes_copy_db ( &lt;#string $from_database_name#&gt;, &lt;#string $to_database_name#&gt; );</string>
+	<string>notes_copy_db(&lt;#string $from_database_name#&gt;, &lt;#string $to_database_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8D414616-64CB-4796-B0D0-74DB8668D7E0</string>
 	<key>IDECodeSnippetLanguage</key>

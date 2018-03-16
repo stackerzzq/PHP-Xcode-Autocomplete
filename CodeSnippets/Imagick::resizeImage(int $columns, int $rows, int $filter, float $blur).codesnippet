@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::resizeImage ( &lt;#int $columns#&gt;, &lt;#int $rows#&gt;, &lt;#int $filter#&gt;, &lt;#float $blur#&gt; );</string>
+	<string>Imagick::resizeImage(&lt;#int $columns#&gt;, &lt;#int $rows#&gt;, &lt;#int $filter#&gt;, &lt;#float $blur#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>23C8DA18-BF54-4B4A-BB95-9633C284C98D</string>
 	<key>IDECodeSnippetLanguage</key>

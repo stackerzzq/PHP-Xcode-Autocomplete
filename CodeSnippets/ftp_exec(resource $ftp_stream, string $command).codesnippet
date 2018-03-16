@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ftp_exec ( &lt;#resource $ftp_stream#&gt;, &lt;#string $command#&gt; );</string>
+	<string>ftp_exec(&lt;#resource $ftp_stream#&gt;, &lt;#string $command#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9B331570-CC6A-447A-A307-8FC1ACA07941</string>
 	<key>IDECodeSnippetLanguage</key>

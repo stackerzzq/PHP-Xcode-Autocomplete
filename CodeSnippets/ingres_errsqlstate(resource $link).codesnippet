@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ingres_errsqlstate ( &lt;#resource $link#&gt; );</string>
+	<string>ingres_errsqlstate(&lt;#resource $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>56788568-1702-4BC3-B434-39860F21F422</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagecreatefromgd2part ( &lt;#string $filename#&gt;, &lt;#int $srcX#&gt;, &lt;#int $srcY#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt; );</string>
+	<string>imagecreatefromgd2part(&lt;#string $filename#&gt;, &lt;#int $srcX#&gt;, &lt;#int $srcY#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC49C3EA-E434-4F46-A4C0-3F7888957ADA</string>
 	<key>IDECodeSnippetLanguage</key>

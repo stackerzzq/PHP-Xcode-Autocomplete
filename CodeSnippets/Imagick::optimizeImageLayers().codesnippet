@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::optimizeImageLayers (  );</string>
+	<string>Imagick::optimizeImageLayers();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FB5BD935-E211-484F-8D8D-B1C109A162A7</string>
 	<key>IDECodeSnippetLanguage</key>

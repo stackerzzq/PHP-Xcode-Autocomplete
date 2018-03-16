@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dba_delete ( &lt;#string $key#&gt;, &lt;#resource $handle#&gt; );</string>
+	<string>dba_delete(&lt;#string $key#&gt;, &lt;#resource $handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A4375CD3-D57E-40C5-AA0E-AA78AC1E7D51</string>
 	<key>IDECodeSnippetLanguage</key>

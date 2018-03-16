@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_send_mail ( &lt;#string $to#&gt;, &lt;#string $subject#&gt;, &lt;#string $message#&gt; );</string>
+	<string>mb_send_mail(&lt;#string $to#&gt;, &lt;#string $subject#&gt;, &lt;#string $message#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>18FD833A-6DC5-41C1-BB6C-758D2CB876FC</string>
 	<key>IDECodeSnippetLanguage</key>

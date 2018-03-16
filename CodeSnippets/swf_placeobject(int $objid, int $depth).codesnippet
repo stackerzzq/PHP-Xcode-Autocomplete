@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_placeobject ( &lt;#int $objid#&gt;, &lt;#int $depth#&gt; );</string>
+	<string>swf_placeobject(&lt;#int $objid#&gt;, &lt;#int $depth#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A7A2B430-CAD9-4884-B04A-11046B3C8AFA</string>
 	<key>IDECodeSnippetLanguage</key>

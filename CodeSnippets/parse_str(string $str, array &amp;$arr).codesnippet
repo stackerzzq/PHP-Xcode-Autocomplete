@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>parse_str ( &lt;#string $str#&gt;, &lt;#array &amp;$arr#&gt; );</string>
+	<string>parse_str(&lt;#string $str#&gt;, &lt;#array &amp;$arr#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>89241C04-DFFD-40D9-A71C-D77F63E04AC1</string>
 	<key>IDECodeSnippetLanguage</key>

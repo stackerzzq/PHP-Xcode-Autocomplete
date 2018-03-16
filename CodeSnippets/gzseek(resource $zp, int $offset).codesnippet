@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gzseek ( &lt;#resource $zp#&gt;, &lt;#int $offset#&gt; );</string>
+	<string>gzseek(&lt;#resource $zp#&gt;, &lt;#int $offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E51E5C47-B3DB-49BC-A7F9-8D1805118681</string>
 	<key>IDECodeSnippetLanguage</key>

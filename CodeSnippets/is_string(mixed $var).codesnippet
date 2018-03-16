@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>is_string ( &lt;#mixed $var#&gt; );</string>
+	<string>is_string(&lt;#mixed $var#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D0A7EE04-3A80-41A1-BB2D-9DF23875290B</string>
 	<key>IDECodeSnippetLanguage</key>

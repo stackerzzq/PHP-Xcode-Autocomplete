@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_stmt_error ( &lt;#resource $stmt#&gt; );</string>
+	<string>db2_stmt_error(&lt;#resource $stmt#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D8455397-7C9B-44C5-8213-471BB61ED194</string>
 	<key>IDECodeSnippetLanguage</key>

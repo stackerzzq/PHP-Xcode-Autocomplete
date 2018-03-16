@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_centered_window ( &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#string $title#&gt; );</string>
+	<string>newt_centered_window(&lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#string $title#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D452BEEC-FD5D-44CD-823E-12F331D89407</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setBounds ( &lt;#float $width#&gt;, &lt;#float $height#&gt; );</string>
+	<string>setBounds(&lt;#float $width#&gt;, &lt;#float $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>95722B13-D979-4177-BEDA-7392D6A8A4C7</string>
 	<key>IDECodeSnippetLanguage</key>

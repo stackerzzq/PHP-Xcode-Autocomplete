@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruAnnotation::setHighlightMode ( &lt;#int $mode#&gt; );</string>
+	<string>HaruAnnotation::setHighlightMode(&lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>12EFD2DE-F527-4AAA-A846-D54387EF4B47</string>
 	<key>IDECodeSnippetLanguage</key>

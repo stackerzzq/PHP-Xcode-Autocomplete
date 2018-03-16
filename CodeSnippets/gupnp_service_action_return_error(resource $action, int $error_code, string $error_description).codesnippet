@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_service_action_return_error ( &lt;#resource $action#&gt;, &lt;#int $error_code#&gt;, &lt;#string $error_description#&gt; );</string>
+	<string>gupnp_service_action_return_error(&lt;#resource $action#&gt;, &lt;#int $error_code#&gt;, &lt;#string $error_description#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9A024767-AF88-44AB-85F1-6013B946797E</string>
 	<key>IDECodeSnippetLanguage</key>

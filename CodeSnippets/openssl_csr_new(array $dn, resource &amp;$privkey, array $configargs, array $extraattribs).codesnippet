@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_csr_new ( &lt;#array $dn#&gt;, &lt;#resource &amp;$privkey#&gt;, &lt;#array $configargs#&gt;, &lt;#array $extraattribs#&gt; );</string>
+	<string>openssl_csr_new(&lt;#array $dn#&gt;, &lt;#resource &amp;$privkey#&gt;, &lt;#array $configargs#&gt;, &lt;#array $extraattribs#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>735235F9-B228-43F2-AF6F-48C88094F390</string>
 	<key>IDECodeSnippetLanguage</key>

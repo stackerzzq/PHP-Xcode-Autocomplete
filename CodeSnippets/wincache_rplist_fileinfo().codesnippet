@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>wincache_rplist_fileinfo (  );</string>
+	<string>wincache_rplist_fileinfo();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8BA2B236-B06D-46EE-890C-8A2092D2225F</string>
 	<key>IDECodeSnippetLanguage</key>

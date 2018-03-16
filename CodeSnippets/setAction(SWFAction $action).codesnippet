@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setAction ( &lt;#SWFAction $action#&gt; );</string>
+	<string>setAction(&lt;#SWFAction $action#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B91FC679-C85D-4B81-854F-4BA6FD6CAD00</string>
 	<key>IDECodeSnippetLanguage</key>

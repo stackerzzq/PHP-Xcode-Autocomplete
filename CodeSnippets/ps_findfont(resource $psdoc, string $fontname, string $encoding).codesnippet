@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_findfont ( &lt;#resource $psdoc#&gt;, &lt;#string $fontname#&gt;, &lt;#string $encoding#&gt; );</string>
+	<string>ps_findfont(&lt;#resource $psdoc#&gt;, &lt;#string $fontname#&gt;, &lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>84FC6A3B-753A-4386-8754-D28AB0F1ACDE</string>
 	<key>IDECodeSnippetLanguage</key>

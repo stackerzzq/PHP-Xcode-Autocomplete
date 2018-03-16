@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_bind_array_by_name ( &lt;#resource $statement#&gt;, &lt;#string $name#&gt;, &lt;#array &amp;$var_array#&gt;, &lt;#int $max_table_length#&gt; );</string>
+	<string>oci_bind_array_by_name(&lt;#resource $statement#&gt;, &lt;#string $name#&gt;, &lt;#array &amp;$var_array#&gt;, &lt;#int $max_table_length#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AEF311E0-514C-42BA-8ECF-C270614375BD</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sybase_affected_rows ( &lt;#resource $link_identifier#&gt; );</string>
+	<string>sybase_affected_rows(&lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F5E7B8A2-045D-4D26-A848-36B41A1FAA3A</string>
 	<key>IDECodeSnippetLanguage</key>

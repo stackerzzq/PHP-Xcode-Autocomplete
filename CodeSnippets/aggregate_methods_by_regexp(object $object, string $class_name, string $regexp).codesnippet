@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>aggregate_methods_by_regexp ( &lt;#object $object#&gt;, &lt;#string $class_name#&gt;, &lt;#string $regexp#&gt; );</string>
+	<string>aggregate_methods_by_regexp(&lt;#object $object#&gt;, &lt;#string $class_name#&gt;, &lt;#string $regexp#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B737CA59-2F74-48CC-A0C7-FE00B41D57A8</string>
 	<key>IDECodeSnippetLanguage</key>

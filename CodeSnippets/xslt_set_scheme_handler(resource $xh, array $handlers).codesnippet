@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xslt_set_scheme_handler ( &lt;#resource $xh#&gt;, &lt;#array $handlers#&gt; );</string>
+	<string>xslt_set_scheme_handler(&lt;#resource $xh#&gt;, &lt;#array $handlers#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4E6D9036-ED9D-460A-BED7-24B87EE2A07F</string>
 	<key>IDECodeSnippetLanguage</key>

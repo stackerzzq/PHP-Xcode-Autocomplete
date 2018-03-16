@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gnupg_geterror ( &lt;#resource $identifier#&gt; );</string>
+	<string>gnupg_geterror(&lt;#resource $identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A772D816-5DB8-4215-BCDA-2D9D12A4C8E0</string>
 	<key>IDECodeSnippetLanguage</key>

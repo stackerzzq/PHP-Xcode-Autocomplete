@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_setuid ( &lt;#int $uid#&gt; );</string>
+	<string>posix_setuid(&lt;#int $uid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6ED42223-CBE1-4762-BEB3-CAEBEC7F9D31</string>
 	<key>IDECodeSnippetLanguage</key>

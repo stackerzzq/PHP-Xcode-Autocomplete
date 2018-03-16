@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmdate ( &lt;#string $format#&gt;, &lt;#int $timestamp#&gt; );</string>
+	<string>gmdate(&lt;#string $format#&gt;, &lt;#int $timestamp#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7BCEC56A-5D84-47AA-BAF4-E6370F7EB384</string>
 	<key>IDECodeSnippetLanguage</key>

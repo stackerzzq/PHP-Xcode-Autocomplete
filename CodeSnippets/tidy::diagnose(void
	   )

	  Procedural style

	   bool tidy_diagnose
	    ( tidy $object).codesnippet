@@ -15,7 +15,7 @@
 	  Procedural style
 
 	   bool tidy_diagnose
-	    ( tidy $object#&gt; );</string>
+	   (tidy $object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8BB711A6-BCD8-4D8E-AB7B-A28CAC5559B3</string>
 	<key>IDECodeSnippetLanguage</key>

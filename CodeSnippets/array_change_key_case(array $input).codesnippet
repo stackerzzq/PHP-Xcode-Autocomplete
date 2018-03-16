@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_change_key_case ( &lt;#array $input#&gt; );</string>
+	<string>array_change_key_case(&lt;#array $input#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E01984B1-F14E-4BBC-9CF8-3E68E575B241</string>
 	<key>IDECodeSnippetLanguage</key>

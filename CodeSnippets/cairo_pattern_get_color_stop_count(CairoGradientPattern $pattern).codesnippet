@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_pattern_get_color_stop_count ( &lt;#CairoGradientPattern $pattern#&gt; );</string>
+	<string>cairo_pattern_get_color_stop_count(&lt;#CairoGradientPattern $pattern#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2630175F-0CCA-48D6-9928-10CC698F7588</string>
 	<key>IDECodeSnippetLanguage</key>

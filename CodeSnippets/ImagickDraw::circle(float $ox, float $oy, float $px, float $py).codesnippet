@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::circle ( &lt;#float $ox#&gt;, &lt;#float $oy#&gt;, &lt;#float $px#&gt;, &lt;#float $py#&gt; );</string>
+	<string>ImagickDraw::circle(&lt;#float $ox#&gt;, &lt;#float $oy#&gt;, &lt;#float $px#&gt;, &lt;#float $py#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5C4BFA2F-E18E-4E08-BB0E-A4122A92010B</string>
 	<key>IDECodeSnippetLanguage</key>

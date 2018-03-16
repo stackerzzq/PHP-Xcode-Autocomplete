@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>classkit_method_redefine ( &lt;#string $classname#&gt;, &lt;#string $methodname#&gt;, &lt;#string $args#&gt;, &lt;#string $code#&gt; );</string>
+	<string>classkit_method_redefine(&lt;#string $classname#&gt;, &lt;#string $methodname#&gt;, &lt;#string $args#&gt;, &lt;#string $code#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B0396005-22C3-449B-A0BA-341914D34E13</string>
 	<key>IDECodeSnippetLanguage</key>

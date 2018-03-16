@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bzerror ( &lt;#resource $bz#&gt; );</string>
+	<string>bzerror(&lt;#resource $bz#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F6BCB70D-68B1-4531-998C-67ED98230B5B</string>
 	<key>IDECodeSnippetLanguage</key>

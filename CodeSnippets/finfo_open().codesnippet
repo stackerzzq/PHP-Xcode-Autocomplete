@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>finfo_open (  );</string>
+	<string>finfo_open();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0DEC3AFE-D42C-4165-A30E-459988D3DF2F</string>
 	<key>IDECodeSnippetLanguage</key>

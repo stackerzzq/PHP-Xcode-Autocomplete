@@ -17,7 +17,7 @@
 	   SQLiteDatabase
 
 	    void createAggregate
-	     ( string $function_name#&gt;, &lt;#callback $step_func#&gt;, &lt;#callback $finalize_func#&gt; );</string>
+	    (string $function_name#&gt;, &lt;#callback $step_func#&gt;, &lt;#callback $finalize_func#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EBD7B6AB-24D4-42A6-B164-74E4FEB68AF8</string>
 	<key>IDECodeSnippetLanguage</key>

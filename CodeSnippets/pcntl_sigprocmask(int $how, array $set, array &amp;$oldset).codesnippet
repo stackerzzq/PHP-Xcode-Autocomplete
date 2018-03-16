@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_sigprocmask ( &lt;#int $how#&gt;, &lt;#array $set#&gt;, &lt;#array &amp;$oldset#&gt; );</string>
+	<string>pcntl_sigprocmask(&lt;#int $how#&gt;, &lt;#array $set#&gt;, &lt;#array &amp;$oldset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CC8F948D-47C3-44AA-ACFA-7AD4397225D9</string>
 	<key>IDECodeSnippetLanguage</key>

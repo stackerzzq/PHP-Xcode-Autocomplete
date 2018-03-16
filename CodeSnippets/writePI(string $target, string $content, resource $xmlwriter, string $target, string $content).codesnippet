@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>writePI ( &lt;#string $target#&gt;, &lt;#string $content#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#string $target#&gt;, &lt;#string $content#&gt; );</string>
+	<string>writePI(&lt;#string $target#&gt;, &lt;#string $content#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#string $target#&gt;, &lt;#string $content#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>484231A3-A7A0-488D-A25E-E4EAD55BFE19</string>
 	<key>IDECodeSnippetLanguage</key>

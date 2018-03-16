@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dio_close ( &lt;#resource $fd#&gt; );</string>
+	<string>dio_close(&lt;#resource $fd#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA524567-DDB3-42B6-8963-BAD9FB65B0A7</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_use_extended_names ( &lt;#bool $flag#&gt; );</string>
+	<string>ncurses_use_extended_names(&lt;#bool $flag#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>77A994A1-1686-41E8-81FA-FBB0FA2EDF59</string>
 	<key>IDECodeSnippetLanguage</key>

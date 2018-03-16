@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_connectionerror ( &lt;#resource $conn#&gt; );</string>
+	<string>m_connectionerror(&lt;#resource $conn#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1F70782F-2A8A-42E9-AD9F-AD062521D900</string>
 	<key>IDECodeSnippetLanguage</key>

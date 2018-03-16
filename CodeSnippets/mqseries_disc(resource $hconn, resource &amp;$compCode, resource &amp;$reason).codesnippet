@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mqseries_disc ( &lt;#resource $hconn#&gt;, &lt;#resource &amp;$compCode#&gt;, &lt;#resource &amp;$reason#&gt; );</string>
+	<string>mqseries_disc(&lt;#resource $hconn#&gt;, &lt;#resource &amp;$compCode#&gt;, &lt;#resource &amp;$reason#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>84F06E35-42A1-49F0-A972-DFFBA4341283</string>
 	<key>IDECodeSnippetLanguage</key>

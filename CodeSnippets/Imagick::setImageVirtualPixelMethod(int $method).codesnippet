@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setImageVirtualPixelMethod ( &lt;#int $method#&gt; );</string>
+	<string>Imagick::setImageVirtualPixelMethod(&lt;#int $method#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D3476B31-FDCE-4F3B-B5F5-76F5EB8C9841</string>
 	<key>IDECodeSnippetLanguage</key>

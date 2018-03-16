@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ini_get_all ( &lt;#string $extension#&gt; );</string>
+	<string>ini_get_all(&lt;#string $extension#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>615AF405-5BF9-43C2-B3BB-FEEA686232C3</string>
 	<key>IDECodeSnippetLanguage</key>

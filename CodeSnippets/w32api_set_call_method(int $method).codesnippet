@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>w32api_set_call_method ( &lt;#int $method#&gt; );</string>
+	<string>w32api_set_call_method(&lt;#int $method#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>26F6C5A7-AD0E-4FEB-B5C9-644B07E069CA</string>
 	<key>IDECodeSnippetLanguage</key>

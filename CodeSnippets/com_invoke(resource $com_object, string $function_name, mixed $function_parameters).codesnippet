@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>com_invoke ( &lt;#resource $com_object#&gt;, &lt;#string $function_name#&gt;, &lt;#mixed $function_parameters#&gt; );</string>
+	<string>com_invoke(&lt;#resource $com_object#&gt;, &lt;#string $function_name#&gt;, &lt;#mixed $function_parameters#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0EECCABE-313D-4404-8D51-EC1F50B57DBF</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>memory_get_peak_usage (  );</string>
+	<string>memory_get_peak_usage();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AC053E46-F984-4F55-946D-C1D0D6CF2822</string>
 	<key>IDECodeSnippetLanguage</key>

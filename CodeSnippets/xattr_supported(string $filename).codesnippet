@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xattr_supported ( &lt;#string $filename#&gt; );</string>
+	<string>xattr_supported(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0820B318-C375-45DA-9C71-407D3DBA56E0</string>
 	<key>IDECodeSnippetLanguage</key>

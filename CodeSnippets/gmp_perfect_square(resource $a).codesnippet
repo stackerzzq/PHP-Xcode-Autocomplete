@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_perfect_square ( &lt;#resource $a#&gt; );</string>
+	<string>gmp_perfect_square(&lt;#resource $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1DE266E7-9792-44CE-A923-A84E8E19B43F</string>
 	<key>IDECodeSnippetLanguage</key>

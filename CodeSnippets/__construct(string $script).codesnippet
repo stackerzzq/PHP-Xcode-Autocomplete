@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__construct ( &lt;#string $script#&gt; );</string>
+	<string>__construct(&lt;#string $script#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7DC8BBB6-98DB-499F-A272-6E1ECCD79317</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::getTextDecoration (  );</string>
+	<string>ImagickDraw::getTextDecoration();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E1C2D888-A70E-4E36-85C2-A6DBDA71761D</string>
 	<key>IDECodeSnippetLanguage</key>

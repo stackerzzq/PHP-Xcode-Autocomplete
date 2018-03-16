@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_field_name ( &lt;#resource $statement#&gt;, &lt;#int $field#&gt; );</string>
+	<string>oci_field_name(&lt;#resource $statement#&gt;, &lt;#int $field#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A4EF5E21-9ACC-4DC5-8BF3-500D90A76DE2</string>
 	<key>IDECodeSnippetLanguage</key>

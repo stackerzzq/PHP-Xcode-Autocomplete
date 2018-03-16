@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_fact ( &lt;#mixed $a#&gt; );</string>
+	<string>gmp_fact(&lt;#mixed $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>296A78FB-ABAB-4574-97F6-5217945FDEF2</string>
 	<key>IDECodeSnippetLanguage</key>

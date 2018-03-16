@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_end_font ( &lt;#resource $pdfdoc#&gt; );</string>
+	<string>PDF_end_font(&lt;#resource $pdfdoc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5E78278E-7476-4CED-A227-D34638652288</string>
 	<key>IDECodeSnippetLanguage</key>

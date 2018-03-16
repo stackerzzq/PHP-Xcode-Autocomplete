@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_surface_get_device_offset ( &lt;#CairoSurface $surface#&gt; );</string>
+	<string>cairo_surface_get_device_offset(&lt;#CairoSurface $surface#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>646E0BF9-3AE1-430D-BFDF-E34DF9D82B24</string>
 	<key>IDECodeSnippetLanguage</key>

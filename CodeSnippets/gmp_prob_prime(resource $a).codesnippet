@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_prob_prime ( &lt;#resource $a#&gt; );</string>
+	<string>gmp_prob_prime(&lt;#resource $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C955C6E8-5787-4592-B674-008DBACA6DB6</string>
 	<key>IDECodeSnippetLanguage</key>

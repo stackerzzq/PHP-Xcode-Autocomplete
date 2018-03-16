@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ftp_delete ( &lt;#resource $ftp_stream#&gt;, &lt;#string $path#&gt; );</string>
+	<string>ftp_delete(&lt;#resource $ftp_stream#&gt;, &lt;#string $path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3C80F198-A311-4C88-99A0-C422381E8CE6</string>
 	<key>IDECodeSnippetLanguage</key>

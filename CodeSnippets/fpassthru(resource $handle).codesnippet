@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fpassthru ( &lt;#resource $handle#&gt; );</string>
+	<string>fpassthru(&lt;#resource $handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1322ABBE-FEBF-4688-BD4A-F46E1D4639A3</string>
 	<key>IDECodeSnippetLanguage</key>

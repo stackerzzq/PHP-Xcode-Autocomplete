@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sybase_field_seek ( &lt;#resource $result#&gt;, &lt;#int $field_offset#&gt; );</string>
+	<string>sybase_field_seek(&lt;#resource $result#&gt;, &lt;#int $field_offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F2E9138A-2832-45BD-9907-8C3C5F74E116</string>
 	<key>IDECodeSnippetLanguage</key>

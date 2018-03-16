@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_language ( &lt;#string $language#&gt; );</string>
+	<string>mb_language(&lt;#string $language#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BE2F5BAD-AC98-4DEA-9C63-08D3A0F90F81</string>
 	<key>IDECodeSnippetLanguage</key>

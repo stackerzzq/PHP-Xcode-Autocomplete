@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>abs ( &lt;#mixed $number#&gt; );</string>
+	<string>abs(&lt;#mixed $number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8A18051B-AFF3-44AD-97D5-CB9C1903AB95</string>
 	<key>IDECodeSnippetLanguage</key>

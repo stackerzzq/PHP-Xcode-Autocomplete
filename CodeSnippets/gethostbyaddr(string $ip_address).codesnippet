@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gethostbyaddr ( &lt;#string $ip_address#&gt; );</string>
+	<string>gethostbyaddr(&lt;#string $ip_address#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1CDF22EB-D219-4B04-BA60-0F0ED706BE3B</string>
 	<key>IDECodeSnippetLanguage</key>

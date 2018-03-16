@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>grapheme_strstr ( &lt;#string $haystack#&gt;, &lt;#string $needle#&gt; );</string>
+	<string>grapheme_strstr(&lt;#string $haystack#&gt;, &lt;#string $needle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2D196932-E82E-4FD1-A49E-4BB069373A1D</string>
 	<key>IDECodeSnippetLanguage</key>

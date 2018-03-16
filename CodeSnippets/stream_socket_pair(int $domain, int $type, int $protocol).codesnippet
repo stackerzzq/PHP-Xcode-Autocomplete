@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_socket_pair ( &lt;#int $domain#&gt;, &lt;#int $type#&gt;, &lt;#int $protocol#&gt; );</string>
+	<string>stream_socket_pair(&lt;#int $domain#&gt;, &lt;#int $type#&gt;, &lt;#int $protocol#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4A745D3C-1BB0-49A1-B3CC-E133C7BD75F6</string>
 	<key>IDECodeSnippetLanguage</key>

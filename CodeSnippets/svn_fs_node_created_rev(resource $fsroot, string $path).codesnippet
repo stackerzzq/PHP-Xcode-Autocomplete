@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_fs_node_created_rev ( &lt;#resource $fsroot#&gt;, &lt;#string $path#&gt; );</string>
+	<string>svn_fs_node_created_rev(&lt;#resource $fsroot#&gt;, &lt;#string $path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>82E98CEC-C225-43EC-856C-CD3AEA059C6F</string>
 	<key>IDECodeSnippetLanguage</key>

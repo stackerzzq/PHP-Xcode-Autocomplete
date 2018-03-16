@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>putenv ( &lt;#string $setting#&gt; );</string>
+	<string>putenv(&lt;#string $setting#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8577CEE7-EDB1-4AFF-9E1D-AA259A89A8AC</string>
 	<key>IDECodeSnippetLanguage</key>

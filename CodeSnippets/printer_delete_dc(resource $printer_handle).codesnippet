@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_delete_dc ( &lt;#resource $printer_handle#&gt; );</string>
+	<string>printer_delete_dc(&lt;#resource $printer_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>16FEE151-F215-47ED-A797-6A243CC0D660</string>
 	<key>IDECodeSnippetLanguage</key>

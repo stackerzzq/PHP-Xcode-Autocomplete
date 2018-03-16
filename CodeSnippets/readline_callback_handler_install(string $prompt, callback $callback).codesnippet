@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>readline_callback_handler_install ( &lt;#string $prompt#&gt;, &lt;#callback $callback#&gt; );</string>
+	<string>readline_callback_handler_install(&lt;#string $prompt#&gt;, &lt;#callback $callback#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>32A24AFE-1C8A-4EE7-8405-7CFC7E370198</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bcsub ( &lt;#string $left_operand#&gt;, &lt;#string $right_operand#&gt;, &lt;#int $scale#&gt; );</string>
+	<string>bcsub(&lt;#string $left_operand#&gt;, &lt;#string $right_operand#&gt;, &lt;#int $scale#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC28953C-EC4C-411D-A9CE-17FBF3F0E1A1</string>
 	<key>IDECodeSnippetLanguage</key>

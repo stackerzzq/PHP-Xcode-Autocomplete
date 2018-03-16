@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setStrokeLineCap ( &lt;#int $linecap#&gt; );</string>
+	<string>ImagickDraw::setStrokeLineCap(&lt;#int $linecap#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B68B9B99-7FB0-4AD3-BD54-C2C0BD55EFF8</string>
 	<key>IDECodeSnippetLanguage</key>

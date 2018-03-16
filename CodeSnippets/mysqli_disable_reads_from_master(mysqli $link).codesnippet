@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysqli_disable_reads_from_master ( &lt;#mysqli $link#&gt; );</string>
+	<string>mysqli_disable_reads_from_master(&lt;#mysqli $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A4F7EA43-CE13-4C51-8062-1B36D1D50AEF</string>
 	<key>IDECodeSnippetLanguage</key>

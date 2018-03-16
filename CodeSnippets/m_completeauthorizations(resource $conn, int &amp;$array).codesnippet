@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_completeauthorizations ( &lt;#resource $conn#&gt;, &lt;#int &amp;$array#&gt; );</string>
+	<string>m_completeauthorizations(&lt;#resource $conn#&gt;, &lt;#int &amp;$array#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>48AABED4-7A47-4382-80FE-10DBE5F6DB5A</string>
 	<key>IDECodeSnippetLanguage</key>

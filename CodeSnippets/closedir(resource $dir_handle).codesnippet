@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>closedir ( &lt;#resource $dir_handle#&gt; );</string>
+	<string>closedir(&lt;#resource $dir_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B1820D55-1B03-4579-811D-8B387465D61B</string>
 	<key>IDECodeSnippetLanguage</key>

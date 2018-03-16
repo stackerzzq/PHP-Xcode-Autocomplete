@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string> ( &lt;#CairoFontFace $fontface#&gt; );</string>
+	<string>(&lt;#CairoFontFace $fontface#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>43D1DDAC-957A-4AA5-AEAD-46ED54C0A6A2</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_setmiterlimit ( &lt;#resource $pdfdoc#&gt;, &lt;#float $miter#&gt; );</string>
+	<string>PDF_setmiterlimit(&lt;#resource $pdfdoc#&gt;, &lt;#float $miter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A650976D-0D98-4EA9-9B3C-360CB2F84862</string>
 	<key>IDECodeSnippetLanguage</key>

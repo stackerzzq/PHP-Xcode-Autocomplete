@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_add_locallink ( &lt;#resource $pdfdoc#&gt;, &lt;#float $lowerleftx#&gt;, &lt;#float $lowerlefty#&gt;, &lt;#float $upperrightx#&gt;, &lt;#float $upperrighty#&gt;, &lt;#int $page#&gt;, &lt;#string $dest#&gt; );</string>
+	<string>PDF_add_locallink(&lt;#resource $pdfdoc#&gt;, &lt;#float $lowerleftx#&gt;, &lt;#float $lowerlefty#&gt;, &lt;#float $upperrightx#&gt;, &lt;#float $upperrighty#&gt;, &lt;#int $page#&gt;, &lt;#string $dest#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>49211BE7-2998-449B-8740-FCCE98E9DADD</string>
 	<key>IDECodeSnippetLanguage</key>

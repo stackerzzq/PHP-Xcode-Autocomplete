@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_font_options_set_hint_style ( &lt;#CairoFontOptions $options#&gt;, &lt;#string $hint_style#&gt; );</string>
+	<string>cairo_font_options_set_hint_style(&lt;#CairoFontOptions $options#&gt;, &lt;#string $hint_style#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A5B6BCCB-30E4-46A0-9DF7-ECD961C30E87</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bzwrite ( &lt;#resource $bz#&gt;, &lt;#string $data#&gt;, &lt;#int $length#&gt; );</string>
+	<string>bzwrite(&lt;#resource $bz#&gt;, &lt;#string $data#&gt;, &lt;#int $length#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>15B56554-9645-4710-A01D-A3E372BFAEC7</string>
 	<key>IDECodeSnippetLanguage</key>

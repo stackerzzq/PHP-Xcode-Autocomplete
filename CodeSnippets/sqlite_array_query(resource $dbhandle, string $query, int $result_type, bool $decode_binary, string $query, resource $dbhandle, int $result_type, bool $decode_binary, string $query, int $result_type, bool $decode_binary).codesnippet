@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_array_query ( &lt;#resource $dbhandle#&gt;, &lt;#string $query#&gt;, &lt;#int $result_type#&gt;, &lt;#bool $decode_binary#&gt;, &lt;#string $query#&gt;, &lt;#resource $dbhandle#&gt;, &lt;#int $result_type#&gt;, &lt;#bool $decode_binary#&gt;, &lt;#string $query#&gt;, &lt;#int $result_type#&gt;, &lt;#bool $decode_binary#&gt; );</string>
+	<string>sqlite_array_query(&lt;#resource $dbhandle#&gt;, &lt;#string $query#&gt;, &lt;#int $result_type#&gt;, &lt;#bool $decode_binary#&gt;, &lt;#string $query#&gt;, &lt;#resource $dbhandle#&gt;, &lt;#int $result_type#&gt;, &lt;#bool $decode_binary#&gt;, &lt;#string $query#&gt;, &lt;#int $result_type#&gt;, &lt;#bool $decode_binary#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA7BD106-8011-48C1-AF75-81DA55465150</string>
 	<key>IDECodeSnippetLanguage</key>

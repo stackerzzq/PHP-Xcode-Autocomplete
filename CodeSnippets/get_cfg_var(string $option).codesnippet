@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_cfg_var ( &lt;#string $option#&gt; );</string>
+	<string>get_cfg_var(&lt;#string $option#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BBA88680-7B98-4F08-9308-BF42B8BCE6BF</string>
 	<key>IDECodeSnippetLanguage</key>

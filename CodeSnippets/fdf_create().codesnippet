@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_create (  );</string>
+	<string>fdf_create();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5A2D10AA-F0A3-4F75-8E01-F336BEF50CA2</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysqli_report ( &lt;#int $flags#&gt; );</string>
+	<string>mysqli_report(&lt;#int $flags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E7481CD4-F535-4B77-BB97-F8661EB4FCC9</string>
 	<key>IDECodeSnippetLanguage</key>

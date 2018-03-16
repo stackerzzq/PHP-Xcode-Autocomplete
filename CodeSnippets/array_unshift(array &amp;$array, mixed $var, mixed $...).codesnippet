@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_unshift ( &lt;#array &amp;$array#&gt;, &lt;#mixed $var#&gt;, &lt;#mixed $...#&gt; );</string>
+	<string>array_unshift(&lt;#array &amp;$array#&gt;, &lt;#mixed $var#&gt;, &lt;#mixed $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C47F7B77-BF7D-469F-8B2D-C9A2818F0E2D</string>
 	<key>IDECodeSnippetLanguage</key>

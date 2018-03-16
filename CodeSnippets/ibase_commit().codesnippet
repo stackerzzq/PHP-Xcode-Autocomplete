@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_commit (  );</string>
+	<string>ibase_commit();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FA2BE07A-665B-443A-9012-898A9CFC52FC</string>
 	<key>IDECodeSnippetLanguage</key>

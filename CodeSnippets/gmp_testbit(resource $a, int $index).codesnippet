@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_testbit ( &lt;#resource $a#&gt;, &lt;#int $index#&gt; );</string>
+	<string>gmp_testbit(&lt;#resource $a#&gt;, &lt;#int $index#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3DA6710A-9DA7-4E23-989B-5F731E2214D2</string>
 	<key>IDECodeSnippetLanguage</key>

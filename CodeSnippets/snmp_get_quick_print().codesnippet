@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>snmp_get_quick_print (  );</string>
+	<string>snmp_get_quick_print();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>01136434-F8C3-47C9-8021-CCE9F2D8D16A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_is_registered ( &lt;#string $name#&gt; );</string>
+	<string>session_is_registered(&lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>574E01AD-B459-4957-886A-FC5127786F27</string>
 	<key>IDECodeSnippetLanguage</key>

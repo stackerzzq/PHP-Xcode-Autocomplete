@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequest::getHistory (  );</string>
+	<string>HttpRequest::getHistory();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>12645849-4733-42F4-AE19-222542B09A64</string>
 	<key>IDECodeSnippetLanguage</key>

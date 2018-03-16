@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>runkit_class_emancipate ( &lt;#string $classname#&gt; );</string>
+	<string>runkit_class_emancipate(&lt;#string $classname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5590F54A-0995-4BFA-BCBF-BDB2C86298D7</string>
 	<key>IDECodeSnippetLanguage</key>

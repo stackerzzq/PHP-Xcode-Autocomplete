@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_string_geometry ( &lt;#resource $psdoc#&gt;, &lt;#string $text#&gt; );</string>
+	<string>ps_string_geometry(&lt;#resource $psdoc#&gt;, &lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FEF0149F-062F-4CA0-A4F3-0BF63144B112</string>
 	<key>IDECodeSnippetLanguage</key>

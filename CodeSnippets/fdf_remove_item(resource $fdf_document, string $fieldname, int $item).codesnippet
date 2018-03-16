@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_remove_item ( &lt;#resource $fdf_document#&gt;, &lt;#string $fieldname#&gt;, &lt;#int $item#&gt; );</string>
+	<string>fdf_remove_item(&lt;#resource $fdf_document#&gt;, &lt;#string $fieldname#&gt;, &lt;#int $item#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8B1B7550-25C4-41FD-A22E-71753A9864F4</string>
 	<key>IDECodeSnippetLanguage</key>

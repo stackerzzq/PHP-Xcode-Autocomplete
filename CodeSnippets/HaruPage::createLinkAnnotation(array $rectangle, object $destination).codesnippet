@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::createLinkAnnotation ( &lt;#array $rectangle#&gt;, &lt;#object $destination#&gt; );</string>
+	<string>HaruPage::createLinkAnnotation(&lt;#array $rectangle#&gt;, &lt;#object $destination#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>995A424C-79DB-43F4-BEC9-EED84876F70F</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>spl_object_hash ( &lt;#object $obj#&gt; );</string>
+	<string>spl_object_hash(&lt;#object $obj#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B0979936-45AF-415A-906E-6AE004033E98</string>
 	<key>IDECodeSnippetLanguage</key>

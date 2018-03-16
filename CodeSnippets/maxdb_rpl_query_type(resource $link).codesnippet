@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_rpl_query_type ( &lt;#resource $link#&gt; );</string>
+	<string>maxdb_rpl_query_type(&lt;#resource $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>98F101C7-BB7B-4524-B883-41CCCABDFC1C</string>
 	<key>IDECodeSnippetLanguage</key>

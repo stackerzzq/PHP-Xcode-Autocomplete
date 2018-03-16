@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::getImageFilename (  );</string>
+	<string>Imagick::getImageFilename();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>20025B15-7B1E-4075-902B-6B3DAC377417</string>
 	<key>IDECodeSnippetLanguage</key>

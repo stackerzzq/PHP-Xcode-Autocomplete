@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_get_minorversion (  );</string>
+	<string>PDF_get_minorversion();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>78F5BF11-96B2-47F9-88D3-09FF518AE3AE</string>
 	<key>IDECodeSnippetLanguage</key>

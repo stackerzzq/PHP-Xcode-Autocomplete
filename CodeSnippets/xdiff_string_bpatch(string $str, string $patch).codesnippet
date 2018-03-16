@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xdiff_string_bpatch ( &lt;#string $str#&gt;, &lt;#string $patch#&gt; );</string>
+	<string>xdiff_string_bpatch(&lt;#string $str#&gt;, &lt;#string $patch#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4277AFB7-8516-47D6-8D1A-B3559C2BAD12</string>
 	<key>IDECodeSnippetLanguage</key>

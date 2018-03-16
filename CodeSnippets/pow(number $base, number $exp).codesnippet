@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pow ( &lt;#number $base#&gt;, &lt;#number $exp#&gt; );</string>
+	<string>pow(&lt;#number $base#&gt;, &lt;#number $exp#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D5A66CD1-8742-4836-A9C5-150A43CA6A9E</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_doupdate (  );</string>
+	<string>ncurses_doupdate();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>75CCFB2A-B6F1-4BE0-ACFE-F0CCED0D7A30</string>
 	<key>IDECodeSnippetLanguage</key>

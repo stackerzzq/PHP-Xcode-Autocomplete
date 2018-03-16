@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_delete_font ( &lt;#resource $font_handle#&gt; );</string>
+	<string>printer_delete_font(&lt;#resource $font_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E851816F-58BC-499D-B324-F8F6DDC08D5D</string>
 	<key>IDECodeSnippetLanguage</key>

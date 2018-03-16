@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagesavealpha ( &lt;#resource $image#&gt;, &lt;#bool $saveflag#&gt; );</string>
+	<string>imagesavealpha(&lt;#resource $image#&gt;, &lt;#bool $saveflag#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C39CF29E-39EA-4EA4-AA79-F014FF8FEE52</string>
 	<key>IDECodeSnippetLanguage</key>

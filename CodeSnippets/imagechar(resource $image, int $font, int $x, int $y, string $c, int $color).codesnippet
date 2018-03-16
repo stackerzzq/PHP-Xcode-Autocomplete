@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagechar ( &lt;#resource $image#&gt;, &lt;#int $font#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#string $c#&gt;, &lt;#int $color#&gt; );</string>
+	<string>imagechar(&lt;#resource $image#&gt;, &lt;#int $font#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#string $c#&gt;, &lt;#int $color#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>06E106CF-D88C-46F8-A30A-668C28261454</string>
 	<key>IDECodeSnippetLanguage</key>

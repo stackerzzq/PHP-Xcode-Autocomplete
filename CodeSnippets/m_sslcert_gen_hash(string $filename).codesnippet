@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_sslcert_gen_hash ( &lt;#string $filename#&gt; );</string>
+	<string>m_sslcert_gen_hash(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E14EC728-5C91-4D7B-AE63-FB77ED165B56</string>
 	<key>IDECodeSnippetLanguage</key>

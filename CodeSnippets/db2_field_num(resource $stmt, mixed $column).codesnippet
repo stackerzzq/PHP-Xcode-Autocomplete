@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_field_num ( &lt;#resource $stmt#&gt;, &lt;#mixed $column#&gt; );</string>
+	<string>db2_field_num(&lt;#resource $stmt#&gt;, &lt;#mixed $column#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>982963EE-63AE-43D3-8CCE-F4904C80D916</string>
 	<key>IDECodeSnippetLanguage</key>

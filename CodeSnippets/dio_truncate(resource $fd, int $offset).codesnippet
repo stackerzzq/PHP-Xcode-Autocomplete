@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dio_truncate ( &lt;#resource $fd#&gt;, &lt;#int $offset#&gt; );</string>
+	<string>dio_truncate(&lt;#resource $fd#&gt;, &lt;#int $offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EC2F6ADE-A5B9-4F93-B5F9-7708A2D70D3B</string>
 	<key>IDECodeSnippetLanguage</key>

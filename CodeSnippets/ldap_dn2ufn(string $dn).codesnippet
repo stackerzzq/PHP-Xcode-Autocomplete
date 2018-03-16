@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_dn2ufn ( &lt;#string $dn#&gt; );</string>
+	<string>ldap_dn2ufn(&lt;#string $dn#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>59C80D37-C771-410B-8AF3-5514DE37262A</string>
 	<key>IDECodeSnippetLanguage</key>

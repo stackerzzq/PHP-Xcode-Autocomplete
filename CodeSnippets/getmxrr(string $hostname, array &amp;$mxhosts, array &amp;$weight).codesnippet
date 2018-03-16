@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getmxrr ( &lt;#string $hostname#&gt;, &lt;#array &amp;$mxhosts#&gt;, &lt;#array &amp;$weight#&gt; );</string>
+	<string>getmxrr(&lt;#string $hostname#&gt;, &lt;#array &amp;$mxhosts#&gt;, &lt;#array &amp;$weight#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>92876A56-4A04-460C-BC6E-F67AB8A74A7A</string>
 	<key>IDECodeSnippetLanguage</key>

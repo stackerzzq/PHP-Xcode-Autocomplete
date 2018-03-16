@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_show_xy ( &lt;#resource $p#&gt;, &lt;#string $text#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>PDF_show_xy(&lt;#resource $p#&gt;, &lt;#string $text#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5B210533-23FB-4347-9367-ADC5ED91E3FD</string>
 	<key>IDECodeSnippetLanguage</key>

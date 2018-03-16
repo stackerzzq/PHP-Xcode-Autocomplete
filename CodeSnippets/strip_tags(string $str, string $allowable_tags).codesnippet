@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>strip_tags ( &lt;#string $str#&gt;, &lt;#string $allowable_tags#&gt; );</string>
+	<string>strip_tags(&lt;#string $str#&gt;, &lt;#string $allowable_tags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>196A7CAE-3488-4046-8B98-9E899AE20291</string>
 	<key>IDECodeSnippetLanguage</key>

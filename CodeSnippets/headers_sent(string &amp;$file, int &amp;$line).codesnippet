@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>headers_sent ( &lt;#string &amp;$file#&gt;, &lt;#int &amp;$line#&gt; );</string>
+	<string>headers_sent(&lt;#string &amp;$file#&gt;, &lt;#int &amp;$line#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E4607287-53E4-4459-9024-99C2A8ACB117</string>
 	<key>IDECodeSnippetLanguage</key>

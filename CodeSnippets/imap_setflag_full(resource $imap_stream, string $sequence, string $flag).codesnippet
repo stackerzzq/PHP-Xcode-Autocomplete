@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_setflag_full ( &lt;#resource $imap_stream#&gt;, &lt;#string $sequence#&gt;, &lt;#string $flag#&gt; );</string>
+	<string>imap_setflag_full(&lt;#resource $imap_stream#&gt;, &lt;#string $sequence#&gt;, &lt;#string $flag#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>592E4762-EAD6-48D0-87A2-430C246FC5CB</string>
 	<key>IDECodeSnippetLanguage</key>

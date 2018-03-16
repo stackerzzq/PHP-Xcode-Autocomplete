@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fam_monitor_file ( &lt;#resource $fam#&gt;, &lt;#string $filename#&gt; );</string>
+	<string>fam_monitor_file(&lt;#resource $fam#&gt;, &lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C45E8BAC-48EC-499F-A3A2-BE5B9904D79C</string>
 	<key>IDECodeSnippetLanguage</key>

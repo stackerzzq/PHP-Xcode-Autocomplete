@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_get_transports (  );</string>
+	<string>stream_get_transports();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>46F2AB88-A68B-4260-AE5D-3B25781855D2</string>
 	<key>IDECodeSnippetLanguage</key>

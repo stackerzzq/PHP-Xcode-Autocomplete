@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>libxml_set_streams_context ( &lt;#resource $streams_context#&gt; );</string>
+	<string>libxml_set_streams_context(&lt;#resource $streams_context#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E9111FBE-4026-413D-8768-BAE3C70DFC02</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>importFont ( &lt;#string $libswf#&gt;, &lt;#string $name#&gt; );</string>
+	<string>importFont(&lt;#string $libswf#&gt;, &lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FC918EED-CE4D-4AD1-A88F-652F0CD69842</string>
 	<key>IDECodeSnippetLanguage</key>

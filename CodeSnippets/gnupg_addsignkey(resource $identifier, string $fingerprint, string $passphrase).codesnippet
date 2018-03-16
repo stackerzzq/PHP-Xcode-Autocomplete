@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gnupg_addsignkey ( &lt;#resource $identifier#&gt;, &lt;#string $fingerprint#&gt;, &lt;#string $passphrase#&gt; );</string>
+	<string>gnupg_addsignkey(&lt;#resource $identifier#&gt;, &lt;#string $fingerprint#&gt;, &lt;#string $passphrase#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>32DCF747-52E7-416C-868C-35C4E5F64878</string>
 	<key>IDECodeSnippetLanguage</key>

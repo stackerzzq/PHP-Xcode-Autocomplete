@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>geoip_time_zone_by_country_and_region ( &lt;#string $country_code#&gt;, &lt;#string $region_code#&gt; );</string>
+	<string>geoip_time_zone_by_country_and_region(&lt;#string $country_code#&gt;, &lt;#string $region_code#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D392805A-BB60-4284-B78E-977D75220124</string>
 	<key>IDECodeSnippetLanguage</key>

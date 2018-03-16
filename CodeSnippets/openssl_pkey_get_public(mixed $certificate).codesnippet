@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_pkey_get_public ( &lt;#mixed $certificate#&gt; );</string>
+	<string>openssl_pkey_get_public(&lt;#mixed $certificate#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>36355D48-6BD8-410B-9490-4DADD5229629</string>
 	<key>IDECodeSnippetLanguage</key>

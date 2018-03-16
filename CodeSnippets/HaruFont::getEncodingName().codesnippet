@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruFont::getEncodingName (  );</string>
+	<string>HaruFont::getEncodingName();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CEF87B52-652F-46C7-9AEB-4A9747949F39</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>enchant_dict_store_replacement ( &lt;#resource $dict#&gt;, &lt;#string $mis#&gt;, &lt;#string $cor#&gt; );</string>
+	<string>enchant_dict_store_replacement(&lt;#resource $dict#&gt;, &lt;#string $mis#&gt;, &lt;#string $cor#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E2222857-DFB8-4AA8-921C-43DD4403F71A</string>
 	<key>IDECodeSnippetLanguage</key>

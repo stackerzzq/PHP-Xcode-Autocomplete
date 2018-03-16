@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpResponse::getBufferSize (  );</string>
+	<string>HttpResponse::getBufferSize();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>03BF6237-9575-4AD3-9785-A5C24ABE4620</string>
 	<key>IDECodeSnippetLanguage</key>

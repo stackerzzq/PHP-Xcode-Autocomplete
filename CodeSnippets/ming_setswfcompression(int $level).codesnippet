@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ming_setswfcompression ( &lt;#int $level#&gt; );</string>
+	<string>ming_setswfcompression(&lt;#int $level#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>245B590B-C2BE-4CCE-9826-1F1CAC84AEE5</string>
 	<key>IDECodeSnippetLanguage</key>

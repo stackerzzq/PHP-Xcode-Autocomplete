@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruImage::getHeight (  );</string>
+	<string>HaruImage::getHeight();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4607FA0F-0F96-47FC-BDD8-D3175181F846</string>
 	<key>IDECodeSnippetLanguage</key>

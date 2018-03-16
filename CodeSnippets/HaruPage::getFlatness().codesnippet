@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getFlatness (  );</string>
+	<string>HaruPage::getFlatness();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>56F718CF-8487-4A9B-8C71-8A154AE4018F</string>
 	<key>IDECodeSnippetLanguage</key>

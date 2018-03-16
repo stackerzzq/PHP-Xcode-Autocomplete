@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_Model_ReflectionDataObject::getInstanceProperties (  );</string>
+	<string>SDO_Model_ReflectionDataObject::getInstanceProperties();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2763F19F-2AE8-492D-B617-8760968A6B37</string>
 	<key>IDECodeSnippetLanguage</key>

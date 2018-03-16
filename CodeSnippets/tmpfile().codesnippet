@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>tmpfile (  );</string>
+	<string>tmpfile();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>187A981A-901B-4122-AED0-46C662D52AC7</string>
 	<key>IDECodeSnippetLanguage</key>

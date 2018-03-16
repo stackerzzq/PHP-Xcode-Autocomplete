@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dio_tcsetattr ( &lt;#resource $fd#&gt;, &lt;#array $options#&gt; );</string>
+	<string>dio_tcsetattr(&lt;#resource $fd#&gt;, &lt;#array $options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4EB0AAE4-0E7E-46AA-9976-220E002ADD0B</string>
 	<key>IDECodeSnippetLanguage</key>

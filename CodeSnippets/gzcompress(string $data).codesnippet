@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gzcompress ( &lt;#string $data#&gt; );</string>
+	<string>gzcompress(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5FA190FA-C441-45D1-AFA3-AE760903D47C</string>
 	<key>IDECodeSnippetLanguage</key>

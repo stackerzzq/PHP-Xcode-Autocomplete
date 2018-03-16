@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>strptime ( &lt;#string $date#&gt;, &lt;#string $format#&gt; );</string>
+	<string>strptime(&lt;#string $date#&gt;, &lt;#string $format#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FF12E6E1-30E7-479C-8F17-3B31083BA8D9</string>
 	<key>IDECodeSnippetLanguage</key>

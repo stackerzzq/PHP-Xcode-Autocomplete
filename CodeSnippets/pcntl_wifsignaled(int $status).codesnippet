@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_wifsignaled ( &lt;#int $status#&gt; );</string>
+	<string>pcntl_wifsignaled(&lt;#int $status#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FCCF7BC3-4E19-4E97-8C05-DB156F685CC6</string>
 	<key>IDECodeSnippetLanguage</key>

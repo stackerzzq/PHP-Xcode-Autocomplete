@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpResponse::getGzip (  );</string>
+	<string>HttpResponse::getGzip();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6B0BC83B-04DC-469E-8781-409EADC35E13</string>
 	<key>IDECodeSnippetLanguage</key>

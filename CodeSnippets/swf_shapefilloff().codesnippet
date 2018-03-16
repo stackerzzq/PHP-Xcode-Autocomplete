@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_shapefilloff (  );</string>
+	<string>swf_shapefilloff();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA345530-8250-482B-900B-4E10F2CA5CFF</string>
 	<key>IDECodeSnippetLanguage</key>

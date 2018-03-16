@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_rotate ( &lt;#float $angle#&gt;, &lt;#string $axis#&gt; );</string>
+	<string>swf_rotate(&lt;#float $angle#&gt;, &lt;#string $axis#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>00FB2FFF-8337-4F46-882F-2445FFAD9C87</string>
 	<key>IDECodeSnippetLanguage</key>

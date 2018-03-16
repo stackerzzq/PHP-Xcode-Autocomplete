@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ftp_get_option ( &lt;#resource $ftp_stream#&gt;, &lt;#int $option#&gt; );</string>
+	<string>ftp_get_option(&lt;#resource $ftp_stream#&gt;, &lt;#int $option#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8AB59919-CC21-4061-9BAD-2F5C897FAE2C</string>
 	<key>IDECodeSnippetLanguage</key>

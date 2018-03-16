@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ssh2_scp_recv ( &lt;#resource $session#&gt;, &lt;#string $remote_file#&gt;, &lt;#string $local_file#&gt; );</string>
+	<string>ssh2_scp_recv(&lt;#resource $session#&gt;, &lt;#string $remote_file#&gt;, &lt;#string $local_file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6027BB9C-576B-484B-A9B9-D69584AE6366</string>
 	<key>IDECodeSnippetLanguage</key>

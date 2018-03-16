@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>unixtojd (  );</string>
+	<string>unixtojd();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>57CAED9A-BEAB-46D6-B83B-F910DF6EC281</string>
 	<key>IDECodeSnippetLanguage</key>

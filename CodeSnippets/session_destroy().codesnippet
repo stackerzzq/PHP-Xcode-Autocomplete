@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_destroy (  );</string>
+	<string>session_destroy();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5D29DE75-66BB-445E-B4D5-E6BE74C0397C</string>
 	<key>IDECodeSnippetLanguage</key>

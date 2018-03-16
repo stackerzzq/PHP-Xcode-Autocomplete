@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yp_cat ( &lt;#string $domain#&gt;, &lt;#string $map#&gt; );</string>
+	<string>yp_cat(&lt;#string $domain#&gt;, &lt;#string $map#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>35AF87F0-9463-4AF8-A734-A36660791506</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>count_chars ( &lt;#string $string#&gt; );</string>
+	<string>count_chars(&lt;#string $string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>34357470-C333-4F92-8787-2A1391330387</string>
 	<key>IDECodeSnippetLanguage</key>

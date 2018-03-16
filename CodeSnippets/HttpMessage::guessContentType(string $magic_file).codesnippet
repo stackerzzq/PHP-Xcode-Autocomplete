@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpMessage::guessContentType ( &lt;#string $magic_file#&gt; );</string>
+	<string>HttpMessage::guessContentType(&lt;#string $magic_file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>95247499-964B-4BE0-8FE4-B4579619F7A2</string>
 	<key>IDECodeSnippetLanguage</key>

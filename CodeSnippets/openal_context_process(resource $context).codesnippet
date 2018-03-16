@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openal_context_process ( &lt;#resource $context#&gt; );</string>
+	<string>openal_context_process(&lt;#resource $context#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CAB01299-30C5-453B-8798-7CD8E8B67DF1</string>
 	<key>IDECodeSnippetLanguage</key>

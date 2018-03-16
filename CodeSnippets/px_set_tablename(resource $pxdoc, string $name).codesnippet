@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>px_set_tablename ( &lt;#resource $pxdoc#&gt;, &lt;#string $name#&gt; );</string>
+	<string>px_set_tablename(&lt;#resource $pxdoc#&gt;, &lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6BB5EA4B-B373-45A4-B1ED-85A091EB4BA9</string>
 	<key>IDECodeSnippetLanguage</key>

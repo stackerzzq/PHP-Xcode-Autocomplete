@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_concat ( &lt;#resource $p#&gt;, &lt;#float $a#&gt;, &lt;#float $b#&gt;, &lt;#float $c#&gt;, &lt;#float $d#&gt;, &lt;#float $e#&gt;, &lt;#float $f#&gt; );</string>
+	<string>PDF_concat(&lt;#resource $p#&gt;, &lt;#float $a#&gt;, &lt;#float $b#&gt;, &lt;#float $c#&gt;, &lt;#float $d#&gt;, &lt;#float $e#&gt;, &lt;#float $f#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6D875841-580F-43B8-9463-ABD2E1817C78</string>
 	<key>IDECodeSnippetLanguage</key>

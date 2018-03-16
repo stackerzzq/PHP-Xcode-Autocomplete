@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setImageBias ( &lt;#float $bias#&gt; );</string>
+	<string>Imagick::setImageBias(&lt;#float $bias#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0AEAE23D-9201-475B-8286-5D00CDA071D0</string>
 	<key>IDECodeSnippetLanguage</key>

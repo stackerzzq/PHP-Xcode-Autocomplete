@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_pclose ( &lt;#resource $resource#&gt; );</string>
+	<string>db2_pclose(&lt;#resource $resource#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AD61E3F3-F6FE-4E9F-A3AD-4FCCB0F4146E</string>
 	<key>IDECodeSnippetLanguage</key>

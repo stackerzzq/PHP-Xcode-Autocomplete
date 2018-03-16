@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>kadm5_destroy ( &lt;#resource $handle#&gt; );</string>
+	<string>kadm5_destroy(&lt;#resource $handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DF8EA272-028F-4ADA-9BFF-4BE7162696FC</string>
 	<key>IDECodeSnippetLanguage</key>

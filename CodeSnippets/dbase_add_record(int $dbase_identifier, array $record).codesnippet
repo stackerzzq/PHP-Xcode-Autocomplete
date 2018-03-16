@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbase_add_record ( &lt;#int $dbase_identifier#&gt;, &lt;#array $record#&gt; );</string>
+	<string>dbase_add_record(&lt;#int $dbase_identifier#&gt;, &lt;#array $record#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>61B4720A-9388-4A9E-91E0-6AB4B1DE78AD</string>
 	<key>IDECodeSnippetLanguage</key>

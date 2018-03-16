@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_context_get_host_ip ( &lt;#resource $context#&gt; );</string>
+	<string>gupnp_context_get_host_ip(&lt;#resource $context#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6DADDC84-83DA-4404-AAEF-820F53B94DFE</string>
 	<key>IDECodeSnippetLanguage</key>

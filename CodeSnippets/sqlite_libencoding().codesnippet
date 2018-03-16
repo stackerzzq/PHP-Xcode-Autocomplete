@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_libencoding (  );</string>
+	<string>sqlite_libencoding();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5AEFF774-E329-4E19-98D7-CE9865B09D2F</string>
 	<key>IDECodeSnippetLanguage</key>

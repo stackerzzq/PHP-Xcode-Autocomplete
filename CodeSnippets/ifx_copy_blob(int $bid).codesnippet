@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_copy_blob ( &lt;#int $bid#&gt; );</string>
+	<string>ifx_copy_blob(&lt;#int $bid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7C37A946-AA98-4DFF-B97C-8B6962D7434C</string>
 	<key>IDECodeSnippetLanguage</key>

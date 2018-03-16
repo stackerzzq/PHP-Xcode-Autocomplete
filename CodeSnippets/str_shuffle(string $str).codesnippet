@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>str_shuffle ( &lt;#string $str#&gt; );</string>
+	<string>str_shuffle(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B048DD4B-15F3-4E06-BB01-D2F47B3319ED</string>
 	<key>IDECodeSnippetLanguage</key>

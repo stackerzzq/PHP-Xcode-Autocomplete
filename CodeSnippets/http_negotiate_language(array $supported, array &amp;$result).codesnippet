@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_negotiate_language ( &lt;#array $supported#&gt;, &lt;#array &amp;$result#&gt; );</string>
+	<string>http_negotiate_language(&lt;#array $supported#&gt;, &lt;#array &amp;$result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C8EA6567-3E76-4ADF-9AD2-C9D205799F37</string>
 	<key>IDECodeSnippetLanguage</key>

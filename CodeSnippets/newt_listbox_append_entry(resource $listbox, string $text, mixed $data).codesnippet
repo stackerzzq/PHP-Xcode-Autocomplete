@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_listbox_append_entry ( &lt;#resource $listbox#&gt;, &lt;#string $text#&gt;, &lt;#mixed $data#&gt; );</string>
+	<string>newt_listbox_append_entry(&lt;#resource $listbox#&gt;, &lt;#string $text#&gt;, &lt;#mixed $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5DC37A95-9493-4005-B7BB-535BE2C21106</string>
 	<key>IDECodeSnippetLanguage</key>

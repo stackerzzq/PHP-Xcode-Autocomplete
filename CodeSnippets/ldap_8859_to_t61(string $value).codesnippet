@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_8859_to_t61 ( &lt;#string $value#&gt; );</string>
+	<string>ldap_8859_to_t61(&lt;#string $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D8E8DE11-A715-4344-9EF5-1A7F78DBA725</string>
 	<key>IDECodeSnippetLanguage</key>

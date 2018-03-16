@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_restore ( &lt;#resource $p#&gt; );</string>
+	<string>PDF_restore(&lt;#resource $p#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C5450954-ED02-48F8-BEB3-FAC8815946D9</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>tidy_get_error_buffer ( &lt;#tidy $object#&gt; );</string>
+	<string>tidy_get_error_buffer(&lt;#tidy $object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6A1F68CD-AAC8-4E6C-A85A-C9EF14B4CB8F</string>
 	<key>IDECodeSnippetLanguage</key>

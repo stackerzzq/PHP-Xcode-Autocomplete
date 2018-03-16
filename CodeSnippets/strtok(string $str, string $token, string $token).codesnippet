@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>strtok ( &lt;#string $str#&gt;, &lt;#string $token#&gt;, &lt;#string $token#&gt; );</string>
+	<string>strtok(&lt;#string $str#&gt;, &lt;#string $token#&gt;, &lt;#string $token#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>660D90D9-5AB8-489C-B0BB-0855CB2837AF</string>
 	<key>IDECodeSnippetLanguage</key>

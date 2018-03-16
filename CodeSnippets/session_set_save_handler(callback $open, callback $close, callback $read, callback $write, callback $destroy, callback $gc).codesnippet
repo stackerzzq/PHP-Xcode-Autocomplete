@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_set_save_handler ( &lt;#callback $open#&gt;, &lt;#callback $close#&gt;, &lt;#callback $read#&gt;, &lt;#callback $write#&gt;, &lt;#callback $destroy#&gt;, &lt;#callback $gc#&gt; );</string>
+	<string>session_set_save_handler(&lt;#callback $open#&gt;, &lt;#callback $close#&gt;, &lt;#callback $read#&gt;, &lt;#callback $write#&gt;, &lt;#callback $destroy#&gt;, &lt;#callback $gc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C1420800-9410-4725-A740-4442444462CF</string>
 	<key>IDECodeSnippetLanguage</key>

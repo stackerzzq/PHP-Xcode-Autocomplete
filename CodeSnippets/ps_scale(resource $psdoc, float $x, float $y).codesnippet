@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_scale ( &lt;#resource $psdoc#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>ps_scale(&lt;#resource $psdoc#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F9D64549-3465-47C5-B799-26B4111F9EA2</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_delete_textflow ( &lt;#resource $pdfdoc#&gt;, &lt;#int $textflow#&gt; );</string>
+	<string>PDF_delete_textflow(&lt;#resource $pdfdoc#&gt;, &lt;#int $textflow#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D0C9FD78-F5F3-4817-8B4E-6B17CC2571A3</string>
 	<key>IDECodeSnippetLanguage</key>

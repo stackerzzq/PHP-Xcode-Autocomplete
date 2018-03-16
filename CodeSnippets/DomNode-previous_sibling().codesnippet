@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomNode-&gt;previous_sibling (  );</string>
+	<string>DomNode-&gt;previous_sibling();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>977B3B17-2119-40A1-85C0-337302B2DB0D</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>jdtojulian ( &lt;#int $julianday#&gt; );</string>
+	<string>jdtojulian(&lt;#int $julianday#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>92320B61-6DC6-41D7-AFDD-430F7B9C639F</string>
 	<key>IDECodeSnippetLanguage</key>

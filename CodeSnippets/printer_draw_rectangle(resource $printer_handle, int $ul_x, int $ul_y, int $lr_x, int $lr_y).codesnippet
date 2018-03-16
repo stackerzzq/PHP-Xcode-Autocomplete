@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_draw_rectangle ( &lt;#resource $printer_handle#&gt;, &lt;#int $ul_x#&gt;, &lt;#int $ul_y#&gt;, &lt;#int $lr_x#&gt;, &lt;#int $lr_y#&gt; );</string>
+	<string>printer_draw_rectangle(&lt;#resource $printer_handle#&gt;, &lt;#int $ul_x#&gt;, &lt;#int $ul_y#&gt;, &lt;#int $lr_x#&gt;, &lt;#int $lr_y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C65FA6F5-7DFE-4011-9F01-2D4969D9D2BD</string>
 	<key>IDECodeSnippetLanguage</key>

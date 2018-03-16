@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_rollback (  );</string>
+	<string>ibase_rollback();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B53E2605-C423-48AD-BBE5-6F6D2A12E6EE</string>
 	<key>IDECodeSnippetLanguage</key>

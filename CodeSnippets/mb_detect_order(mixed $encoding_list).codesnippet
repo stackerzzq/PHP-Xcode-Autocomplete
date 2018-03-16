@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_detect_order ( &lt;#mixed $encoding_list#&gt; );</string>
+	<string>mb_detect_order(&lt;#mixed $encoding_list#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>924ABAEA-1398-44A7-A848-D12DBAEB33D0</string>
 	<key>IDECodeSnippetLanguage</key>

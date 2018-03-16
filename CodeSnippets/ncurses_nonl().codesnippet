@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_nonl (  );</string>
+	<string>ncurses_nonl();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BB666569-B360-453C-9019-3C42B7BC943C</string>
 	<key>IDECodeSnippetLanguage</key>

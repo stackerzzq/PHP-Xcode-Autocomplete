@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_count_values ( &lt;#array $input#&gt; );</string>
+	<string>array_count_values(&lt;#array $input#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E2C51FD1-705B-44EF-8AB3-44A0531D00B4</string>
 	<key>IDECodeSnippetLanguage</key>

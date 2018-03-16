@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_wait ( &lt;#int &amp;$status#&gt; );</string>
+	<string>pcntl_wait(&lt;#int &amp;$status#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA92F131-74E8-4596-A743-B3F20CE0548B</string>
 	<key>IDECodeSnippetLanguage</key>

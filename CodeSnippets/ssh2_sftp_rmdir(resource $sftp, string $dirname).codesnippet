@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ssh2_sftp_rmdir ( &lt;#resource $sftp#&gt;, &lt;#string $dirname#&gt; );</string>
+	<string>ssh2_sftp_rmdir(&lt;#resource $sftp#&gt;, &lt;#string $dirname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>31035E65-7F88-49ED-AD44-45B9219334AE</string>
 	<key>IDECodeSnippetLanguage</key>

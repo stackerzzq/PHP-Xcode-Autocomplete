@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequest::setRawPostData ( &lt;#string $raw_post_data#&gt; );</string>
+	<string>HttpRequest::setRawPostData(&lt;#string $raw_post_data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D42D08F3-D020-464C-993E-89F8ECD2BA01</string>
 	<key>IDECodeSnippetLanguage</key>

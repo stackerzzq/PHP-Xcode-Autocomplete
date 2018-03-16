@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Memcache::close (  );</string>
+	<string>Memcache::close();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6BF1CD6A-A310-4251-B4AD-C9562D0CC027</string>
 	<key>IDECodeSnippetLanguage</key>

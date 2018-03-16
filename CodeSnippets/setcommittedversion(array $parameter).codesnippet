@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setcommittedversion ( &lt;#array $parameter#&gt; );</string>
+	<string>setcommittedversion(&lt;#array $parameter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7642D4BA-0409-4F0D-8B5A-30817F45F3E5</string>
 	<key>IDECodeSnippetLanguage</key>

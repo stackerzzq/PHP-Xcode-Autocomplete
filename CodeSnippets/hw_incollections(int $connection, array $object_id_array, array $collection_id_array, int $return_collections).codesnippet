@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_incollections ( &lt;#int $connection#&gt;, &lt;#array $object_id_array#&gt;, &lt;#array $collection_id_array#&gt;, &lt;#int $return_collections#&gt; );</string>
+	<string>hw_incollections(&lt;#int $connection#&gt;, &lt;#array $object_id_array#&gt;, &lt;#array $collection_id_array#&gt;, &lt;#int $return_collections#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>781CD0C7-CD36-4287-A348-C39FFD93471E</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickPixel::getHSL (  );</string>
+	<string>ImagickPixel::getHSL();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>08089110-98E9-42AB-8581-6537A7D31448</string>
 	<key>IDECodeSnippetLanguage</key>

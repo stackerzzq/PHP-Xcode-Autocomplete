@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>movePenTo ( &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>movePenTo(&lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F082DD95-9C3C-49D5-9FC3-865FB34491B4</string>
 	<key>IDECodeSnippetLanguage</key>

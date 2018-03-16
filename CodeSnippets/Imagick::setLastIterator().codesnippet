@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setLastIterator (  );</string>
+	<string>Imagick::setLastIterator();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>273D124A-2EE4-43F2-AA2C-409D6EA73BB8</string>
 	<key>IDECodeSnippetLanguage</key>

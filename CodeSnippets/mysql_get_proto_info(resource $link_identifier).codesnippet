@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysql_get_proto_info ( &lt;#resource $link_identifier#&gt; );</string>
+	<string>mysql_get_proto_info(&lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2C7AD33A-3A5B-451A-8B89-B80CBD7EAE68</string>
 	<key>IDECodeSnippetLanguage</key>

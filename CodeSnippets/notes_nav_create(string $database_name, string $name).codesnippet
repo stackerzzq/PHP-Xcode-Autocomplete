@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>notes_nav_create ( &lt;#string $database_name#&gt;, &lt;#string $name#&gt; );</string>
+	<string>notes_nav_create(&lt;#string $database_name#&gt;, &lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3EB21074-8896-4F67-8110-77CA0B3725F6</string>
 	<key>IDECodeSnippetLanguage</key>

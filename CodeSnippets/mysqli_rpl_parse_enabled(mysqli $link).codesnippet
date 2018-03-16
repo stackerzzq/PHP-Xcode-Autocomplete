@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysqli_rpl_parse_enabled ( &lt;#mysqli $link#&gt; );</string>
+	<string>mysqli_rpl_parse_enabled(&lt;#mysqli $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2672184A-D89E-4C3E-B755-79A78B9DC509</string>
 	<key>IDECodeSnippetLanguage</key>

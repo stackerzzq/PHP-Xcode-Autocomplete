@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_begin_page ( &lt;#resource $pdfdoc#&gt;, &lt;#float $width#&gt;, &lt;#float $height#&gt; );</string>
+	<string>PDF_begin_page(&lt;#resource $pdfdoc#&gt;, &lt;#float $width#&gt;, &lt;#float $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B9EA88EC-154F-41CF-83C4-72021797EF6C</string>
 	<key>IDECodeSnippetLanguage</key>

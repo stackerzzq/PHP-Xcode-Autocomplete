@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_runlink ( &lt;#resource $relation#&gt; );</string>
+	<string>dbplus_runlink(&lt;#resource $relation#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>245BE3ED-E8FF-4B55-9C68-33D57F742576</string>
 	<key>IDECodeSnippetLanguage</key>

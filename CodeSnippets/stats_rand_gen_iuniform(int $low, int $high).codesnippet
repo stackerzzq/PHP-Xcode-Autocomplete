@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_rand_gen_iuniform ( &lt;#int $low#&gt;, &lt;#int $high#&gt; );</string>
+	<string>stats_rand_gen_iuniform(&lt;#int $low#&gt;, &lt;#int $high#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E24B6797-5035-4733-AE99-EB8B15A7B448</string>
 	<key>IDECodeSnippetLanguage</key>

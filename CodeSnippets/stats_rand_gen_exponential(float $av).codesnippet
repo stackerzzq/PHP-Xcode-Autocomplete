@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_rand_gen_exponential ( &lt;#float $av#&gt; );</string>
+	<string>stats_rand_gen_exponential(&lt;#float $av#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B0D82472-D1EA-471E-B4AC-F46B0D86C6DC</string>
 	<key>IDECodeSnippetLanguage</key>

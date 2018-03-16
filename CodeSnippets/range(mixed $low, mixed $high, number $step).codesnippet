@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>range ( &lt;#mixed $low#&gt;, &lt;#mixed $high#&gt;, &lt;#number $step#&gt; );</string>
+	<string>range(&lt;#mixed $low#&gt;, &lt;#mixed $high#&gt;, &lt;#number $step#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8F0D5963-B7D5-49A6-A90F-5EA35B83D5F8</string>
 	<key>IDECodeSnippetLanguage</key>

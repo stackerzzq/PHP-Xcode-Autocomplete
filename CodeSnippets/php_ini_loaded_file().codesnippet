@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>php_ini_loaded_file (  );</string>
+	<string>php_ini_loaded_file();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EAFD36A6-C9BB-4F79-9BD4-0CEFEE6EB4CC</string>
 	<key>IDECodeSnippetLanguage</key>

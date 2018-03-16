@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setSamplingFactors ( &lt;#array $factors#&gt; );</string>
+	<string>Imagick::setSamplingFactors(&lt;#array $factors#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>007980AF-323F-43F5-8154-2A6F150D3367</string>
 	<key>IDECodeSnippetLanguage</key>

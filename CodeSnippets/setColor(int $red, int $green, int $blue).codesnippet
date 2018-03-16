@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setColor ( &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt; );</string>
+	<string>setColor(&lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F585322C-932C-4A82-BAE7-28288E71B7B0</string>
 	<key>IDECodeSnippetLanguage</key>

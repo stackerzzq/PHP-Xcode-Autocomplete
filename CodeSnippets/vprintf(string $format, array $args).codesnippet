@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>vprintf ( &lt;#string $format#&gt;, &lt;#array $args#&gt; );</string>
+	<string>vprintf(&lt;#string $format#&gt;, &lt;#array $args#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6F4474EC-EA74-4602-87FB-3793E07F9D43</string>
 	<key>IDECodeSnippetLanguage</key>

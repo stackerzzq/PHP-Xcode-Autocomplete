@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>event_new (  );</string>
+	<string>event_new();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5AE2A7CF-F633-459C-ABE5-0BFF676618BC</string>
 	<key>IDECodeSnippetLanguage</key>

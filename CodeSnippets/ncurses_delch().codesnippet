@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_delch (  );</string>
+	<string>ncurses_delch();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>567C3DDD-4C01-415B-BADF-452FD6147989</string>
 	<key>IDECodeSnippetLanguage</key>

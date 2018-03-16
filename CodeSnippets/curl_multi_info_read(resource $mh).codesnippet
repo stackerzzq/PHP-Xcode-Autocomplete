@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>curl_multi_info_read ( &lt;#resource $mh#&gt; );</string>
+	<string>curl_multi_info_read(&lt;#resource $mh#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>732CB18A-71DB-4070-B218-7D3ECCDFAB90</string>
 	<key>IDECodeSnippetLanguage</key>

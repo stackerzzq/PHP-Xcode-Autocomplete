@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>runkit_sandbox_output_handler ( &lt;#object $sandbox#&gt;, &lt;#mixed $callback#&gt; );</string>
+	<string>runkit_sandbox_output_handler(&lt;#object $sandbox#&gt;, &lt;#mixed $callback#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A9F5479F-0E58-4599-ACEA-C78756D113D0</string>
 	<key>IDECodeSnippetLanguage</key>

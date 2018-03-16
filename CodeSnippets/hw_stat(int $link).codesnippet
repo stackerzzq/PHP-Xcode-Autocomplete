@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_stat ( &lt;#int $link#&gt; );</string>
+	<string>hw_stat(&lt;#int $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F79EA056-902C-474F-84AC-75EB74EFEA1E</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_redraw_help_line (  );</string>
+	<string>newt_redraw_help_line();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>268D3BAE-96F8-4824-B644-E775D185938B</string>
 	<key>IDECodeSnippetLanguage</key>

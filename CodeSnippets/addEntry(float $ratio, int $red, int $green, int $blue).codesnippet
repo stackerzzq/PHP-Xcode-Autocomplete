@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>addEntry ( &lt;#float $ratio#&gt;, &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt; );</string>
+	<string>addEntry(&lt;#float $ratio#&gt;, &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7EF13399-6C23-4A4A-BF57-AD72729B9998</string>
 	<key>IDECodeSnippetLanguage</key>

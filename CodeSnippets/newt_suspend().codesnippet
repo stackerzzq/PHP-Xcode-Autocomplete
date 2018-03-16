@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_suspend (  );</string>
+	<string>newt_suspend();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B07F7893-078B-4524-997B-75730AF67AFA</string>
 	<key>IDECodeSnippetLanguage</key>

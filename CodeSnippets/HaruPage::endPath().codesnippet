@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::endPath (  );</string>
+	<string>HaruPage::endPath();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E96A0A22-0404-483B-A364-23FB70D6EEBD</string>
 	<key>IDECodeSnippetLanguage</key>

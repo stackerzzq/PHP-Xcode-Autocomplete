@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>com_load_typelib ( &lt;#string $typelib_name#&gt;, &lt;#bool $case_insensitive#&gt; );</string>
+	<string>com_load_typelib(&lt;#string $typelib_name#&gt;, &lt;#bool $case_insensitive#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6CD4630B-8546-4589-8D5C-0C3C6A30AB22</string>
 	<key>IDECodeSnippetLanguage</key>

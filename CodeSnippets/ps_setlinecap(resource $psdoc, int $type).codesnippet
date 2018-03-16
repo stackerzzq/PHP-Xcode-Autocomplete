@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_setlinecap ( &lt;#resource $psdoc#&gt;, &lt;#int $type#&gt; );</string>
+	<string>ps_setlinecap(&lt;#resource $psdoc#&gt;, &lt;#int $type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CAC3C0BD-BFCE-4171-807C-94944F89BA7C</string>
 	<key>IDECodeSnippetLanguage</key>

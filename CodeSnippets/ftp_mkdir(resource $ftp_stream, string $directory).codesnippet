@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ftp_mkdir ( &lt;#resource $ftp_stream#&gt;, &lt;#string $directory#&gt; );</string>
+	<string>ftp_mkdir(&lt;#resource $ftp_stream#&gt;, &lt;#string $directory#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CE1A54CA-9E41-48BB-9EA9-F41B8DD1CDB7</string>
 	<key>IDECodeSnippetLanguage</key>

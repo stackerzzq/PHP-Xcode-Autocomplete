@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::radialBlurImage ( &lt;#float $angle#&gt; );</string>
+	<string>Imagick::radialBlurImage(&lt;#float $angle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DA2EEFB9-E375-4812-84C1-8241E4DED3C1</string>
 	<key>IDECodeSnippetLanguage</key>

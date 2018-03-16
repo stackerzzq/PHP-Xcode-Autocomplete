@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomNode-&gt;insert_before ( &lt;#domelement $newnode#&gt;, &lt;#domelement $refnode#&gt; );</string>
+	<string>DomNode-&gt;insert_before(&lt;#domelement $newnode#&gt;, &lt;#domelement $refnode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>04B1F026-A978-4A4A-9919-3DA4458ABD55</string>
 	<key>IDECodeSnippetLanguage</key>

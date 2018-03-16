@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_info_matchbox ( &lt;#resource $pdfdoc#&gt;, &lt;#string $boxname#&gt;, &lt;#int $num#&gt;, &lt;#string $keyword#&gt; );</string>
+	<string>PDF_info_matchbox(&lt;#resource $pdfdoc#&gt;, &lt;#string $boxname#&gt;, &lt;#int $num#&gt;, &lt;#string $keyword#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E3E20549-5E1D-41C5-81A3-14EF7B3FF905</string>
 	<key>IDECodeSnippetLanguage</key>

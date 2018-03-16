@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>px_set_targetencoding ( &lt;#resource $pxdoc#&gt;, &lt;#string $encoding#&gt; );</string>
+	<string>px_set_targetencoding(&lt;#resource $pxdoc#&gt;, &lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>30E7DBBE-7B11-488F-9659-985C92554A7E</string>
 	<key>IDECodeSnippetLanguage</key>

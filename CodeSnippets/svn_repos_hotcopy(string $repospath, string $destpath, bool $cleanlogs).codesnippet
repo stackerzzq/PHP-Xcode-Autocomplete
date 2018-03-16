@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_repos_hotcopy ( &lt;#string $repospath#&gt;, &lt;#string $destpath#&gt;, &lt;#bool $cleanlogs#&gt; );</string>
+	<string>svn_repos_hotcopy(&lt;#string $repospath#&gt;, &lt;#string $destpath#&gt;, &lt;#bool $cleanlogs#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1B826CA2-C729-4535-8B6C-499CFD8397EE</string>
 	<key>IDECodeSnippetLanguage</key>

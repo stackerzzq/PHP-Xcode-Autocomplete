@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xml_get_current_column_number ( &lt;#resource $parser#&gt; );</string>
+	<string>xml_get_current_column_number(&lt;#resource $parser#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>35DCDDC6-C9F9-48A7-A5D3-570B04482574</string>
 	<key>IDECodeSnippetLanguage</key>

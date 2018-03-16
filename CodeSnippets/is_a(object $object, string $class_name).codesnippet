@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>is_a ( &lt;#object $object#&gt;, &lt;#string $class_name#&gt; );</string>
+	<string>is_a(&lt;#object $object#&gt;, &lt;#string $class_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9A2C74ED-C04C-4E57-B51C-33BE505BF7D7</string>
 	<key>IDECodeSnippetLanguage</key>

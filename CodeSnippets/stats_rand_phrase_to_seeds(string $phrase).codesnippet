@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_rand_phrase_to_seeds ( &lt;#string $phrase#&gt; );</string>
+	<string>stats_rand_phrase_to_seeds(&lt;#string $phrase#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8E866BB7-80B8-4ECA-AFF9-C469E60AC8DA</string>
 	<key>IDECodeSnippetLanguage</key>

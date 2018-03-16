@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ftp_put ( &lt;#resource $ftp_stream#&gt;, &lt;#string $remote_file#&gt;, &lt;#string $local_file#&gt;, &lt;#int $mode#&gt; );</string>
+	<string>ftp_put(&lt;#resource $ftp_stream#&gt;, &lt;#string $remote_file#&gt;, &lt;#string $local_file#&gt;, &lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>85A2530C-A174-490A-8930-3121FA044737</string>
 	<key>IDECodeSnippetLanguage</key>

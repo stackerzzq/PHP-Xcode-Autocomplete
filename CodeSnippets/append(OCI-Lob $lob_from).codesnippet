@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>append ( &lt;#OCI-Lob $lob_from#&gt; );</string>
+	<string>append(&lt;#OCI-Lob $lob_from#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C41B686C-3A60-472B-A54C-DFAF67A9C951</string>
 	<key>IDECodeSnippetLanguage</key>

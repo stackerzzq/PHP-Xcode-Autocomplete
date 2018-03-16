@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomDocument-&gt;doctype (  );</string>
+	<string>DomDocument-&gt;doctype();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C170CBD2-B2EB-428A-9095-E421F149D42C</string>
 	<key>IDECodeSnippetLanguage</key>

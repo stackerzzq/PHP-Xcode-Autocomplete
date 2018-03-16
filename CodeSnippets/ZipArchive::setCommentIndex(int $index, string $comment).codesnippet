@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ZipArchive::setCommentIndex ( &lt;#int $index#&gt;, &lt;#string $comment#&gt; );</string>
+	<string>ZipArchive::setCommentIndex(&lt;#int $index#&gt;, &lt;#string $comment#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2B1433F5-0490-46BD-9809-B516E40BA8E4</string>
 	<key>IDECodeSnippetLanguage</key>

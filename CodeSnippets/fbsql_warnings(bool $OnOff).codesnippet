@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fbsql_warnings ( &lt;#bool $OnOff#&gt; );</string>
+	<string>fbsql_warnings(&lt;#bool $OnOff#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>06DE2DC8-97DF-49CF-9F02-D548AA490CB9</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apd_set_session_trace ( &lt;#int $debug_level#&gt;, &lt;#string $dump_directory#&gt; );</string>
+	<string>apd_set_session_trace(&lt;#int $debug_level#&gt;, &lt;#string $dump_directory#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2FEC2E48-EA13-4246-ABC2-B9701DEC23E4</string>
 	<key>IDECodeSnippetLanguage</key>

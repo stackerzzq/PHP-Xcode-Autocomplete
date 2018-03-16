@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mssql_execute ( &lt;#resource $stmt#&gt; );</string>
+	<string>mssql_execute(&lt;#resource $stmt#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C04847EF-BFD3-4C16-850C-9FAC067B7BEF</string>
 	<key>IDECodeSnippetLanguage</key>

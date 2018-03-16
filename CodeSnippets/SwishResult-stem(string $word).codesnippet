@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SwishResult-&gt;stem ( &lt;#string $word#&gt; );</string>
+	<string>SwishResult-&gt;stem(&lt;#string $word#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4E27476C-E0D8-48C4-83A5-448B00425EBF</string>
 	<key>IDECodeSnippetLanguage</key>

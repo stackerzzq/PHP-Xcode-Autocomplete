@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::pathCurveToSmoothRelative ( &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>ImagickDraw::pathCurveToSmoothRelative(&lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0332A6D9-1FF7-46A1-97FF-D9A47EC05370</string>
 	<key>IDECodeSnippetLanguage</key>

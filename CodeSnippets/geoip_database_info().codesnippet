@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>geoip_database_info (  );</string>
+	<string>geoip_database_info();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>23235E40-1037-4AFE-A6AC-C715AAA7DAEC</string>
 	<key>IDECodeSnippetLanguage</key>

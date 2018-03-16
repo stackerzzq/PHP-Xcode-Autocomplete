@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_logical_fontheight ( &lt;#resource $printer_handle#&gt;, &lt;#int $height#&gt; );</string>
+	<string>printer_logical_fontheight(&lt;#resource $printer_handle#&gt;, &lt;#int $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>69DD4965-4BAA-4554-ABCF-D810294A6C4F</string>
 	<key>IDECodeSnippetLanguage</key>

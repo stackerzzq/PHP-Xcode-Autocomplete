@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_start (  );</string>
+	<string>session_start();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9AC7F477-06C7-4B4E-99F8-15A7D8EA33DF</string>
 	<key>IDECodeSnippetLanguage</key>

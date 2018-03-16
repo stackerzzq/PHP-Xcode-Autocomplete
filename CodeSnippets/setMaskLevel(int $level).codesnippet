@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setMaskLevel ( &lt;#int $level#&gt; );</string>
+	<string>setMaskLevel(&lt;#int $level#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5B8D7D21-F653-4076-BFC5-E3FCAC7D85D8</string>
 	<key>IDECodeSnippetLanguage</key>

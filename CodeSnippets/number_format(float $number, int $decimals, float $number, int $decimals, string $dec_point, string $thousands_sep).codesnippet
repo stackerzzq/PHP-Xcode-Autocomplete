@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>number_format ( &lt;#float $number#&gt;, &lt;#int $decimals#&gt;, &lt;#float $number#&gt;, &lt;#int $decimals#&gt;, &lt;#string $dec_point#&gt;, &lt;#string $thousands_sep#&gt; );</string>
+	<string>number_format(&lt;#float $number#&gt;, &lt;#int $decimals#&gt;, &lt;#float $number#&gt;, &lt;#int $decimals#&gt;, &lt;#string $dec_point#&gt;, &lt;#string $thousands_sep#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>79AE95F0-D4CC-4014-AA88-DCB166DB8562</string>
 	<key>IDECodeSnippetLanguage</key>

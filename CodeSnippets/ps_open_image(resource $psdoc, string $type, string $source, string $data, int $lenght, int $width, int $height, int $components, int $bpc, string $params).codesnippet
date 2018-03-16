@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_open_image ( &lt;#resource $psdoc#&gt;, &lt;#string $type#&gt;, &lt;#string $source#&gt;, &lt;#string $data#&gt;, &lt;#int $lenght#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $components#&gt;, &lt;#int $bpc#&gt;, &lt;#string $params#&gt; );</string>
+	<string>ps_open_image(&lt;#resource $psdoc#&gt;, &lt;#string $type#&gt;, &lt;#string $source#&gt;, &lt;#string $data#&gt;, &lt;#int $lenght#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $components#&gt;, &lt;#int $bpc#&gt;, &lt;#string $params#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>61E8DD91-E6D9-46F6-97F3-812EE347E8AA</string>
 	<key>IDECodeSnippetLanguage</key>

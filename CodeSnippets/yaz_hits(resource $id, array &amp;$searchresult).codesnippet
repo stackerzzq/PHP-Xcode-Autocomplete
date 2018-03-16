@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yaz_hits ( &lt;#resource $id#&gt;, &lt;#array &amp;$searchresult#&gt; );</string>
+	<string>yaz_hits(&lt;#resource $id#&gt;, &lt;#array &amp;$searchresult#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E426C90C-3C09-42D7-AE2C-F2B0D0474229</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_resume (  );</string>
+	<string>newt_resume();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A046A615-CCDE-4DB2-BADB-349160D94A43</string>
 	<key>IDECodeSnippetLanguage</key>

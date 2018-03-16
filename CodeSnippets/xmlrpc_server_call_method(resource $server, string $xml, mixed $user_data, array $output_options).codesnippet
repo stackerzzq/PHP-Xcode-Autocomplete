@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xmlrpc_server_call_method ( &lt;#resource $server#&gt;, &lt;#string $xml#&gt;, &lt;#mixed $user_data#&gt;, &lt;#array $output_options#&gt; );</string>
+	<string>xmlrpc_server_call_method(&lt;#resource $server#&gt;, &lt;#string $xml#&gt;, &lt;#mixed $user_data#&gt;, &lt;#array $output_options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>123EB7C7-7F1A-4EFF-B6BF-C40C0727EEE0</string>
 	<key>IDECodeSnippetLanguage</key>

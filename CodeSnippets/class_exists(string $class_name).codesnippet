@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>class_exists ( &lt;#string $class_name#&gt; );</string>
+	<string>class_exists(&lt;#string $class_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B395B541-C868-4320-AD3C-56DEC94E8F05</string>
 	<key>IDECodeSnippetLanguage</key>

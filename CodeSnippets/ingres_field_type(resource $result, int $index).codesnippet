@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ingres_field_type ( &lt;#resource $result#&gt;, &lt;#int $index#&gt; );</string>
+	<string>ingres_field_type(&lt;#resource $result#&gt;, &lt;#int $index#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>18015363-F052-42B9-B97C-6614A5391754</string>
 	<key>IDECodeSnippetLanguage</key>

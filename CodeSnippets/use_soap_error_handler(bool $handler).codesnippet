@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>use_soap_error_handler ( &lt;#bool $handler#&gt; );</string>
+	<string>use_soap_error_handler(&lt;#bool $handler#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>99FE9CF9-3854-4694-AEF3-8F795825342B</string>
 	<key>IDECodeSnippetLanguage</key>

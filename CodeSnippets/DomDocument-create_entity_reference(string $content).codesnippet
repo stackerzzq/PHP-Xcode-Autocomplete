@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomDocument-&gt;create_entity_reference ( &lt;#string $content#&gt; );</string>
+	<string>DomDocument-&gt;create_entity_reference(&lt;#string $content#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3BA1A041-95D9-4C80-8CB6-FE324AEE0004</string>
 	<key>IDECodeSnippetLanguage</key>

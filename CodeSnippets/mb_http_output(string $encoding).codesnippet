@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_http_output ( &lt;#string $encoding#&gt; );</string>
+	<string>mb_http_output(&lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>18DF3F33-0D0F-40C7-B72D-CB0B056927E8</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_label ( &lt;#int $left#&gt;, &lt;#int $top#&gt;, &lt;#string $text#&gt; );</string>
+	<string>newt_label(&lt;#int $left#&gt;, &lt;#int $top#&gt;, &lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B000BA96-5442-4239-A87F-68C6F920C0D3</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>finfo_set_flags ( &lt;#resource $finfo#&gt;, &lt;#int $options#&gt;, &lt;#int $options#&gt; );</string>
+	<string>finfo_set_flags(&lt;#resource $finfo#&gt;, &lt;#int $options#&gt;, &lt;#int $options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>61746BC0-4EB9-4E64-9888-E743EB5521C1</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_can_change_color (  );</string>
+	<string>ncurses_can_change_color();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5B81F835-95FE-4E6B-B9CA-B69AEABDFE0C</string>
 	<key>IDECodeSnippetLanguage</key>

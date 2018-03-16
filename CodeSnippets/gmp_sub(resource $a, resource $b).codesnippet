@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_sub ( &lt;#resource $a#&gt;, &lt;#resource $b#&gt; );</string>
+	<string>gmp_sub(&lt;#resource $a#&gt;, &lt;#resource $b#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8C25A69A-E662-4D9A-BAB0-7EC0B3BC6FC3</string>
 	<key>IDECodeSnippetLanguage</key>

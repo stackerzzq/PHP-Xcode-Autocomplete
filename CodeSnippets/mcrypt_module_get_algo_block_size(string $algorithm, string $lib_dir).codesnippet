@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mcrypt_module_get_algo_block_size ( &lt;#string $algorithm#&gt;, &lt;#string $lib_dir#&gt; );</string>
+	<string>mcrypt_module_get_algo_block_size(&lt;#string $algorithm#&gt;, &lt;#string $lib_dir#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6B0173DE-60F7-4243-9A9C-5189A71CD362</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequest::getPostFiles (  );</string>
+	<string>HttpRequest::getPostFiles();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D1FF899C-C6B8-49A8-8283-8159DD637B58</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>aggregate_info ( &lt;#object $object#&gt; );</string>
+	<string>aggregate_info(&lt;#object $object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F047B740-821F-4FC1-A293-2415FC7295B8</string>
 	<key>IDECodeSnippetLanguage</key>

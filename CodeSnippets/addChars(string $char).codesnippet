@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>addChars ( &lt;#string $char#&gt; );</string>
+	<string>addChars(&lt;#string $char#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>54A4DA2C-36AD-4832-8E3C-C60C6ED91C89</string>
 	<key>IDECodeSnippetLanguage</key>

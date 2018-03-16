@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gc_disable (  );</string>
+	<string>gc_disable();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C2826A34-8755-44C1-BB2E-028A5B5A5583</string>
 	<key>IDECodeSnippetLanguage</key>

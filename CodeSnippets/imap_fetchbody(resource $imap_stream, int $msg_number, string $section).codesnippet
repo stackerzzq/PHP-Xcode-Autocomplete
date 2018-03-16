@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_fetchbody ( &lt;#resource $imap_stream#&gt;, &lt;#int $msg_number#&gt;, &lt;#string $section#&gt; );</string>
+	<string>imap_fetchbody(&lt;#resource $imap_stream#&gt;, &lt;#int $msg_number#&gt;, &lt;#string $section#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>97955CB6-F11A-433C-B33A-786A003A8EE5</string>
 	<key>IDECodeSnippetLanguage</key>

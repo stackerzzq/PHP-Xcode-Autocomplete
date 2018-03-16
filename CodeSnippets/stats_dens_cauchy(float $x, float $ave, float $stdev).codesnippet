@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_dens_cauchy ( &lt;#float $x#&gt;, &lt;#float $ave#&gt;, &lt;#float $stdev#&gt; );</string>
+	<string>stats_dens_cauchy(&lt;#float $x#&gt;, &lt;#float $ave#&gt;, &lt;#float $stdev#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DADC0A22-38E7-41DF-9B9B-98100A085852</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>move ( &lt;#float $dx#&gt;, &lt;#float $dy#&gt; );</string>
+	<string>move(&lt;#float $dx#&gt;, &lt;#float $dy#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6B84E3D0-F40D-4158-AB82-ABD81AD3340D</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_meta ( &lt;#resource $window#&gt;, &lt;#bool $8bit#&gt; );</string>
+	<string>ncurses_meta(&lt;#resource $window#&gt;, &lt;#bool $8bit#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>755869AD-D103-4787-B1C4-A99EA1E2B964</string>
 	<key>IDECodeSnippetLanguage</key>

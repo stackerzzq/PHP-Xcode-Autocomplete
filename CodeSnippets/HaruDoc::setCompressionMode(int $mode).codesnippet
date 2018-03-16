@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::setCompressionMode ( &lt;#int $mode#&gt; );</string>
+	<string>HaruDoc::setCompressionMode(&lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0A0C9F74-2E5E-4BD3-B443-639F4C906B64</string>
 	<key>IDECodeSnippetLanguage</key>

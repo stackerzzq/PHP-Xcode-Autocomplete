@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqrt ( &lt;#float $arg#&gt; );</string>
+	<string>sqrt(&lt;#float $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FF7E2B96-7F70-4AE7-82C9-32800E09AC80</string>
 	<key>IDECodeSnippetLanguage</key>

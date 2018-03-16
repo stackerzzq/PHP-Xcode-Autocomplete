@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>intval ( &lt;#mixed $var#&gt; );</string>
+	<string>intval(&lt;#mixed $var#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E5A90FC7-A032-426F-AE9C-2F7E62080546</string>
 	<key>IDECodeSnippetLanguage</key>

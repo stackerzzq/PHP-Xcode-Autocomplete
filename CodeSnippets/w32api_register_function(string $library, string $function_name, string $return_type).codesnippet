@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>w32api_register_function ( &lt;#string $library#&gt;, &lt;#string $function_name#&gt;, &lt;#string $return_type#&gt; );</string>
+	<string>w32api_register_function(&lt;#string $library#&gt;, &lt;#string $function_name#&gt;, &lt;#string $return_type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8F393E93-A807-4342-93CF-47B5BD560832</string>
 	<key>IDECodeSnippetLanguage</key>

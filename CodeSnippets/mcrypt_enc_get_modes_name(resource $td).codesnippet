@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mcrypt_enc_get_modes_name ( &lt;#resource $td#&gt; );</string>
+	<string>mcrypt_enc_get_modes_name(&lt;#resource $td#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>77BB93AF-FF53-40FB-AEBA-F3B63E4F7551</string>
 	<key>IDECodeSnippetLanguage</key>

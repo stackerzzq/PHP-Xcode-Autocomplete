@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_error ( &lt;#int $connection#&gt; );</string>
+	<string>hw_error(&lt;#int $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7D180142-8D60-4145-A842-B296AD961E01</string>
 	<key>IDECodeSnippetLanguage</key>

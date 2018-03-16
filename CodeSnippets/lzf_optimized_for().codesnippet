@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>lzf_optimized_for (  );</string>
+	<string>lzf_optimized_for();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>557839AD-A462-4D68-953B-FC9A7B29181C</string>
 	<key>IDECodeSnippetLanguage</key>

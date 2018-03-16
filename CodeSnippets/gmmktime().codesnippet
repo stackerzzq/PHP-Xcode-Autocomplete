@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmmktime (  );</string>
+	<string>gmmktime();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0195A94B-D91F-46DD-A6E6-AAF127A19252</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mailparse_uudecode_all ( &lt;#resource $fp#&gt; );</string>
+	<string>mailparse_uudecode_all(&lt;#resource $fp#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>71DAC531-8B4E-42C8-A862-A2A365B1198B</string>
 	<key>IDECodeSnippetLanguage</key>

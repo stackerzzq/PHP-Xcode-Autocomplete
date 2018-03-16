@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>readline_redisplay (  );</string>
+	<string>readline_redisplay();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4369EAC0-A9B8-4E79-81DF-F85DF295C144</string>
 	<key>IDECodeSnippetLanguage</key>

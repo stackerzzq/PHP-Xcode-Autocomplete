@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_create_dc ( &lt;#resource $printer_handle#&gt; );</string>
+	<string>printer_create_dc(&lt;#resource $printer_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4C57F708-F8CD-49B5-A701-84FFFF9700C3</string>
 	<key>IDECodeSnippetLanguage</key>

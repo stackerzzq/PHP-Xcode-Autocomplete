@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>chroot ( &lt;#string $directory#&gt; );</string>
+	<string>chroot(&lt;#string $directory#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>44ADEA8C-9992-404E-B39D-5E98CF99C933</string>
 	<key>IDECodeSnippetLanguage</key>

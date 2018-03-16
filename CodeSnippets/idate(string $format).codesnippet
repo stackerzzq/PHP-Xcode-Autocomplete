@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>idate ( &lt;#string $format#&gt; );</string>
+	<string>idate(&lt;#string $format#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AF45D3EF-CCCB-42CE-9B87-E9604A257688</string>
 	<key>IDECodeSnippetLanguage</key>

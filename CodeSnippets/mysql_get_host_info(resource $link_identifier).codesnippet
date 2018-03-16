@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysql_get_host_info ( &lt;#resource $link_identifier#&gt; );</string>
+	<string>mysql_get_host_info(&lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FFC4C2DF-8DF8-46CF-847A-5A6889ADC9C4</string>
 	<key>IDECodeSnippetLanguage</key>

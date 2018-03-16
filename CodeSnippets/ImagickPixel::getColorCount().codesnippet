@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickPixel::getColorCount (  );</string>
+	<string>ImagickPixel::getColorCount();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>794D4384-9D48-45CD-AC22-696B2FB513E0</string>
 	<key>IDECodeSnippetLanguage</key>

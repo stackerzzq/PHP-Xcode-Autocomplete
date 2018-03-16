@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xml_parse_into_struct ( &lt;#resource $parser#&gt;, &lt;#string $data#&gt;, &lt;#array &amp;$values#&gt;, &lt;#array &amp;$index#&gt; );</string>
+	<string>xml_parse_into_struct(&lt;#resource $parser#&gt;, &lt;#string $data#&gt;, &lt;#array &amp;$values#&gt;, &lt;#array &amp;$index#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>14D3A48A-AEDA-448E-AB89-0E6D771C53A8</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>filter_input_array ( &lt;#int $type#&gt;, &lt;#mixed $definition#&gt; );</string>
+	<string>filter_input_array(&lt;#int $type#&gt;, &lt;#mixed $definition#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>829976B2-B361-4918-B795-C5144F5BDD1F</string>
 	<key>IDECodeSnippetLanguage</key>

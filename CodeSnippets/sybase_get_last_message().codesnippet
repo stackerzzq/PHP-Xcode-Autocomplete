@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sybase_get_last_message (  );</string>
+	<string>sybase_get_last_message();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BECD54EC-EBDB-4656-B02B-4F5912EBCC1D</string>
 	<key>IDECodeSnippetLanguage</key>

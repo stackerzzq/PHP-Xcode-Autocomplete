@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagecreatefromstring ( &lt;#string $data#&gt; );</string>
+	<string>imagecreatefromstring(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>96642680-C94C-40A0-8AB4-3C662642020F</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_intersect_key ( &lt;#array $array1#&gt;, &lt;#array $array2#&gt;, &lt;#array $ ...#&gt; );</string>
+	<string>array_intersect_key(&lt;#array $array1#&gt;, &lt;#array $array2#&gt;, &lt;#array $ ...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B7C04108-5D16-4607-9DFC-C2FAE121DF25</string>
 	<key>IDECodeSnippetLanguage</key>

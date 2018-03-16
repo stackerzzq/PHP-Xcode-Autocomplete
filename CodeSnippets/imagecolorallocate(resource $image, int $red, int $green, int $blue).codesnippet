@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagecolorallocate ( &lt;#resource $image#&gt;, &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt; );</string>
+	<string>imagecolorallocate(&lt;#resource $image#&gt;, &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>64E782F3-D421-4EC7-B94F-8918D35911C6</string>
 	<key>IDECodeSnippetLanguage</key>

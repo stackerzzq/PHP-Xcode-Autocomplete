@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_maxconntimeout ( &lt;#resource $conn#&gt;, &lt;#int $secs#&gt; );</string>
+	<string>m_maxconntimeout(&lt;#resource $conn#&gt;, &lt;#int $secs#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>42E4BA48-F99C-4292-A0F0-6481BC26D194</string>
 	<key>IDECodeSnippetLanguage</key>

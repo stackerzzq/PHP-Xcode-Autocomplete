@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_query ( &lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt;, &lt;#int $cursor_type#&gt;, &lt;#mixed $blobidarray#&gt; );</string>
+	<string>ifx_query(&lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt;, &lt;#int $cursor_type#&gt;, &lt;#mixed $blobidarray#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>199DA6B0-D7E3-41B6-85E6-005927F32769</string>
 	<key>IDECodeSnippetLanguage</key>

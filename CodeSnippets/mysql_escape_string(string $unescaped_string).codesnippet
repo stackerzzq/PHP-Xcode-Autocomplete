@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysql_escape_string ( &lt;#string $unescaped_string#&gt; );</string>
+	<string>mysql_escape_string(&lt;#string $unescaped_string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1DD3E51A-D22E-4516-83A1-9918D643E6B5</string>
 	<key>IDECodeSnippetLanguage</key>

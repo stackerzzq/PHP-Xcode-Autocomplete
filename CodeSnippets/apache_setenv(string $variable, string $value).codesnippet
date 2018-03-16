@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apache_setenv ( &lt;#string $variable#&gt;, &lt;#string $value#&gt; );</string>
+	<string>apache_setenv(&lt;#string $variable#&gt;, &lt;#string $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>73B824FD-AA34-45E0-B982-304CEA5AD1EF</string>
 	<key>IDECodeSnippetLanguage</key>

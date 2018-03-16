@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ssh2_auth_hostbased_file ( &lt;#resource $session#&gt;, &lt;#string $username#&gt;, &lt;#string $hostname#&gt;, &lt;#string $pubkeyfile#&gt;, &lt;#string $privkeyfile#&gt;, &lt;#string $passphrase#&gt;, &lt;#string $local_username#&gt; );</string>
+	<string>ssh2_auth_hostbased_file(&lt;#resource $session#&gt;, &lt;#string $username#&gt;, &lt;#string $hostname#&gt;, &lt;#string $pubkeyfile#&gt;, &lt;#string $privkeyfile#&gt;, &lt;#string $passphrase#&gt;, &lt;#string $local_username#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>45336E50-5D33-4DC4-BA22-9207F7C7F2E9</string>
 	<key>IDECodeSnippetLanguage</key>

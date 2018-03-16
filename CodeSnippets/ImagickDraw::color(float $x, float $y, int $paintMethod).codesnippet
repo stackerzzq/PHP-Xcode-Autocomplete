@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::color ( &lt;#float $x#&gt;, &lt;#float $y#&gt;, &lt;#int $paintMethod#&gt; );</string>
+	<string>ImagickDraw::color(&lt;#float $x#&gt;, &lt;#float $y#&gt;, &lt;#int $paintMethod#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6DB2356E-0FA8-4BDE-9619-451624DABBA4</string>
 	<key>IDECodeSnippetLanguage</key>

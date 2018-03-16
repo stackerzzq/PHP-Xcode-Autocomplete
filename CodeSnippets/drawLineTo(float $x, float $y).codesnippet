@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>drawLineTo ( &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>drawLineTo(&lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>441A89E7-E694-4396-A6EE-F66581687C87</string>
 	<key>IDECodeSnippetLanguage</key>

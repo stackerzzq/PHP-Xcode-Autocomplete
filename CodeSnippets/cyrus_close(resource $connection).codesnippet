@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cyrus_close ( &lt;#resource $connection#&gt; );</string>
+	<string>cyrus_close(&lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5274C9CE-5925-4B5E-ACC6-B36556508A12</string>
 	<key>IDECodeSnippetLanguage</key>

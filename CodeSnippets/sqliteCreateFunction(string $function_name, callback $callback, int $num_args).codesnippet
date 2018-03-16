@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqliteCreateFunction ( &lt;#string $function_name#&gt;, &lt;#callback $callback#&gt;, &lt;#int $num_args#&gt; );</string>
+	<string>sqliteCreateFunction(&lt;#string $function_name#&gt;, &lt;#callback $callback#&gt;, &lt;#int $num_args#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D4D7985E-7453-4E1D-86DF-8CCC9FC71AE2</string>
 	<key>IDECodeSnippetLanguage</key>

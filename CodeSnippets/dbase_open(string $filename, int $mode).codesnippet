@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbase_open ( &lt;#string $filename#&gt;, &lt;#int $mode#&gt; );</string>
+	<string>dbase_open(&lt;#string $filename#&gt;, &lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EAEDE20D-F1BC-4104-A0F4-CDE9529C7A90</string>
 	<key>IDECodeSnippetLanguage</key>

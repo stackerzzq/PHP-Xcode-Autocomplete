@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_def_prog_mode (  );</string>
+	<string>ncurses_def_prog_mode();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DCF1F529-6B97-4D93-883F-E61E346AB600</string>
 	<key>IDECodeSnippetLanguage</key>

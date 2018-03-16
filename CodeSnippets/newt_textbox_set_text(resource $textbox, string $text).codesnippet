@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_textbox_set_text ( &lt;#resource $textbox#&gt;, &lt;#string $text#&gt; );</string>
+	<string>newt_textbox_set_text(&lt;#resource $textbox#&gt;, &lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FA90A683-1297-4689-94DE-B301EE063D58</string>
 	<key>IDECodeSnippetLanguage</key>

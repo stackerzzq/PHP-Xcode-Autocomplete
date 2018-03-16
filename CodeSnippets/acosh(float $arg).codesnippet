@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>acosh ( &lt;#float $arg#&gt; );</string>
+	<string>acosh(&lt;#float $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D065FEAE-CB75-420F-A8C0-1B807D7D3CDF</string>
 	<key>IDECodeSnippetLanguage</key>

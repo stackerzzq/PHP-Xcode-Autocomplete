@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>shm_attach ( &lt;#int $key#&gt;, &lt;#int $memsize#&gt;, &lt;#int $perm#&gt; );</string>
+	<string>shm_attach(&lt;#int $key#&gt;, &lt;#int $memsize#&gt;, &lt;#int $perm#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>047FA80D-BD42-4568-B09E-0463F7D33246</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fbsql_connect (  );</string>
+	<string>fbsql_connect();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F677BBA8-1ABB-4C45-8770-0D9340A41E3B</string>
 	<key>IDECodeSnippetLanguage</key>

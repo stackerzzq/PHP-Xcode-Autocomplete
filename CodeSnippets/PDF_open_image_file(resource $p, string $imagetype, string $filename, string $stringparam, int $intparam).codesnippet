@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_open_image_file ( &lt;#resource $p#&gt;, &lt;#string $imagetype#&gt;, &lt;#string $filename#&gt;, &lt;#string $stringparam#&gt;, &lt;#int $intparam#&gt; );</string>
+	<string>PDF_open_image_file(&lt;#resource $p#&gt;, &lt;#string $imagetype#&gt;, &lt;#string $filename#&gt;, &lt;#string $stringparam#&gt;, &lt;#int $intparam#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A4EA8B78-9CEB-4B6C-AB24-05E1DBF86136</string>
 	<key>IDECodeSnippetLanguage</key>

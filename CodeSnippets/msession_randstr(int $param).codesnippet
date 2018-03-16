@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msession_randstr ( &lt;#int $param#&gt; );</string>
+	<string>msession_randstr(&lt;#int $param#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>79E5D637-EEDC-4B0A-9735-C07FC5CAED70</string>
 	<key>IDECodeSnippetLanguage</key>

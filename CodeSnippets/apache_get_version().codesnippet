@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apache_get_version (  );</string>
+	<string>apache_get_version();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>078672AC-C15E-47CA-BB75-6A421187A088</string>
 	<key>IDECodeSnippetLanguage</key>

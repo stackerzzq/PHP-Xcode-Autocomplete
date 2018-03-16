@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_service_freeze_notify ( &lt;#resource $service#&gt; );</string>
+	<string>gupnp_service_freeze_notify(&lt;#resource $service#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2B6CFCB6-5AAD-4C95-8A9A-48D02F65449F</string>
 	<key>IDECodeSnippetLanguage</key>

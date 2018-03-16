@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickPixel::destroy (  );</string>
+	<string>ImagickPixel::destroy();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4A5D5BFE-501C-47BC-A146-0E16B9A833B9</string>
 	<key>IDECodeSnippetLanguage</key>

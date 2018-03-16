@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sql_regcase ( &lt;#string $string#&gt; );</string>
+	<string>sql_regcase(&lt;#string $string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8EBC06C0-92A6-41D9-ABAB-ADBCA6654358</string>
 	<key>IDECodeSnippetLanguage</key>

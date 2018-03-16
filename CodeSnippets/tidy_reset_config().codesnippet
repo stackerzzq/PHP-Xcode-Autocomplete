@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>tidy_reset_config (  );</string>
+	<string>tidy_reset_config();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B18BFE44-BF2B-4509-AF3C-834220FFD989</string>
 	<key>IDECodeSnippetLanguage</key>

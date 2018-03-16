@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_shapefillbitmapclip ( &lt;#int $bitmapid#&gt; );</string>
+	<string>swf_shapefillbitmapclip(&lt;#int $bitmapid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>045D2678-7886-448C-A9B9-981035C682C6</string>
 	<key>IDECodeSnippetLanguage</key>

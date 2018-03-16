@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_setdashpattern ( &lt;#resource $pdfdoc#&gt;, &lt;#string $optlist#&gt; );</string>
+	<string>PDF_setdashpattern(&lt;#resource $pdfdoc#&gt;, &lt;#string $optlist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>80A0037B-9E2F-4B7D-ACEC-FC756E43CD33</string>
 	<key>IDECodeSnippetLanguage</key>

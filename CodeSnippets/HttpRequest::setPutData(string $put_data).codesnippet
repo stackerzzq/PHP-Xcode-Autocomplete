@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequest::setPutData ( &lt;#string $put_data#&gt; );</string>
+	<string>HttpRequest::setPutData(&lt;#string $put_data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3A1F6A90-722C-43A3-842D-B803430C2F9C</string>
 	<key>IDECodeSnippetLanguage</key>

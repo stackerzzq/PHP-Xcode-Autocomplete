@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>zip_close ( &lt;#resource $zip#&gt; );</string>
+	<string>zip_close(&lt;#resource $zip#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>86F44CCA-8FC7-4D6A-874F-7CC49FD8AE43</string>
 	<key>IDECodeSnippetLanguage</key>

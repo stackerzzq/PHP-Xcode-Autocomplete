@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_keypad ( &lt;#resource $window#&gt;, &lt;#bool $bf#&gt; );</string>
+	<string>ncurses_keypad(&lt;#resource $window#&gt;, &lt;#bool $bf#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A5B44B33-91F7-4278-8899-51B2A47F7277</string>
 	<key>IDECodeSnippetLanguage</key>

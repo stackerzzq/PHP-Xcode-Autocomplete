@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_scale ( &lt;#resource $p#&gt;, &lt;#float $sx#&gt;, &lt;#float $sy#&gt; );</string>
+	<string>PDF_scale(&lt;#resource $p#&gt;, &lt;#float $sx#&gt;, &lt;#float $sy#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B9E52638-FCE7-41F8-9AB7-E88D35B7006C</string>
 	<key>IDECodeSnippetLanguage</key>

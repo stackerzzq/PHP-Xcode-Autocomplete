@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_ropen ( &lt;#string $name#&gt; );</string>
+	<string>dbplus_ropen(&lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1589DBF3-9CEE-436F-BBF0-624A3E9DE53F</string>
 	<key>IDECodeSnippetLanguage</key>

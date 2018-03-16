@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openal_device_close ( &lt;#resource $device#&gt; );</string>
+	<string>openal_device_close(&lt;#resource $device#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E0647FC7-9006-4820-814A-B89D1946CC51</string>
 	<key>IDECodeSnippetLanguage</key>

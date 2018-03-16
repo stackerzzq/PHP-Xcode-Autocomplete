@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_find ( &lt;#resource $relation#&gt;, &lt;#array $constraints#&gt;, &lt;#mixed $tuple#&gt; );</string>
+	<string>dbplus_find(&lt;#resource $relation#&gt;, &lt;#array $constraints#&gt;, &lt;#mixed $tuple#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>29982F66-8BEC-4427-9B6A-983CC7D456C2</string>
 	<key>IDECodeSnippetLanguage</key>

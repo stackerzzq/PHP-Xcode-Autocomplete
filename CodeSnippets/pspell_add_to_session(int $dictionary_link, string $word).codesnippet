@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pspell_add_to_session ( &lt;#int $dictionary_link#&gt;, &lt;#string $word#&gt; );</string>
+	<string>pspell_add_to_session(&lt;#int $dictionary_link#&gt;, &lt;#string $word#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E941BA03-3090-4BBB-AADA-67790A6E660E</string>
 	<key>IDECodeSnippetLanguage</key>

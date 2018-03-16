@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_delay ( &lt;#int $microseconds#&gt; );</string>
+	<string>newt_delay(&lt;#int $microseconds#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DC79EB36-84E1-4CF3-ADBB-8351F3F8D7A0</string>
 	<key>IDECodeSnippetLanguage</key>

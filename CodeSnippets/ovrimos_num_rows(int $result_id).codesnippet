@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ovrimos_num_rows ( &lt;#int $result_id#&gt; );</string>
+	<string>ovrimos_num_rows(&lt;#int $result_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EA097320-8659-4D30-A3B4-E68465F4EE82</string>
 	<key>IDECodeSnippetLanguage</key>

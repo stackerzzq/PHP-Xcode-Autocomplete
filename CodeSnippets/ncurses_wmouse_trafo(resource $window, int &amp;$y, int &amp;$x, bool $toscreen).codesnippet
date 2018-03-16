@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_wmouse_trafo ( &lt;#resource $window#&gt;, &lt;#int &amp;$y#&gt;, &lt;#int &amp;$x#&gt;, &lt;#bool $toscreen#&gt; );</string>
+	<string>ncurses_wmouse_trafo(&lt;#resource $window#&gt;, &lt;#int &amp;$y#&gt;, &lt;#int &amp;$x#&gt;, &lt;#bool $toscreen#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BA9D5C6A-2501-4AC2-9843-A8186CAA3715</string>
 	<key>IDECodeSnippetLanguage</key>

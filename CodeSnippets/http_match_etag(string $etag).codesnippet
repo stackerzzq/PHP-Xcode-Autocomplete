@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_match_etag ( &lt;#string $etag#&gt; );</string>
+	<string>http_match_etag(&lt;#string $etag#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>228E9ABE-A225-4E80-8FAE-85182C984DCF</string>
 	<key>IDECodeSnippetLanguage</key>

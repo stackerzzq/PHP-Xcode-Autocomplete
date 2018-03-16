@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_sort ( &lt;#resource $imap_stream#&gt;, &lt;#int $criteria#&gt;, &lt;#int $reverse#&gt; );</string>
+	<string>imap_sort(&lt;#resource $imap_stream#&gt;, &lt;#int $criteria#&gt;, &lt;#int $reverse#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>409AB4BF-2CCC-4B66-B2DE-0F25949E26D6</string>
 	<key>IDECodeSnippetLanguage</key>

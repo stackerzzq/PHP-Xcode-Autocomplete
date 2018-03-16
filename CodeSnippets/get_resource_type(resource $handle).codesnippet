@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_resource_type ( &lt;#resource $handle#&gt; );</string>
+	<string>get_resource_type(&lt;#resource $handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1F66C656-C8FC-452C-8DA5-9838A5FEF7A4</string>
 	<key>IDECodeSnippetLanguage</key>

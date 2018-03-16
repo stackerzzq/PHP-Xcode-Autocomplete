@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_setflat ( &lt;#resource $pdfdoc#&gt;, &lt;#float $flatness#&gt; );</string>
+	<string>PDF_setflat(&lt;#resource $pdfdoc#&gt;, &lt;#float $flatness#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8227B085-0B4E-4D30-9DA8-431D7C66E925</string>
 	<key>IDECodeSnippetLanguage</key>

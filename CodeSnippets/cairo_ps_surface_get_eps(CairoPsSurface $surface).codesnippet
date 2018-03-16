@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_ps_surface_get_eps ( &lt;#CairoPsSurface $surface#&gt; );</string>
+	<string>cairo_ps_surface_get_eps(&lt;#CairoPsSurface $surface#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>43770482-E2A8-457B-9B2F-829D38E5F57A</string>
 	<key>IDECodeSnippetLanguage</key>

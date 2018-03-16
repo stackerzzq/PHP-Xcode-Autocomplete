@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ctype_upper ( &lt;#string $text#&gt; );</string>
+	<string>ctype_upper(&lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5C221CC4-1136-4344-93C5-A3CC38703E06</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_XML_Document::setXMLDeclaration ( &lt;#bool $xmlDeclatation#&gt; );</string>
+	<string>SDO_DAS_XML_Document::setXMLDeclaration(&lt;#bool $xmlDeclatation#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5A5A389E-6D3C-43C1-9CCC-F2F38DD84490</string>
 	<key>IDECodeSnippetLanguage</key>

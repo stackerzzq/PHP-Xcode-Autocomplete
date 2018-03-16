@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>com_release (  );</string>
+	<string>com_release();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9751E574-A389-4F07-BFE2-6CCC3081E64C</string>
 	<key>IDECodeSnippetLanguage</key>

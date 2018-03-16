@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bcompiler_write_footer ( &lt;#resource $filehandle#&gt; );</string>
+	<string>bcompiler_write_footer(&lt;#resource $filehandle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7BC87032-47E8-4BC2-B1DE-7176F1E40861</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_lineto ( &lt;#resource $psdoc#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>ps_lineto(&lt;#resource $psdoc#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>99F34553-6851-4A30-9233-CB99B9E01489</string>
 	<key>IDECodeSnippetLanguage</key>

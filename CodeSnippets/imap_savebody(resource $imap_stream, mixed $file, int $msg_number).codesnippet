@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_savebody ( &lt;#resource $imap_stream#&gt;, &lt;#mixed $file#&gt;, &lt;#int $msg_number#&gt; );</string>
+	<string>imap_savebody(&lt;#resource $imap_stream#&gt;, &lt;#mixed $file#&gt;, &lt;#int $msg_number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>56D2DF83-AB45-4511-A65E-70ADBC4D581A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagecreatefromwbmp ( &lt;#string $filename#&gt; );</string>
+	<string>imagecreatefromwbmp(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D9223D03-210F-4060-9B2C-33C215C13DB8</string>
 	<key>IDECodeSnippetLanguage</key>

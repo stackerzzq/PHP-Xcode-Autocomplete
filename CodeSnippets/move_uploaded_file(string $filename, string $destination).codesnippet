@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>move_uploaded_file ( &lt;#string $filename#&gt;, &lt;#string $destination#&gt; );</string>
+	<string>move_uploaded_file(&lt;#string $filename#&gt;, &lt;#string $destination#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BF0C1380-2F1D-4915-B96B-629E953787F0</string>
 	<key>IDECodeSnippetLanguage</key>

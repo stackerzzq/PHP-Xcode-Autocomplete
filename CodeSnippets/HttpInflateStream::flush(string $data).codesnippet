@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpInflateStream::flush ( &lt;#string $data#&gt; );</string>
+	<string>HttpInflateStream::flush(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AE4800C5-C778-4704-9D8D-ACF68C9744FC</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_support (  );</string>
+	<string>http_support();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>77BD4548-57A2-4675-99BE-E8554E662D10</string>
 	<key>IDECodeSnippetLanguage</key>

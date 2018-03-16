@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fbsql_hostname ( &lt;#resource $link_identifier#&gt;, &lt;#string $host_name#&gt; );</string>
+	<string>fbsql_hostname(&lt;#resource $link_identifier#&gt;, &lt;#string $host_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CF76ED3F-E628-4FC7-9DDC-4FA91F89F89C</string>
 	<key>IDECodeSnippetLanguage</key>

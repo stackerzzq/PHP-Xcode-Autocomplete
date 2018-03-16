@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getGMode (  );</string>
+	<string>HaruPage::getGMode();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FE519908-DAC5-4CB9-BFBC-556D27F34463</string>
 	<key>IDECodeSnippetLanguage</key>

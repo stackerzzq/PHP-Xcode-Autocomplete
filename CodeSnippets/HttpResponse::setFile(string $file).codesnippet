@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpResponse::setFile ( &lt;#string $file#&gt; );</string>
+	<string>HttpResponse::setFile(&lt;#string $file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CE1BEFE9-D908-4607-89E9-5628FB9CE3DA</string>
 	<key>IDECodeSnippetLanguage</key>

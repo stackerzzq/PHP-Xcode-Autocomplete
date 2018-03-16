@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_Relational::executePreparedQuery (  );</string>
+	<string>SDO_DAS_Relational::executePreparedQuery();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC51C28E-BC92-4578-A65B-D2DA18A7D799</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_pattern_create_radial ( &lt;#float $x0#&gt;, &lt;#float $y0#&gt;, &lt;#float $r0#&gt;, &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $r1#&gt; );</string>
+	<string>cairo_pattern_create_radial(&lt;#float $x0#&gt;, &lt;#float $y0#&gt;, &lt;#float $r0#&gt;, &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $r1#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>58CE6BD0-A1D9-4EE3-B5F9-D894763F99ED</string>
 	<key>IDECodeSnippetLanguage</key>

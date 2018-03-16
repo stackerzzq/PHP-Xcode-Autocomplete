@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_called_class (  );</string>
+	<string>get_called_class();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B7858192-48C9-444C-9A05-A1487A48B471</string>
 	<key>IDECodeSnippetLanguage</key>

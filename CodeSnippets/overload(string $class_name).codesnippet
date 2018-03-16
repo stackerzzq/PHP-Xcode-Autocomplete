@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>overload ( &lt;#string $class_name#&gt; );</string>
+	<string>overload(&lt;#string $class_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B07279EA-5116-4406-AE76-A9D23A7E3978</string>
 	<key>IDECodeSnippetLanguage</key>

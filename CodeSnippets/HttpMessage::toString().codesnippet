@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpMessage::toString (  );</string>
+	<string>HttpMessage::toString();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2D5DC293-05BE-44D4-9DFB-205C7E78A7DC</string>
 	<key>IDECodeSnippetLanguage</key>

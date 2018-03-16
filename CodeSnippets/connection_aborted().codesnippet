@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>connection_aborted (  );</string>
+	<string>connection_aborted();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F62C9531-2E62-4AAB-9184-B909D949ADDB</string>
 	<key>IDECodeSnippetLanguage</key>

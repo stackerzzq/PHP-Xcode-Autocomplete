@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>set_attribute ( &lt;#string $name#&gt;, &lt;#string $value#&gt; );</string>
+	<string>set_attribute(&lt;#string $name#&gt;, &lt;#string $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>85C108F0-A70C-4A93-9226-ED1E7A50BAC9</string>
 	<key>IDECodeSnippetLanguage</key>

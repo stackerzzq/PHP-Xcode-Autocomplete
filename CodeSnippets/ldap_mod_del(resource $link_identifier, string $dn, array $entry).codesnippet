@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_mod_del ( &lt;#resource $link_identifier#&gt;, &lt;#string $dn#&gt;, &lt;#array $entry#&gt; );</string>
+	<string>ldap_mod_del(&lt;#resource $link_identifier#&gt;, &lt;#string $dn#&gt;, &lt;#array $entry#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CDE1FBBE-759C-4FC2-AD82-4274304A809E</string>
 	<key>IDECodeSnippetLanguage</key>

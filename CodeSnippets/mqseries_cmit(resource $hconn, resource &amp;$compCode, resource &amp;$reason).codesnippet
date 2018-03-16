@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mqseries_cmit ( &lt;#resource $hconn#&gt;, &lt;#resource &amp;$compCode#&gt;, &lt;#resource &amp;$reason#&gt; );</string>
+	<string>mqseries_cmit(&lt;#resource $hconn#&gt;, &lt;#resource &amp;$compCode#&gt;, &lt;#resource &amp;$reason#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>66528258-3D81-4AC3-9A2B-761F3533354B</string>
 	<key>IDECodeSnippetLanguage</key>

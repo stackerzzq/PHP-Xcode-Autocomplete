@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickPixel::clear (  );</string>
+	<string>ImagickPixel::clear();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1863D1A3-2FE9-437F-8947-4EE5632D4148</string>
 	<key>IDECodeSnippetLanguage</key>

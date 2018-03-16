@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>eregi ( &lt;#string $pattern#&gt;, &lt;#string $string#&gt;, &lt;#array &amp;$regs#&gt; );</string>
+	<string>eregi(&lt;#string $pattern#&gt;, &lt;#string $string#&gt;, &lt;#array &amp;$regs#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>617A0B57-7A51-4CAC-9849-638648A1D428</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>memory_get_usage (  );</string>
+	<string>memory_get_usage();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EDA40615-933E-420B-ACD5-2CF97489CBE0</string>
 	<key>IDECodeSnippetLanguage</key>

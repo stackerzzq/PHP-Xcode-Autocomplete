@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setResourceLimit ( &lt;#int $type#&gt;, &lt;#int $limit#&gt; );</string>
+	<string>Imagick::setResourceLimit(&lt;#int $type#&gt;, &lt;#int $limit#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6F64046F-65A6-4DDC-AAAB-1C595B55FFBD</string>
 	<key>IDECodeSnippetLanguage</key>

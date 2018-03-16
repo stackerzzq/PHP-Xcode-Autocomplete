@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ingres_escape_string ( &lt;#resource $link#&gt;, &lt;#string $source_string#&gt; );</string>
+	<string>ingres_escape_string(&lt;#resource $link#&gt;, &lt;#string $source_string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EA96C747-619F-4C7F-8039-20DA3AE105D5</string>
 	<key>IDECodeSnippetLanguage</key>

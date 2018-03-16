@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getAscent (  );</string>
+	<string>getAscent();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CDF382C4-7445-47FA-A37F-6EC64C64895B</string>
 	<key>IDECodeSnippetLanguage</key>

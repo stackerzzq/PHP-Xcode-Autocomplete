@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_digest ( &lt;#string $data#&gt;, &lt;#string $method#&gt; );</string>
+	<string>openssl_digest(&lt;#string $data#&gt;, &lt;#string $method#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4149C678-CE97-4E42-93FE-498FA016DEF4</string>
 	<key>IDECodeSnippetLanguage</key>

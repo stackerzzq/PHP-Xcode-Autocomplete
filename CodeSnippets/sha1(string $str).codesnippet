@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sha1 ( &lt;#string $str#&gt; );</string>
+	<string>sha1(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>81006069-D9A4-4233-A2C6-8AEF05B5FF12</string>
 	<key>IDECodeSnippetLanguage</key>

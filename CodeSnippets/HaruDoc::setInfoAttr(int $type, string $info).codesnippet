@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::setInfoAttr ( &lt;#int $type#&gt;, &lt;#string $info#&gt; );</string>
+	<string>HaruDoc::setInfoAttr(&lt;#int $type#&gt;, &lt;#string $info#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C7A68F81-E313-40A8-9A10-48855A0CEBFF</string>
 	<key>IDECodeSnippetLanguage</key>

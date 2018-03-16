@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_Model_Property::isContainment (  );</string>
+	<string>SDO_Model_Property::isContainment();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>83C16341-E608-4E57-9749-CE1BF09D40AE</string>
 	<key>IDECodeSnippetLanguage</key>

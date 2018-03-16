@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_vidattr ( &lt;#int $intarg#&gt; );</string>
+	<string>ncurses_vidattr(&lt;#int $intarg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CA04BB1D-CBFB-4D9F-B134-67D466A1AFC0</string>
 	<key>IDECodeSnippetLanguage</key>

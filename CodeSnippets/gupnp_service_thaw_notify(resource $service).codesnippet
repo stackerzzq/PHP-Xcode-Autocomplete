@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_service_thaw_notify ( &lt;#resource $service#&gt; );</string>
+	<string>gupnp_service_thaw_notify(&lt;#resource $service#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CC7F9BE4-4DBB-4221-9665-13B7ABCFA2B7</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_Model_Type::getNamespaceURI (  );</string>
+	<string>SDO_Model_Type::getNamespaceURI();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>31C2556A-C3F8-44C2-A91E-8B58DB17A239</string>
 	<key>IDECodeSnippetLanguage</key>

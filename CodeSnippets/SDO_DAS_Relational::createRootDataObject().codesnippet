@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_Relational::createRootDataObject (  );</string>
+	<string>SDO_DAS_Relational::createRootDataObject();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B548E746-0272-47FC-A147-6E0CC75EB0D4</string>
 	<key>IDECodeSnippetLanguage</key>

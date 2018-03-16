@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_persistent_handles_clean ( &lt;#string $ident#&gt; );</string>
+	<string>http_persistent_handles_clean(&lt;#string $ident#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FED28C6B-FB99-49E2-A3FB-17A979EE9ACF</string>
 	<key>IDECodeSnippetLanguage</key>

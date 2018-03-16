@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_get_client_info (  );</string>
+	<string>maxdb_get_client_info();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B17FE0B6-F796-4BFC-A293-AA21AF1FEF5F</string>
 	<key>IDECodeSnippetLanguage</key>

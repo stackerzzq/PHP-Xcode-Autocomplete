@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>implode ( &lt;#string $glue#&gt;, &lt;#array $pieces#&gt;, &lt;#array $pieces#&gt; );</string>
+	<string>implode(&lt;#string $glue#&gt;, &lt;#array $pieces#&gt;, &lt;#array $pieces#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F9C12F00-B36F-489A-8141-EF9009D9ABB3</string>
 	<key>IDECodeSnippetLanguage</key>

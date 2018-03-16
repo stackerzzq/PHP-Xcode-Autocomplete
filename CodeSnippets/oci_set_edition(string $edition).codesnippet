@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_set_edition ( &lt;#string $edition#&gt; );</string>
+	<string>oci_set_edition(&lt;#string $edition#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CCA47588-A7FE-4974-A4DB-920289173E69</string>
 	<key>IDECodeSnippetLanguage</key>

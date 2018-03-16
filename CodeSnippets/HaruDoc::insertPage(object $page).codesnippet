@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::insertPage ( &lt;#object $page#&gt; );</string>
+	<string>HaruDoc::insertPage(&lt;#object $page#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E3BD7E60-1AD9-454C-95EC-14C2EFC284C3</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_checkbox_tree_add_item ( &lt;#resource $checkboxtree#&gt;, &lt;#string $text#&gt;, &lt;#mixed $data#&gt;, &lt;#int $flags#&gt;, &lt;#int $index#&gt;, &lt;#int $...#&gt; );</string>
+	<string>newt_checkbox_tree_add_item(&lt;#resource $checkboxtree#&gt;, &lt;#string $text#&gt;, &lt;#mixed $data#&gt;, &lt;#int $flags#&gt;, &lt;#int $index#&gt;, &lt;#int $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F57047F1-0AF3-4CC3-BCCA-63D6571D3DE4</string>
 	<key>IDECodeSnippetLanguage</key>

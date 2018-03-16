@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_wrefresh ( &lt;#resource $window#&gt; );</string>
+	<string>ncurses_wrefresh(&lt;#resource $window#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F2CAC078-4FF1-46BB-9843-B2D60DBF6F02</string>
 	<key>IDECodeSnippetLanguage</key>

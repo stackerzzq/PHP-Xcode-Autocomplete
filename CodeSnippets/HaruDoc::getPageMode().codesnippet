@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::getPageMode (  );</string>
+	<string>HaruDoc::getPageMode();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F6CF3D5C-3620-497E-BE60-29C95A6B01A3</string>
 	<key>IDECodeSnippetLanguage</key>

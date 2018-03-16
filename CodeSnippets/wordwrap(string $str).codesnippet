@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>wordwrap ( &lt;#string $str#&gt; );</string>
+	<string>wordwrap(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4DFFE5FA-57AA-462B-B232-DED9BE14ADD8</string>
 	<key>IDECodeSnippetLanguage</key>

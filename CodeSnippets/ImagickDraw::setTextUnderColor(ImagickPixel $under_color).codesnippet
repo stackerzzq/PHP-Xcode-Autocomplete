@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setTextUnderColor ( &lt;#ImagickPixel $under_color#&gt; );</string>
+	<string>ImagickDraw::setTextUnderColor(&lt;#ImagickPixel $under_color#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA025CAD-9D67-4D4D-956A-F13FB06B4FA9</string>
 	<key>IDECodeSnippetLanguage</key>

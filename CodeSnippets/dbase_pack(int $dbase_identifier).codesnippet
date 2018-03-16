@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbase_pack ( &lt;#int $dbase_identifier#&gt; );</string>
+	<string>dbase_pack(&lt;#int $dbase_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0DE20029-8F3D-47FF-8843-389B62943DAC</string>
 	<key>IDECodeSnippetLanguage</key>

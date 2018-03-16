@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setOver ( &lt;#SWFShape $shape#&gt; );</string>
+	<string>setOver(&lt;#SWFShape $shape#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7133BDB9-B8F9-4304-9AA3-F6AA022789CB</string>
 	<key>IDECodeSnippetLanguage</key>

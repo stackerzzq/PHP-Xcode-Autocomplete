@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_class_methods ( &lt;#mixed $class_name#&gt; );</string>
+	<string>get_class_methods(&lt;#mixed $class_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7E9EDABC-5067-42D6-A732-6F3B9DF9A2D8</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setTextAntialias ( &lt;#bool $antiAlias#&gt; );</string>
+	<string>ImagickDraw::setTextAntialias(&lt;#bool $antiAlias#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D388D678-7797-43DA-A567-F43EE8DC3BA5</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_stat_powersum ( &lt;#array $arr#&gt;, &lt;#float $power#&gt; );</string>
+	<string>stats_stat_powersum(&lt;#array $arr#&gt;, &lt;#float $power#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>92942F84-9DC6-4B4D-BD26-D0B9830EF29E</string>
 	<key>IDECodeSnippetLanguage</key>

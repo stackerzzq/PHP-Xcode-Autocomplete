@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_substitute_character ( &lt;#mixed $substrchar#&gt; );</string>
+	<string>mb_substitute_character(&lt;#mixed $substrchar#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C678928B-0A5E-43EB-A915-E29CCF4995B5</string>
 	<key>IDECodeSnippetLanguage</key>

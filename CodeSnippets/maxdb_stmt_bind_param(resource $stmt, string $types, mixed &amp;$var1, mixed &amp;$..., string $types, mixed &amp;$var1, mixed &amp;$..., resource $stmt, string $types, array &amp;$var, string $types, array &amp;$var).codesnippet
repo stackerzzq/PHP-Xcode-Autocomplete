@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_stmt_bind_param ( &lt;#resource $stmt#&gt;, &lt;#string $types#&gt;, &lt;#mixed &amp;$var1#&gt;, &lt;#mixed &amp;$...#&gt;, &lt;#string $types#&gt;, &lt;#mixed &amp;$var1#&gt;, &lt;#mixed &amp;$...#&gt;, &lt;#resource $stmt#&gt;, &lt;#string $types#&gt;, &lt;#array &amp;$var#&gt;, &lt;#string $types#&gt;, &lt;#array &amp;$var#&gt; );</string>
+	<string>maxdb_stmt_bind_param(&lt;#resource $stmt#&gt;, &lt;#string $types#&gt;, &lt;#mixed &amp;$var1#&gt;, &lt;#mixed &amp;$...#&gt;, &lt;#string $types#&gt;, &lt;#mixed &amp;$var1#&gt;, &lt;#mixed &amp;$...#&gt;, &lt;#resource $stmt#&gt;, &lt;#string $types#&gt;, &lt;#array &amp;$var#&gt;, &lt;#string $types#&gt;, &lt;#array &amp;$var#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7B97260C-5F4C-418E-92F0-3C762AFDA375</string>
 	<key>IDECodeSnippetLanguage</key>

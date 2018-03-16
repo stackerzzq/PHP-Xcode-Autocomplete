@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>unicode_set_subst_char ( &lt;#unicode $character#&gt; );</string>
+	<string>unicode_set_subst_char(&lt;#unicode $character#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3E6A14D9-D14D-4390-BEDE-1E375FEFDFA1</string>
 	<key>IDECodeSnippetLanguage</key>

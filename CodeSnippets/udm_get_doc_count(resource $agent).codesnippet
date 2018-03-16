@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_get_doc_count ( &lt;#resource $agent#&gt; );</string>
+	<string>udm_get_doc_count(&lt;#resource $agent#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A2BAA78A-7407-4E34-A073-736A4C69E101</string>
 	<key>IDECodeSnippetLanguage</key>

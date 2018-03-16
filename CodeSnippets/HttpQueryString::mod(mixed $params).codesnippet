@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpQueryString::mod ( &lt;#mixed $params#&gt; );</string>
+	<string>HttpQueryString::mod(&lt;#mixed $params#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>687FC816-DE96-42EA-8CBE-F6B22DD5D1C0</string>
 	<key>IDECodeSnippetLanguage</key>

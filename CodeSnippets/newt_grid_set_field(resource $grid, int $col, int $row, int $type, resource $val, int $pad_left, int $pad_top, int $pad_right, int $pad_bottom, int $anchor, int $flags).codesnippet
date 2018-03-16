@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_grid_set_field ( &lt;#resource $grid#&gt;, &lt;#int $col#&gt;, &lt;#int $row#&gt;, &lt;#int $type#&gt;, &lt;#resource $val#&gt;, &lt;#int $pad_left#&gt;, &lt;#int $pad_top#&gt;, &lt;#int $pad_right#&gt;, &lt;#int $pad_bottom#&gt;, &lt;#int $anchor#&gt;, &lt;#int $flags#&gt; );</string>
+	<string>newt_grid_set_field(&lt;#resource $grid#&gt;, &lt;#int $col#&gt;, &lt;#int $row#&gt;, &lt;#int $type#&gt;, &lt;#resource $val#&gt;, &lt;#int $pad_left#&gt;, &lt;#int $pad_top#&gt;, &lt;#int $pad_right#&gt;, &lt;#int $pad_bottom#&gt;, &lt;#int $anchor#&gt;, &lt;#int $flags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C1B6076A-D3C4-40AB-8C49-66214BB34A62</string>
 	<key>IDECodeSnippetLanguage</key>

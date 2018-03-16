@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_defineline ( &lt;#int $objid#&gt;, &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $width#&gt; );</string>
+	<string>swf_defineline(&lt;#int $objid#&gt;, &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $width#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8472A232-EEE5-4E0C-BE9E-3FC8C38F0DC4</string>
 	<key>IDECodeSnippetLanguage</key>

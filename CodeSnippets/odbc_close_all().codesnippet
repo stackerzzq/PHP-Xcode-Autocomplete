@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>odbc_close_all (  );</string>
+	<string>odbc_close_all();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0380FDB6-50A2-49E7-89F8-3E06C5BDBFDB</string>
 	<key>IDECodeSnippetLanguage</key>

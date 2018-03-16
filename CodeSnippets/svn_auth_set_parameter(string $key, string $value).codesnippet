@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_auth_set_parameter ( &lt;#string $key#&gt;, &lt;#string $value#&gt; );</string>
+	<string>svn_auth_set_parameter(&lt;#string $key#&gt;, &lt;#string $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BCC9BA7C-3791-4594-A1E7-0856C84F48D8</string>
 	<key>IDECodeSnippetLanguage</key>

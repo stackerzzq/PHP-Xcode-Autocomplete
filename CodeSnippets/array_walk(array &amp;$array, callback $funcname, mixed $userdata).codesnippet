@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_walk ( &lt;#array &amp;$array#&gt;, &lt;#callback $funcname#&gt;, &lt;#mixed $userdata#&gt; );</string>
+	<string>array_walk(&lt;#array &amp;$array#&gt;, &lt;#callback $funcname#&gt;, &lt;#mixed $userdata#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>90A88BB1-B3DB-4E2D-9B54-405922B76285</string>
 	<key>IDECodeSnippetLanguage</key>

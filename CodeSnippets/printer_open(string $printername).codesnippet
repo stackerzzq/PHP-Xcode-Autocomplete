@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_open ( &lt;#string $printername#&gt; );</string>
+	<string>printer_open(&lt;#string $printername#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>21B3BB0B-E3DA-4E6D-B392-05BA569CCBC6</string>
 	<key>IDECodeSnippetLanguage</key>

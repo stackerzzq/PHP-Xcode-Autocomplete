@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_get_flags ( &lt;#resource $fdf_document#&gt;, &lt;#string $fieldname#&gt;, &lt;#int $whichflags#&gt; );</string>
+	<string>fdf_get_flags(&lt;#resource $fdf_document#&gt;, &lt;#string $fieldname#&gt;, &lt;#int $whichflags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D7C3DFDF-D21C-4461-9EE8-32F4F324415C</string>
 	<key>IDECodeSnippetLanguage</key>

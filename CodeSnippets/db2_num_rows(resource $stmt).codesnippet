@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_num_rows ( &lt;#resource $stmt#&gt; );</string>
+	<string>db2_num_rows(&lt;#resource $stmt#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EF85F92D-65F8-4639-A0C0-E4BB7E307C2E</string>
 	<key>IDECodeSnippetLanguage</key>

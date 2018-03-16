@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_docbyanchorobj ( &lt;#int $connection#&gt;, &lt;#int $anchorID#&gt; );</string>
+	<string>hw_docbyanchorobj(&lt;#int $connection#&gt;, &lt;#int $anchorID#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FE5318DE-919F-4607-A898-F22FF0F3C3AB</string>
 	<key>IDECodeSnippetLanguage</key>

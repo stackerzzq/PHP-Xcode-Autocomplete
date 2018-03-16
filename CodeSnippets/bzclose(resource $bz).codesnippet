@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bzclose ( &lt;#resource $bz#&gt; );</string>
+	<string>bzclose(&lt;#resource $bz#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7BB5C68F-C3DD-4353-8E4D-B31EDB7B93A1</string>
 	<key>IDECodeSnippetLanguage</key>

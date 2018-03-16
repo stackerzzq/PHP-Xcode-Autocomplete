@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>convert_uudecode ( &lt;#string $data#&gt; );</string>
+	<string>convert_uudecode(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1903BAA6-5824-4930-B1B9-6596C95CCBCC</string>
 	<key>IDECodeSnippetLanguage</key>

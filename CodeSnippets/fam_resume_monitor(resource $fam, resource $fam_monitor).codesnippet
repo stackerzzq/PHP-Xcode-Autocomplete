@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fam_resume_monitor ( &lt;#resource $fam#&gt;, &lt;#resource $fam_monitor#&gt; );</string>
+	<string>fam_resume_monitor(&lt;#resource $fam#&gt;, &lt;#resource $fam_monitor#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3F91B8E0-DC6F-42CD-AAEA-264D49D8CF41</string>
 	<key>IDECodeSnippetLanguage</key>

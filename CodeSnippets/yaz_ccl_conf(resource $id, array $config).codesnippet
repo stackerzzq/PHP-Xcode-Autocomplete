@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yaz_ccl_conf ( &lt;#resource $id#&gt;, &lt;#array $config#&gt; );</string>
+	<string>yaz_ccl_conf(&lt;#resource $id#&gt;, &lt;#array $config#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C32B03F4-EAC7-4039-A905-0CE2C2C1DE53</string>
 	<key>IDECodeSnippetLanguage</key>

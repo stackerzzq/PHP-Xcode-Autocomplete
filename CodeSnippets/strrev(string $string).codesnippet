@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>strrev ( &lt;#string $string#&gt; );</string>
+	<string>strrev(&lt;#string $string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A40AC72A-2F05-4AA7-9DE7-C30F6AB09A06</string>
 	<key>IDECodeSnippetLanguage</key>

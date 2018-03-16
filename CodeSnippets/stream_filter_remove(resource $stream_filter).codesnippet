@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_filter_remove ( &lt;#resource $stream_filter#&gt; );</string>
+	<string>stream_filter_remove(&lt;#resource $stream_filter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7C6EE820-0C71-4A08-A53E-21248227EEB1</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>rpm_close ( &lt;#resource $rpmr#&gt; );</string>
+	<string>rpm_close(&lt;#resource $rpmr#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>51D87B5C-512E-41E3-8A97-EB648E4CDDB3</string>
 	<key>IDECodeSnippetLanguage</key>

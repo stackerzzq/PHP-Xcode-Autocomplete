@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msg_send ( &lt;#resource $queue#&gt;, &lt;#int $msgtype#&gt;, &lt;#mixed $message#&gt;, &lt;#bool $serialize#&gt;, &lt;#bool $blocking#&gt;, &lt;#int &amp;$errorcode#&gt; );</string>
+	<string>msg_send(&lt;#resource $queue#&gt;, &lt;#int $msgtype#&gt;, &lt;#mixed $message#&gt;, &lt;#bool $serialize#&gt;, &lt;#bool $blocking#&gt;, &lt;#int &amp;$errorcode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D57F60ED-B330-4171-8311-9DD4EF689FEB</string>
 	<key>IDECodeSnippetLanguage</key>

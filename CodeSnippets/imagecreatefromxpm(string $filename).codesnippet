@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagecreatefromxpm ( &lt;#string $filename#&gt; );</string>
+	<string>imagecreatefromxpm(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DA441916-24FE-4FB4-A61F-6EBA42E904E8</string>
 	<key>IDECodeSnippetLanguage</key>

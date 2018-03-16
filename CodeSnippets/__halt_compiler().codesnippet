@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__halt_compiler (  );</string>
+	<string>__halt_compiler();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>560F7810-0707-4949-82D6-EFF440A49E7B</string>
 	<key>IDECodeSnippetLanguage</key>

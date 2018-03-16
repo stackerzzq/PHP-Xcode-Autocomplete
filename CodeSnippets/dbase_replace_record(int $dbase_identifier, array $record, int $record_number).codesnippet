@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbase_replace_record ( &lt;#int $dbase_identifier#&gt;, &lt;#array $record#&gt;, &lt;#int $record_number#&gt; );</string>
+	<string>dbase_replace_record(&lt;#int $dbase_identifier#&gt;, &lt;#array $record#&gt;, &lt;#int $record_number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>29307896-DEEF-4560-BB7E-F73C56C030EF</string>
 	<key>IDECodeSnippetLanguage</key>

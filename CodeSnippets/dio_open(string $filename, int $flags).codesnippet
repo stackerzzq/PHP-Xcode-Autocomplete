@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dio_open ( &lt;#string $filename#&gt;, &lt;#int $flags#&gt; );</string>
+	<string>dio_open(&lt;#string $filename#&gt;, &lt;#int $flags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>32C3E15A-8CFB-4597-B708-5CA74330B56E</string>
 	<key>IDECodeSnippetLanguage</key>

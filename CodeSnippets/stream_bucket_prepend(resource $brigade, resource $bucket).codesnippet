@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_bucket_prepend ( &lt;#resource $brigade#&gt;, &lt;#resource $bucket#&gt; );</string>
+	<string>stream_bucket_prepend(&lt;#resource $brigade#&gt;, &lt;#resource $bucket#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>70D46722-1377-4928-85E9-1AA777CCB7B7</string>
 	<key>IDECodeSnippetLanguage</key>

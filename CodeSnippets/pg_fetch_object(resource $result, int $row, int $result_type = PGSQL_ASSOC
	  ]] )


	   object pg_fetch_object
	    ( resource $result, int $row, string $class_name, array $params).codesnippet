@@ -14,7 +14,7 @@
 
 
 	   object pg_fetch_object
-	    ( resource $result#&gt;, &lt;#int $row#&gt;, &lt;#string $class_name#&gt;, &lt;#array $params#&gt; );</string>
+	   (resource $result#&gt;, &lt;#int $row#&gt;, &lt;#string $class_name#&gt;, &lt;#array $params#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8D707A49-AE57-4689-A02E-84F43A692260</string>
 	<key>IDECodeSnippetLanguage</key>

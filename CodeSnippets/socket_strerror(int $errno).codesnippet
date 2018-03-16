@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>socket_strerror ( &lt;#int $errno#&gt; );</string>
+	<string>socket_strerror(&lt;#int $errno#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6137BEDA-767B-42F4-BA16-6C2E0F832E87</string>
 	<key>IDECodeSnippetLanguage</key>

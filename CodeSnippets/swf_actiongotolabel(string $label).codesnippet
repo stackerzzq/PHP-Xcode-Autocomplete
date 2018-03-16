@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_actiongotolabel ( &lt;#string $label#&gt; );</string>
+	<string>swf_actiongotolabel(&lt;#string $label#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>30A4CF7E-31F4-45A7-9AFB-5F8CB8AF2972</string>
 	<key>IDECodeSnippetLanguage</key>

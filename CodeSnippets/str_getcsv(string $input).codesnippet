@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>str_getcsv ( &lt;#string $input#&gt; );</string>
+	<string>str_getcsv(&lt;#string $input#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7E7BB94C-2AC5-478D-837C-80C682DD6691</string>
 	<key>IDECodeSnippetLanguage</key>

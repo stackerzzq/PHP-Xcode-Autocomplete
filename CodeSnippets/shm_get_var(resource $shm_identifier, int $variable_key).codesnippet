@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>shm_get_var ( &lt;#resource $shm_identifier#&gt;, &lt;#int $variable_key#&gt; );</string>
+	<string>shm_get_var(&lt;#resource $shm_identifier#&gt;, &lt;#int $variable_key#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E44EA903-911E-4A38-B4A1-AC2FAC40EF99</string>
 	<key>IDECodeSnippetLanguage</key>

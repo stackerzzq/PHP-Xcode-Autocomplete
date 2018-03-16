@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_create_pen ( &lt;#int $style#&gt;, &lt;#int $width#&gt;, &lt;#string $color#&gt; );</string>
+	<string>printer_create_pen(&lt;#int $style#&gt;, &lt;#int $width#&gt;, &lt;#string $color#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BA71BD10-0B80-4B54-820C-26DB447D8DE5</string>
 	<key>IDECodeSnippetLanguage</key>

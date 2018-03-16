@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_msgno ( &lt;#resource $imap_stream#&gt;, &lt;#int $uid#&gt; );</string>
+	<string>imap_msgno(&lt;#resource $imap_stream#&gt;, &lt;#int $uid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>427CA054-917D-4171-9A79-EDCA0007FF16</string>
 	<key>IDECodeSnippetLanguage</key>

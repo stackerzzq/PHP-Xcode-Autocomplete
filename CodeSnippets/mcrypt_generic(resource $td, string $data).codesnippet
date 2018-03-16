@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mcrypt_generic ( &lt;#resource $td#&gt;, &lt;#string $data#&gt; );</string>
+	<string>mcrypt_generic(&lt;#resource $td#&gt;, &lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>05FFCF18-878A-4A87-9249-136C8B477696</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>px_date2string ( &lt;#resource $pxdoc#&gt;, &lt;#int $value#&gt;, &lt;#string $format#&gt; );</string>
+	<string>px_date2string(&lt;#resource $pxdoc#&gt;, &lt;#int $value#&gt;, &lt;#string $format#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CD8774B0-221F-4658-9873-E46B829D80CC</string>
 	<key>IDECodeSnippetLanguage</key>

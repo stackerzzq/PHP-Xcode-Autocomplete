@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_attron ( &lt;#int $attributes#&gt; );</string>
+	<string>ncurses_attron(&lt;#int $attributes#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>05BFE29C-19EC-49D8-9C70-556E4C7574CA</string>
 	<key>IDECodeSnippetLanguage</key>

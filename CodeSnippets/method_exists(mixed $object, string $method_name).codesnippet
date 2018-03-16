@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>method_exists ( &lt;#mixed $object#&gt;, &lt;#string $method_name#&gt; );</string>
+	<string>method_exists(&lt;#mixed $object#&gt;, &lt;#string $method_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9BBFA5CD-5BA3-4BA7-A761-E8CF460B1B38</string>
 	<key>IDECodeSnippetLanguage</key>

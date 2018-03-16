@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_stripos ( &lt;#string $haystack#&gt;, &lt;#string $needle#&gt;, &lt;#int $offset#&gt;, &lt;#string $encoding#&gt; );</string>
+	<string>mb_stripos(&lt;#string $haystack#&gt;, &lt;#string $needle#&gt;, &lt;#int $offset#&gt;, &lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9542C02C-2CE1-4E45-A022-EC8D34C6D842</string>
 	<key>IDECodeSnippetLanguage</key>

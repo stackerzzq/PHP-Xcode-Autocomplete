@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>strncasecmp ( &lt;#string $str1#&gt;, &lt;#string $str2#&gt;, &lt;#int $len#&gt; );</string>
+	<string>strncasecmp(&lt;#string $str1#&gt;, &lt;#string $str2#&gt;, &lt;#int $len#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D1766DFF-EB0B-4949-8CC9-EBEB576CC0F7</string>
 	<key>IDECodeSnippetLanguage</key>

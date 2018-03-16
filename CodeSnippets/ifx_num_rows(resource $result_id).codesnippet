@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_num_rows ( &lt;#resource $result_id#&gt; );</string>
+	<string>ifx_num_rows(&lt;#resource $result_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>21BE0CAD-4AC3-4EF1-AB21-DD5ECB581A8D</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setCompression ( &lt;#int $compression#&gt; );</string>
+	<string>Imagick::setCompression(&lt;#int $compression#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2E4C405F-6427-4B87-851C-FF673328EE31</string>
 	<key>IDECodeSnippetLanguage</key>

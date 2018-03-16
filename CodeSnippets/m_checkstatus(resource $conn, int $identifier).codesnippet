@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_checkstatus ( &lt;#resource $conn#&gt;, &lt;#int $identifier#&gt; );</string>
+	<string>m_checkstatus(&lt;#resource $conn#&gt;, &lt;#int $identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>33508C41-ED6C-4D96-A04A-C42D3BA33D3A</string>
 	<key>IDECodeSnippetLanguage</key>

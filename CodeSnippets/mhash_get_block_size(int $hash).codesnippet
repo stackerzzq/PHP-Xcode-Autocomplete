@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mhash_get_block_size ( &lt;#int $hash#&gt; );</string>
+	<string>mhash_get_block_size(&lt;#int $hash#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8D65DC8C-BDD1-40E2-8329-DD0CD1AA8733</string>
 	<key>IDECodeSnippetLanguage</key>

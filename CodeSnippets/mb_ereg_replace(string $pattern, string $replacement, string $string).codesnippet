@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_ereg_replace ( &lt;#string $pattern#&gt;, &lt;#string $replacement#&gt;, &lt;#string $string#&gt; );</string>
+	<string>mb_ereg_replace(&lt;#string $pattern#&gt;, &lt;#string $replacement#&gt;, &lt;#string $string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>71D2A911-71CB-4300-AFAA-5C76767AAB10</string>
 	<key>IDECodeSnippetLanguage</key>

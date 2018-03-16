@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_send_status ( &lt;#int $status#&gt; );</string>
+	<string>http_send_status(&lt;#int $status#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>17BAB705-A8F3-4DA5-BA5C-5175485E98B0</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>microtime ( &lt;#bool $get_as_float#&gt; );</string>
+	<string>microtime(&lt;#bool $get_as_float#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D32D0BD8-056A-41F3-9F42-470374FF6EE1</string>
 	<key>IDECodeSnippetLanguage</key>

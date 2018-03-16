@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_get_last_error (  );</string>
+	<string>posix_get_last_error();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DB903CC0-9396-4EC0-8DE3-F0C255532581</string>
 	<key>IDECodeSnippetLanguage</key>

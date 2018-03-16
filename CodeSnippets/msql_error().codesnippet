@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msql_error (  );</string>
+	<string>msql_error();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AEA2C682-F144-44BB-99DB-C31541C02D86</string>
 	<key>IDECodeSnippetLanguage</key>

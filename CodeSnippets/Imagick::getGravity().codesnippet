@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::getGravity (  );</string>
+	<string>Imagick::getGravity();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F4340460-2894-480E-A097-D3C867433B8E</string>
 	<key>IDECodeSnippetLanguage</key>

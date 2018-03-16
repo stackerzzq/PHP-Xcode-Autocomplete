@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_qprint ( &lt;#string $string#&gt; );</string>
+	<string>imap_qprint(&lt;#string $string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>186C1445-993B-4F7A-8886-A28ED460CE11</string>
 	<key>IDECodeSnippetLanguage</key>

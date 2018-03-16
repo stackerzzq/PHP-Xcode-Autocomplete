@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_root_device_get_available ( &lt;#resource $root_device#&gt; );</string>
+	<string>gupnp_root_device_get_available(&lt;#resource $root_device#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AF9FC1C0-6507-4F7A-AED1-5CFC5976D8A3</string>
 	<key>IDECodeSnippetLanguage</key>

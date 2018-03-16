@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_replace_recursive ( &lt;#array &amp;$array#&gt;, &lt;#array &amp;$array1#&gt;, &lt;#array &amp;$array2#&gt;, &lt;#array &amp;$...#&gt; );</string>
+	<string>array_replace_recursive(&lt;#array &amp;$array#&gt;, &lt;#array &amp;$array1#&gt;, &lt;#array &amp;$array2#&gt;, &lt;#array &amp;$...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F57A4470-D442-4326-B239-513657F03A45</string>
 	<key>IDECodeSnippetLanguage</key>

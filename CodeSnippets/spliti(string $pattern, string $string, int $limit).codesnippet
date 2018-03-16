@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>spliti ( &lt;#string $pattern#&gt;, &lt;#string $string#&gt;, &lt;#int $limit#&gt; );</string>
+	<string>spliti(&lt;#string $pattern#&gt;, &lt;#string $string#&gt;, &lt;#int $limit#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3A281EC2-ABFE-49A0-839D-481D30A5DB63</string>
 	<key>IDECodeSnippetLanguage</key>

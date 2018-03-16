@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_setacl ( &lt;#resource $imap_stream#&gt;, &lt;#string $mailbox#&gt;, &lt;#string $id#&gt;, &lt;#string $rights#&gt; );</string>
+	<string>imap_setacl(&lt;#resource $imap_stream#&gt;, &lt;#string $mailbox#&gt;, &lt;#string $id#&gt;, &lt;#string $rights#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>264D671B-5A7F-4998-9927-45F906394CB4</string>
 	<key>IDECodeSnippetLanguage</key>

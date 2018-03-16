@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_XML::createDataObject ( &lt;#string $namespace_uri#&gt;, &lt;#string $type_name#&gt; );</string>
+	<string>SDO_DAS_XML::createDataObject(&lt;#string $namespace_uri#&gt;, &lt;#string $type_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F9F6F6E1-1DAD-4DF9-9FD1-D43E8152FAA0</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setStrokeDashOffset ( &lt;#float $dash_offset#&gt; );</string>
+	<string>ImagickDraw::setStrokeDashOffset(&lt;#float $dash_offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FDA205A0-E2C2-4210-8B08-83F479D0AF8D</string>
 	<key>IDECodeSnippetLanguage</key>

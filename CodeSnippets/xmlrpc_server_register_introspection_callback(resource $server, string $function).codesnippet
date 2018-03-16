@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xmlrpc_server_register_introspection_callback ( &lt;#resource $server#&gt;, &lt;#string $function#&gt; );</string>
+	<string>xmlrpc_server_register_introspection_callback(&lt;#resource $server#&gt;, &lt;#string $function#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9ABBF3D9-8B51-4874-913E-8EF20A504076</string>
 	<key>IDECodeSnippetLanguage</key>

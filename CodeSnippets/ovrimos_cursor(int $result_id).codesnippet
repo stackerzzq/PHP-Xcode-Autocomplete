@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ovrimos_cursor ( &lt;#int $result_id#&gt; );</string>
+	<string>ovrimos_cursor(&lt;#int $result_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>71ABCABB-96EB-4F0D-92DD-CFA93C49906A</string>
 	<key>IDECodeSnippetLanguage</key>

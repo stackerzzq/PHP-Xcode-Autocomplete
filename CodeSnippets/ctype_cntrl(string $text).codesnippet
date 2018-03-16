@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ctype_cntrl ( &lt;#string $text#&gt; );</string>
+	<string>ctype_cntrl(&lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>29D4AD13-949A-4A95-807C-F8B17E5C1C09</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_client_info ( &lt;#resource $connection#&gt; );</string>
+	<string>db2_client_info(&lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>43C981E9-FE5F-4B8A-9304-52B73CAD375E</string>
 	<key>IDECodeSnippetLanguage</key>

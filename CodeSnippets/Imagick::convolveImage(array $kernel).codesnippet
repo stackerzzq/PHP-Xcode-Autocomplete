@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::convolveImage ( &lt;#array $kernel#&gt; );</string>
+	<string>Imagick::convolveImage(&lt;#array $kernel#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>592ACF6A-5293-4A52-A472-2B6D68670249</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yaz_connect ( &lt;#string $zurl#&gt;, &lt;#mixed $options#&gt; );</string>
+	<string>yaz_connect(&lt;#string $zurl#&gt;, &lt;#mixed $options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D810BF9F-A285-4999-9C89-584D5D77F816</string>
 	<key>IDECodeSnippetLanguage</key>

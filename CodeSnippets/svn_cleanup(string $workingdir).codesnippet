@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_cleanup ( &lt;#string $workingdir#&gt; );</string>
+	<string>svn_cleanup(&lt;#string $workingdir#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4E619D79-2BB0-4E1D-A42D-F7607E71185B</string>
 	<key>IDECodeSnippetLanguage</key>

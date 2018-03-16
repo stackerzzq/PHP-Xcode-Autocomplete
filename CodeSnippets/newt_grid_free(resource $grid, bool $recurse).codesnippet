@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_grid_free ( &lt;#resource $grid#&gt;, &lt;#bool $recurse#&gt; );</string>
+	<string>newt_grid_free(&lt;#resource $grid#&gt;, &lt;#bool $recurse#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7471E0D8-5E09-4C32-ACC4-DBA0E615CCBB</string>
 	<key>IDECodeSnippetLanguage</key>

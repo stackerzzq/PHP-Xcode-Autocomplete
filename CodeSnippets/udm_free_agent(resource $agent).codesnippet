@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_free_agent ( &lt;#resource $agent#&gt; );</string>
+	<string>udm_free_agent(&lt;#resource $agent#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CF7091A2-E972-40BA-80B4-819453CD565F</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagepsslantfont ( &lt;#resource $font_index#&gt;, &lt;#float $slant#&gt; );</string>
+	<string>imagepsslantfont(&lt;#resource $font_index#&gt;, &lt;#float $slant#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6285C361-6B9F-4573-81A5-ACAF7D6E72F2</string>
 	<key>IDECodeSnippetLanguage</key>

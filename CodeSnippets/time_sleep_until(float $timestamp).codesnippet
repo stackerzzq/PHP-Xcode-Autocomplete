@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>time_sleep_until ( &lt;#float $timestamp#&gt; );</string>
+	<string>time_sleep_until(&lt;#float $timestamp#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9A00D39C-B8EF-40CB-A1F0-0B35765D5951</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_pattern_create_linear ( &lt;#float $x0#&gt;, &lt;#float $y0#&gt;, &lt;#float $x1#&gt;, &lt;#float $y1#&gt; );</string>
+	<string>cairo_pattern_create_linear(&lt;#float $x0#&gt;, &lt;#float $y0#&gt;, &lt;#float $x1#&gt;, &lt;#float $y1#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6687B8FE-1031-4DAE-928E-770FCF49AFAE</string>
 	<key>IDECodeSnippetLanguage</key>

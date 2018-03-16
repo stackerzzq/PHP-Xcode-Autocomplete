@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_dens_pmf_binomial ( &lt;#float $x#&gt;, &lt;#float $n#&gt;, &lt;#float $pi#&gt; );</string>
+	<string>stats_dens_pmf_binomial(&lt;#float $x#&gt;, &lt;#float $n#&gt;, &lt;#float $pi#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DC814CB1-20EF-4E84-9E2D-9C7D78E31FA3</string>
 	<key>IDECodeSnippetLanguage</key>

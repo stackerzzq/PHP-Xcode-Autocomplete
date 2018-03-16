@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dio_fcntl ( &lt;#resource $fd#&gt;, &lt;#int $cmd#&gt;, &lt;#mixed $args#&gt; );</string>
+	<string>dio_fcntl(&lt;#resource $fd#&gt;, &lt;#int $cmd#&gt;, &lt;#mixed $args#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1176311F-702A-4948-8F55-D78B3C9F2A55</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dba_handlers (  );</string>
+	<string>dba_handlers();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>13D740D3-5907-4D29-934B-E9DDAFA95B1E</string>
 	<key>IDECodeSnippetLanguage</key>

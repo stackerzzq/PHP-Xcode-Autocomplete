@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_date ( &lt;#int $timestamp#&gt; );</string>
+	<string>http_date(&lt;#int $timestamp#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4C6CE252-2437-4888-AEC4-63B9708D0D4E</string>
 	<key>IDECodeSnippetLanguage</key>

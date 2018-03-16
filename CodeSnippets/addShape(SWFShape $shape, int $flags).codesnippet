@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>addShape ( &lt;#SWFShape $shape#&gt;, &lt;#int $flags#&gt; );</string>
+	<string>addShape(&lt;#SWFShape $shape#&gt;, &lt;#int $flags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7149923C-1FC7-4975-9329-E1BF7DF0BE64</string>
 	<key>IDECodeSnippetLanguage</key>

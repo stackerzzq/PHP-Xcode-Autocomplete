@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_show_xy ( &lt;#resource $psdoc#&gt;, &lt;#string $text#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>ps_show_xy(&lt;#resource $psdoc#&gt;, &lt;#string $text#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2B058760-6998-4055-8D45-A8800C40C498</string>
 	<key>IDECodeSnippetLanguage</key>

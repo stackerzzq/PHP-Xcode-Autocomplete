@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>octdec ( &lt;#string $octal_string#&gt; );</string>
+	<string>octdec(&lt;#string $octal_string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3CC88F6F-87A2-4ED0-8736-411E61787F68</string>
 	<key>IDECodeSnippetLanguage</key>

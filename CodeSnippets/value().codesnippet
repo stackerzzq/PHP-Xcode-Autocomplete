@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>value (  );</string>
+	<string>value();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5D946A0A-1582-4869-8968-978C032F0BA5</string>
 	<key>IDECodeSnippetLanguage</key>

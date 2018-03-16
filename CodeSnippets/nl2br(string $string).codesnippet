@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>nl2br ( &lt;#string $string#&gt; );</string>
+	<string>nl2br(&lt;#string $string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>40FBC220-278A-40A3-836B-730274182DD4</string>
 	<key>IDECodeSnippetLanguage</key>

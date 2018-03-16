@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>closelog (  );</string>
+	<string>closelog();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8E7FEDF3-8F83-41F0-8684-A6ADB44023F1</string>
 	<key>IDECodeSnippetLanguage</key>

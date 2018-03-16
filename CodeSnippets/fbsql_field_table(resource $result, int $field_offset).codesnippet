@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fbsql_field_table ( &lt;#resource $result#&gt;, &lt;#int $field_offset#&gt; );</string>
+	<string>fbsql_field_table(&lt;#resource $result#&gt;, &lt;#int $field_offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AECA9BCE-800D-48CE-994C-3268D9A6058C</string>
 	<key>IDECodeSnippetLanguage</key>

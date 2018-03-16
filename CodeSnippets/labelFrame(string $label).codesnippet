@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>labelFrame ( &lt;#string $label#&gt; );</string>
+	<string>labelFrame(&lt;#string $label#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6754561C-3A8C-47C1-A2A6-23DC72A02D0C</string>
 	<key>IDECodeSnippetLanguage</key>

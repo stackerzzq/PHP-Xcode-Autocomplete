@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msg_set_queue ( &lt;#resource $queue#&gt;, &lt;#array $data#&gt; );</string>
+	<string>msg_set_queue(&lt;#resource $queue#&gt;, &lt;#array $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D0D4AA2A-470B-4675-8D4F-F4A3C601C968</string>
 	<key>IDECodeSnippetLanguage</key>

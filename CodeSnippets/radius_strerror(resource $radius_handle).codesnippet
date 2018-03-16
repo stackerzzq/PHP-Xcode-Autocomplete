@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>radius_strerror ( &lt;#resource $radius_handle#&gt; );</string>
+	<string>radius_strerror(&lt;#resource $radius_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4CD4EB1B-764E-4E0F-8583-1EBB8EAAC1EB</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>notes_find_note ( &lt;#string $database_name#&gt;, &lt;#string $name#&gt;, &lt;#string $type#&gt; );</string>
+	<string>notes_find_note(&lt;#string $database_name#&gt;, &lt;#string $name#&gt;, &lt;#string $type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F4796F1A-AEDE-4CDD-A84D-F4314EE4C771</string>
 	<key>IDECodeSnippetLanguage</key>

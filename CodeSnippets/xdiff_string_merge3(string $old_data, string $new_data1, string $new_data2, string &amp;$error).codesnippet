@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xdiff_string_merge3 ( &lt;#string $old_data#&gt;, &lt;#string $new_data1#&gt;, &lt;#string $new_data2#&gt;, &lt;#string &amp;$error#&gt; );</string>
+	<string>xdiff_string_merge3(&lt;#string $old_data#&gt;, &lt;#string $new_data1#&gt;, &lt;#string $new_data2#&gt;, &lt;#string &amp;$error#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>294CCFA8-6CED-444B-A99E-5348457B0B72</string>
 	<key>IDECodeSnippetLanguage</key>

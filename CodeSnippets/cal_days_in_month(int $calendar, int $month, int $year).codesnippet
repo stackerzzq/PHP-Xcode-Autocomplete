@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cal_days_in_month ( &lt;#int $calendar#&gt;, &lt;#int $month#&gt;, &lt;#int $year#&gt; );</string>
+	<string>cal_days_in_month(&lt;#int $calendar#&gt;, &lt;#int $month#&gt;, &lt;#int $year#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>71A1B80A-6A9D-4F81-84CA-3E0CB72C550D</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_reduce ( &lt;#array $input#&gt;, &lt;#callback $function#&gt;, &lt;#mixed $initial#&gt; );</string>
+	<string>array_reduce(&lt;#array $input#&gt;, &lt;#callback $function#&gt;, &lt;#mixed $initial#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0D5AA645-D70D-436A-BE4C-EEDBE6ED6976</string>
 	<key>IDECodeSnippetLanguage</key>

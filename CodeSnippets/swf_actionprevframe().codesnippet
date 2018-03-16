@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_actionprevframe (  );</string>
+	<string>swf_actionprevframe();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>515ADCE8-EAAA-4484-B859-A3C090BE5DF8</string>
 	<key>IDECodeSnippetLanguage</key>

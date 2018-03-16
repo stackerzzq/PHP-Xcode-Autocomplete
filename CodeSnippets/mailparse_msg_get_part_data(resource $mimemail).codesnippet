@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mailparse_msg_get_part_data ( &lt;#resource $mimemail#&gt; );</string>
+	<string>mailparse_msg_get_part_data(&lt;#resource $mimemail#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AEA7976D-17F7-47B0-9F9C-747CB97A0C2B</string>
 	<key>IDECodeSnippetLanguage</key>

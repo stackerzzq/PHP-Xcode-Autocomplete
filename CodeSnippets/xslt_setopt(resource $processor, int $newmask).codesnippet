@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xslt_setopt ( &lt;#resource $processor#&gt;, &lt;#int $newmask#&gt; );</string>
+	<string>xslt_setopt(&lt;#resource $processor#&gt;, &lt;#int $newmask#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>732E2814-8601-4A84-B8E5-95BC5AA47E54</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbase_close ( &lt;#int $dbase_identifier#&gt; );</string>
+	<string>dbase_close(&lt;#int $dbase_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B35580DF-7477-4FCF-A959-443B2F9FBC80</string>
 	<key>IDECodeSnippetLanguage</key>

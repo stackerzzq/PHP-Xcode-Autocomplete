@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>assert ( &lt;#mixed $assertion#&gt; );</string>
+	<string>assert(&lt;#mixed $assertion#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3D52009E-5548-4589-8DAE-61916E3F3128</string>
 	<key>IDECodeSnippetLanguage</key>

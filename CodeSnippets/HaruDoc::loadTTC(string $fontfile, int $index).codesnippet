@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::loadTTC ( &lt;#string $fontfile#&gt;, &lt;#int $index#&gt; );</string>
+	<string>HaruDoc::loadTTC(&lt;#string $fontfile#&gt;, &lt;#int $index#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>44B6AAD7-A2F1-4B20-A90F-E495BC39F3E7</string>
 	<key>IDECodeSnippetLanguage</key>

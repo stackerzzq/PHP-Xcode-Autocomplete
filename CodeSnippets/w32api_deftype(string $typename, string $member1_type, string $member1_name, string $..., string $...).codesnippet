@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>w32api_deftype ( &lt;#string $typename#&gt;, &lt;#string $member1_type#&gt;, &lt;#string $member1_name#&gt;, &lt;#string $...#&gt;, &lt;#string $...#&gt; );</string>
+	<string>w32api_deftype(&lt;#string $typename#&gt;, &lt;#string $member1_type#&gt;, &lt;#string $member1_name#&gt;, &lt;#string $...#&gt;, &lt;#string $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A9D5CFE9-1AD0-44E0-B106-10140920FE2C</string>
 	<key>IDECodeSnippetLanguage</key>

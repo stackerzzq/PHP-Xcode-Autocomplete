@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_set_agent_param ( &lt;#resource $agent#&gt;, &lt;#int $var#&gt;, &lt;#string $val#&gt; );</string>
+	<string>udm_set_agent_param(&lt;#resource $agent#&gt;, &lt;#int $var#&gt;, &lt;#string $val#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C44CECC3-F2BA-4F1B-86A6-BD3300F9B098</string>
 	<key>IDECodeSnippetLanguage</key>

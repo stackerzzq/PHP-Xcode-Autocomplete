@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_rotate ( &lt;#resource $psdoc#&gt;, &lt;#float $rot#&gt; );</string>
+	<string>ps_rotate(&lt;#resource $psdoc#&gt;, &lt;#float $rot#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8D6F7530-D6B5-441C-93A0-7BE019A0411D</string>
 	<key>IDECodeSnippetLanguage</key>

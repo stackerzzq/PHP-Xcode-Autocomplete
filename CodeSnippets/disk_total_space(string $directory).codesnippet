@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>disk_total_space ( &lt;#string $directory#&gt; );</string>
+	<string>disk_total_space(&lt;#string $directory#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E3F464D1-8EEA-4D56-8B5B-69C683317EA5</string>
 	<key>IDECodeSnippetLanguage</key>

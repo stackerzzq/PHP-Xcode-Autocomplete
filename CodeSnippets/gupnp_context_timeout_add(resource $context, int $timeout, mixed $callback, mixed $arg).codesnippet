@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_context_timeout_add ( &lt;#resource $context#&gt;, &lt;#int $timeout#&gt;, &lt;#mixed $callback#&gt;, &lt;#mixed $arg#&gt; );</string>
+	<string>gupnp_context_timeout_add(&lt;#resource $context#&gt;, &lt;#int $timeout#&gt;, &lt;#mixed $callback#&gt;, &lt;#mixed $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DF6481D7-CB17-4F0F-9287-D30C17E99181</string>
 	<key>IDECodeSnippetLanguage</key>

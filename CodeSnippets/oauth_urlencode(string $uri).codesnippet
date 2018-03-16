@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oauth_urlencode ( &lt;#string $uri#&gt; );</string>
+	<string>oauth_urlencode(&lt;#string $uri#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1A53B114-18B2-4887-95E2-C852A9234EE6</string>
 	<key>IDECodeSnippetLanguage</key>

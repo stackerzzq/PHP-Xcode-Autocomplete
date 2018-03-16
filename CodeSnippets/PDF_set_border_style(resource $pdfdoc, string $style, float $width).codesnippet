@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_set_border_style ( &lt;#resource $pdfdoc#&gt;, &lt;#string $style#&gt;, &lt;#float $width#&gt; );</string>
+	<string>PDF_set_border_style(&lt;#resource $pdfdoc#&gt;, &lt;#string $style#&gt;, &lt;#float $width#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>528E5FFE-C96B-47FE-978C-616E0FDC2A63</string>
 	<key>IDECodeSnippetLanguage</key>

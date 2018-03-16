@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ingres_error ( &lt;#resource $link#&gt; );</string>
+	<string>ingres_error(&lt;#resource $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DDFF55C5-5120-42A3-91CF-9BBC3D6D3163</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>socket_create_listen ( &lt;#int $port#&gt; );</string>
+	<string>socket_create_listen(&lt;#int $port#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>727F35EA-7CDD-4C53-823B-25EFB4856122</string>
 	<key>IDECodeSnippetLanguage</key>

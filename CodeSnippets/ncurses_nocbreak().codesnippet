@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_nocbreak (  );</string>
+	<string>ncurses_nocbreak();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E9C9E35D-C03B-4BDD-B180-22DE015E0991</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getenv ( &lt;#string $varname#&gt; );</string>
+	<string>getenv(&lt;#string $varname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6256FD8C-71DE-4E04-A0FE-BC22FE589B29</string>
 	<key>IDECodeSnippetLanguage</key>

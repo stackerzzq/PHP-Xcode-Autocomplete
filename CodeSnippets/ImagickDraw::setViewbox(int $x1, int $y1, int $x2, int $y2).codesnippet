@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setViewbox ( &lt;#int $x1#&gt;, &lt;#int $y1#&gt;, &lt;#int $x2#&gt;, &lt;#int $y2#&gt; );</string>
+	<string>ImagickDraw::setViewbox(&lt;#int $x1#&gt;, &lt;#int $y1#&gt;, &lt;#int $x2#&gt;, &lt;#int $y2#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6B49C464-5971-4247-93CB-FA48860CCC3F</string>
 	<key>IDECodeSnippetLanguage</key>

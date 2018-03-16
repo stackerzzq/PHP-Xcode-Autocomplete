@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>property_exists ( &lt;#mixed $class#&gt;, &lt;#string $property#&gt; );</string>
+	<string>property_exists(&lt;#mixed $class#&gt;, &lt;#string $property#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FDCB13EB-A2A7-4F3B-BECA-88FF249E715A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomNode-&gt;append_sibling ( &lt;#domelement $newnode#&gt; );</string>
+	<string>DomNode-&gt;append_sibling(&lt;#domelement $newnode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>270CBBE0-A3A2-4F0C-B32F-D0BC545E71D2</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>kadm5_get_policies ( &lt;#resource $handle#&gt; );</string>
+	<string>kadm5_get_policies(&lt;#resource $handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>88BECA3F-F87F-4DA5-A9D2-DC813630AD32</string>
 	<key>IDECodeSnippetLanguage</key>

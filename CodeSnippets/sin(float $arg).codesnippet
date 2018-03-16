@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sin ( &lt;#float $arg#&gt; );</string>
+	<string>sin(&lt;#float $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AD0784E6-FFE0-44A7-87EE-EF8DD7B7E762</string>
 	<key>IDECodeSnippetLanguage</key>

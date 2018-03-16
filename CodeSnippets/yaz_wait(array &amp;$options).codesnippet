@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yaz_wait ( &lt;#array &amp;$options#&gt; );</string>
+	<string>yaz_wait(&lt;#array &amp;$options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B7A792EB-AEDC-4119-AC46-E98A28029A8B</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_strtolower ( &lt;#string $str#&gt; );</string>
+	<string>mb_strtolower(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>93420CD3-1E20-457A-8C73-859B0F8F69C1</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>com_message_pump ( &lt;#int $timeoutms#&gt; );</string>
+	<string>com_message_pump(&lt;#int $timeoutms#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>773313F4-4375-45B5-AE82-7C2D16A33203</string>
 	<key>IDECodeSnippetLanguage</key>

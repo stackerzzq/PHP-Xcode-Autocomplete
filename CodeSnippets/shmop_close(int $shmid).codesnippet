@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>shmop_close ( &lt;#int $shmid#&gt; );</string>
+	<string>shmop_close(&lt;#int $shmid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AEAF68E7-09DE-4C1A-8281-9CB22DA51A58</string>
 	<key>IDECodeSnippetLanguage</key>

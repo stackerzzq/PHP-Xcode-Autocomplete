@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setFillPatternURL ( &lt;#string $fill_url#&gt; );</string>
+	<string>ImagickDraw::setFillPatternURL(&lt;#string $fill_url#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>68A190B0-EB87-473F-AEB4-923EEE6ABA1A</string>
 	<key>IDECodeSnippetLanguage</key>

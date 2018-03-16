@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_connection_busy ( &lt;#resource $connection#&gt; );</string>
+	<string>pg_connection_busy(&lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FA273DD9-0209-4F9B-BF64-DCC76250D58A</string>
 	<key>IDECodeSnippetLanguage</key>

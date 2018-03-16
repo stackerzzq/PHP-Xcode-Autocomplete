@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>token_get_all ( &lt;#string $source#&gt; );</string>
+	<string>token_get_all(&lt;#string $source#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CB44BD6D-5175-4DF0-BFEC-86C86A05C114</string>
 	<key>IDECodeSnippetLanguage</key>

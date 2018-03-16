@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>spl_autoload_extensions ( &lt;#string $file_extensions#&gt; );</string>
+	<string>spl_autoload_extensions(&lt;#string $file_extensions#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C642BACC-127F-49BA-AEA0-939126111F58</string>
 	<key>IDECodeSnippetLanguage</key>

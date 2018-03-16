@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_setfont ( &lt;#resource $psdoc#&gt;, &lt;#int $fontid#&gt;, &lt;#float $size#&gt; );</string>
+	<string>ps_setfont(&lt;#resource $psdoc#&gt;, &lt;#int $fontid#&gt;, &lt;#float $size#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DB32DB25-1929-4AEE-AAA5-0B7F998BECD9</string>
 	<key>IDECodeSnippetLanguage</key>

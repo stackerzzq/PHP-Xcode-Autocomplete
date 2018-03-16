@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_DataFactory::getDataFactory (  );</string>
+	<string>SDO_DAS_DataFactory::getDataFactory();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A9D584A5-415F-46B4-9A02-1A19B1ADBF19</string>
 	<key>IDECodeSnippetLanguage</key>

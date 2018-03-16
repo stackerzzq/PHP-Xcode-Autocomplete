@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDestination::setXYZ ( &lt;#float $left#&gt;, &lt;#float $top#&gt;, &lt;#float $zoom#&gt; );</string>
+	<string>HaruDestination::setXYZ(&lt;#float $left#&gt;, &lt;#float $top#&gt;, &lt;#float $zoom#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BAB8638C-BD60-4036-8EDA-49B739A02DA2</string>
 	<key>IDECodeSnippetLanguage</key>

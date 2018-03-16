@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>multColor ( &lt;#float $red#&gt;, &lt;#float $green#&gt;, &lt;#float $blue#&gt;, &lt;#float $a#&gt; );</string>
+	<string>multColor(&lt;#float $red#&gt;, &lt;#float $green#&gt;, &lt;#float $blue#&gt;, &lt;#float $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6414B53B-78E7-45C6-AD94-EECC63A7200E</string>
 	<key>IDECodeSnippetLanguage</key>

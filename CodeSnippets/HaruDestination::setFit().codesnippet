@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDestination::setFit (  );</string>
+	<string>HaruDestination::setFit();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>78EDDEFA-5D08-434A-82DB-1402C090957A</string>
 	<key>IDECodeSnippetLanguage</key>

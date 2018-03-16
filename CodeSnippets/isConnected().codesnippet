@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>isConnected (  );</string>
+	<string>isConnected();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>60677FAB-74EA-429C-B435-AA3BE19323B4</string>
 	<key>IDECodeSnippetLanguage</key>

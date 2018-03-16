@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_rand_gen_ipoisson ( &lt;#float $mu#&gt; );</string>
+	<string>stats_rand_gen_ipoisson(&lt;#float $mu#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B6FB0E68-9B56-4A11-B7EA-FAC73B64DE35</string>
 	<key>IDECodeSnippetLanguage</key>

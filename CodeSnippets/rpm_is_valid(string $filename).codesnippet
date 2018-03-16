@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>rpm_is_valid ( &lt;#string $filename#&gt; );</string>
+	<string>rpm_is_valid(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>59C5E986-F625-4887-9D2D-9D28DA402FB2</string>
 	<key>IDECodeSnippetLanguage</key>

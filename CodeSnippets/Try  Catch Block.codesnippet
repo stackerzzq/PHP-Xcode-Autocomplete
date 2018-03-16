@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>try {
 	&lt;#!statements!#&gt;
-} catch ( &lt;#exception#&gt; ) {
+} catch(&lt;#exception#&gt;) {
 	&lt;#handler#&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>

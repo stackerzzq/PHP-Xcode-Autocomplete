@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>copy ( &lt;#string $source#&gt;, &lt;#string $dest#&gt;, &lt;#resource $context#&gt; );</string>
+	<string>copy(&lt;#string $source#&gt;, &lt;#string $dest#&gt;, &lt;#resource $context#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F83A2248-498F-4487-A06B-046159D95795</string>
 	<key>IDECodeSnippetLanguage</key>

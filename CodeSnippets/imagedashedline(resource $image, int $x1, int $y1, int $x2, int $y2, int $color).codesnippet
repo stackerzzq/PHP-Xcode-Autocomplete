@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagedashedline ( &lt;#resource $image#&gt;, &lt;#int $x1#&gt;, &lt;#int $y1#&gt;, &lt;#int $x2#&gt;, &lt;#int $y2#&gt;, &lt;#int $color#&gt; );</string>
+	<string>imagedashedline(&lt;#resource $image#&gt;, &lt;#int $x1#&gt;, &lt;#int $y1#&gt;, &lt;#int $x2#&gt;, &lt;#int $y2#&gt;, &lt;#int $color#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B42D3636-A34A-4F86-91F4-AFB5E46CB563</string>
 	<key>IDECodeSnippetLanguage</key>

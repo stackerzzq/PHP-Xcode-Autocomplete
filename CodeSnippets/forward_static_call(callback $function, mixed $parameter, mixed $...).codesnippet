@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>forward_static_call ( &lt;#callback $function#&gt;, &lt;#mixed $parameter#&gt;, &lt;#mixed $...#&gt; );</string>
+	<string>forward_static_call(&lt;#callback $function#&gt;, &lt;#mixed $parameter#&gt;, &lt;#mixed $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4335B926-0ED9-4E76-8559-B6C5BC15AE68</string>
 	<key>IDECodeSnippetLanguage</key>

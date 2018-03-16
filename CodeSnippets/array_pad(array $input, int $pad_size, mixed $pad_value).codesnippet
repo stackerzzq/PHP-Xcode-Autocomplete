@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_pad ( &lt;#array $input#&gt;, &lt;#int $pad_size#&gt;, &lt;#mixed $pad_value#&gt; );</string>
+	<string>array_pad(&lt;#array $input#&gt;, &lt;#int $pad_size#&gt;, &lt;#mixed $pad_value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>47183A52-7EC2-45ED-9A9A-51AD11805479</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>date_default_timezone_get (  );</string>
+	<string>date_default_timezone_get();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>355FBEA4-1D2F-4C4E-9A1D-1ACF1BE8880D</string>
 	<key>IDECodeSnippetLanguage</key>

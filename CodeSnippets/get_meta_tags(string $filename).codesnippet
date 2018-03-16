@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_meta_tags ( &lt;#string $filename#&gt; );</string>
+	<string>get_meta_tags(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>07A3B2C0-1BA9-4FC9-9CD2-EC0302DB6679</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_color_content ( &lt;#int $color#&gt;, &lt;#int &amp;$r#&gt;, &lt;#int &amp;$g#&gt;, &lt;#int &amp;$b#&gt; );</string>
+	<string>ncurses_color_content(&lt;#int $color#&gt;, &lt;#int &amp;$r#&gt;, &lt;#int &amp;$g#&gt;, &lt;#int &amp;$b#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C5A684A5-78C3-4818-862F-C3E75D142460</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>lzf_decompress ( &lt;#string $data#&gt; );</string>
+	<string>lzf_decompress(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9C2FB896-4EF3-40AA-80B6-00C51521AE3D</string>
 	<key>IDECodeSnippetLanguage</key>

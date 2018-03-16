@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>long2ip ( &lt;#string $proper_address#&gt; );</string>
+	<string>long2ip(&lt;#string $proper_address#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC862376-932A-4CC4-BBD6-DB8EB6317576</string>
 	<key>IDECodeSnippetLanguage</key>

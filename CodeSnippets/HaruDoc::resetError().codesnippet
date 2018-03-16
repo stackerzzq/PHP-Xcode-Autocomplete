@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::resetError (  );</string>
+	<string>HaruDoc::resetError();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AD7CE353-8232-4BDE-B6F7-2FE1ED638618</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ovrimos_commit ( &lt;#int $connection_id#&gt; );</string>
+	<string>ovrimos_commit(&lt;#int $connection_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>50FE3C28-2737-4966-932D-C259F17FB1F6</string>
 	<key>IDECodeSnippetLanguage</key>

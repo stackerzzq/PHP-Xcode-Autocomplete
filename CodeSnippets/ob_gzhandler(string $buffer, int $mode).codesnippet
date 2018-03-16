@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ob_gzhandler ( &lt;#string $buffer#&gt;, &lt;#int $mode#&gt; );</string>
+	<string>ob_gzhandler(&lt;#string $buffer#&gt;, &lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1707FC4B-74EB-4186-8265-3621EBE6A2FD</string>
 	<key>IDECodeSnippetLanguage</key>

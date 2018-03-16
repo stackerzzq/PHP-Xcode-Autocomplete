@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>radius_demangle_mppe_key ( &lt;#resource $radius_handle#&gt;, &lt;#string $mangled#&gt; );</string>
+	<string>radius_demangle_mppe_key(&lt;#resource $radius_handle#&gt;, &lt;#string $mangled#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>80C4D323-B0A9-4967-A508-732449697326</string>
 	<key>IDECodeSnippetLanguage</key>

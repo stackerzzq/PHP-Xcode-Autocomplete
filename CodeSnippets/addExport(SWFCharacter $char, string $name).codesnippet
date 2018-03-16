@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>addExport ( &lt;#SWFCharacter $char#&gt;, &lt;#string $name#&gt; );</string>
+	<string>addExport(&lt;#SWFCharacter $char#&gt;, &lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DB113628-1DD0-48D1-B3FE-242C8735393C</string>
 	<key>IDECodeSnippetLanguage</key>

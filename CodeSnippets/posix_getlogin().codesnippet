@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_getlogin (  );</string>
+	<string>posix_getlogin();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3770B528-B8BE-4952-B437-FA464332034F</string>
 	<key>IDECodeSnippetLanguage</key>

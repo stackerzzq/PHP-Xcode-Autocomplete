@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagestringup ( &lt;#resource $image#&gt;, &lt;#int $font#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#string $string#&gt;, &lt;#int $color#&gt; );</string>
+	<string>imagestringup(&lt;#resource $image#&gt;, &lt;#int $font#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#string $string#&gt;, &lt;#int $color#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>73786C8F-D206-4DBF-A166-15D3839F7383</string>
 	<key>IDECodeSnippetLanguage</key>

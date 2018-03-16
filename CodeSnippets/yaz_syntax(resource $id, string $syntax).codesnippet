@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yaz_syntax ( &lt;#resource $id#&gt;, &lt;#string $syntax#&gt; );</string>
+	<string>yaz_syntax(&lt;#resource $id#&gt;, &lt;#string $syntax#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>93EEC1A9-61B0-4AF5-BDE3-339C8752405D</string>
 	<key>IDECodeSnippetLanguage</key>

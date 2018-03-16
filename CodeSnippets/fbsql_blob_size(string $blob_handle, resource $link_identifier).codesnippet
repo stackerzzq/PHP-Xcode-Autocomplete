@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fbsql_blob_size ( &lt;#string $blob_handle#&gt;, &lt;#resource $link_identifier#&gt; );</string>
+	<string>fbsql_blob_size(&lt;#string $blob_handle#&gt;, &lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1747B402-9A49-4ACC-B4A2-EF68F11455E3</string>
 	<key>IDECodeSnippetLanguage</key>

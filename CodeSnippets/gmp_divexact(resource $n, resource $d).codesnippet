@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_divexact ( &lt;#resource $n#&gt;, &lt;#resource $d#&gt; );</string>
+	<string>gmp_divexact(&lt;#resource $n#&gt;, &lt;#resource $d#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1601BA19-0B20-43DF-AC4D-CAB9E4D24A67</string>
 	<key>IDECodeSnippetLanguage</key>

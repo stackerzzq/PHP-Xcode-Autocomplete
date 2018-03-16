@@ -16,7 +16,7 @@
 	  Procedural style
 
 	   bool xmlwriter_end_dtd_entity
-	    ( resource $xmlwriter#&gt; );</string>
+	   (resource $xmlwriter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>391001B5-B736-4838-BCA4-36802CB98C1B</string>
 	<key>IDECodeSnippetLanguage</key>

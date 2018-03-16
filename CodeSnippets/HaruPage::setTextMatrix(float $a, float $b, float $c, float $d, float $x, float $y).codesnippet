@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::setTextMatrix ( &lt;#float $a#&gt;, &lt;#float $b#&gt;, &lt;#float $c#&gt;, &lt;#float $d#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>HaruPage::setTextMatrix(&lt;#float $a#&gt;, &lt;#float $b#&gt;, &lt;#float $c#&gt;, &lt;#float $d#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4739C4C2-87EB-4008-8FCA-BEF15D5548F0</string>
 	<key>IDECodeSnippetLanguage</key>

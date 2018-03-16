@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>runkit_return_value_used (  );</string>
+	<string>runkit_return_value_used();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FB0B5FF3-870C-45B2-8AD3-4D95866010AC</string>
 	<key>IDECodeSnippetLanguage</key>

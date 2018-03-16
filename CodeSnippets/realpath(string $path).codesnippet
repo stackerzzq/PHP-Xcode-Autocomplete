@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>realpath ( &lt;#string $path#&gt; );</string>
+	<string>realpath(&lt;#string $path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8E0DC530-D6E3-481B-8945-FB6ACC0BC472</string>
 	<key>IDECodeSnippetLanguage</key>

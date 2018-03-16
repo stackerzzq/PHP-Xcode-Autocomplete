@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_delete ( &lt;#resource $imap_stream#&gt;, &lt;#int $msg_number#&gt; );</string>
+	<string>imap_delete(&lt;#resource $imap_stream#&gt;, &lt;#int $msg_number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A1E6EADB-5F50-492C-9FF8-BEDDABAAA1A5</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_cdf_exponential ( &lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#int $which#&gt; );</string>
+	<string>stats_cdf_exponential(&lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#int $which#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>35B5C448-59D4-4232-92B4-DB6324F30C98</string>
 	<key>IDECodeSnippetLanguage</key>

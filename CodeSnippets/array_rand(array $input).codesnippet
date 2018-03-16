@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_rand ( &lt;#array $input#&gt; );</string>
+	<string>array_rand(&lt;#array $input#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0CF1F25F-A378-443A-A13C-E63F8110928B</string>
 	<key>IDECodeSnippetLanguage</key>

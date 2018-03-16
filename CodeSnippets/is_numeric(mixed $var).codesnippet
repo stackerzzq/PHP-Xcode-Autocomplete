@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>is_numeric ( &lt;#mixed $var#&gt; );</string>
+	<string>is_numeric(&lt;#mixed $var#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EC169E46-FC82-41AD-9450-E16D9F7261A4</string>
 	<key>IDECodeSnippetLanguage</key>

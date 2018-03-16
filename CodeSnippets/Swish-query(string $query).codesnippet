@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Swish-&gt;query ( &lt;#string $query#&gt; );</string>
+	<string>Swish-&gt;query(&lt;#string $query#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>92FF9D1D-A1DA-4760-9EE9-D9E20C0A509A</string>
 	<key>IDECodeSnippetLanguage</key>

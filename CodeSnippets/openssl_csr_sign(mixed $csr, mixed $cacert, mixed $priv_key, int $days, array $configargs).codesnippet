@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_csr_sign ( &lt;#mixed $csr#&gt;, &lt;#mixed $cacert#&gt;, &lt;#mixed $priv_key#&gt;, &lt;#int $days#&gt;, &lt;#array $configargs#&gt; );</string>
+	<string>openssl_csr_sign(&lt;#mixed $csr#&gt;, &lt;#mixed $cacert#&gt;, &lt;#mixed $priv_key#&gt;, &lt;#int $days#&gt;, &lt;#array $configargs#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B9A51B8C-FD34-4F48-A65B-7F7E1FEED127</string>
 	<key>IDECodeSnippetLanguage</key>

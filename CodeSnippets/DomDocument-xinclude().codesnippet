@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomDocument-&gt;xinclude (  );</string>
+	<string>DomDocument-&gt;xinclude();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D1F6B196-1156-4981-A5E0-6B91FFB6E3C6</string>
 	<key>IDECodeSnippetLanguage</key>

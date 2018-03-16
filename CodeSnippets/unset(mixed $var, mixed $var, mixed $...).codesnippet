@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>unset ( &lt;#mixed $var#&gt;, &lt;#mixed $var#&gt;, &lt;#mixed $...#&gt; );</string>
+	<string>unset(&lt;#mixed $var#&gt;, &lt;#mixed $var#&gt;, &lt;#mixed $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BD4CD5C1-E7BC-4A47-A325-3889C66057BB</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_8bit ( &lt;#string $string#&gt; );</string>
+	<string>imap_8bit(&lt;#string $string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C44C6721-A3FD-4EAE-A329-35E055542A65</string>
 	<key>IDECodeSnippetLanguage</key>

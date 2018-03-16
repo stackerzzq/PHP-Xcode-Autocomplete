@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_pattern_status ( &lt;#CairoPattern $pattern#&gt; );</string>
+	<string>cairo_pattern_status(&lt;#CairoPattern $pattern#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>040B89D4-DD25-4FC6-A5E1-0044DB2EBE6D</string>
 	<key>IDECodeSnippetLanguage</key>

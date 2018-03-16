@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_fontslant ( &lt;#float $slant#&gt; );</string>
+	<string>swf_fontslant(&lt;#float $slant#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D9A909BF-B8E4-4958-AB56-5ADE5812F90F</string>
 	<key>IDECodeSnippetLanguage</key>

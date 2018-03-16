@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::getFont ( &lt;#string $fontname#&gt;, &lt;#string $encoding#&gt; );</string>
+	<string>HaruDoc::getFont(&lt;#string $fontname#&gt;, &lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F1D4AEF8-92B3-402C-A2CB-9B7959241E7B</string>
 	<key>IDECodeSnippetLanguage</key>

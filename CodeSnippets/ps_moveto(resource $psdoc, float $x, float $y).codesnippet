@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_moveto ( &lt;#resource $psdoc#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>ps_moveto(&lt;#resource $psdoc#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DE525067-A043-4519-B00C-466C03154BB7</string>
 	<key>IDECodeSnippetLanguage</key>

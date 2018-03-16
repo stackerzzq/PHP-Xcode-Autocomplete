@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>override_function ( &lt;#string $function_name#&gt;, &lt;#string $function_args#&gt;, &lt;#string $function_code#&gt; );</string>
+	<string>override_function(&lt;#string $function_name#&gt;, &lt;#string $function_args#&gt;, &lt;#string $function_code#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CF35FD66-6479-41BC-9E93-28350EA8ECF4</string>
 	<key>IDECodeSnippetLanguage</key>

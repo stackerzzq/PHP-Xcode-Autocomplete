@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_dens_f ( &lt;#float $x#&gt;, &lt;#float $dfr1#&gt;, &lt;#float $dfr2#&gt; );</string>
+	<string>stats_dens_f(&lt;#float $x#&gt;, &lt;#float $dfr1#&gt;, &lt;#float $dfr2#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AC1EACEA-2210-48D1-B44A-2A0B95576488</string>
 	<key>IDECodeSnippetLanguage</key>

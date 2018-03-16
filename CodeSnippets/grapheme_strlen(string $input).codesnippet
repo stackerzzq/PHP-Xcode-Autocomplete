@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>grapheme_strlen ( &lt;#string $input#&gt; );</string>
+	<string>grapheme_strlen(&lt;#string $input#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>83FFEC0C-0383-43CE-83FF-115D586C7BF9</string>
 	<key>IDECodeSnippetLanguage</key>

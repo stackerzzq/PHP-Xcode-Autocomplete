@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_dens_pmf_poisson ( &lt;#float $x#&gt;, &lt;#float $lb#&gt; );</string>
+	<string>stats_dens_pmf_poisson(&lt;#float $x#&gt;, &lt;#float $lb#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>28F6DD11-697F-461A-B85C-B46E23BAA069</string>
 	<key>IDECodeSnippetLanguage</key>

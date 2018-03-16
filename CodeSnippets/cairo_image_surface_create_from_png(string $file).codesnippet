@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_image_surface_create_from_png ( &lt;#string $file#&gt; );</string>
+	<string>cairo_image_surface_create_from_png(&lt;#string $file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1B96172B-F233-4E06-B4E2-ECC53B8BEFF2</string>
 	<key>IDECodeSnippetLanguage</key>

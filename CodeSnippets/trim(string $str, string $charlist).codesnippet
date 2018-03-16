@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>trim ( &lt;#string $str#&gt;, &lt;#string $charlist#&gt; );</string>
+	<string>trim(&lt;#string $str#&gt;, &lt;#string $charlist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>23467DA3-E560-4B37-81F3-BD86B6F26BBE</string>
 	<key>IDECodeSnippetLanguage</key>

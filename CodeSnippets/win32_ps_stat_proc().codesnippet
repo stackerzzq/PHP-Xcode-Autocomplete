@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>win32_ps_stat_proc (  );</string>
+	<string>win32_ps_stat_proc();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC315EDD-3B7C-4D94-AC5B-3EF71F77EC69</string>
 	<key>IDECodeSnippetLanguage</key>

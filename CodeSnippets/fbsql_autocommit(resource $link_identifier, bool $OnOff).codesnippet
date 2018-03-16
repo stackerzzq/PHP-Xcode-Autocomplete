@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fbsql_autocommit ( &lt;#resource $link_identifier#&gt;, &lt;#bool $OnOff#&gt; );</string>
+	<string>fbsql_autocommit(&lt;#resource $link_identifier#&gt;, &lt;#bool $OnOff#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F47DD08C-7227-4E1E-8E3C-AA9029A2B8CC</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array ( &lt;#mixed $...#&gt; );</string>
+	<string>array(&lt;#mixed $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>18FF5BA9-6802-4A80-B2ED-A6F6804CFC19</string>
 	<key>IDECodeSnippetLanguage</key>

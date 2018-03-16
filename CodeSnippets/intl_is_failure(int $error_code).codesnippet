@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>intl_is_failure ( &lt;#int $error_code#&gt; );</string>
+	<string>intl_is_failure(&lt;#int $error_code#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>547B4D0D-AD31-48BA-9FEB-1658256409EB</string>
 	<key>IDECodeSnippetLanguage</key>

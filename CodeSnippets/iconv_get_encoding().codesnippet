@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iconv_get_encoding (  );</string>
+	<string>iconv_get_encoding();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6EB9B7C1-4599-4685-B20F-2B70577A4998</string>
 	<key>IDECodeSnippetLanguage</key>

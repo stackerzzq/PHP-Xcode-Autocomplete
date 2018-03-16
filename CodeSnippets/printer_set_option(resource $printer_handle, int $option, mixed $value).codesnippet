@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_set_option ( &lt;#resource $printer_handle#&gt;, &lt;#int $option#&gt;, &lt;#mixed $value#&gt; );</string>
+	<string>printer_set_option(&lt;#resource $printer_handle#&gt;, &lt;#int $option#&gt;, &lt;#mixed $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>48F9473E-5406-4FA7-8405-F986944BA2A6</string>
 	<key>IDECodeSnippetLanguage</key>

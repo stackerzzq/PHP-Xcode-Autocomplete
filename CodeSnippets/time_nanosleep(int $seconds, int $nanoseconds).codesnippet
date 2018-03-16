@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>time_nanosleep ( &lt;#int $seconds#&gt;, &lt;#int $nanoseconds#&gt; );</string>
+	<string>time_nanosleep(&lt;#int $seconds#&gt;, &lt;#int $nanoseconds#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E61A7FED-BDBA-4C87-BE96-EA1142A5396D</string>
 	<key>IDECodeSnippetLanguage</key>

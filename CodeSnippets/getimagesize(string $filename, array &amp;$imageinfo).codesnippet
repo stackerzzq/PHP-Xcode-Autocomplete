@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getimagesize ( &lt;#string $filename#&gt;, &lt;#array &amp;$imageinfo#&gt; );</string>
+	<string>getimagesize(&lt;#string $filename#&gt;, &lt;#array &amp;$imageinfo#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ADA65A95-32E7-4A00-B5BF-9E60468456FE</string>
 	<key>IDECodeSnippetLanguage</key>

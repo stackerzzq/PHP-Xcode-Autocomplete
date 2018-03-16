@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setTextAlignment ( &lt;#int $alignment#&gt; );</string>
+	<string>ImagickDraw::setTextAlignment(&lt;#int $alignment#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4EDC2D39-496A-4490-8947-781EDD1A6D59</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setLine ( &lt;#SWFShape $shape#&gt;, &lt;#int $width#&gt;, &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt;, &lt;#int $a#&gt; );</string>
+	<string>setLine(&lt;#SWFShape $shape#&gt;, &lt;#int $width#&gt;, &lt;#int $red#&gt;, &lt;#int $green#&gt;, &lt;#int $blue#&gt;, &lt;#int $a#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BD5B9CDB-6A48-45B8-8F98-16D7B6F577B0</string>
 	<key>IDECodeSnippetLanguage</key>

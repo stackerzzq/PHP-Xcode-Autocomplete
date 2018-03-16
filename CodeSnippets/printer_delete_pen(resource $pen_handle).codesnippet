@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_delete_pen ( &lt;#resource $pen_handle#&gt; );</string>
+	<string>printer_delete_pen(&lt;#resource $pen_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8E09D60C-1C54-43ED-AAD2-F94EDD6FE935</string>
 	<key>IDECodeSnippetLanguage</key>

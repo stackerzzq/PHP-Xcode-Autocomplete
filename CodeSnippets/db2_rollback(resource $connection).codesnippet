@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_rollback ( &lt;#resource $connection#&gt; );</string>
+	<string>db2_rollback(&lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C872FC70-038E-4895-8EAE-F2A2118E1FF5</string>
 	<key>IDECodeSnippetLanguage</key>

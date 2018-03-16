@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_checkbox_set_flags ( &lt;#resource $checkbox#&gt;, &lt;#int $flags#&gt;, &lt;#int $sense#&gt; );</string>
+	<string>newt_checkbox_set_flags(&lt;#resource $checkbox#&gt;, &lt;#int $flags#&gt;, &lt;#int $sense#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D4B065C8-F9BB-4263-8645-6D351905E47E</string>
 	<key>IDECodeSnippetLanguage</key>

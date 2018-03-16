@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_show_boxed ( &lt;#resource $p#&gt;, &lt;#string $text#&gt;, &lt;#float $left#&gt;, &lt;#float $top#&gt;, &lt;#float $width#&gt;, &lt;#float $height#&gt;, &lt;#string $mode#&gt;, &lt;#string $feature#&gt; );</string>
+	<string>PDF_show_boxed(&lt;#resource $p#&gt;, &lt;#string $text#&gt;, &lt;#float $left#&gt;, &lt;#float $top#&gt;, &lt;#float $width#&gt;, &lt;#float $height#&gt;, &lt;#string $mode#&gt;, &lt;#string $feature#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AE34B2FC-3B39-4D8E-84AB-29B1476F03EE</string>
 	<key>IDECodeSnippetLanguage</key>

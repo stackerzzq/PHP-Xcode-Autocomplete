@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_fill_stroke ( &lt;#resource $psdoc#&gt; );</string>
+	<string>ps_fill_stroke(&lt;#resource $psdoc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>43877A32-8065-48F1-B9D0-6A81AAB2ECDD</string>
 	<key>IDECodeSnippetLanguage</key>

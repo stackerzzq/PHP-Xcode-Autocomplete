@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_fetch_row ( &lt;#resource $result_id#&gt;, &lt;#mixed $position#&gt; );</string>
+	<string>ifx_fetch_row(&lt;#resource $result_id#&gt;, &lt;#mixed $position#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AEE8B1CB-BD3E-4B7D-9747-5F722054E1B0</string>
 	<key>IDECodeSnippetLanguage</key>

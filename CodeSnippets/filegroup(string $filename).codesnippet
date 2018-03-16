@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>filegroup ( &lt;#string $filename#&gt; );</string>
+	<string>filegroup(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DBDCDA68-75A6-458F-ACD8-144C13BE7CEE</string>
 	<key>IDECodeSnippetLanguage</key>

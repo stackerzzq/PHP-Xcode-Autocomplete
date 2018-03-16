@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_select_pen ( &lt;#resource $printer_handle#&gt;, &lt;#resource $pen_handle#&gt; );</string>
+	<string>printer_select_pen(&lt;#resource $printer_handle#&gt;, &lt;#resource $pen_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>53FD1C50-3E28-412C-8C02-424FAA5CEF4F</string>
 	<key>IDECodeSnippetLanguage</key>

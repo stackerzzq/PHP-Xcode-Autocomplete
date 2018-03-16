@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>geoip_db_avail ( &lt;#int $database#&gt; );</string>
+	<string>geoip_db_avail(&lt;#int $database#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>936350BD-DB78-4273-BA9A-C2A488F254CD</string>
 	<key>IDECodeSnippetLanguage</key>

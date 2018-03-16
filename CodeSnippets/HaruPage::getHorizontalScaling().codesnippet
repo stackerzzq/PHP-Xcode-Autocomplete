@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getHorizontalScaling (  );</string>
+	<string>HaruPage::getHorizontalScaling();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7444F728-575F-4A77-A69F-D3F316F2E45D</string>
 	<key>IDECodeSnippetLanguage</key>

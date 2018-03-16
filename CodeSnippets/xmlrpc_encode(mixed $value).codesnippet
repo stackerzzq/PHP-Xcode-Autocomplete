@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xmlrpc_encode ( &lt;#mixed $value#&gt; );</string>
+	<string>xmlrpc_encode(&lt;#mixed $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>78464BE8-BA60-4B0D-8497-7DB30C9C95F5</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>utf8_decode ( &lt;#string $data#&gt; );</string>
+	<string>utf8_decode(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>87D396A9-480D-4BB5-897B-7646DFCD4FBD</string>
 	<key>IDECodeSnippetLanguage</key>

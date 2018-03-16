@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>radius_cvt_addr ( &lt;#string $data#&gt; );</string>
+	<string>radius_cvt_addr(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B77B111F-00D7-4994-A774-E67331B60BD5</string>
 	<key>IDECodeSnippetLanguage</key>

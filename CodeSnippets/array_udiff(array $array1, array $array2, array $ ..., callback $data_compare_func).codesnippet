@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_udiff ( &lt;#array $array1#&gt;, &lt;#array $array2#&gt;, &lt;#array $ ...#&gt;, &lt;#callback $data_compare_func#&gt; );</string>
+	<string>array_udiff(&lt;#array $array1#&gt;, &lt;#array $array2#&gt;, &lt;#array $ ...#&gt;, &lt;#callback $data_compare_func#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0BDB5B1D-385A-46F1-AD2E-9DDAE4999F1E</string>
 	<key>IDECodeSnippetLanguage</key>

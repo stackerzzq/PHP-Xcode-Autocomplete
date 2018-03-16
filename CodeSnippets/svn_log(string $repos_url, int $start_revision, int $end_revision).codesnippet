@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_log ( &lt;#string $repos_url#&gt;, &lt;#int $start_revision#&gt;, &lt;#int $end_revision#&gt; );</string>
+	<string>svn_log(&lt;#string $repos_url#&gt;, &lt;#int $start_revision#&gt;, &lt;#int $end_revision#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>13BEEA09-42C1-4022-B530-77AB227D468C</string>
 	<key>IDECodeSnippetLanguage</key>

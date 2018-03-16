@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_rollback ( &lt;#resource $connection#&gt; );</string>
+	<string>oci_rollback(&lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>52FA6913-B904-433D-8EE8-30AED5779BD7</string>
 	<key>IDECodeSnippetLanguage</key>

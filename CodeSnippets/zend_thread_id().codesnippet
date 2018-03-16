@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>zend_thread_id (  );</string>
+	<string>zend_thread_id();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC23EF40-4EBB-4DC9-9C70-D66AB64BAAA0</string>
 	<key>IDECodeSnippetLanguage</key>

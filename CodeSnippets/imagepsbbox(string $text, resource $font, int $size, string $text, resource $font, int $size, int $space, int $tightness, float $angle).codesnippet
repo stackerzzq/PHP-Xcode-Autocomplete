@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagepsbbox ( &lt;#string $text#&gt;, &lt;#resource $font#&gt;, &lt;#int $size#&gt;, &lt;#string $text#&gt;, &lt;#resource $font#&gt;, &lt;#int $size#&gt;, &lt;#int $space#&gt;, &lt;#int $tightness#&gt;, &lt;#float $angle#&gt; );</string>
+	<string>imagepsbbox(&lt;#string $text#&gt;, &lt;#resource $font#&gt;, &lt;#int $size#&gt;, &lt;#string $text#&gt;, &lt;#resource $font#&gt;, &lt;#int $size#&gt;, &lt;#int $space#&gt;, &lt;#int $tightness#&gt;, &lt;#float $angle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A098C450-4584-42AA-A8C9-BD7B10DBCC0B</string>
 	<key>IDECodeSnippetLanguage</key>

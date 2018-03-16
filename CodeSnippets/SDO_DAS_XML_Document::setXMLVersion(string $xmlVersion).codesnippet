@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_XML_Document::setXMLVersion ( &lt;#string $xmlVersion#&gt; );</string>
+	<string>SDO_DAS_XML_Document::setXMLVersion(&lt;#string $xmlVersion#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>069F9044-E5F7-43A9-A406-6918379CF880</string>
 	<key>IDECodeSnippetLanguage</key>

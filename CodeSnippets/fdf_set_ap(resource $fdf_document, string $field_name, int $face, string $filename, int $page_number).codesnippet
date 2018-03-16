@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_set_ap ( &lt;#resource $fdf_document#&gt;, &lt;#string $field_name#&gt;, &lt;#int $face#&gt;, &lt;#string $filename#&gt;, &lt;#int $page_number#&gt; );</string>
+	<string>fdf_set_ap(&lt;#resource $fdf_document#&gt;, &lt;#string $field_name#&gt;, &lt;#int $face#&gt;, &lt;#string $filename#&gt;, &lt;#int $page_number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A983472D-C96C-446E-9680-1652F9815400</string>
 	<key>IDECodeSnippetLanguage</key>

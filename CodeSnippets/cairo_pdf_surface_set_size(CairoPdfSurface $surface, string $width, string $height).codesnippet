@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_pdf_surface_set_size ( &lt;#CairoPdfSurface $surface#&gt;, &lt;#string $width#&gt;, &lt;#string $height#&gt; );</string>
+	<string>cairo_pdf_surface_set_size(&lt;#CairoPdfSurface $surface#&gt;, &lt;#string $width#&gt;, &lt;#string $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F42251AC-5573-478F-BC93-89051C8E1707</string>
 	<key>IDECodeSnippetLanguage</key>

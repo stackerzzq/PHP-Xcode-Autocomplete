@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_set_file ( &lt;#resource $fdf_document#&gt;, &lt;#string $url#&gt;, &lt;#string $target_frame#&gt; );</string>
+	<string>fdf_set_file(&lt;#resource $fdf_document#&gt;, &lt;#string $url#&gt;, &lt;#string $target_frame#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D80BE4B2-7E89-48D2-A751-2C0E57FABFCD</string>
 	<key>IDECodeSnippetLanguage</key>

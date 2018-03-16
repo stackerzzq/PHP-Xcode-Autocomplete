@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_lineto ( &lt;#resource $p#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>PDF_lineto(&lt;#resource $p#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>45FE6736-8A8D-4366-8787-D8B826E953D3</string>
 	<key>IDECodeSnippetLanguage</key>

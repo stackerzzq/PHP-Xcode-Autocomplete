@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>radius_get_vendor_attr ( &lt;#string $data#&gt; );</string>
+	<string>radius_get_vendor_attr(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2A214249-3A77-4D19-9E0E-68CA98D6E7D1</string>
 	<key>IDECodeSnippetLanguage</key>

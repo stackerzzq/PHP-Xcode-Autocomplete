@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>wincache_ocache_fileinfo (  );</string>
+	<string>wincache_ocache_fileinfo();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>767CBC8D-2D90-4632-993C-8887BFFD86DC</string>
 	<key>IDECodeSnippetLanguage</key>

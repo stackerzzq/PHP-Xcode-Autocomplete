@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_Model_Property::getName (  );</string>
+	<string>SDO_Model_Property::getName();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>25908D75-FF5D-4F64-9BD0-2A5C73F3F070</string>
 	<key>IDECodeSnippetLanguage</key>

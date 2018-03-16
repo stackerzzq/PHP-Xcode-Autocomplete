@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_setssl ( &lt;#resource $conn#&gt;, &lt;#string $host#&gt;, &lt;#int $port#&gt; );</string>
+	<string>m_setssl(&lt;#resource $conn#&gt;, &lt;#string $host#&gt;, &lt;#int $port#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0A72225E-2161-4831-9CE7-A1E1380B0E0F</string>
 	<key>IDECodeSnippetLanguage</key>

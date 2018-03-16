@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>assign ( &lt;#OCI-Collection $from#&gt; );</string>
+	<string>assign(&lt;#OCI-Collection $from#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5B2C5519-4363-4E78-B7DD-D90C81FD139C</string>
 	<key>IDECodeSnippetLanguage</key>

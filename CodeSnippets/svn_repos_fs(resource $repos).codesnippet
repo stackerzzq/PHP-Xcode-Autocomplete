@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_repos_fs ( &lt;#resource $repos#&gt; );</string>
+	<string>svn_repos_fs(&lt;#resource $repos#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B43C37A0-D9E8-453D-9A1F-39162A086AD8</string>
 	<key>IDECodeSnippetLanguage</key>

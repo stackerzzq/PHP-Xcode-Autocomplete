@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_new (  );</string>
+	<string>ps_new();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A0DBCD38-A3DF-45B8-9F65-C462626E4680</string>
 	<key>IDECodeSnippetLanguage</key>

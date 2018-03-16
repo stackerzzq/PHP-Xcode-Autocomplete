@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>spl_autoload_register ( &lt;#callback $autoload_function#&gt; );</string>
+	<string>spl_autoload_register(&lt;#callback $autoload_function#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>19F4EDCD-4435-47FD-9839-D9E9C880ACC0</string>
 	<key>IDECodeSnippetLanguage</key>

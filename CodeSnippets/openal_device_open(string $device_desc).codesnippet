@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openal_device_open ( &lt;#string $device_desc#&gt; );</string>
+	<string>openal_device_open(&lt;#string $device_desc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>98850E28-5B16-4B5B-81F6-35981F2EE03F</string>
 	<key>IDECodeSnippetLanguage</key>

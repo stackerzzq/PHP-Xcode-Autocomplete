@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>radius_send_request ( &lt;#resource $radius_handle#&gt; );</string>
+	<string>radius_send_request(&lt;#resource $radius_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DF37A644-2F1D-46F5-85CE-7CD4A8EBC812</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hexdec ( &lt;#string $hex_string#&gt; );</string>
+	<string>hexdec(&lt;#string $hex_string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5801A2CA-7F90-4A5F-8CF5-F05D2FF51D38</string>
 	<key>IDECodeSnippetLanguage</key>

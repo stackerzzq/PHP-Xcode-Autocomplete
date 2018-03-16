@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gzrewind ( &lt;#resource $zp#&gt; );</string>
+	<string>gzrewind(&lt;#resource $zp#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>91D08624-DAEA-4E60-B44D-AEC7A855F047</string>
 	<key>IDECodeSnippetLanguage</key>

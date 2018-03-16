@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>php_sapi_name (  );</string>
+	<string>php_sapi_name();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8F33574F-53E9-4835-B94F-EAA8821E9236</string>
 	<key>IDECodeSnippetLanguage</key>

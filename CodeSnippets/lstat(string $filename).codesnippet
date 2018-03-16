@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>lstat ( &lt;#string $filename#&gt; );</string>
+	<string>lstat(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E700F8A2-F71A-4DD5-852B-C7BDD0D6EA56</string>
 	<key>IDECodeSnippetLanguage</key>

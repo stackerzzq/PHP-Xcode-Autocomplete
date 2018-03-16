@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_blob_get ( &lt;#resource $blob_handle#&gt;, &lt;#int $len#&gt; );</string>
+	<string>ibase_blob_get(&lt;#resource $blob_handle#&gt;, &lt;#int $len#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>60138FFD-EBC0-4164-90A1-946DC6ACCAA4</string>
 	<key>IDECodeSnippetLanguage</key>

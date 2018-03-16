@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bzerrno ( &lt;#resource $bz#&gt; );</string>
+	<string>bzerrno(&lt;#resource $bz#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3E5A7EA8-087E-47F6-A936-C4A7951DEF0E</string>
 	<key>IDECodeSnippetLanguage</key>

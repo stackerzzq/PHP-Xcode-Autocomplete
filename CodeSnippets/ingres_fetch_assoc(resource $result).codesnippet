@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ingres_fetch_assoc ( &lt;#resource $result#&gt; );</string>
+	<string>ingres_fetch_assoc(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E533805B-0E6E-4981-9F30-1D1AEBC586E1</string>
 	<key>IDECodeSnippetLanguage</key>

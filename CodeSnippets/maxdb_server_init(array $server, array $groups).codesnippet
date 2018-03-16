@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_server_init ( &lt;#array $server#&gt;, &lt;#array $groups#&gt; );</string>
+	<string>maxdb_server_init(&lt;#array $server#&gt;, &lt;#array $groups#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BFC71BD2-56FB-4F31-AF3F-21B12AB9CDAB</string>
 	<key>IDECodeSnippetLanguage</key>

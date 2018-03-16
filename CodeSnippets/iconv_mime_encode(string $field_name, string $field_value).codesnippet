@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iconv_mime_encode ( &lt;#string $field_name#&gt;, &lt;#string $field_value#&gt; );</string>
+	<string>iconv_mime_encode(&lt;#string $field_name#&gt;, &lt;#string $field_value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>498F9F81-5D22-417C-907F-8506552D451C</string>
 	<key>IDECodeSnippetLanguage</key>

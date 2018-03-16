@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>curl_multi_add_handle ( &lt;#resource $mh#&gt;, &lt;#resource $ch#&gt; );</string>
+	<string>curl_multi_add_handle(&lt;#resource $mh#&gt;, &lt;#resource $ch#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B45B6D8F-48D5-4D56-AD4F-2B7E83A40851</string>
 	<key>IDECodeSnippetLanguage</key>

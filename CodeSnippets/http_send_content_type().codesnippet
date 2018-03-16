@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_send_content_type (  );</string>
+	<string>http_send_content_type();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A6FE710E-D05E-4623-BD8A-6AB304960EB3</string>
 	<key>IDECodeSnippetLanguage</key>

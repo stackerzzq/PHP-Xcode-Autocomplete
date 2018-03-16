@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iterator_apply ( &lt;#Traversable $iterator#&gt;, &lt;#callback $function#&gt;, &lt;#array $args#&gt; );</string>
+	<string>iterator_apply(&lt;#Traversable $iterator#&gt;, &lt;#callback $function#&gt;, &lt;#array $args#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DA4C4823-6E62-48B8-9570-BDCBA14DC022</string>
 	<key>IDECodeSnippetLanguage</key>

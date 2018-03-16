@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>zend_version (  );</string>
+	<string>zend_version();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>16960518-F026-44CD-A417-D9CA30AB24CF</string>
 	<key>IDECodeSnippetLanguage</key>

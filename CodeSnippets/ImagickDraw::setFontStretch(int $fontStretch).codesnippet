@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setFontStretch ( &lt;#int $fontStretch#&gt; );</string>
+	<string>ImagickDraw::setFontStretch(&lt;#int $fontStretch#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4466AB71-759F-40BD-A45E-9A448B28660A</string>
 	<key>IDECodeSnippetLanguage</key>

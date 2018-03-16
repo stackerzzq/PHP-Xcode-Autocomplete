@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::getCurrentEncoder (  );</string>
+	<string>HaruDoc::getCurrentEncoder();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C499473C-2F49-4B56-BF2C-EEDA41C37C88</string>
 	<key>IDECodeSnippetLanguage</key>

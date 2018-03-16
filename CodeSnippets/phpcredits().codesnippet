@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>phpcredits (  );</string>
+	<string>phpcredits();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E1209796-AAE3-4807-BA60-4E2E050936CA</string>
 	<key>IDECodeSnippetLanguage</key>

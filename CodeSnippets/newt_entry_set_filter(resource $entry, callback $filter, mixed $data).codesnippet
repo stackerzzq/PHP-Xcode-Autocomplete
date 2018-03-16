@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_entry_set_filter ( &lt;#resource $entry#&gt;, &lt;#callback $filter#&gt;, &lt;#mixed $data#&gt; );</string>
+	<string>newt_entry_set_filter(&lt;#resource $entry#&gt;, &lt;#callback $filter#&gt;, &lt;#mixed $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>53ACE550-A5A6-420B-85A0-07A0FD81683F</string>
 	<key>IDECodeSnippetLanguage</key>

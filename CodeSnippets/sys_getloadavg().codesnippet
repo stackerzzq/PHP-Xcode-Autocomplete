@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sys_getloadavg (  );</string>
+	<string>sys_getloadavg();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9C431CF3-0D22-4AC9-B88E-D14CD320B899</string>
 	<key>IDECodeSnippetLanguage</key>

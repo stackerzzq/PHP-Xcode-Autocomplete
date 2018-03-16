@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_kill ( &lt;#int $pid#&gt;, &lt;#int $sig#&gt; );</string>
+	<string>posix_kill(&lt;#int $pid#&gt;, &lt;#int $sig#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6C986480-92BC-4811-9913-4E763212129D</string>
 	<key>IDECodeSnippetLanguage</key>

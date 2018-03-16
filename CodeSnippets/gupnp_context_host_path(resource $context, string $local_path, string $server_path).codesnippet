@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_context_host_path ( &lt;#resource $context#&gt;, &lt;#string $local_path#&gt;, &lt;#string $server_path#&gt; );</string>
+	<string>gupnp_context_host_path(&lt;#resource $context#&gt;, &lt;#string $local_path#&gt;, &lt;#string $server_path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>74417144-80F3-42FE-9547-8EFCFB90F61C</string>
 	<key>IDECodeSnippetLanguage</key>

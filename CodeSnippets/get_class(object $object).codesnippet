@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_class ( &lt;#object $object#&gt; );</string>
+	<string>get_class(&lt;#object $object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>09D23468-16AB-42BD-BB5F-57C358B0B8C6</string>
 	<key>IDECodeSnippetLanguage</key>

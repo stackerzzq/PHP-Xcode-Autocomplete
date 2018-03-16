@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>com_print_typeinfo ( &lt;#object $comobject#&gt;, &lt;#string $dispinterface#&gt;, &lt;#bool $wantsink#&gt; );</string>
+	<string>com_print_typeinfo(&lt;#object $comobject#&gt;, &lt;#string $dispinterface#&gt;, &lt;#bool $wantsink#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9C028C0F-1008-4A73-A04E-F477B973B450</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>odbc_fetch_row ( &lt;#resource $result_id#&gt;, &lt;#int $row_number#&gt; );</string>
+	<string>odbc_fetch_row(&lt;#resource $result_id#&gt;, &lt;#int $row_number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>335F99F4-ABB8-461F-94A8-F15A64806A17</string>
 	<key>IDECodeSnippetLanguage</key>

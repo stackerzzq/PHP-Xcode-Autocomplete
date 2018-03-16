@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_context_set_default ( &lt;#array $options#&gt; );</string>
+	<string>stream_context_set_default(&lt;#array $options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A010E99F-282C-4458-91EC-24EA4146F978</string>
 	<key>IDECodeSnippetLanguage</key>

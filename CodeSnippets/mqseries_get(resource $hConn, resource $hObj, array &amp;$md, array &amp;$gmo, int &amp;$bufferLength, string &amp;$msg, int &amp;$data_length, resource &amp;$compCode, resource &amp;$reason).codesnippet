@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mqseries_get ( &lt;#resource $hConn#&gt;, &lt;#resource $hObj#&gt;, &lt;#array &amp;$md#&gt;, &lt;#array &amp;$gmo#&gt;, &lt;#int &amp;$bufferLength#&gt;, &lt;#string &amp;$msg#&gt;, &lt;#int &amp;$data_length#&gt;, &lt;#resource &amp;$compCode#&gt;, &lt;#resource &amp;$reason#&gt; );</string>
+	<string>mqseries_get(&lt;#resource $hConn#&gt;, &lt;#resource $hObj#&gt;, &lt;#array &amp;$md#&gt;, &lt;#array &amp;$gmo#&gt;, &lt;#int &amp;$bufferLength#&gt;, &lt;#string &amp;$msg#&gt;, &lt;#int &amp;$data_length#&gt;, &lt;#resource &amp;$compCode#&gt;, &lt;#resource &amp;$reason#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2EB107CF-65A6-4C34-A02F-D2B5DD5B8CAF</string>
 	<key>IDECodeSnippetLanguage</key>

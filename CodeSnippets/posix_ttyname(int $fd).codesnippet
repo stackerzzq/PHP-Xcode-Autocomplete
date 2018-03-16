@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_ttyname ( &lt;#int $fd#&gt; );</string>
+	<string>posix_ttyname(&lt;#int $fd#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>50AB94D4-5134-40DC-A2DA-196CB3CAEDBA</string>
 	<key>IDECodeSnippetLanguage</key>

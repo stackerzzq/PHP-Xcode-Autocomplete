@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_putp ( &lt;#string $text#&gt; );</string>
+	<string>ncurses_putp(&lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>08120D14-8963-4BA3-9F87-CBD3DEB2E50B</string>
 	<key>IDECodeSnippetLanguage</key>

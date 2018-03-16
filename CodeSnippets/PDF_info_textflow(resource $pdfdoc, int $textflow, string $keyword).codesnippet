@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_info_textflow ( &lt;#resource $pdfdoc#&gt;, &lt;#int $textflow#&gt;, &lt;#string $keyword#&gt; );</string>
+	<string>PDF_info_textflow(&lt;#resource $pdfdoc#&gt;, &lt;#int $textflow#&gt;, &lt;#string $keyword#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3FACC794-01FA-4F22-94FB-A31EBAC48376</string>
 	<key>IDECodeSnippetLanguage</key>

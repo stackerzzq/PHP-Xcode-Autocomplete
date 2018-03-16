@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomNode-&gt;replace_child ( &lt;#domelement $newnode#&gt;, &lt;#domelement $oldnode#&gt; );</string>
+	<string>DomNode-&gt;replace_child(&lt;#domelement $newnode#&gt;, &lt;#domelement $oldnode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>14DE9759-AFF5-4478-9717-3BDD12E84267</string>
 	<key>IDECodeSnippetLanguage</key>

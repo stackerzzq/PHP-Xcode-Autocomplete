@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::compareImageChannels ( &lt;#Imagick $image#&gt;, &lt;#int $channelType#&gt;, &lt;#int $metricType#&gt; );</string>
+	<string>Imagick::compareImageChannels(&lt;#Imagick $image#&gt;, &lt;#int $channelType#&gt;, &lt;#int $metricType#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C7944085-3614-4761-880F-8E3F1E9FB1A9</string>
 	<key>IDECodeSnippetLanguage</key>

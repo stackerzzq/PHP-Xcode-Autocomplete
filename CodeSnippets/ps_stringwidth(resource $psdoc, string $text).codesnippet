@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_stringwidth ( &lt;#resource $psdoc#&gt;, &lt;#string $text#&gt; );</string>
+	<string>ps_stringwidth(&lt;#resource $psdoc#&gt;, &lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FA96BD01-2846-4A2E-9498-6735DD639E98</string>
 	<key>IDECodeSnippetLanguage</key>

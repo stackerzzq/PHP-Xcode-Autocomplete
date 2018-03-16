@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagegrabscreen (  );</string>
+	<string>imagegrabscreen();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6C4BC81D-0316-4651-8E85-5D621244770A</string>
 	<key>IDECodeSnippetLanguage</key>

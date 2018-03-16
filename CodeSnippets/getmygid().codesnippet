@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getmygid (  );</string>
+	<string>getmygid();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>90E620D3-9398-4823-8051-345F9F30091E</string>
 	<key>IDECodeSnippetLanguage</key>

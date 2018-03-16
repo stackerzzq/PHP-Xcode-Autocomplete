@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ZipArchive::statName ( &lt;#name $name#&gt;, &lt;#int $flags#&gt; );</string>
+	<string>ZipArchive::statName(&lt;#name $name#&gt;, &lt;#int $flags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4C4F6E56-EAF9-4D17-B967-5306273D23A2</string>
 	<key>IDECodeSnippetLanguage</key>

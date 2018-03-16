@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>has_attribute ( &lt;#string $name#&gt; );</string>
+	<string>has_attribute(&lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6A787803-B526-4C8A-A1CC-1312FF2BD3D8</string>
 	<key>IDECodeSnippetLanguage</key>

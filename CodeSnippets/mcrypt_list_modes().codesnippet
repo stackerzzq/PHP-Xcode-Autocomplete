@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mcrypt_list_modes (  );</string>
+	<string>mcrypt_list_modes();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CD672DD8-6721-4F6F-98C3-E89E8886C984</string>
 	<key>IDECodeSnippetLanguage</key>

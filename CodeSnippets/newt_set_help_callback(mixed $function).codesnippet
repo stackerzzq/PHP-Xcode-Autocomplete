@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_set_help_callback ( &lt;#mixed $function#&gt; );</string>
+	<string>newt_set_help_callback(&lt;#mixed $function#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1F59BCD9-F436-46A5-8EA5-4D057B12CFAC</string>
 	<key>IDECodeSnippetLanguage</key>

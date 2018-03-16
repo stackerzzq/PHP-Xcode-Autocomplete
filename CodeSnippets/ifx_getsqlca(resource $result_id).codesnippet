@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ifx_getsqlca ( &lt;#resource $result_id#&gt; );</string>
+	<string>ifx_getsqlca(&lt;#resource $result_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>104CB849-C9E8-4BD8-882B-AA5AC0051593</string>
 	<key>IDECodeSnippetLanguage</key>

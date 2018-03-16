@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::transverseImage (  );</string>
+	<string>Imagick::transverseImage();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1870B27A-A3D7-462E-ADC5-1851589381CF</string>
 	<key>IDECodeSnippetLanguage</key>

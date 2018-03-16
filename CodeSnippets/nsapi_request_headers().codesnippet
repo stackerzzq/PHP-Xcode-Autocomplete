@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>nsapi_request_headers (  );</string>
+	<string>nsapi_request_headers();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0AFB1BEA-B6AF-4AAD-8512-EE19B78C7B5F</string>
 	<key>IDECodeSnippetLanguage</key>

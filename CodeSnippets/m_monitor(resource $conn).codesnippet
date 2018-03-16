@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_monitor ( &lt;#resource $conn#&gt; );</string>
+	<string>m_monitor(&lt;#resource $conn#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DE6D36EA-901C-4015-8C56-9B56702D0E3C</string>
 	<key>IDECodeSnippetLanguage</key>

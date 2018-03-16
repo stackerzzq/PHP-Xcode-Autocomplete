@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruImage::getColorSpace (  );</string>
+	<string>HaruImage::getColorSpace();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>42AC206F-9B3E-469B-860B-7E20240A354A</string>
 	<key>IDECodeSnippetLanguage</key>

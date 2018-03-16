@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openal_context_destroy ( &lt;#resource $context#&gt; );</string>
+	<string>openal_context_destroy(&lt;#resource $context#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1157F6FB-3ACE-4B41-A45B-CE1F5BB0F629</string>
 	<key>IDECodeSnippetLanguage</key>

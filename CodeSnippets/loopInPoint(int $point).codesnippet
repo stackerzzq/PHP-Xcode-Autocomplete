@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>loopInPoint ( &lt;#int $point#&gt; );</string>
+	<string>loopInPoint(&lt;#int $point#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F50DDBE5-E760-453A-86C4-10E6E7C58B26</string>
 	<key>IDECodeSnippetLanguage</key>

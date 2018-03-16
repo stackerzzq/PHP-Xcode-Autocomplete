@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>socket_connect ( &lt;#resource $socket#&gt;, &lt;#string $address#&gt; );</string>
+	<string>socket_connect(&lt;#resource $socket#&gt;, &lt;#string $address#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>85015D44-4FF9-444B-BD39-A3B381CFE72A</string>
 	<key>IDECodeSnippetLanguage</key>

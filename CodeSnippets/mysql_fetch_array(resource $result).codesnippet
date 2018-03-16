@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysql_fetch_array ( &lt;#resource $result#&gt; );</string>
+	<string>mysql_fetch_array(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>61CC16C2-02FF-4F2C-81DB-ADD806EF0A2D</string>
 	<key>IDECodeSnippetLanguage</key>

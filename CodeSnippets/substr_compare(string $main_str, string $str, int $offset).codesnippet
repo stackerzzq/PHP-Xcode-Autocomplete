@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>substr_compare ( &lt;#string $main_str#&gt;, &lt;#string $str#&gt;, &lt;#int $offset#&gt; );</string>
+	<string>substr_compare(&lt;#string $main_str#&gt;, &lt;#string $str#&gt;, &lt;#int $offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3F27A2A6-E5E5-496C-8BA9-BA6AD579557E</string>
 	<key>IDECodeSnippetLanguage</key>

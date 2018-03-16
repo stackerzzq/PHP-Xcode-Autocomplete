@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>strpbrk ( &lt;#string $haystack#&gt;, &lt;#string $char_list#&gt; );</string>
+	<string>strpbrk(&lt;#string $haystack#&gt;, &lt;#string $char_list#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5CFDE446-C8F2-4FA1-868B-90CC336A9EB1</string>
 	<key>IDECodeSnippetLanguage</key>

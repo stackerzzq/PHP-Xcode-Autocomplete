@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>snmpwalk ( &lt;#string $hostname#&gt;, &lt;#string $community#&gt;, &lt;#string $object_id#&gt;, &lt;#int $timeout#&gt;, &lt;#int $retries#&gt; );</string>
+	<string>snmpwalk(&lt;#string $hostname#&gt;, &lt;#string $community#&gt;, &lt;#string $object_id#&gt;, &lt;#int $timeout#&gt;, &lt;#int $retries#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2D97DC47-EF2A-44E6-9B57-35DE68AA88B9</string>
 	<key>IDECodeSnippetLanguage</key>

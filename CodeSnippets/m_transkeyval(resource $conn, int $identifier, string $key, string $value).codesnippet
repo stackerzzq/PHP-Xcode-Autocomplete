@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_transkeyval ( &lt;#resource $conn#&gt;, &lt;#int $identifier#&gt;, &lt;#string $key#&gt;, &lt;#string $value#&gt; );</string>
+	<string>m_transkeyval(&lt;#resource $conn#&gt;, &lt;#int $identifier#&gt;, &lt;#string $key#&gt;, &lt;#string $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA4DC0D0-0CB7-4945-AC73-994B4B5DB93E</string>
 	<key>IDECodeSnippetLanguage</key>

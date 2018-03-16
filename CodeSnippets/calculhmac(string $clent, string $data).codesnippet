@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>calculhmac ( &lt;#string $clent#&gt;, &lt;#string $data#&gt; );</string>
+	<string>calculhmac(&lt;#string $clent#&gt;, &lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4BDF2965-4365-4A14-9BCC-8293B2E3A1C1</string>
 	<key>IDECodeSnippetLanguage</key>

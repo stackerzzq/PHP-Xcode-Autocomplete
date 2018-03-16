@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yaz_ccl_parse ( &lt;#resource $id#&gt;, &lt;#string $query#&gt;, &lt;#array &amp;$result#&gt; );</string>
+	<string>yaz_ccl_parse(&lt;#resource $id#&gt;, &lt;#string $query#&gt;, &lt;#array &amp;$result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E5892F78-7DAD-4A12-9797-92E7D06895A2</string>
 	<key>IDECodeSnippetLanguage</key>

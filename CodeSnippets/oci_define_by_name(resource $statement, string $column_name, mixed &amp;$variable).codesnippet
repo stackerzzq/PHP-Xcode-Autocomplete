@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_define_by_name ( &lt;#resource $statement#&gt;, &lt;#string $column_name#&gt;, &lt;#mixed &amp;$variable#&gt; );</string>
+	<string>oci_define_by_name(&lt;#resource $statement#&gt;, &lt;#string $column_name#&gt;, &lt;#mixed &amp;$variable#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>13911E16-55A7-4C0C-8BEF-8B3AF8DB5A1B</string>
 	<key>IDECodeSnippetLanguage</key>

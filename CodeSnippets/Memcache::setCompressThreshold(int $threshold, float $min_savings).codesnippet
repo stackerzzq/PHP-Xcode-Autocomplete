@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Memcache::setCompressThreshold ( &lt;#int $threshold#&gt;, &lt;#float $min_savings#&gt; );</string>
+	<string>Memcache::setCompressThreshold(&lt;#int $threshold#&gt;, &lt;#float $min_savings#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E7CB55BD-758A-478E-9B97-1B7776BC4585</string>
 	<key>IDECodeSnippetLanguage</key>

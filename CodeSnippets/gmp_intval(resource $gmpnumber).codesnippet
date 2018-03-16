@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_intval ( &lt;#resource $gmpnumber#&gt; );</string>
+	<string>gmp_intval(&lt;#resource $gmpnumber#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>06363D4F-6A31-4ADD-9266-95FA66CCEC3A</string>
 	<key>IDECodeSnippetLanguage</key>

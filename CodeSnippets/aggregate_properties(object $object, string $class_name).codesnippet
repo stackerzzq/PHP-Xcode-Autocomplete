@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>aggregate_properties ( &lt;#object $object#&gt;, &lt;#string $class_name#&gt; );</string>
+	<string>aggregate_properties(&lt;#object $object#&gt;, &lt;#string $class_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0164E8E4-6886-43A0-A699-7FB8E009492A</string>
 	<key>IDECodeSnippetLanguage</key>

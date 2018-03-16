@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>public_id (  );</string>
+	<string>public_id();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>94F9561F-6A48-418C-8F92-24345DB67B56</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bson_decode ( &lt;#string $bson#&gt; );</string>
+	<string>bson_decode(&lt;#string $bson#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DEAF6973-0C74-4CCB-9B35-1CB2D9326AB3</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SwishResults-&gt;getParsedWords ( &lt;#string $index_name#&gt; );</string>
+	<string>SwishResults-&gt;getParsedWords(&lt;#string $index_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0A1FBB66-BD29-4B26-A018-626AD58A6167</string>
 	<key>IDECodeSnippetLanguage</key>

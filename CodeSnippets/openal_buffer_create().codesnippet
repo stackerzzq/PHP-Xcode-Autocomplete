@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openal_buffer_create (  );</string>
+	<string>openal_buffer_create();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5E2741EF-4563-4A0E-8E18-D7F683F6DEFE</string>
 	<key>IDECodeSnippetLanguage</key>

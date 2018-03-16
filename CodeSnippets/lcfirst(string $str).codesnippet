@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>lcfirst ( &lt;#string $str#&gt; );</string>
+	<string>lcfirst(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4793A19A-4429-4C1C-9485-09E7002CEEC8</string>
 	<key>IDECodeSnippetLanguage</key>

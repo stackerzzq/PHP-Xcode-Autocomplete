@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomNode-&gt;remove_child ( &lt;#domtext $oldchild#&gt; );</string>
+	<string>DomNode-&gt;remove_child(&lt;#domtext $oldchild#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>09236AED-9819-4627-99D0-BFA2AF782F67</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_sign ( &lt;#string $data#&gt;, &lt;#string &amp;$signature#&gt;, &lt;#mixed $priv_key_id#&gt; );</string>
+	<string>openssl_sign(&lt;#string $data#&gt;, &lt;#string &amp;$signature#&gt;, &lt;#mixed $priv_key_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9CBFA121-2784-442A-A715-DDAC473AB3B2</string>
 	<key>IDECodeSnippetLanguage</key>

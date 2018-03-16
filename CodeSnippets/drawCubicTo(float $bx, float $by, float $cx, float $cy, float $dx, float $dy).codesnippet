@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>drawCubicTo ( &lt;#float $bx#&gt;, &lt;#float $by#&gt;, &lt;#float $cx#&gt;, &lt;#float $cy#&gt;, &lt;#float $dx#&gt;, &lt;#float $dy#&gt; );</string>
+	<string>drawCubicTo(&lt;#float $bx#&gt;, &lt;#float $by#&gt;, &lt;#float $cx#&gt;, &lt;#float $cy#&gt;, &lt;#float $dx#&gt;, &lt;#float $dy#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5C7DB60C-972E-4A76-A0B9-9EC8EA2A01CE</string>
 	<key>IDECodeSnippetLanguage</key>

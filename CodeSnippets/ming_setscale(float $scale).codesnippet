@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ming_setscale ( &lt;#float $scale#&gt; );</string>
+	<string>ming_setscale(&lt;#float $scale#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2F57AAD1-BE8A-40AA-8246-75BEFB176026</string>
 	<key>IDECodeSnippetLanguage</key>

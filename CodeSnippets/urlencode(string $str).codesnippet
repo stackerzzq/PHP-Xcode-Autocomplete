@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>urlencode ( &lt;#string $str#&gt; );</string>
+	<string>urlencode(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DE958068-B81D-4DAD-AC5E-CD18626D7403</string>
 	<key>IDECodeSnippetLanguage</key>

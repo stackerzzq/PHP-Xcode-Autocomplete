@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_dens_pmf_hypergeometric ( &lt;#float $n1#&gt;, &lt;#float $n2#&gt;, &lt;#float $N1#&gt;, &lt;#float $N2#&gt; );</string>
+	<string>stats_dens_pmf_hypergeometric(&lt;#float $n1#&gt;, &lt;#float $n2#&gt;, &lt;#float $N1#&gt;, &lt;#float $N2#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3F983697-E114-494F-A9E1-1D4AAF174595</string>
 	<key>IDECodeSnippetLanguage</key>

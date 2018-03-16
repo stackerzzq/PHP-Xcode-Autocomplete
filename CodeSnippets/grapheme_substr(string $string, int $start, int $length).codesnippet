@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>grapheme_substr ( &lt;#string $string#&gt;, &lt;#int $start#&gt;, &lt;#int $length#&gt; );</string>
+	<string>grapheme_substr(&lt;#string $string#&gt;, &lt;#int $start#&gt;, &lt;#int $length#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DBA77DA6-D19E-4E3A-8819-75532298E779</string>
 	<key>IDECodeSnippetLanguage</key>

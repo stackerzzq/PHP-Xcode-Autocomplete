@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bbcode_parse ( &lt;#resource $bbcode_container#&gt;, &lt;#string $to_parse#&gt; );</string>
+	<string>bbcode_parse(&lt;#resource $bbcode_container#&gt;, &lt;#string $to_parse#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2E8DACCC-1CEB-442A-95B1-9EC295E37032</string>
 	<key>IDECodeSnippetLanguage</key>

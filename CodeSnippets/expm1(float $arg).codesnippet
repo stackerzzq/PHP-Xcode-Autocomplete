@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>expm1 ( &lt;#float $arg#&gt; );</string>
+	<string>expm1(&lt;#float $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>283CBEE8-1FB9-4C2E-AFED-82F93126F004</string>
 	<key>IDECodeSnippetLanguage</key>

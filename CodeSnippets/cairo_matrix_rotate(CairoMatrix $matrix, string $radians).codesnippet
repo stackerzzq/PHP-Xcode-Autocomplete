@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_matrix_rotate ( &lt;#CairoMatrix $matrix#&gt;, &lt;#string $radians#&gt; );</string>
+	<string>cairo_matrix_rotate(&lt;#CairoMatrix $matrix#&gt;, &lt;#string $radians#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D5C15495-E229-429C-9835-FD79E03F968E</string>
 	<key>IDECodeSnippetLanguage</key>

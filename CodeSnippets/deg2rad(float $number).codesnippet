@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>deg2rad ( &lt;#float $number#&gt; );</string>
+	<string>deg2rad(&lt;#float $number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>77CBA658-0490-447C-A299-6EC17D80464A</string>
 	<key>IDECodeSnippetLanguage</key>

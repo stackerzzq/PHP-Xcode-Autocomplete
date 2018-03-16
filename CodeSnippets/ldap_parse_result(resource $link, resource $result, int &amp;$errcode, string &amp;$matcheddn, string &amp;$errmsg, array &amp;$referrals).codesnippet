@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_parse_result ( &lt;#resource $link#&gt;, &lt;#resource $result#&gt;, &lt;#int &amp;$errcode#&gt;, &lt;#string &amp;$matcheddn#&gt;, &lt;#string &amp;$errmsg#&gt;, &lt;#array &amp;$referrals#&gt; );</string>
+	<string>ldap_parse_result(&lt;#resource $link#&gt;, &lt;#resource $result#&gt;, &lt;#int &amp;$errcode#&gt;, &lt;#string &amp;$matcheddn#&gt;, &lt;#string &amp;$errmsg#&gt;, &lt;#array &amp;$referrals#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>99871AF1-D342-4B01-87F9-8F5138590A1E</string>
 	<key>IDECodeSnippetLanguage</key>

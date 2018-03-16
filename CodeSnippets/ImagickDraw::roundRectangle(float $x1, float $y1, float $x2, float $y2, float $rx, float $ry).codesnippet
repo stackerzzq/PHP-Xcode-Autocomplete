@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::roundRectangle ( &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $rx#&gt;, &lt;#float $ry#&gt; );</string>
+	<string>ImagickDraw::roundRectangle(&lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $rx#&gt;, &lt;#float $ry#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9A621D8D-E622-4DF6-9DAC-E7488C1A8AD4</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagecharup ( &lt;#resource $image#&gt;, &lt;#int $font#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#string $c#&gt;, &lt;#int $color#&gt; );</string>
+	<string>imagecharup(&lt;#resource $image#&gt;, &lt;#int $font#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;, &lt;#string $c#&gt;, &lt;#int $color#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C2A76DF6-672D-480F-9C4B-5F2915ECC9F6</string>
 	<key>IDECodeSnippetLanguage</key>

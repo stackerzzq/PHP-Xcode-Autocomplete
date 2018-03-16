@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequestPool::__destruct (  );</string>
+	<string>HttpRequestPool::__destruct();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D38CBFAD-92C0-4C1E-9114-7DD34B024E07</string>
 	<key>IDECodeSnippetLanguage</key>

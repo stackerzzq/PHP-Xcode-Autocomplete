@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_blame ( &lt;#string $repository_url#&gt; );</string>
+	<string>svn_blame(&lt;#string $repository_url#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>68050A99-C184-4C45-BB4B-121B9285CEC0</string>
 	<key>IDECodeSnippetLanguage</key>

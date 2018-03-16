@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_Sequence::getProperty ( &lt;#int $sequence_index#&gt; );</string>
+	<string>SDO_Sequence::getProperty(&lt;#int $sequence_index#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6BC020DE-CBEF-4EE6-ADF3-2D902AEC5665</string>
 	<key>IDECodeSnippetLanguage</key>

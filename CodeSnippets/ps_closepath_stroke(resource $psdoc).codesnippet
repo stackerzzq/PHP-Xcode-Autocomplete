@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_closepath_stroke ( &lt;#resource $psdoc#&gt; );</string>
+	<string>ps_closepath_stroke(&lt;#resource $psdoc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C7FC16AE-9618-45C4-9CE4-B165D2027B7E</string>
 	<key>IDECodeSnippetLanguage</key>

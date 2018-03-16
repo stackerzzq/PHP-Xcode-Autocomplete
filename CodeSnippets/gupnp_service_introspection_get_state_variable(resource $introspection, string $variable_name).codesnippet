@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_service_introspection_get_state_variable ( &lt;#resource $introspection#&gt;, &lt;#string $variable_name#&gt; );</string>
+	<string>gupnp_service_introspection_get_state_variable(&lt;#resource $introspection#&gt;, &lt;#string $variable_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>79BE0DE8-3D39-4B4C-9CDC-89B1767D8E89</string>
 	<key>IDECodeSnippetLanguage</key>

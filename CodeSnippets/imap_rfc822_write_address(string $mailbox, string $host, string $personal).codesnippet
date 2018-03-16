@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_rfc822_write_address ( &lt;#string $mailbox#&gt;, &lt;#string $host#&gt;, &lt;#string $personal#&gt; );</string>
+	<string>imap_rfc822_write_address(&lt;#string $mailbox#&gt;, &lt;#string $host#&gt;, &lt;#string $personal#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>187617FB-60E0-4E5C-B054-1AA467725A89</string>
 	<key>IDECodeSnippetLanguage</key>

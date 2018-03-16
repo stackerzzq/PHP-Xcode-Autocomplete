@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xslt_set_error_handler ( &lt;#resource $xh#&gt;, &lt;#mixed $handler#&gt;, &lt;#resource $xh#&gt;, &lt;#int $error_level#&gt;, &lt;#int $error_code#&gt;, &lt;#array $messages#&gt; );</string>
+	<string>xslt_set_error_handler(&lt;#resource $xh#&gt;, &lt;#mixed $handler#&gt;, &lt;#resource $xh#&gt;, &lt;#int $error_level#&gt;, &lt;#int $error_code#&gt;, &lt;#array $messages#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CC711EA8-6C59-41F8-993E-6ECB8B4C7D67</string>
 	<key>IDECodeSnippetLanguage</key>

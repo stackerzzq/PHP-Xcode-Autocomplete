@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_error ( &lt;#resource $resource#&gt; );</string>
+	<string>oci_error(&lt;#resource $resource#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3C35B9E7-3609-4AB0-B468-0CC2B5C2AC93</string>
 	<key>IDECodeSnippetLanguage</key>

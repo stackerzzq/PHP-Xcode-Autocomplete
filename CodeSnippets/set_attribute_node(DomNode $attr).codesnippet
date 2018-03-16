@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>set_attribute_node ( &lt;#DomNode $attr#&gt; );</string>
+	<string>set_attribute_node(&lt;#DomNode $attr#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>12242F75-50DF-40B7-985E-BE20B8000268</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::loadRaw ( &lt;#string $filename#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $color_space#&gt; );</string>
+	<string>HaruDoc::loadRaw(&lt;#string $filename#&gt;, &lt;#int $width#&gt;, &lt;#int $height#&gt;, &lt;#int $color_space#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>21A96E5C-91BC-4C76-A4CA-A780AFF2C9D0</string>
 	<key>IDECodeSnippetLanguage</key>

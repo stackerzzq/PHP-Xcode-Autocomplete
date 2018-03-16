@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::popDefs (  );</string>
+	<string>ImagickDraw::popDefs();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>68982D6E-C83D-45D2-B80F-14770BBFA671</string>
 	<key>IDECodeSnippetLanguage</key>

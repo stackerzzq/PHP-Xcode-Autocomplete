@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>win32_set_service_status ( &lt;#int $status#&gt; );</string>
+	<string>win32_set_service_status(&lt;#int $status#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>92838296-9A4E-4608-B1FF-CDE49E55B4A2</string>
 	<key>IDECodeSnippetLanguage</key>

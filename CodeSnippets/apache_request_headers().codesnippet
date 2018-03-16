@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apache_request_headers (  );</string>
+	<string>apache_request_headers();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>47BD57CA-41D7-49B2-971E-03A4BC952897</string>
 	<key>IDECodeSnippetLanguage</key>

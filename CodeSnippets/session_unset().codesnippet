@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_unset (  );</string>
+	<string>session_unset();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3094F4D1-2F15-4465-B136-CBAE248BC26A</string>
 	<key>IDECodeSnippetLanguage</key>

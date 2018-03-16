@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagesetbrush ( &lt;#resource $image#&gt;, &lt;#resource $brush#&gt; );</string>
+	<string>imagesetbrush(&lt;#resource $image#&gt;, &lt;#resource $brush#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7DD39541-CA6F-45DE-9428-EFC0F9994D63</string>
 	<key>IDECodeSnippetLanguage</key>

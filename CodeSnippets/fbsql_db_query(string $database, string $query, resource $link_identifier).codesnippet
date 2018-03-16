@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fbsql_db_query ( &lt;#string $database#&gt;, &lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt; );</string>
+	<string>fbsql_db_query(&lt;#string $database#&gt;, &lt;#string $query#&gt;, &lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>880204C1-69E3-4253-BF34-1FDD8DF5335F</string>
 	<key>IDECodeSnippetLanguage</key>

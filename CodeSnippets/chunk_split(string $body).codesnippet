@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>chunk_split ( &lt;#string $body#&gt; );</string>
+	<string>chunk_split(&lt;#string $body#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>572B97A9-2A5D-46F0-8C13-B4C0E6398950</string>
 	<key>IDECodeSnippetLanguage</key>

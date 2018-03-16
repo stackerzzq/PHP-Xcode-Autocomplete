@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagetypes (  );</string>
+	<string>imagetypes();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DFE8E8C1-14F2-4C76-B1EA-F61FA7039534</string>
 	<key>IDECodeSnippetLanguage</key>

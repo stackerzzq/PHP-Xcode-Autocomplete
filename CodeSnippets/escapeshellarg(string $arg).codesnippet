@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>escapeshellarg ( &lt;#string $arg#&gt; );</string>
+	<string>escapeshellarg(&lt;#string $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E9EAF5EA-D235-4C27-AA19-468D0EAFFB2E</string>
 	<key>IDECodeSnippetLanguage</key>

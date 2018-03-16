@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_request_body_encode ( &lt;#array $fields#&gt;, &lt;#array $files#&gt; );</string>
+	<string>http_request_body_encode(&lt;#array $fields#&gt;, &lt;#array $files#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A5BB6984-4D7F-4247-8F1D-24D37E5A4324</string>
 	<key>IDECodeSnippetLanguage</key>

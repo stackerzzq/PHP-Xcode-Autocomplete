@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_start_page ( &lt;#resource $printer_handle#&gt; );</string>
+	<string>printer_start_page(&lt;#resource $printer_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>54C75C92-1396-4CE8-8964-7B6AA8B51BCA</string>
 	<key>IDECodeSnippetLanguage</key>

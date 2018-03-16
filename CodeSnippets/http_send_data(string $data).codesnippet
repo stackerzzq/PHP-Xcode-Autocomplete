@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_send_data ( &lt;#string $data#&gt; );</string>
+	<string>http_send_data(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A466818E-490C-4891-A6DA-83559F5D7E92</string>
 	<key>IDECodeSnippetLanguage</key>

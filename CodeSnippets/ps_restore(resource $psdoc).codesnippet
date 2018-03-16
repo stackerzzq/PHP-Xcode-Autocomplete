@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_restore ( &lt;#resource $psdoc#&gt; );</string>
+	<string>ps_restore(&lt;#resource $psdoc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4B89590D-65FA-4885-90E8-3DD8650848B4</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>startAttributeNS ( &lt;#string $prefix#&gt;, &lt;#string $name#&gt;, &lt;#string $uri#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#string $prefix#&gt;, &lt;#string $name#&gt;, &lt;#string $uri#&gt; );</string>
+	<string>startAttributeNS(&lt;#string $prefix#&gt;, &lt;#string $name#&gt;, &lt;#string $uri#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#string $prefix#&gt;, &lt;#string $name#&gt;, &lt;#string $uri#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>184DA7EA-F330-4FFF-94C1-5B57E1742FFD</string>
 	<key>IDECodeSnippetLanguage</key>

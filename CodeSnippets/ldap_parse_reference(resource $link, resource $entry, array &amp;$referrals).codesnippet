@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_parse_reference ( &lt;#resource $link#&gt;, &lt;#resource $entry#&gt;, &lt;#array &amp;$referrals#&gt; );</string>
+	<string>ldap_parse_reference(&lt;#resource $link#&gt;, &lt;#resource $entry#&gt;, &lt;#array &amp;$referrals#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>91CEF270-24B2-451F-8BFC-D6CEF2F2ED47</string>
 	<key>IDECodeSnippetLanguage</key>

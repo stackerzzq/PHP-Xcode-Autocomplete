@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequestPool::socketSelect (  );</string>
+	<string>HttpRequestPool::socketSelect();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FBCE1FC1-3F0E-4FCB-9E95-147433FDD27B</string>
 	<key>IDECodeSnippetLanguage</key>

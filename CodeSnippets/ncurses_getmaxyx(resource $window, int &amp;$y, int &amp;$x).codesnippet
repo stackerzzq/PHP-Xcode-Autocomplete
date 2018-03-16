@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_getmaxyx ( &lt;#resource $window#&gt;, &lt;#int &amp;$y#&gt;, &lt;#int &amp;$x#&gt; );</string>
+	<string>ncurses_getmaxyx(&lt;#resource $window#&gt;, &lt;#int &amp;$y#&gt;, &lt;#int &amp;$x#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>83C4C698-486C-4462-8111-0E6712EC447D</string>
 	<key>IDECodeSnippetLanguage</key>

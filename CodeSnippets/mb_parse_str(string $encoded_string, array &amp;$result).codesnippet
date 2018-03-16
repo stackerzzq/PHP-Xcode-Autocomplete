@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_parse_str ( &lt;#string $encoded_string#&gt;, &lt;#array &amp;$result#&gt; );</string>
+	<string>mb_parse_str(&lt;#string $encoded_string#&gt;, &lt;#array &amp;$result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EDD4FFE7-C47E-46DB-BA7F-75A9737B5D4E</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>w32api_init_dtype ( &lt;#string $typename#&gt;, &lt;#mixed $value#&gt;, &lt;#mixed $...#&gt; );</string>
+	<string>w32api_init_dtype(&lt;#string $typename#&gt;, &lt;#mixed $value#&gt;, &lt;#mixed $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AB680FAD-E8AB-413F-A36D-14E4A85820D3</string>
 	<key>IDECodeSnippetLanguage</key>

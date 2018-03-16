@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setImageBorderColor ( &lt;#mixed $border#&gt; );</string>
+	<string>Imagick::setImageBorderColor(&lt;#mixed $border#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>37A4846A-F664-4681-8913-F9BDB883C923</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setFillAlpha ( &lt;#float $opacity#&gt; );</string>
+	<string>ImagickDraw::setFillAlpha(&lt;#float $opacity#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4E86BB76-3059-4E47-978B-CA09FE07FC4A</string>
 	<key>IDECodeSnippetLanguage</key>

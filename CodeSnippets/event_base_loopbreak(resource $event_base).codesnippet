@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>event_base_loopbreak ( &lt;#resource $event_base#&gt; );</string>
+	<string>event_base_loopbreak(&lt;#resource $event_base#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0DA76156-E390-4E78-82F9-42D0A7A6AC8A</string>
 	<key>IDECodeSnippetLanguage</key>

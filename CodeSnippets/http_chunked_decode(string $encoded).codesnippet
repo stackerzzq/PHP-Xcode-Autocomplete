@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_chunked_decode ( &lt;#string $encoded#&gt; );</string>
+	<string>http_chunked_decode(&lt;#string $encoded#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7FDAE801-7BE4-4F0A-9381-2CBCFE5F4810</string>
 	<key>IDECodeSnippetLanguage</key>

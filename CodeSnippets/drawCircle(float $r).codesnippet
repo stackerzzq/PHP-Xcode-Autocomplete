@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>drawCircle ( &lt;#float $r#&gt; );</string>
+	<string>drawCircle(&lt;#float $r#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5B039B65-EA4D-4D5F-999A-181256820121</string>
 	<key>IDECodeSnippetLanguage</key>

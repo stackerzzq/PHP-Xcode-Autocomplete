@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sybase_min_server_severity ( &lt;#int $severity#&gt; );</string>
+	<string>sybase_min_server_severity(&lt;#int $severity#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A34B889C-DCFF-4122-9A5A-057ACE0F686A</string>
 	<key>IDECodeSnippetLanguage</key>

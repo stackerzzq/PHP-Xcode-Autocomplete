@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpMessage::getParentMessage (  );</string>
+	<string>HttpMessage::getParentMessage();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B5FD0382-8280-4191-9B26-E4F35CB15300</string>
 	<key>IDECodeSnippetLanguage</key>

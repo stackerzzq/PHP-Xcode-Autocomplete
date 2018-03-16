@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>qdom_error (  );</string>
+	<string>qdom_error();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>68EF7832-D782-4C9A-9B98-ACBA946A11CE</string>
 	<key>IDECodeSnippetLanguage</key>

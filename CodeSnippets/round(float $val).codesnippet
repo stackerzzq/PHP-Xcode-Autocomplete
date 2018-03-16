@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>round ( &lt;#float $val#&gt; );</string>
+	<string>round(&lt;#float $val#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BE3718E7-3D60-47E1-8FF8-5FF16E09FAC6</string>
 	<key>IDECodeSnippetLanguage</key>

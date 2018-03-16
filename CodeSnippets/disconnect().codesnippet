@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>disconnect (  );</string>
+	<string>disconnect();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8D64D4C4-B13D-4064-842F-8CA7ABD89094</string>
 	<key>IDECodeSnippetLanguage</key>

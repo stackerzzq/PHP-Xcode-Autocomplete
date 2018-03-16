@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>com_get_active_object ( &lt;#string $progid#&gt;, &lt;#int $code_page#&gt; );</string>
+	<string>com_get_active_object(&lt;#string $progid#&gt;, &lt;#int $code_page#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D431BB87-F8C2-4AD9-BC7A-9BAB92A2C5D8</string>
 	<key>IDECodeSnippetLanguage</key>

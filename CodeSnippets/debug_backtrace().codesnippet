@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>debug_backtrace (  );</string>
+	<string>debug_backtrace();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CC67965E-896A-4D36-8D88-BCF4849009CC</string>
 	<key>IDECodeSnippetLanguage</key>

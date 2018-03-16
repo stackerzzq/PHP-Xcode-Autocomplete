@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>domxml_open_file ( &lt;#string $filename#&gt;, &lt;#int $mode#&gt;, &lt;#array &amp;$error#&gt; );</string>
+	<string>domxml_open_file(&lt;#string $filename#&gt;, &lt;#int $mode#&gt;, &lt;#array &amp;$error#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A88CF360-7EA5-414F-9FC7-B3B74B021E55</string>
 	<key>IDECodeSnippetLanguage</key>

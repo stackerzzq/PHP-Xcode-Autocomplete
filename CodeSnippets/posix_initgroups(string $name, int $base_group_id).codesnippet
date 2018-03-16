@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_initgroups ( &lt;#string $name#&gt;, &lt;#int $base_group_id#&gt; );</string>
+	<string>posix_initgroups(&lt;#string $name#&gt;, &lt;#int $base_group_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BC98062E-E53C-4076-89BD-9B302DC5472C</string>
 	<key>IDECodeSnippetLanguage</key>

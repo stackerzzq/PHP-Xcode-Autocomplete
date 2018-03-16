@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_fs_youngest_rev ( &lt;#resource $fs#&gt; );</string>
+	<string>svn_fs_youngest_rev(&lt;#resource $fs#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DA68315B-7746-406C-B3F9-A36AB011A5E3</string>
 	<key>IDECodeSnippetLanguage</key>

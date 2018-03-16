@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_getyx ( &lt;#resource $window#&gt;, &lt;#int &amp;$y#&gt;, &lt;#int &amp;$x#&gt; );</string>
+	<string>ncurses_getyx(&lt;#resource $window#&gt;, &lt;#int &amp;$y#&gt;, &lt;#int &amp;$x#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9C568552-3B33-44DD-BE28-91B8833A1DBE</string>
 	<key>IDECodeSnippetLanguage</key>

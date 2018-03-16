@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_rsecindex ( &lt;#resource $relation#&gt;, &lt;#mixed $domlist#&gt;, &lt;#int $type#&gt; );</string>
+	<string>dbplus_rsecindex(&lt;#resource $relation#&gt;, &lt;#mixed $domlist#&gt;, &lt;#int $type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E214727B-2EC5-4D0B-8D50-910EA1BECCFF</string>
 	<key>IDECodeSnippetLanguage</key>

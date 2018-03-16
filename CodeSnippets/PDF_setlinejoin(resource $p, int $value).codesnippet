@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_setlinejoin ( &lt;#resource $p#&gt;, &lt;#int $value#&gt; );</string>
+	<string>PDF_setlinejoin(&lt;#resource $p#&gt;, &lt;#int $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CCCAAA2C-4155-45FE-B41B-A70E2BAA200B</string>
 	<key>IDECodeSnippetLanguage</key>

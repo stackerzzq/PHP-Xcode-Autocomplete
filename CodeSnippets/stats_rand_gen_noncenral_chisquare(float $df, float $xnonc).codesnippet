@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_rand_gen_noncenral_chisquare ( &lt;#float $df#&gt;, &lt;#float $xnonc#&gt; );</string>
+	<string>stats_rand_gen_noncenral_chisquare(&lt;#float $df#&gt;, &lt;#float $xnonc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BB4DE754-C129-4A8F-987D-D1ED3B19C434</string>
 	<key>IDECodeSnippetLanguage</key>

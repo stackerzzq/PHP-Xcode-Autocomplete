@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>socket_sendto ( &lt;#resource $socket#&gt;, &lt;#string $buf#&gt;, &lt;#int $len#&gt;, &lt;#int $flags#&gt;, &lt;#string $addr#&gt; );</string>
+	<string>socket_sendto(&lt;#resource $socket#&gt;, &lt;#string $buf#&gt;, &lt;#int $len#&gt;, &lt;#int $flags#&gt;, &lt;#string $addr#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AB808029-EC0B-446A-B64E-903BC86F8064</string>
 	<key>IDECodeSnippetLanguage</key>

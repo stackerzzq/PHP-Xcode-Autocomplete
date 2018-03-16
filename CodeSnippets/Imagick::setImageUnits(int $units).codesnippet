@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setImageUnits ( &lt;#int $units#&gt; );</string>
+	<string>Imagick::setImageUnits(&lt;#int $units#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3ADF05B1-63D8-4BB6-8387-417107B0763B</string>
 	<key>IDECodeSnippetLanguage</key>

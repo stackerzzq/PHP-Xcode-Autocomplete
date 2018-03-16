@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::pathCurveToQuadraticBezierRelative ( &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>ImagickDraw::pathCurveToQuadraticBezierRelative(&lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3A3FB218-E746-40E6-863B-09512AB4B706</string>
 	<key>IDECodeSnippetLanguage</key>

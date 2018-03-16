@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::blurImage ( &lt;#float $radius#&gt;, &lt;#float $sigma#&gt;, &lt;#int $channel#&gt; );</string>
+	<string>Imagick::blurImage(&lt;#float $radius#&gt;, &lt;#float $sigma#&gt;, &lt;#int $channel#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C74A06E2-83E8-4CF0-B5C6-691619A7E0BC</string>
 	<key>IDECodeSnippetLanguage</key>

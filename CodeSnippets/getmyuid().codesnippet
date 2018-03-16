@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getmyuid (  );</string>
+	<string>getmyuid();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CCE9D906-CCA7-4A27-A029-ED8B13BA5471</string>
 	<key>IDECodeSnippetLanguage</key>

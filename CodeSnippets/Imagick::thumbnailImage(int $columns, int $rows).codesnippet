@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::thumbnailImage ( &lt;#int $columns#&gt;, &lt;#int $rows#&gt; );</string>
+	<string>Imagick::thumbnailImage(&lt;#int $columns#&gt;, &lt;#int $rows#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1D0AA769-EB45-4134-BCF3-1E4B1D1BF150</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_show_xy2 ( &lt;#resource $psdoc#&gt;, &lt;#string $text#&gt;, &lt;#int $len#&gt;, &lt;#float $xcoor#&gt;, &lt;#float $ycoor#&gt; );</string>
+	<string>ps_show_xy2(&lt;#resource $psdoc#&gt;, &lt;#string $text#&gt;, &lt;#int $len#&gt;, &lt;#float $xcoor#&gt;, &lt;#float $ycoor#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>37B37DE4-9364-4778-9BB0-464AE46BB408</string>
 	<key>IDECodeSnippetLanguage</key>

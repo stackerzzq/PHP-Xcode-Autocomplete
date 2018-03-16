@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>juliantojd ( &lt;#int $month#&gt;, &lt;#int $day#&gt;, &lt;#int $year#&gt; );</string>
+	<string>juliantojd(&lt;#int $month#&gt;, &lt;#int $day#&gt;, &lt;#int $year#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ACF5F12B-77D6-478E-A14C-EDD7E2ED9059</string>
 	<key>IDECodeSnippetLanguage</key>

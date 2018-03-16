@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DataFactory::create ( &lt;#string $type_namespace_uri#&gt;, &lt;#string $type_name#&gt; );</string>
+	<string>SDO_DataFactory::create(&lt;#string $type_namespace_uri#&gt;, &lt;#string $type_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FE730DBD-40EF-4947-BC29-4842E104D26E</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gc_collect_cycles (  );</string>
+	<string>gc_collect_cycles();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5B23A182-B7A4-4D49-BA7B-09BB91FA53C9</string>
 	<key>IDECodeSnippetLanguage</key>

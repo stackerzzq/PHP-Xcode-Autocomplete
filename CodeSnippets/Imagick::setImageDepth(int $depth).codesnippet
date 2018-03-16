@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setImageDepth ( &lt;#int $depth#&gt; );</string>
+	<string>Imagick::setImageDepth(&lt;#int $depth#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3554BE53-9635-45B8-B376-947E791FF166</string>
 	<key>IDECodeSnippetLanguage</key>

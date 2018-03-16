@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>remove ( &lt;#object $instance#&gt; );</string>
+	<string>remove(&lt;#object $instance#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7D4BADE1-ACE7-47EB-9E75-5B4774F8AD34</string>
 	<key>IDECodeSnippetLanguage</key>

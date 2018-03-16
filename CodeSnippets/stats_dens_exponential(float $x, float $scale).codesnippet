@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_dens_exponential ( &lt;#float $x#&gt;, &lt;#float $scale#&gt; );</string>
+	<string>stats_dens_exponential(&lt;#float $x#&gt;, &lt;#float $scale#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BB99421E-D79F-44B4-8379-78A85638DE39</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickPixelIterator::setIteratorFirstRow (  );</string>
+	<string>ImagickPixelIterator::setIteratorFirstRow();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7E9D4358-6D49-4FD8-A900-39E2EF95B03C</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_end_glyph ( &lt;#resource $pdfdoc#&gt; );</string>
+	<string>PDF_end_glyph(&lt;#resource $pdfdoc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C50CD04A-571A-4652-BCBF-488CEB722756</string>
 	<key>IDECodeSnippetLanguage</key>

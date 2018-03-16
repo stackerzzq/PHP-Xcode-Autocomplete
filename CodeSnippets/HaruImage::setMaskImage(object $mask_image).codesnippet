@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruImage::setMaskImage ( &lt;#object $mask_image#&gt; );</string>
+	<string>HaruImage::setMaskImage(&lt;#object $mask_image#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B533836F-DC3F-4482-94E3-0344C822D70B</string>
 	<key>IDECodeSnippetLanguage</key>

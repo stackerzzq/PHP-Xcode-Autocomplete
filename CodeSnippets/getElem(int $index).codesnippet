@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getElem ( &lt;#int $index#&gt; );</string>
+	<string>getElem(&lt;#int $index#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>483A2F44-857E-4B41-9EC9-1DCD5880330C</string>
 	<key>IDECodeSnippetLanguage</key>

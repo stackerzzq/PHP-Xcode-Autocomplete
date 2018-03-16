@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruEncoder::getWritingMode (  );</string>
+	<string>HaruEncoder::getWritingMode();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3DCE809A-1DB1-4A03-BDCF-FC853B877940</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_regex_encoding ( &lt;#string $encoding#&gt; );</string>
+	<string>mb_regex_encoding(&lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2D3472BC-F292-4DB8-9CE2-209AE534ACBD</string>
 	<key>IDECodeSnippetLanguage</key>

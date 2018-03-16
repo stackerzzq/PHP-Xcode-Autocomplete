@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_substr_count ( &lt;#string $haystack#&gt;, &lt;#string $needle#&gt;, &lt;#string $encoding#&gt; );</string>
+	<string>mb_substr_count(&lt;#string $haystack#&gt;, &lt;#string $needle#&gt;, &lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8CE8D62D-148C-46EB-93F4-7A21CD988A3C</string>
 	<key>IDECodeSnippetLanguage</key>

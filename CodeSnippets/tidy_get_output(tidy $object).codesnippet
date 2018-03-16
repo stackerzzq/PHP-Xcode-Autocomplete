@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>tidy_get_output ( &lt;#tidy $object#&gt; );</string>
+	<string>tidy_get_output(&lt;#tidy $object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E18FD80D-2EB7-45F5-9581-C54B726251D0</string>
 	<key>IDECodeSnippetLanguage</key>

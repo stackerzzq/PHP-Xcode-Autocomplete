@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_affected_rows ( &lt;#resource $result#&gt; );</string>
+	<string>pg_affected_rows(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>375CD5EC-2A70-4A3C-9EF1-1E4538B81DEF</string>
 	<key>IDECodeSnippetLanguage</key>

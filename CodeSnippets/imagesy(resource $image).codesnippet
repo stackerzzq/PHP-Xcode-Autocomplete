@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagesy ( &lt;#resource $image#&gt; );</string>
+	<string>imagesy(&lt;#resource $image#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>57D1AAA6-EBBA-4454-9C00-89F4B60E0E13</string>
 	<key>IDECodeSnippetLanguage</key>

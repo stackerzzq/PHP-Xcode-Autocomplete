@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_grid_v_close_stacked ( &lt;#int $element1_type#&gt;, &lt;#resource $element1#&gt;, &lt;#int $...#&gt;, &lt;#resource $...#&gt; );</string>
+	<string>newt_grid_v_close_stacked(&lt;#int $element1_type#&gt;, &lt;#resource $element1#&gt;, &lt;#int $...#&gt;, &lt;#resource $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1D4ED190-4CB7-4E72-97F2-35FDEDBCE97D</string>
 	<key>IDECodeSnippetLanguage</key>

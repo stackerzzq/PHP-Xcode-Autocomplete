@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gnupg_encryptsign ( &lt;#resource $identifier#&gt;, &lt;#string $plaintext#&gt; );</string>
+	<string>gnupg_encryptsign(&lt;#resource $identifier#&gt;, &lt;#string $plaintext#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B70F7858-6F85-4591-BAF7-2FEC91828E11</string>
 	<key>IDECodeSnippetLanguage</key>

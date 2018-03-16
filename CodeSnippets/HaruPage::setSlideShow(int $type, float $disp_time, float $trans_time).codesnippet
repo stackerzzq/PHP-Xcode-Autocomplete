@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::setSlideShow ( &lt;#int $type#&gt;, &lt;#float $disp_time#&gt;, &lt;#float $trans_time#&gt; );</string>
+	<string>HaruPage::setSlideShow(&lt;#int $type#&gt;, &lt;#float $disp_time#&gt;, &lt;#float $trans_time#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D83DA717-9892-4AAE-8E31-0ADD30853A89</string>
 	<key>IDECodeSnippetLanguage</key>

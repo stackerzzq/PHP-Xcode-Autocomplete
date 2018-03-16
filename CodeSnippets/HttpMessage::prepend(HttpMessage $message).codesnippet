@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpMessage::prepend ( &lt;#HttpMessage $message#&gt; );</string>
+	<string>HttpMessage::prepend(&lt;#HttpMessage $message#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7A628980-C379-44B3-9B4E-CB5FCCE0F3BF</string>
 	<key>IDECodeSnippetLanguage</key>

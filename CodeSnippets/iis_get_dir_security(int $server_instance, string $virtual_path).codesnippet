@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iis_get_dir_security ( &lt;#int $server_instance#&gt;, &lt;#string $virtual_path#&gt; );</string>
+	<string>iis_get_dir_security(&lt;#int $server_instance#&gt;, &lt;#string $virtual_path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5E50BFCC-C787-4D32-9741-2952946FEE6E</string>
 	<key>IDECodeSnippetLanguage</key>

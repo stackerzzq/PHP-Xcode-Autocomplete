@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_changes ( &lt;#resource $dbhandle#&gt; );</string>
+	<string>sqlite_changes(&lt;#resource $dbhandle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2A42A895-8A2F-451B-AEF3-970647D22DCB</string>
 	<key>IDECodeSnippetLanguage</key>

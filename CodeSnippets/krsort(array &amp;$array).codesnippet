@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>krsort ( &lt;#array &amp;$array#&gt; );</string>
+	<string>krsort(&lt;#array &amp;$array#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0793B988-021A-4700-A385-7937573C809F</string>
 	<key>IDECodeSnippetLanguage</key>

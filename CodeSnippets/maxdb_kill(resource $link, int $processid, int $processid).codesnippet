@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_kill ( &lt;#resource $link#&gt;, &lt;#int $processid#&gt;, &lt;#int $processid#&gt; );</string>
+	<string>maxdb_kill(&lt;#resource $link#&gt;, &lt;#int $processid#&gt;, &lt;#int $processid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>34AD05CC-886B-4F9C-840E-CF05DF2448B5</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_scrollbar_set ( &lt;#resource $scrollbar#&gt;, &lt;#int $where#&gt;, &lt;#int $total#&gt; );</string>
+	<string>newt_scrollbar_set(&lt;#resource $scrollbar#&gt;, &lt;#int $where#&gt;, &lt;#int $total#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FA6F1EDA-8678-4142-A010-D489365270DC</string>
 	<key>IDECodeSnippetLanguage</key>

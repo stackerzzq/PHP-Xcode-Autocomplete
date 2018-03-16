@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_slk_attroff ( &lt;#int $intarg#&gt; );</string>
+	<string>ncurses_slk_attroff(&lt;#int $intarg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>72AC7ABA-2EE4-468A-B18B-7566EC55C9C1</string>
 	<key>IDECodeSnippetLanguage</key>

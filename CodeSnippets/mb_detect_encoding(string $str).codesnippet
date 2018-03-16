@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_detect_encoding ( &lt;#string $str#&gt; );</string>
+	<string>mb_detect_encoding(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BE240D3D-40A6-474D-8F38-DA37909CDA61</string>
 	<key>IDECodeSnippetLanguage</key>

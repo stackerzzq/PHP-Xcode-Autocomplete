@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setRate ( &lt;#float $rate#&gt; );</string>
+	<string>setRate(&lt;#float $rate#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>282D19D2-77BE-453A-92DE-BD4EA0B3CADF</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>readline_completion_function ( &lt;#callback $function#&gt; );</string>
+	<string>readline_completion_function(&lt;#callback $function#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B983D085-07C7-4675-B5DB-713E8D495409</string>
 	<key>IDECodeSnippetLanguage</key>

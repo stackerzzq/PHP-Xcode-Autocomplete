@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_lockrel ( &lt;#resource $relation#&gt; );</string>
+	<string>dbplus_lockrel(&lt;#resource $relation#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2D16F49D-5BD5-4FEC-9F9C-1D9694E19C1E</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ovrimos_longreadlen ( &lt;#int $result_id#&gt;, &lt;#int $length#&gt; );</string>
+	<string>ovrimos_longreadlen(&lt;#int $result_id#&gt;, &lt;#int $length#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>339FD103-ADE0-4D8B-A319-79E923CB2498</string>
 	<key>IDECodeSnippetLanguage</key>

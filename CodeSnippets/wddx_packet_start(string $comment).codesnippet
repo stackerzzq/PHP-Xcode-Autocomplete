@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>wddx_packet_start ( &lt;#string $comment#&gt; );</string>
+	<string>wddx_packet_start(&lt;#string $comment#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>501398FC-6AA0-4F39-9D0B-2E8A60AD902F</string>
 	<key>IDECodeSnippetLanguage</key>

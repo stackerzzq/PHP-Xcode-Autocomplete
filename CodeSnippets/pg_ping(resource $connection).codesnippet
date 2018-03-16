@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_ping ( &lt;#resource $connection#&gt; );</string>
+	<string>pg_ping(&lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D05DC943-C56E-4B29-8FB8-53822AB44990</string>
 	<key>IDECodeSnippetLanguage</key>

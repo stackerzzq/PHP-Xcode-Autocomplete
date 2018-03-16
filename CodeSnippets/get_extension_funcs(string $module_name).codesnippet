@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_extension_funcs ( &lt;#string $module_name#&gt; );</string>
+	<string>get_extension_funcs(&lt;#string $module_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D871BCB9-42E0-4ECC-8291-8CB8C9A5FD35</string>
 	<key>IDECodeSnippetLanguage</key>

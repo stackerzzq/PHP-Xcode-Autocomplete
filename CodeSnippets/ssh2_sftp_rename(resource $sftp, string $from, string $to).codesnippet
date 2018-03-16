@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ssh2_sftp_rename ( &lt;#resource $sftp#&gt;, &lt;#string $from#&gt;, &lt;#string $to#&gt; );</string>
+	<string>ssh2_sftp_rename(&lt;#resource $sftp#&gt;, &lt;#string $from#&gt;, &lt;#string $to#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>007BA77C-8120-4790-87BB-785B0E47FF4E</string>
 	<key>IDECodeSnippetLanguage</key>

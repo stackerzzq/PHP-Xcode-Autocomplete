@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>tidy_warning_count ( &lt;#tidy $object#&gt; );</string>
+	<string>tidy_warning_count(&lt;#tidy $object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CC5D74D1-65D5-45CF-8710-9641F4578268</string>
 	<key>IDECodeSnippetLanguage</key>

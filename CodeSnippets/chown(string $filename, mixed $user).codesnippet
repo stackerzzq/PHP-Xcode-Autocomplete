@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>chown ( &lt;#string $filename#&gt;, &lt;#mixed $user#&gt; );</string>
+	<string>chown(&lt;#string $filename#&gt;, &lt;#mixed $user#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7F27F104-8963-48C0-A1C3-CDE4B84F3495</string>
 	<key>IDECodeSnippetLanguage</key>

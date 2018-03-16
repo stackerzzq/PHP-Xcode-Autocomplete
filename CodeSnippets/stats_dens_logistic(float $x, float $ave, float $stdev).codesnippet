@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_dens_logistic ( &lt;#float $x#&gt;, &lt;#float $ave#&gt;, &lt;#float $stdev#&gt; );</string>
+	<string>stats_dens_logistic(&lt;#float $x#&gt;, &lt;#float $ave#&gt;, &lt;#float $stdev#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AA6309A3-F210-4530-800C-F89CFE37E544</string>
 	<key>IDECodeSnippetLanguage</key>

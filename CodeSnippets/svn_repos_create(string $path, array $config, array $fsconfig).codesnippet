@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_repos_create ( &lt;#string $path#&gt;, &lt;#array $config#&gt;, &lt;#array $fsconfig#&gt; );</string>
+	<string>svn_repos_create(&lt;#string $path#&gt;, &lt;#array $config#&gt;, &lt;#array $fsconfig#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EC200858-F5D5-40BD-BA8D-22C2D69966BA</string>
 	<key>IDECodeSnippetLanguage</key>

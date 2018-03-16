@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::transposeImage (  );</string>
+	<string>Imagick::transposeImage();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E0F8C6B6-31F4-497B-B0C1-3B90A64C4422</string>
 	<key>IDECodeSnippetLanguage</key>

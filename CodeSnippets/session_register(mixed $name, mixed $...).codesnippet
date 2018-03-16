@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_register ( &lt;#mixed $name#&gt;, &lt;#mixed $...#&gt; );</string>
+	<string>session_register(&lt;#mixed $name#&gt;, &lt;#mixed $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7891AF3A-D790-4741-B2CC-4427FFBDC0C7</string>
 	<key>IDECodeSnippetLanguage</key>

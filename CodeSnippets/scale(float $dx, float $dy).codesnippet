@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>scale ( &lt;#float $dx#&gt;, &lt;#float $dy#&gt; );</string>
+	<string>scale(&lt;#float $dx#&gt;, &lt;#float $dy#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EAFF4C04-8462-4B68-885C-9D241F7DFBF6</string>
 	<key>IDECodeSnippetLanguage</key>

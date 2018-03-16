@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbx_close ( &lt;#object $link_identifier#&gt; );</string>
+	<string>dbx_close(&lt;#object $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A184C9D4-55E7-45F8-9E9A-06C2EDFE3D26</string>
 	<key>IDECodeSnippetLanguage</key>

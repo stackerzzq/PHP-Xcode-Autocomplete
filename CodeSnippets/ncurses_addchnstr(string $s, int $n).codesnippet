@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_addchnstr ( &lt;#string $s#&gt;, &lt;#int $n#&gt; );</string>
+	<string>ncurses_addchnstr(&lt;#string $s#&gt;, &lt;#int $n#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>901350D0-057A-4C2E-B02D-8CFA751D1F7B</string>
 	<key>IDECodeSnippetLanguage</key>

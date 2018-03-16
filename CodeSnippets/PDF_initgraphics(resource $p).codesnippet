@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_initgraphics ( &lt;#resource $p#&gt; );</string>
+	<string>PDF_initgraphics(&lt;#resource $p#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CC1EC923-2544-4756-8D98-5FD6F1966F48</string>
 	<key>IDECodeSnippetLanguage</key>

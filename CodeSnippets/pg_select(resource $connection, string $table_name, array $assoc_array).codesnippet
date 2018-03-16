@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_select ( &lt;#resource $connection#&gt;, &lt;#string $table_name#&gt;, &lt;#array $assoc_array#&gt; );</string>
+	<string>pg_select(&lt;#resource $connection#&gt;, &lt;#string $table_name#&gt;, &lt;#array $assoc_array#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9ED63822-66B0-4990-A90E-EFA03300297D</string>
 	<key>IDECodeSnippetLanguage</key>

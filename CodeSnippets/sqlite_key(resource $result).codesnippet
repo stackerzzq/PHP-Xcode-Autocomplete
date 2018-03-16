@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_key ( &lt;#resource $result#&gt; );</string>
+	<string>sqlite_key(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>00424189-0929-4BCB-A447-18797C333CA8</string>
 	<key>IDECodeSnippetLanguage</key>

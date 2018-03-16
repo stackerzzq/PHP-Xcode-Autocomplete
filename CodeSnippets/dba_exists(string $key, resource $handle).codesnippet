@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dba_exists ( &lt;#string $key#&gt;, &lt;#resource $handle#&gt; );</string>
+	<string>dba_exists(&lt;#string $key#&gt;, &lt;#resource $handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3AFEDDF8-E4F5-4E39-B660-19CB6DAE3FBE</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_cache_expire ( &lt;#string $new_cache_expire#&gt; );</string>
+	<string>session_cache_expire(&lt;#string $new_cache_expire#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A31E1513-B690-4EA0-901D-4B211825A28A</string>
 	<key>IDECodeSnippetLanguage</key>

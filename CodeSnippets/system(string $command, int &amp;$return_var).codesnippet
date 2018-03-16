@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>system ( &lt;#string $command#&gt;, &lt;#int &amp;$return_var#&gt; );</string>
+	<string>system(&lt;#string $command#&gt;, &lt;#int &amp;$return_var#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>434F5EE5-C1F7-420F-BC2B-51A9B9A329FC</string>
 	<key>IDECodeSnippetLanguage</key>

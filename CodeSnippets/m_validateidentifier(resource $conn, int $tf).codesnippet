@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_validateidentifier ( &lt;#resource $conn#&gt;, &lt;#int $tf#&gt; );</string>
+	<string>m_validateidentifier(&lt;#resource $conn#&gt;, &lt;#int $tf#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>17CE6E2A-1890-4DDC-A55C-ADCA012F18D3</string>
 	<key>IDECodeSnippetLanguage</key>

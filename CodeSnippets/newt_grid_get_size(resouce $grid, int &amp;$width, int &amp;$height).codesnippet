@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_grid_get_size ( &lt;#resouce $grid#&gt;, &lt;#int &amp;$width#&gt;, &lt;#int &amp;$height#&gt; );</string>
+	<string>newt_grid_get_size(&lt;#resouce $grid#&gt;, &lt;#int &amp;$width#&gt;, &lt;#int &amp;$height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>98F30148-8E0D-4194-B9E8-82B16426506D</string>
 	<key>IDECodeSnippetLanguage</key>

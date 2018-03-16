@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::polyline ( &lt;#array $coordinates#&gt; );</string>
+	<string>ImagickDraw::polyline(&lt;#array $coordinates#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>303EE5DB-DB12-422F-B956-F910D304823C</string>
 	<key>IDECodeSnippetLanguage</key>

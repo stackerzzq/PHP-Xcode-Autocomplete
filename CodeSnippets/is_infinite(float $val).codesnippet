@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>is_infinite ( &lt;#float $val#&gt; );</string>
+	<string>is_infinite(&lt;#float $val#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A1090920-7843-42AB-8310-AD21C3A32A03</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_ps_surface_restrict_to_level ( &lt;#CairoPsSurface $surface#&gt;, &lt;#string $level#&gt; );</string>
+	<string>cairo_ps_surface_restrict_to_level(&lt;#CairoPsSurface $surface#&gt;, &lt;#string $level#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6532F0EC-ED7A-407F-B970-2C7E20661FC9</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iptcparse ( &lt;#string $iptcblock#&gt; );</string>
+	<string>iptcparse(&lt;#string $iptcblock#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B01041A5-21F9-4EB9-BEB8-27E60AB89267</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_insertanchors ( &lt;#int $hwdoc#&gt;, &lt;#array $anchorecs#&gt;, &lt;#array $dest#&gt;, &lt;#array $urlprefixes#&gt; );</string>
+	<string>hw_insertanchors(&lt;#int $hwdoc#&gt;, &lt;#array $anchorecs#&gt;, &lt;#array $dest#&gt;, &lt;#array $urlprefixes#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DF3447D0-4E5B-48AD-B02B-28D8E793E792</string>
 	<key>IDECodeSnippetLanguage</key>

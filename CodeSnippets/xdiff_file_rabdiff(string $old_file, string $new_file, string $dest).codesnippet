@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xdiff_file_rabdiff ( &lt;#string $old_file#&gt;, &lt;#string $new_file#&gt;, &lt;#string $dest#&gt; );</string>
+	<string>xdiff_file_rabdiff(&lt;#string $old_file#&gt;, &lt;#string $new_file#&gt;, &lt;#string $dest#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>60ADC586-12B0-4FA5-A827-9DAF173B9416</string>
 	<key>IDECodeSnippetLanguage</key>

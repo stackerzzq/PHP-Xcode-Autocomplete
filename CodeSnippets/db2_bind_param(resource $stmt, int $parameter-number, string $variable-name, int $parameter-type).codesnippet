@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_bind_param ( &lt;#resource $stmt#&gt;, &lt;#int $parameter-number#&gt;, &lt;#string $variable-name#&gt;, &lt;#int $parameter-type#&gt; );</string>
+	<string>db2_bind_param(&lt;#resource $stmt#&gt;, &lt;#int $parameter-number#&gt;, &lt;#string $variable-name#&gt;, &lt;#int $parameter-type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1CBD3E57-91E4-4806-AAD5-C06F82964337</string>
 	<key>IDECodeSnippetLanguage</key>

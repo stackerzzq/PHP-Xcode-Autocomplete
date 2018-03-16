@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>in_array ( &lt;#mixed $needle#&gt;, &lt;#array $haystack#&gt;, &lt;#bool $strict#&gt; );</string>
+	<string>in_array(&lt;#mixed $needle#&gt;, &lt;#array $haystack#&gt;, &lt;#bool $strict#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>34087DA2-7A38-435F-86A6-B6B32271F08B</string>
 	<key>IDECodeSnippetLanguage</key>

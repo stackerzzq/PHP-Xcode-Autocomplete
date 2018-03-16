@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_grid_simple_window ( &lt;#resource $text#&gt;, &lt;#resource $middle#&gt;, &lt;#resource $buttons#&gt; );</string>
+	<string>newt_grid_simple_window(&lt;#resource $text#&gt;, &lt;#resource $middle#&gt;, &lt;#resource $buttons#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0AB63250-6FB2-4F15-80AE-3F1A6CC13865</string>
 	<key>IDECodeSnippetLanguage</key>

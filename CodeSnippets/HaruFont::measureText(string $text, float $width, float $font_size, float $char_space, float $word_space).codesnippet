@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruFont::measureText ( &lt;#string $text#&gt;, &lt;#float $width#&gt;, &lt;#float $font_size#&gt;, &lt;#float $char_space#&gt;, &lt;#float $word_space#&gt; );</string>
+	<string>HaruFont::measureText(&lt;#string $text#&gt;, &lt;#float $width#&gt;, &lt;#float $font_size#&gt;, &lt;#float $char_space#&gt;, &lt;#float $word_space#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>29EEB0B6-433B-4170-917A-07DF83FBEC08</string>
 	<key>IDECodeSnippetLanguage</key>

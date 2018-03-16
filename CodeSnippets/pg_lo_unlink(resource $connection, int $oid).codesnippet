@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_lo_unlink ( &lt;#resource $connection#&gt;, &lt;#int $oid#&gt; );</string>
+	<string>pg_lo_unlink(&lt;#resource $connection#&gt;, &lt;#int $oid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FC85BCCC-33B0-4513-82C2-F4CF0E80064B</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_inflate ( &lt;#string $data#&gt; );</string>
+	<string>http_inflate(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>78262AAE-E468-46D4-BB8D-864C05B62F9F</string>
 	<key>IDECodeSnippetLanguage</key>

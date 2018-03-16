@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_destroyconn ( &lt;#resource $conn#&gt; );</string>
+	<string>m_destroyconn(&lt;#resource $conn#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2F04BCB8-AEB0-4C32-8472-144BBDD73DA2</string>
 	<key>IDECodeSnippetLanguage</key>

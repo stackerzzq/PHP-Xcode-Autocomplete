@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fmod ( &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>fmod(&lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ADA4A079-96C1-41D3-9DA1-507166A3CAAB</string>
 	<key>IDECodeSnippetLanguage</key>

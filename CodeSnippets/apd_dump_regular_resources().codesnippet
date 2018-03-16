@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apd_dump_regular_resources (  );</string>
+	<string>apd_dump_regular_resources();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B3A98546-00E3-4259-BE31-57F0E53A4527</string>
 	<key>IDECodeSnippetLanguage</key>

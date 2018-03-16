@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hwstat ( &lt;#array $parameter#&gt; );</string>
+	<string>hwstat(&lt;#array $parameter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0A7AB1BA-2C2F-4FA8-853E-203857E265EB</string>
 	<key>IDECodeSnippetLanguage</key>

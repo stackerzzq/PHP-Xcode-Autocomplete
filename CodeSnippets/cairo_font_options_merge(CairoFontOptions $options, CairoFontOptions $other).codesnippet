@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_font_options_merge ( &lt;#CairoFontOptions $options#&gt;, &lt;#CairoFontOptions $other#&gt; );</string>
+	<string>cairo_font_options_merge(&lt;#CairoFontOptions $options#&gt;, &lt;#CairoFontOptions $other#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B41ACBA4-15B4-4B78-B0CB-F67164812FBB</string>
 	<key>IDECodeSnippetLanguage</key>

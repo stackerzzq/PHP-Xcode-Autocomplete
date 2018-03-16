@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setStrokePatternURL ( &lt;#string $stroke_url#&gt; );</string>
+	<string>ImagickDraw::setStrokePatternURL(&lt;#string $stroke_url#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F994D221-BCDC-4D84-BCDE-59A7DD328BED</string>
 	<key>IDECodeSnippetLanguage</key>

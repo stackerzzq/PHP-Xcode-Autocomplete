@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ceil ( &lt;#float $value#&gt; );</string>
+	<string>ceil(&lt;#float $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0EA501F8-BBD8-4329-B3F9-FBDE12ACCEC8</string>
 	<key>IDECodeSnippetLanguage</key>

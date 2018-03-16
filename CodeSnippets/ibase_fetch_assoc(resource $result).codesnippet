@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_fetch_assoc ( &lt;#resource $result#&gt; );</string>
+	<string>ibase_fetch_assoc(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>36DF8887-DA58-4E56-9A58-37E026F76812</string>
 	<key>IDECodeSnippetLanguage</key>

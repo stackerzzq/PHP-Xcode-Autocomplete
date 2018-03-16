@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_device_action_callback_set ( &lt;#resource $root_device#&gt;, &lt;#int $signal#&gt;, &lt;#string $action_name#&gt;, &lt;#mixed $callback#&gt;, &lt;#mixed $arg#&gt; );</string>
+	<string>gupnp_device_action_callback_set(&lt;#resource $root_device#&gt;, &lt;#int $signal#&gt;, &lt;#string $action_name#&gt;, &lt;#mixed $callback#&gt;, &lt;#mixed $arg#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AE12CBD8-AEEB-47E3-B211-DA5517453241</string>
 	<key>IDECodeSnippetLanguage</key>

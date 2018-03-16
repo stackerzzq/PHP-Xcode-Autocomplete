@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::getStrokeWidth (  );</string>
+	<string>ImagickDraw::getStrokeWidth();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>97D1D6D1-5970-496F-B1EE-E4201690DB79</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_copy_to ( &lt;#resource $connection#&gt;, &lt;#string $table_name#&gt;, &lt;#string $delimiter#&gt;, &lt;#string $null_as#&gt; );</string>
+	<string>pg_copy_to(&lt;#resource $connection#&gt;, &lt;#string $table_name#&gt;, &lt;#string $delimiter#&gt;, &lt;#string $null_as#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>65668F5F-9119-4BCD-A09C-D12F4DD643B2</string>
 	<key>IDECodeSnippetLanguage</key>

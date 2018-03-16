@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_add_thumbnail ( &lt;#resource $pdfdoc#&gt;, &lt;#int $image#&gt; );</string>
+	<string>PDF_add_thumbnail(&lt;#resource $pdfdoc#&gt;, &lt;#int $image#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CF38825C-6EC9-40DB-A782-FE44773EF4E1</string>
 	<key>IDECodeSnippetLanguage</key>

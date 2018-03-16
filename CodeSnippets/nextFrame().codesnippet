@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>nextFrame (  );</string>
+	<string>nextFrame();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7CEDFE5B-ED43-41BC-AEC2-97ED418268A0</string>
 	<key>IDECodeSnippetLanguage</key>

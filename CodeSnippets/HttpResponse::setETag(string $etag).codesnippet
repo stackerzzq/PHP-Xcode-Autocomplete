@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpResponse::setETag ( &lt;#string $etag#&gt; );</string>
+	<string>HttpResponse::setETag(&lt;#string $etag#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>53DC58CB-9FD4-4C21-9D23-AF7B7E6B6E16</string>
 	<key>IDECodeSnippetLanguage</key>

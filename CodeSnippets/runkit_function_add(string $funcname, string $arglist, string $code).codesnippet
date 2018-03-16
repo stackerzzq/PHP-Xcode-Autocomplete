@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>runkit_function_add ( &lt;#string $funcname#&gt;, &lt;#string $arglist#&gt;, &lt;#string $code#&gt; );</string>
+	<string>runkit_function_add(&lt;#string $funcname#&gt;, &lt;#string $arglist#&gt;, &lt;#string $code#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0A47C3F5-87E3-4382-B40E-A1BFD2E4045C</string>
 	<key>IDECodeSnippetLanguage</key>

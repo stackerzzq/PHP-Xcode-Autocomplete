@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>output ( &lt;#int $compression#&gt; );</string>
+	<string>output(&lt;#int $compression#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7B40BB44-2F47-4EED-BF55-C020C8F26692</string>
 	<key>IDECodeSnippetLanguage</key>

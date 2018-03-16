@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>readline_callback_handler_remove (  );</string>
+	<string>readline_callback_handler_remove();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F9579545-5375-4E59-9EB8-0602A5779E2F</string>
 	<key>IDECodeSnippetLanguage</key>

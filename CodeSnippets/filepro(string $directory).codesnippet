@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>filepro ( &lt;#string $directory#&gt; );</string>
+	<string>filepro(&lt;#string $directory#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FA50B9A0-EEE3-46C3-B658-00FD3EF2D7F1</string>
 	<key>IDECodeSnippetLanguage</key>

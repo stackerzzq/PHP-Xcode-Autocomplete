@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_rquery ( &lt;#string $query#&gt;, &lt;#string $dbpath#&gt; );</string>
+	<string>dbplus_rquery(&lt;#string $query#&gt;, &lt;#string $dbpath#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3E9093FA-4349-49EC-99A0-0C63D1C1CC65</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_dens_weibull ( &lt;#float $x#&gt;, &lt;#float $a#&gt;, &lt;#float $b#&gt; );</string>
+	<string>stats_dens_weibull(&lt;#float $x#&gt;, &lt;#float $a#&gt;, &lt;#float $b#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>75992F8A-94A2-4121-93AB-988CF12BAEE3</string>
 	<key>IDECodeSnippetLanguage</key>

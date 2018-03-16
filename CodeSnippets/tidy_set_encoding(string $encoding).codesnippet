@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>tidy_set_encoding ( &lt;#string $encoding#&gt; );</string>
+	<string>tidy_set_encoding(&lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2347EFA9-2B23-46A7-A18F-F1AFD10CCF8E</string>
 	<key>IDECodeSnippetLanguage</key>

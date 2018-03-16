@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickPixel::setHSL ( &lt;#float $hue#&gt;, &lt;#float $saturation#&gt;, &lt;#float $luminosity#&gt; );</string>
+	<string>ImagickPixel::setHSL(&lt;#float $hue#&gt;, &lt;#float $saturation#&gt;, &lt;#float $luminosity#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0D906936-8EB7-4188-93F3-BA0EDFE8F1E6</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_filter_append ( &lt;#resource $stream#&gt;, &lt;#string $filtername#&gt;, &lt;#int $read_write#&gt;, &lt;#mixed $params#&gt; );</string>
+	<string>stream_filter_append(&lt;#resource $stream#&gt;, &lt;#string $filtername#&gt;, &lt;#int $read_write#&gt;, &lt;#mixed $params#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6648205D-900E-4CC6-8C42-6103AC2E6C32</string>
 	<key>IDECodeSnippetLanguage</key>

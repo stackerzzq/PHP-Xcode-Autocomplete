@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_wstopsig ( &lt;#int $status#&gt; );</string>
+	<string>pcntl_wstopsig(&lt;#int $status#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DB6B0F85-EDCE-4D11-85A3-C7E27A897F5F</string>
 	<key>IDECodeSnippetLanguage</key>

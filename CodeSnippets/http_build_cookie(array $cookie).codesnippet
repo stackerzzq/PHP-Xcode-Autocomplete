@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_build_cookie ( &lt;#array $cookie#&gt; );</string>
+	<string>http_build_cookie(&lt;#array $cookie#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D2E43E48-515E-4260-9FB4-282651ECBF49</string>
 	<key>IDECodeSnippetLanguage</key>

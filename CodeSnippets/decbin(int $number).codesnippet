@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>decbin ( &lt;#int $number#&gt; );</string>
+	<string>decbin(&lt;#int $number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2B0A1C90-1128-4320-A7B5-BC193E276A68</string>
 	<key>IDECodeSnippetLanguage</key>

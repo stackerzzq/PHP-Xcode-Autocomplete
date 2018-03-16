@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_get_encoding ( &lt;#resource $fdf_document#&gt; );</string>
+	<string>fdf_get_encoding(&lt;#resource $fdf_document#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D9F6A38D-7A25-4078-BF14-FA65106F05AD</string>
 	<key>IDECodeSnippetLanguage</key>

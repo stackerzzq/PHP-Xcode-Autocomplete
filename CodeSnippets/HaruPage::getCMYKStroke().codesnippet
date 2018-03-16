@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getCMYKStroke (  );</string>
+	<string>HaruPage::getCMYKStroke();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8112B653-35B8-4D2B-83E3-0BD48B17F26E</string>
 	<key>IDECodeSnippetLanguage</key>

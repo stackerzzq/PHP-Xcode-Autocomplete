@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>odbc_columnprivileges ( &lt;#resource $connection_id#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $owner#&gt;, &lt;#string $table_name#&gt;, &lt;#string $column_name#&gt; );</string>
+	<string>odbc_columnprivileges(&lt;#resource $connection_id#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $owner#&gt;, &lt;#string $table_name#&gt;, &lt;#string $column_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2B5318A0-E82E-4345-82A1-8C967B28E23E</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_form_set_size ( &lt;#resource $form#&gt; );</string>
+	<string>newt_form_set_size(&lt;#resource $form#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CA3C132D-3C89-4DE4-A535-A8FDB40EA7AA</string>
 	<key>IDECodeSnippetLanguage</key>

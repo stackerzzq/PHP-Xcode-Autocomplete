@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mssql_result ( &lt;#resource $result#&gt;, &lt;#int $row#&gt;, &lt;#mixed $field#&gt; );</string>
+	<string>mssql_result(&lt;#resource $result#&gt;, &lt;#int $row#&gt;, &lt;#mixed $field#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A7147D7A-D1B8-40B5-BF0F-961ECE5238EE</string>
 	<key>IDECodeSnippetLanguage</key>

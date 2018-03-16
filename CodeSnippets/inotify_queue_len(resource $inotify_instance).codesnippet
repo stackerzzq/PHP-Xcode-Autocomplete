@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>inotify_queue_len ( &lt;#resource $inotify_instance#&gt; );</string>
+	<string>inotify_queue_len(&lt;#resource $inotify_instance#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>57F03483-9292-4BBB-A142-94D64CEED3DA</string>
 	<key>IDECodeSnippetLanguage</key>

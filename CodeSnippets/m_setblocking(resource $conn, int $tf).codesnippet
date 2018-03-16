@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_setblocking ( &lt;#resource $conn#&gt;, &lt;#int $tf#&gt; );</string>
+	<string>m_setblocking(&lt;#resource $conn#&gt;, &lt;#int $tf#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>71DF9C9E-2AE4-4279-BA69-75F410C6FF86</string>
 	<key>IDECodeSnippetLanguage</key>

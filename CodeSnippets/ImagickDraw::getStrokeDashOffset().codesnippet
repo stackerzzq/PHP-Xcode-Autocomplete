@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::getStrokeDashOffset (  );</string>
+	<string>ImagickDraw::getStrokeDashOffset();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CBAFB6CB-F127-4225-9EBD-35150466904F</string>
 	<key>IDECodeSnippetLanguage</key>

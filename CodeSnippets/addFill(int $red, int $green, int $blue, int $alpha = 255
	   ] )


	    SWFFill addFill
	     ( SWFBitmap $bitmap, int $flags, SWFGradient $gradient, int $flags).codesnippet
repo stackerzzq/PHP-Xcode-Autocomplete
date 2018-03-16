@@ -14,7 +14,7 @@
 
 
 	    SWFFill addFill
-	     ( SWFBitmap $bitmap#&gt;, &lt;#int $flags#&gt;, &lt;#SWFGradient $gradient#&gt;, &lt;#int $flags#&gt; );</string>
+	    (SWFBitmap $bitmap#&gt;, &lt;#int $flags#&gt;, &lt;#SWFGradient $gradient#&gt;, &lt;#int $flags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AF3C3D51-D7F7-4C71-963C-F05F6DBA0F89</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>id3_get_genre_list (  );</string>
+	<string>id3_get_genre_list();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0AF3C4BC-E35A-4596-9321-3F4BB96A7235</string>
 	<key>IDECodeSnippetLanguage</key>

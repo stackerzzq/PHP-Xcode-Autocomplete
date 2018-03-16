@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>assert_options ( &lt;#int $what#&gt;, &lt;#mixed $value#&gt; );</string>
+	<string>assert_options(&lt;#int $what#&gt;, &lt;#mixed $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FF6AAFEA-1764-45D6-A9D1-7F1AF4EB8B81</string>
 	<key>IDECodeSnippetLanguage</key>

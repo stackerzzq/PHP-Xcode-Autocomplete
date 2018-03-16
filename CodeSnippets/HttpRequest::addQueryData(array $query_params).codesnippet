@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequest::addQueryData ( &lt;#array $query_params#&gt; );</string>
+	<string>HttpRequest::addQueryData(&lt;#array $query_params#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0C03379E-9603-44D4-AF26-C9438AA9C717</string>
 	<key>IDECodeSnippetLanguage</key>

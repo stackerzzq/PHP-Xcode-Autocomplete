@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_lo_export ( &lt;#resource $connection#&gt;, &lt;#int $oid#&gt;, &lt;#string $pathname#&gt; );</string>
+	<string>pg_lo_export(&lt;#resource $connection#&gt;, &lt;#int $oid#&gt;, &lt;#string $pathname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D9B0B3AD-577A-43D2-B71D-38E19B88E830</string>
 	<key>IDECodeSnippetLanguage</key>

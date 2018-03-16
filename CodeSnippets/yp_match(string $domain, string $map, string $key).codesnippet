@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yp_match ( &lt;#string $domain#&gt;, &lt;#string $map#&gt;, &lt;#string $key#&gt; );</string>
+	<string>yp_match(&lt;#string $domain#&gt;, &lt;#string $map#&gt;, &lt;#string $key#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>691548AE-0088-41C9-AE6A-3B050DDF563A</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_hyphenate ( &lt;#resource $psdoc#&gt;, &lt;#string $text#&gt; );</string>
+	<string>ps_hyphenate(&lt;#resource $psdoc#&gt;, &lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>33136C53-6551-419B-ACF3-3368CEA53480</string>
 	<key>IDECodeSnippetLanguage</key>

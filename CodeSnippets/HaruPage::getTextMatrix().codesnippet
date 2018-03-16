@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getTextMatrix (  );</string>
+	<string>HaruPage::getTextMatrix();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>22C5CE21-4F68-46A7-83D0-CF0619B2C201</string>
 	<key>IDECodeSnippetLanguage</key>

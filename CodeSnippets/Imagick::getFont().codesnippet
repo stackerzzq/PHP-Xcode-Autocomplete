@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::getFont (  );</string>
+	<string>Imagick::getFont();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2B36C625-F1AC-41D2-9815-2ABF27229C99</string>
 	<key>IDECodeSnippetLanguage</key>

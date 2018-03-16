@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_newpad ( &lt;#int $rows#&gt;, &lt;#int $cols#&gt; );</string>
+	<string>ncurses_newpad(&lt;#int $rows#&gt;, &lt;#int $cols#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>104698B9-15EA-4276-BC99-395A5754B9A3</string>
 	<key>IDECodeSnippetLanguage</key>

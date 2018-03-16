@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>filetype ( &lt;#string $filename#&gt; );</string>
+	<string>filetype(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D045BD4E-7064-471B-BF09-AEA7F5FA264A</string>
 	<key>IDECodeSnippetLanguage</key>

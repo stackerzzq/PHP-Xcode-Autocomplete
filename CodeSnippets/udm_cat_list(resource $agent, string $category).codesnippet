@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_cat_list ( &lt;#resource $agent#&gt;, &lt;#string $category#&gt; );</string>
+	<string>udm_cat_list(&lt;#resource $agent#&gt;, &lt;#string $category#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F4A2B4B1-2ACC-4F6A-952B-1D9A5D238F0C</string>
 	<key>IDECodeSnippetLanguage</key>

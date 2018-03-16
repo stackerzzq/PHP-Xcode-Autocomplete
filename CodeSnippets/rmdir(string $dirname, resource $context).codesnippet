@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>rmdir ( &lt;#string $dirname#&gt;, &lt;#resource $context#&gt; );</string>
+	<string>rmdir(&lt;#string $dirname#&gt;, &lt;#resource $context#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>83645D5E-100C-44DE-8CB1-AD17A54C74E7</string>
 	<key>IDECodeSnippetLanguage</key>

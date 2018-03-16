@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>runkit_constant_remove ( &lt;#string $constname#&gt; );</string>
+	<string>runkit_constant_remove(&lt;#string $constname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A68006AC-B387-45B8-8D27-3C6A7636B75B</string>
 	<key>IDECodeSnippetLanguage</key>

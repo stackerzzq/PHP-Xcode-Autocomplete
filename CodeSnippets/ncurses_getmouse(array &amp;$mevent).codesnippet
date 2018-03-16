@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_getmouse ( &lt;#array &amp;$mevent#&gt; );</string>
+	<string>ncurses_getmouse(&lt;#array &amp;$mevent#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F44F3939-F9BB-4B17-B9DF-49DBF6FB83D2</string>
 	<key>IDECodeSnippetLanguage</key>

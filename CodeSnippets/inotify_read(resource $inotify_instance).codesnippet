@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>inotify_read ( &lt;#resource $inotify_instance#&gt; );</string>
+	<string>inotify_read(&lt;#resource $inotify_instance#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B1F6459F-F8D3-4044-9154-B9909281F030</string>
 	<key>IDECodeSnippetLanguage</key>

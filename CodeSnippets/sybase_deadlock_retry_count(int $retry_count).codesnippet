@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sybase_deadlock_retry_count ( &lt;#int $retry_count#&gt; );</string>
+	<string>sybase_deadlock_retry_count(&lt;#int $retry_count#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A5F08A0F-128B-438E-8455-D96960D16B42</string>
 	<key>IDECodeSnippetLanguage</key>

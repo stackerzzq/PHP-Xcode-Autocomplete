@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_blob_open ( &lt;#resource $link_identifier#&gt;, &lt;#string $blob_id#&gt;, &lt;#string $blob_id#&gt; );</string>
+	<string>ibase_blob_open(&lt;#resource $link_identifier#&gt;, &lt;#string $blob_id#&gt;, &lt;#string $blob_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4BCADF91-74D7-48FC-9E52-34D451BE1D35</string>
 	<key>IDECodeSnippetLanguage</key>

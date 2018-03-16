@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagefontheight ( &lt;#int $font#&gt; );</string>
+	<string>imagefontheight(&lt;#int $font#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>559F9300-174D-45F9-882F-216DFB6C0EED</string>
 	<key>IDECodeSnippetLanguage</key>

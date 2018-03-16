@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ingres_field_nullable ( &lt;#resource $result#&gt;, &lt;#int $index#&gt; );</string>
+	<string>ingres_field_nullable(&lt;#resource $result#&gt;, &lt;#int $index#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5543C5D9-B1FC-4471-9D2F-BF3CE79BB73F</string>
 	<key>IDECodeSnippetLanguage</key>

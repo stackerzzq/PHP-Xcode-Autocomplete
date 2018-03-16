@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_chdir ( &lt;#string $newdir#&gt; );</string>
+	<string>dbplus_chdir(&lt;#string $newdir#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E2678584-0D4D-439A-A9B4-D330B0D36436</string>
 	<key>IDECodeSnippetLanguage</key>

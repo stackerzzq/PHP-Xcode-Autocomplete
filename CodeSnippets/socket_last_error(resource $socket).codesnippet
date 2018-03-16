@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>socket_last_error ( &lt;#resource $socket#&gt; );</string>
+	<string>socket_last_error(&lt;#resource $socket#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>89867549-9D69-4AC5-B3B8-C80BD29D0237</string>
 	<key>IDECodeSnippetLanguage</key>

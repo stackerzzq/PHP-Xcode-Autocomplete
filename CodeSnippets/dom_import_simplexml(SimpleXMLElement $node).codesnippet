@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dom_import_simplexml ( &lt;#SimpleXMLElement $node#&gt; );</string>
+	<string>dom_import_simplexml(&lt;#SimpleXMLElement $node#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>619DA80B-F2DD-4799-BF54-2F04E84CD175</string>
 	<key>IDECodeSnippetLanguage</key>

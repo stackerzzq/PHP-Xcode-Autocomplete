@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_open_memory_image ( &lt;#resource $psdoc#&gt;, &lt;#int $gd#&gt; );</string>
+	<string>ps_open_memory_image(&lt;#resource $psdoc#&gt;, &lt;#int $gd#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F547DA11-A694-4CE0-9763-833DDA171D23</string>
 	<key>IDECodeSnippetLanguage</key>

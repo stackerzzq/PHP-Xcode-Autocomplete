@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::compositeImage ( &lt;#Imagick $composite_object#&gt;, &lt;#int $composite#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt; );</string>
+	<string>Imagick::compositeImage(&lt;#Imagick $composite_object#&gt;, &lt;#int $composite#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EC8DA5B2-1891-46AD-80B4-2E6586E15FFC</string>
 	<key>IDECodeSnippetLanguage</key>

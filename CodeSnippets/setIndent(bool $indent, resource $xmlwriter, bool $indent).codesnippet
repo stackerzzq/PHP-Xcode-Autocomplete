@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setIndent ( &lt;#bool $indent#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#bool $indent#&gt; );</string>
+	<string>setIndent(&lt;#bool $indent#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#bool $indent#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EA356561-4AB6-4969-9CF2-6B7476B5E134</string>
 	<key>IDECodeSnippetLanguage</key>

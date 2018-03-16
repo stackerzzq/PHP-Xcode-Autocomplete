@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setFontWeight ( &lt;#int $font_weight#&gt; );</string>
+	<string>ImagickDraw::setFontWeight(&lt;#int $font_weight#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>ED2D1D06-28AC-4B77-95D1-9FF46A109093</string>
 	<key>IDECodeSnippetLanguage</key>

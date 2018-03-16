@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::setFillColor ( &lt;#ImagickPixel $fill_pixel#&gt; );</string>
+	<string>ImagickDraw::setFillColor(&lt;#ImagickPixel $fill_pixel#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>803A0D3D-01F3-49BA-BE74-593CF9B0EFB9</string>
 	<key>IDECodeSnippetLanguage</key>

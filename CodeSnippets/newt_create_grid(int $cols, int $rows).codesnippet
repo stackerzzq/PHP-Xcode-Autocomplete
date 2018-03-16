@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_create_grid ( &lt;#int $cols#&gt;, &lt;#int $rows#&gt; );</string>
+	<string>newt_create_grid(&lt;#int $cols#&gt;, &lt;#int $rows#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1F4430D7-09E3-4C95-9872-71171C04B549</string>
 	<key>IDECodeSnippetLanguage</key>

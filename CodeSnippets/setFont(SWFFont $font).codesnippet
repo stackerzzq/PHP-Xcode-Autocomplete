@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setFont ( &lt;#SWFFont $font#&gt; );</string>
+	<string>setFont(&lt;#SWFFont $font#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6BDFD310-C459-47D7-9CA3-B00A0A70D714</string>
 	<key>IDECodeSnippetLanguage</key>

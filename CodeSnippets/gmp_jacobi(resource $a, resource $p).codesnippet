@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_jacobi ( &lt;#resource $a#&gt;, &lt;#resource $p#&gt; );</string>
+	<string>gmp_jacobi(&lt;#resource $a#&gt;, &lt;#resource $p#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5A4C8955-5574-42AE-A7B9-1F82414492AB</string>
 	<key>IDECodeSnippetLanguage</key>

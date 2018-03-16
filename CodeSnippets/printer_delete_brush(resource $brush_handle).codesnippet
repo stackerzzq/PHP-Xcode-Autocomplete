@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_delete_brush ( &lt;#resource $brush_handle#&gt; );</string>
+	<string>printer_delete_brush(&lt;#resource $brush_handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3C649805-DF98-4052-97C4-0DE7CDF401F3</string>
 	<key>IDECodeSnippetLanguage</key>

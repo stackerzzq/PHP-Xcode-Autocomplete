@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_error_string (  );</string>
+	<string>openssl_error_string();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3113167A-FE94-4666-9CA4-00BA058BA6CA</string>
 	<key>IDECodeSnippetLanguage</key>

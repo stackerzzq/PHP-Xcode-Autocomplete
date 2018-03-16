@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_result_error_field ( &lt;#resource $result#&gt;, &lt;#int $fieldcode#&gt; );</string>
+	<string>pg_result_error_field(&lt;#resource $result#&gt;, &lt;#int $fieldcode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2CD6F6DE-4C60-46DD-B2BD-DD84A52C0B5A</string>
 	<key>IDECodeSnippetLanguage</key>

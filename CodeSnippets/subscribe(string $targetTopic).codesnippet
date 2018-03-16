@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>subscribe ( &lt;#string $targetTopic#&gt; );</string>
+	<string>subscribe(&lt;#string $targetTopic#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CE754251-F150-48FB-8366-3C90086E1AC4</string>
 	<key>IDECodeSnippetLanguage</key>

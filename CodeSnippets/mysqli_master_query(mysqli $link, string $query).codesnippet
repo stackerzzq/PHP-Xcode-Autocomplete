@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysqli_master_query ( &lt;#mysqli $link#&gt;, &lt;#string $query#&gt; );</string>
+	<string>mysqli_master_query(&lt;#mysqli $link#&gt;, &lt;#string $query#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CE400182-486A-488D-90ED-F5BFFCC460F0</string>
 	<key>IDECodeSnippetLanguage</key>

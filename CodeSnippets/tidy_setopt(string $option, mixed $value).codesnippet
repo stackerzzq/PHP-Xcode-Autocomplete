@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>tidy_setopt ( &lt;#string $option#&gt;, &lt;#mixed $value#&gt; );</string>
+	<string>tidy_setopt(&lt;#string $option#&gt;, &lt;#mixed $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5760125E-B874-48D6-B7A3-FA25BA4C4085</string>
 	<key>IDECodeSnippetLanguage</key>

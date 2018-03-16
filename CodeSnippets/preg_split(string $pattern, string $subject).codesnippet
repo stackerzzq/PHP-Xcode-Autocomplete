@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>preg_split ( &lt;#string $pattern#&gt;, &lt;#string $subject#&gt; );</string>
+	<string>preg_split(&lt;#string $pattern#&gt;, &lt;#string $subject#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>10DDE5FD-709A-4BC9-9BAA-42FF7691C82A</string>
 	<key>IDECodeSnippetLanguage</key>

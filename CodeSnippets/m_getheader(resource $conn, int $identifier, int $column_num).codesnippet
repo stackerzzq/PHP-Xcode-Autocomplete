@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_getheader ( &lt;#resource $conn#&gt;, &lt;#int $identifier#&gt;, &lt;#int $column_num#&gt; );</string>
+	<string>m_getheader(&lt;#resource $conn#&gt;, &lt;#int $identifier#&gt;, &lt;#int $column_num#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DE775CE7-BE0E-4CE6-9C3B-BD69F13D1B77</string>
 	<key>IDECodeSnippetLanguage</key>

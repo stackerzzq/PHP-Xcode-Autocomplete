@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_mvwaddstr ( &lt;#resource $window#&gt;, &lt;#int $y#&gt;, &lt;#int $x#&gt;, &lt;#string $text#&gt; );</string>
+	<string>ncurses_mvwaddstr(&lt;#resource $window#&gt;, &lt;#int $y#&gt;, &lt;#int $x#&gt;, &lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>66D46526-885B-4099-9BD8-A6796C24736F</string>
 	<key>IDECodeSnippetLanguage</key>

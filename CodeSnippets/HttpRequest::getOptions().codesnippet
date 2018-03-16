@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequest::getOptions (  );</string>
+	<string>HttpRequest::getOptions();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0F2C3815-7191-49AD-9916-0AEDBE53A637</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mssql_min_message_severity ( &lt;#int $severity#&gt; );</string>
+	<string>mssql_min_message_severity(&lt;#int $severity#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B124E4D2-C757-4B94-91D5-E547AED04DBB</string>
 	<key>IDECodeSnippetLanguage</key>

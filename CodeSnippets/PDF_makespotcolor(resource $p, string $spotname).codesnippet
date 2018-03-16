@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_makespotcolor ( &lt;#resource $p#&gt;, &lt;#string $spotname#&gt; );</string>
+	<string>PDF_makespotcolor(&lt;#resource $p#&gt;, &lt;#string $spotname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7947D015-1E1C-4F16-979F-E0F6DAEDA38C</string>
 	<key>IDECodeSnippetLanguage</key>

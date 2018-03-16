@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbx_compare ( &lt;#array $row_a#&gt;, &lt;#array $row_b#&gt;, &lt;#string $column_key#&gt; );</string>
+	<string>dbx_compare(&lt;#array $row_a#&gt;, &lt;#array $row_b#&gt;, &lt;#string $column_key#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>08715AE6-16CC-4798-B19F-972407A890FD</string>
 	<key>IDECodeSnippetLanguage</key>

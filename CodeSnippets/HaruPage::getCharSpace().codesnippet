@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getCharSpace (  );</string>
+	<string>HaruPage::getCharSpace();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9CA182F3-5BDD-4813-8545-27A00B8974EB</string>
 	<key>IDECodeSnippetLanguage</key>

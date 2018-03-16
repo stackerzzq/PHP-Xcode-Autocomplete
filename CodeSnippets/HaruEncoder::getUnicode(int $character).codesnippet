@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruEncoder::getUnicode ( &lt;#int $character#&gt; );</string>
+	<string>HaruEncoder::getUnicode(&lt;#int $character#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>764B75B0-B4B2-4303-B72E-B2260AC03FB8</string>
 	<key>IDECodeSnippetLanguage</key>

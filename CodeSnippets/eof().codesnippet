@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>eof (  );</string>
+	<string>eof();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0081493D-1B56-4052-91D5-A849EA993761</string>
 	<key>IDECodeSnippetLanguage</key>

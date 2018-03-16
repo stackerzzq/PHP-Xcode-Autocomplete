@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_slk_noutrefresh (  );</string>
+	<string>ncurses_slk_noutrefresh();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4A781FFD-A3BA-47ED-9234-471B66CD14B1</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hash_file ( &lt;#string $algo#&gt;, &lt;#string $filename#&gt; );</string>
+	<string>hash_file(&lt;#string $algo#&gt;, &lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9C037F20-F18A-417B-B919-DF883D18E117</string>
 	<key>IDECodeSnippetLanguage</key>

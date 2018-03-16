@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>filter_has_var ( &lt;#int $type#&gt;, &lt;#string $variable_name#&gt; );</string>
+	<string>filter_has_var(&lt;#int $type#&gt;, &lt;#string $variable_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A6400207-28E2-4217-BC20-6E39D69E3C0D</string>
 	<key>IDECodeSnippetLanguage</key>

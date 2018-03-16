@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_deleteln (  );</string>
+	<string>ncurses_deleteln();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AEB7AA83-3D84-46AC-A817-04D174380690</string>
 	<key>IDECodeSnippetLanguage</key>

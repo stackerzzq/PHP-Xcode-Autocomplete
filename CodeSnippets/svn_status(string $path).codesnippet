@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_status ( &lt;#string $path#&gt; );</string>
+	<string>svn_status(&lt;#string $path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4A49B7E4-6574-404D-A868-CD1C61885DFF</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_lo_create ( &lt;#resource $connection#&gt;, &lt;#mixed $object_id#&gt;, &lt;#mixed $object_id#&gt; );</string>
+	<string>pg_lo_create(&lt;#resource $connection#&gt;, &lt;#mixed $object_id#&gt;, &lt;#mixed $object_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F7A30B42-EEBD-457C-9257-3BF0756C5361</string>
 	<key>IDECodeSnippetLanguage</key>

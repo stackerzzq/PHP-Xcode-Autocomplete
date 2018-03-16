@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hypot ( &lt;#float $x#&gt;, &lt;#float $y#&gt; );</string>
+	<string>hypot(&lt;#float $x#&gt;, &lt;#float $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4365B656-DAF0-4D89-AA46-B786E0EDACFD</string>
 	<key>IDECodeSnippetLanguage</key>

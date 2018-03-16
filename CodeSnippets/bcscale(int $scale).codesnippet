@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bcscale ( &lt;#int $scale#&gt; );</string>
+	<string>bcscale(&lt;#int $scale#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BFC35F35-A4B1-48F1-9229-F41821D47546</string>
 	<key>IDECodeSnippetLanguage</key>

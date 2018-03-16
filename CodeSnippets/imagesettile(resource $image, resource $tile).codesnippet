@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagesettile ( &lt;#resource $image#&gt;, &lt;#resource $tile#&gt; );</string>
+	<string>imagesettile(&lt;#resource $image#&gt;, &lt;#resource $tile#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>618D91FB-70BA-4454-8DD8-6BC7AD1EA1E9</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpResponse::setCacheControl ( &lt;#string $control#&gt; );</string>
+	<string>HttpResponse::setCacheControl(&lt;#string $control#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>982377A0-9E48-4B0A-B9AE-277B210ACE80</string>
 	<key>IDECodeSnippetLanguage</key>

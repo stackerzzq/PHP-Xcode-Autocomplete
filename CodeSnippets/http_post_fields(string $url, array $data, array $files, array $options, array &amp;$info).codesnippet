@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_post_fields ( &lt;#string $url#&gt;, &lt;#array $data#&gt;, &lt;#array $files#&gt;, &lt;#array $options#&gt;, &lt;#array &amp;$info#&gt; );</string>
+	<string>http_post_fields(&lt;#string $url#&gt;, &lt;#array $data#&gt;, &lt;#array $files#&gt;, &lt;#array $options#&gt;, &lt;#array &amp;$info#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>247BE42A-870A-42F3-814F-B9F6DABF2B45</string>
 	<key>IDECodeSnippetLanguage</key>

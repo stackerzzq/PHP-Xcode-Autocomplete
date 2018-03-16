@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_service_action_return ( &lt;#resource $action#&gt; );</string>
+	<string>gupnp_service_action_return(&lt;#resource $action#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>85050C10-FB51-4D41-9188-6960EA2E7BEA</string>
 	<key>IDECodeSnippetLanguage</key>

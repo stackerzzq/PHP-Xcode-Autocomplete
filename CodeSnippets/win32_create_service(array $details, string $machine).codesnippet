@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>win32_create_service ( &lt;#array $details#&gt;, &lt;#string $machine#&gt; );</string>
+	<string>win32_create_service(&lt;#array $details#&gt;, &lt;#string $machine#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6288588D-366C-4A36-BCAC-3F1DC60D45F1</string>
 	<key>IDECodeSnippetLanguage</key>

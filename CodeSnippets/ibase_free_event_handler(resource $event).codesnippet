@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_free_event_handler ( &lt;#resource $event#&gt; );</string>
+	<string>ibase_free_event_handler(&lt;#resource $event#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8C18EC4A-FA39-4D3A-AEDA-EABF09540131</string>
 	<key>IDECodeSnippetLanguage</key>

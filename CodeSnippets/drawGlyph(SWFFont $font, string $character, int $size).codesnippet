@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>drawGlyph ( &lt;#SWFFont $font#&gt;, &lt;#string $character#&gt;, &lt;#int $size#&gt; );</string>
+	<string>drawGlyph(&lt;#SWFFont $font#&gt;, &lt;#string $character#&gt;, &lt;#int $size#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>08FDC472-1C83-48F5-8A78-9C909FC0C9A4</string>
 	<key>IDECodeSnippetLanguage</key>

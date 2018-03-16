@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xmlrpc_decode_request ( &lt;#string $xml#&gt;, &lt;#string &amp;$method#&gt;, &lt;#string $encoding#&gt; );</string>
+	<string>xmlrpc_decode_request(&lt;#string $xml#&gt;, &lt;#string &amp;$method#&gt;, &lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0CCD79C0-D4DE-48F7-AC47-7D79A77DCF8A</string>
 	<key>IDECodeSnippetLanguage</key>

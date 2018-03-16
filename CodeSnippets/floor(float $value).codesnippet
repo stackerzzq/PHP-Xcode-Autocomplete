@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>floor ( &lt;#float $value#&gt; );</string>
+	<string>floor(&lt;#float $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>98EBE9DA-C135-41F4-8852-1B4401998E6A</string>
 	<key>IDECodeSnippetLanguage</key>

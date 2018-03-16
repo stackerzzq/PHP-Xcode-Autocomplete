@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bzopen ( &lt;#string $filename#&gt;, &lt;#string $mode#&gt; );</string>
+	<string>bzopen(&lt;#string $filename#&gt;, &lt;#string $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9B6959CB-951E-47C8-97F7-44100598C7E5</string>
 	<key>IDECodeSnippetLanguage</key>

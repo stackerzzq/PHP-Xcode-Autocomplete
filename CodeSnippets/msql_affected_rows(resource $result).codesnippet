@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msql_affected_rows ( &lt;#resource $result#&gt; );</string>
+	<string>msql_affected_rows(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CC0F48D2-CF67-4D8A-A6BA-CE54F099CC70</string>
 	<key>IDECodeSnippetLanguage</key>

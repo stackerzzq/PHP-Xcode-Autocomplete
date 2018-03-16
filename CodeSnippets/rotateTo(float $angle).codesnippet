@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>rotateTo ( &lt;#float $angle#&gt; );</string>
+	<string>rotateTo(&lt;#float $angle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>06970534-EDE2-4AC5-874F-03D615EED1F8</string>
 	<key>IDECodeSnippetLanguage</key>

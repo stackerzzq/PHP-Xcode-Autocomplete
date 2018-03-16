@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>unsubscribe ( &lt;#string $subscriptionId#&gt;, &lt;#string $targetTopic#&gt; );</string>
+	<string>unsubscribe(&lt;#string $subscriptionId#&gt;, &lt;#string $targetTopic#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FDB2C8BE-32F3-41DC-88CA-F3728B2A6878</string>
 	<key>IDECodeSnippetLanguage</key>

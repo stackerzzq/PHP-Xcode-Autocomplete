@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_headers ( &lt;#string $url#&gt; );</string>
+	<string>get_headers(&lt;#string $url#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B61C7B65-A1C3-4C3E-A3A2-05435857908C</string>
 	<key>IDECodeSnippetLanguage</key>

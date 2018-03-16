@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_lo_read ( &lt;#resource $large_object#&gt; );</string>
+	<string>pg_lo_read(&lt;#resource $large_object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A7FFADD7-DE80-4528-8628-475A7F3B5087</string>
 	<key>IDECodeSnippetLanguage</key>

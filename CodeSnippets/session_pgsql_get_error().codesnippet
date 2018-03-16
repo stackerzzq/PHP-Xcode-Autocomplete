@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_pgsql_get_error (  );</string>
+	<string>session_pgsql_get_error();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B6F03947-DBED-4FAD-A42B-769109A2BB21</string>
 	<key>IDECodeSnippetLanguage</key>

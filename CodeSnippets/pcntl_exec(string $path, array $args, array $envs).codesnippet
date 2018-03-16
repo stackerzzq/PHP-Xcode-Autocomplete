@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_exec ( &lt;#string $path#&gt;, &lt;#array $args#&gt;, &lt;#array $envs#&gt; );</string>
+	<string>pcntl_exec(&lt;#string $path#&gt;, &lt;#array $args#&gt;, &lt;#array $envs#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>40C8D40F-5CDF-45E0-A3B9-D12C7EA47072</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_context_unhost_path ( &lt;#resource $context#&gt;, &lt;#string $server_path#&gt; );</string>
+	<string>gupnp_context_unhost_path(&lt;#resource $context#&gt;, &lt;#string $server_path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>202BA398-BFF1-46C1-AEAB-AB7878C4E820</string>
 	<key>IDECodeSnippetLanguage</key>

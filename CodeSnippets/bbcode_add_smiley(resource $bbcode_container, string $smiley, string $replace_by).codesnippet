@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bbcode_add_smiley ( &lt;#resource $bbcode_container#&gt;, &lt;#string $smiley#&gt;, &lt;#string $replace_by#&gt; );</string>
+	<string>bbcode_add_smiley(&lt;#resource $bbcode_container#&gt;, &lt;#string $smiley#&gt;, &lt;#string $replace_by#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1BB9CAE1-2069-4269-8A0C-893588554CB6</string>
 	<key>IDECodeSnippetLanguage</key>

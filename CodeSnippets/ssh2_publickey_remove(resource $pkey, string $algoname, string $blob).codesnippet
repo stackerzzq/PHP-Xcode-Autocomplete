@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ssh2_publickey_remove ( &lt;#resource $pkey#&gt;, &lt;#string $algoname#&gt;, &lt;#string $blob#&gt; );</string>
+	<string>ssh2_publickey_remove(&lt;#resource $pkey#&gt;, &lt;#string $algoname#&gt;, &lt;#string $blob#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2E1C40DC-7F05-4A4D-BC72-89BAE8B8C37F</string>
 	<key>IDECodeSnippetLanguage</key>

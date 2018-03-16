@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_waitpid ( &lt;#int $pid#&gt;, &lt;#int &amp;$status#&gt; );</string>
+	<string>pcntl_waitpid(&lt;#int $pid#&gt;, &lt;#int &amp;$status#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>091518F2-2448-4CDB-8513-15EA6A1E82D0</string>
 	<key>IDECodeSnippetLanguage</key>

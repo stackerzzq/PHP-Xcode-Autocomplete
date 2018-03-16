@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_textbox_set_height ( &lt;#resource $textbox#&gt;, &lt;#int $height#&gt; );</string>
+	<string>newt_textbox_set_height(&lt;#resource $textbox#&gt;, &lt;#int $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>233CCC20-1E96-40D6-BFB2-B6BF92F29D06</string>
 	<key>IDECodeSnippetLanguage</key>

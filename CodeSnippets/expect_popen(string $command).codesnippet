@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>expect_popen ( &lt;#string $command#&gt; );</string>
+	<string>expect_popen(&lt;#string $command#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6E2B1135-461B-4C62-B1BC-B9B2720A1926</string>
 	<key>IDECodeSnippetLanguage</key>

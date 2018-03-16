@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickPixel::__construct ( &lt;#string $color#&gt; );</string>
+	<string>ImagickPixel::__construct(&lt;#string $color#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DDFA7C39-4D58-497F-9001-6F1F0EEBF65B</string>
 	<key>IDECodeSnippetLanguage</key>

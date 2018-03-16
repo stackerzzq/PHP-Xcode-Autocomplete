@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_parse ( &lt;#resource $connection#&gt;, &lt;#string $sql_text#&gt; );</string>
+	<string>oci_parse(&lt;#resource $connection#&gt;, &lt;#string $sql_text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F6643FDE-845F-4DB1-A10E-B55882BFBC77</string>
 	<key>IDECodeSnippetLanguage</key>

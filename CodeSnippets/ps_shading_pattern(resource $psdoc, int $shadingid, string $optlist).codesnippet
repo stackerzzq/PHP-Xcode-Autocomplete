@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_shading_pattern ( &lt;#resource $psdoc#&gt;, &lt;#int $shadingid#&gt;, &lt;#string $optlist#&gt; );</string>
+	<string>ps_shading_pattern(&lt;#resource $psdoc#&gt;, &lt;#int $shadingid#&gt;, &lt;#string $optlist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E9907A1E-371E-4CB1-A248-235B3900BF04</string>
 	<key>IDECodeSnippetLanguage</key>

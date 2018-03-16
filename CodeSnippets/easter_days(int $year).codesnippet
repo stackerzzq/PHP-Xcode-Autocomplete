@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>easter_days ( &lt;#int $year#&gt; );</string>
+	<string>easter_days(&lt;#int $year#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4C55F0A0-5A3A-4E4D-994C-A05BF5ADD83A</string>
 	<key>IDECodeSnippetLanguage</key>

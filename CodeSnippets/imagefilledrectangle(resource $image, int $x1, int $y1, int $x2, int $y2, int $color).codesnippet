@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagefilledrectangle ( &lt;#resource $image#&gt;, &lt;#int $x1#&gt;, &lt;#int $y1#&gt;, &lt;#int $x2#&gt;, &lt;#int $y2#&gt;, &lt;#int $color#&gt; );</string>
+	<string>imagefilledrectangle(&lt;#resource $image#&gt;, &lt;#int $x1#&gt;, &lt;#int $y1#&gt;, &lt;#int $x2#&gt;, &lt;#int $y2#&gt;, &lt;#int $color#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E8642FE5-6BC8-491E-BBE4-DE2F95417A6D</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_rand_ranf (  );</string>
+	<string>stats_rand_ranf();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>13682553-EC6B-42F7-A3F4-B9E3465B402F</string>
 	<key>IDECodeSnippetLanguage</key>

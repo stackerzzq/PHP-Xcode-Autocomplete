@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>array_diff_key ( &lt;#array $array1#&gt;, &lt;#array $array2#&gt;, &lt;#array $...#&gt; );</string>
+	<string>array_diff_key(&lt;#array $array1#&gt;, &lt;#array $array2#&gt;, &lt;#array $...#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5B56F207-04DD-42B2-8899-ECB560167E11</string>
 	<key>IDECodeSnippetLanguage</key>

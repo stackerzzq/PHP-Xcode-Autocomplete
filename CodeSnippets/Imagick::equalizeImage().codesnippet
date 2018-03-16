@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::equalizeImage (  );</string>
+	<string>Imagick::equalizeImage();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>243EFDC2-3C10-4391-BA3E-BC073F833F3D</string>
 	<key>IDECodeSnippetLanguage</key>

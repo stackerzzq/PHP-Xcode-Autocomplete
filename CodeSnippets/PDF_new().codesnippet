@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_new (  );</string>
+	<string>PDF_new();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EF4719F1-7470-49DB-9E81-C571FF21950E</string>
 	<key>IDECodeSnippetLanguage</key>

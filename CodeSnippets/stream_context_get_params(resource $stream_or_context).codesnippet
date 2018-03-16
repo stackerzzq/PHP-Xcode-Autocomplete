@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_context_get_params ( &lt;#resource $stream_or_context#&gt; );</string>
+	<string>stream_context_get_params(&lt;#resource $stream_or_context#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1FACE60E-9DE3-4BE0-94D4-125AA1C305C3</string>
 	<key>IDECodeSnippetLanguage</key>

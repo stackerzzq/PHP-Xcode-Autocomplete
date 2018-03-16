@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_commit ( &lt;#resource $connection#&gt; );</string>
+	<string>oci_commit(&lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BF3705DE-7C3F-46E2-A93E-F6A64202A72F</string>
 	<key>IDECodeSnippetLanguage</key>

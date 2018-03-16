@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>date_create (  );</string>
+	<string>date_create();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1CB92789-0EF0-41D1-9094-E81C8D872E5C</string>
 	<key>IDECodeSnippetLanguage</key>

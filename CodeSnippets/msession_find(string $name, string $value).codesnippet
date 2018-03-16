@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msession_find ( &lt;#string $name#&gt;, &lt;#string $value#&gt; );</string>
+	<string>msession_find(&lt;#string $name#&gt;, &lt;#string $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D4FE8611-5E07-4F5D-B802-C4EE6F4FCF83</string>
 	<key>IDECodeSnippetLanguage</key>

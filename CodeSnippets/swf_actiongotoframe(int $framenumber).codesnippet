@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_actiongotoframe ( &lt;#int $framenumber#&gt; );</string>
+	<string>swf_actiongotoframe(&lt;#int $framenumber#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C96616C3-E7A3-41E9-AD86-898D6ED0C091</string>
 	<key>IDECodeSnippetLanguage</key>

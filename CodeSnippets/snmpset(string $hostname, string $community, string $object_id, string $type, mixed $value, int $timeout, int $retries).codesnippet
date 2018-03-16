@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>snmpset ( &lt;#string $hostname#&gt;, &lt;#string $community#&gt;, &lt;#string $object_id#&gt;, &lt;#string $type#&gt;, &lt;#mixed $value#&gt;, &lt;#int $timeout#&gt;, &lt;#int $retries#&gt; );</string>
+	<string>snmpset(&lt;#string $hostname#&gt;, &lt;#string $community#&gt;, &lt;#string $object_id#&gt;, &lt;#string $type#&gt;, &lt;#mixed $value#&gt;, &lt;#int $timeout#&gt;, &lt;#int $retries#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E68401CC-1A96-413E-AE3C-DA29EBE4A66A</string>
 	<key>IDECodeSnippetLanguage</key>

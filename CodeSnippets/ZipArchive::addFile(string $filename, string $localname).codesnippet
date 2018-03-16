@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ZipArchive::addFile ( &lt;#string $filename#&gt;, &lt;#string $localname#&gt; );</string>
+	<string>ZipArchive::addFile(&lt;#string $filename#&gt;, &lt;#string $localname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>95B5F5FD-00AD-4EC2-AB26-4670DB50DBB8</string>
 	<key>IDECodeSnippetLanguage</key>

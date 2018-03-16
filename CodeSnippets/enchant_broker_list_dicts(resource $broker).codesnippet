@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>enchant_broker_list_dicts ( &lt;#resource $broker#&gt; );</string>
+	<string>enchant_broker_list_dicts(&lt;#resource $broker#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>67D73F12-B055-4D40-B493-7A0E6E5BDDF7</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_objrec2array ( &lt;#string $object_record#&gt;, &lt;#array $format#&gt; );</string>
+	<string>hw_objrec2array(&lt;#string $object_record#&gt;, &lt;#array $format#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>11CF0037-0D09-42D1-ADF5-C681383697C4</string>
 	<key>IDECodeSnippetLanguage</key>

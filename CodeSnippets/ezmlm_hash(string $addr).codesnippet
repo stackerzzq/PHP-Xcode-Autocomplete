@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ezmlm_hash ( &lt;#string $addr#&gt; );</string>
+	<string>ezmlm_hash(&lt;#string $addr#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5B3C90A8-AAF8-48D4-8E74-1B2655587ED7</string>
 	<key>IDECodeSnippetLanguage</key>

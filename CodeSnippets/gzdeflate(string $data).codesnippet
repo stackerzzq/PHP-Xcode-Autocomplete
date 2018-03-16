@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gzdeflate ( &lt;#string $data#&gt; );</string>
+	<string>gzdeflate(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1BC4FCED-AE77-4570-A45A-A37E5B982E5B</string>
 	<key>IDECodeSnippetLanguage</key>

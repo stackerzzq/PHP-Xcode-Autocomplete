@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::createDestination (  );</string>
+	<string>HaruPage::createDestination();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C5EEAFA6-D6E6-44E3-A891-62A80DA5BB7E</string>
 	<key>IDECodeSnippetLanguage</key>

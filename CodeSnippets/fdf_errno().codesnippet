@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_errno (  );</string>
+	<string>fdf_errno();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E1E9E304-9913-4DCE-A634-DF7E8F71C7F1</string>
 	<key>IDECodeSnippetLanguage</key>

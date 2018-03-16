@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::labelImage ( &lt;#string $label#&gt; );</string>
+	<string>Imagick::labelImage(&lt;#string $label#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F2A6B848-7917-439D-9E05-BCEAAD8F2861</string>
 	<key>IDECodeSnippetLanguage</key>

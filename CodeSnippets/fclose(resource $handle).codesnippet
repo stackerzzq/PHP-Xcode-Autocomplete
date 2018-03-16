@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fclose ( &lt;#resource $handle#&gt; );</string>
+	<string>fclose(&lt;#resource $handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7E637EA3-BA87-4EAB-B17A-0329BC39D3B2</string>
 	<key>IDECodeSnippetLanguage</key>

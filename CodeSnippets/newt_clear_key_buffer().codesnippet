@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_clear_key_buffer (  );</string>
+	<string>newt_clear_key_buffer();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B8842230-19D9-4D7F-AF39-247B74035231</string>
 	<key>IDECodeSnippetLanguage</key>

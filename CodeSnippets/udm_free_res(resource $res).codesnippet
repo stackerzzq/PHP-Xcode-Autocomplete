@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_free_res ( &lt;#resource $res#&gt; );</string>
+	<string>udm_free_res(&lt;#resource $res#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8DD2A582-A670-4548-BCEB-CFAE8E15CDBC</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>localeconv (  );</string>
+	<string>localeconv();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1A3A91FE-4312-4432-931D-3D542003605F</string>
 	<key>IDECodeSnippetLanguage</key>

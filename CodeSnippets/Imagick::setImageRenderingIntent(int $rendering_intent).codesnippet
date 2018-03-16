@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setImageRenderingIntent ( &lt;#int $rendering_intent#&gt; );</string>
+	<string>Imagick::setImageRenderingIntent(&lt;#int $rendering_intent#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>124EDE1F-B9F2-43F4-B498-42E339A72A76</string>
 	<key>IDECodeSnippetLanguage</key>

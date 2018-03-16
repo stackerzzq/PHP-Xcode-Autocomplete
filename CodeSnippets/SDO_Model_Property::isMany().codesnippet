@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_Model_Property::isMany (  );</string>
+	<string>SDO_Model_Property::isMany();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>93144BD2-AAD6-419E-BF95-452522E86156</string>
 	<key>IDECodeSnippetLanguage</key>

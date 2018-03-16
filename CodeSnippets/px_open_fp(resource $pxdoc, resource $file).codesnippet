@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>px_open_fp ( &lt;#resource $pxdoc#&gt;, &lt;#resource $file#&gt; );</string>
+	<string>px_open_fp(&lt;#resource $pxdoc#&gt;, &lt;#resource $file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B82FDAD2-BACB-41E4-8F21-D6012DEF1BDB</string>
 	<key>IDECodeSnippetLanguage</key>

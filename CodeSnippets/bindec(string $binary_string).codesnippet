@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bindec ( &lt;#string $binary_string#&gt; );</string>
+	<string>bindec(&lt;#string $binary_string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7603E23F-1D8B-4D5D-87DF-267EB0B9DC51</string>
 	<key>IDECodeSnippetLanguage</key>

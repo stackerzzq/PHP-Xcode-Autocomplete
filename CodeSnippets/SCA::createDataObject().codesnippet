@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SCA::createDataObject (  );</string>
+	<string>SCA::createDataObject();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DD7D03D8-777D-4890-8E87-FE3B405B1025</string>
 	<key>IDECodeSnippetLanguage</key>

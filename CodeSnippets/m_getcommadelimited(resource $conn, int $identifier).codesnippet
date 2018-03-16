@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_getcommadelimited ( &lt;#resource $conn#&gt;, &lt;#int $identifier#&gt; );</string>
+	<string>m_getcommadelimited(&lt;#resource $conn#&gt;, &lt;#int $identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>447E68B6-9876-4F80-B595-6156C4EA38C2</string>
 	<key>IDECodeSnippetLanguage</key>

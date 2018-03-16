@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bbcode_add_element ( &lt;#resource $bbcode_container#&gt;, &lt;#string $tag_name#&gt;, &lt;#array $tag_rules#&gt; );</string>
+	<string>bbcode_add_element(&lt;#resource $bbcode_container#&gt;, &lt;#string $tag_name#&gt;, &lt;#array $tag_rules#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B3396889-68E9-46C5-BEF1-D77FDBADB2E0</string>
 	<key>IDECodeSnippetLanguage</key>

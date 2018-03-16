@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>link ( &lt;#string $from_path#&gt;, &lt;#string $to_path#&gt; );</string>
+	<string>link(&lt;#string $from_path#&gt;, &lt;#string $to_path#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>38539BF4-1D42-438C-A3F1-1AA8BAA95623</string>
 	<key>IDECodeSnippetLanguage</key>

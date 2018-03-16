@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yaz_scan ( &lt;#resource $id#&gt;, &lt;#string $type#&gt;, &lt;#string $startterm#&gt;, &lt;#array $flags#&gt; );</string>
+	<string>yaz_scan(&lt;#resource $id#&gt;, &lt;#string $type#&gt;, &lt;#string $startterm#&gt;, &lt;#array $flags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>09C7681C-7B92-4401-8348-B2B50958869F</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Swish::__construct ( &lt;#string $index_names#&gt; );</string>
+	<string>Swish::__construct(&lt;#string $index_names#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C5D55818-B3BC-45A6-B592-AEF2AC55788D</string>
 	<key>IDECodeSnippetLanguage</key>

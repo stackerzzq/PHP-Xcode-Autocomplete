@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gmp_random (  );</string>
+	<string>gmp_random();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>44EAB4CB-98B0-46CE-AA45-791D9F00291D</string>
 	<key>IDECodeSnippetLanguage</key>

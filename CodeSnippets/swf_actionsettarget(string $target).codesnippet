@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_actionsettarget ( &lt;#string $target#&gt; );</string>
+	<string>swf_actionsettarget(&lt;#string $target#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7A5021F2-BFCE-455E-B7BA-55FE8B64C4BB</string>
 	<key>IDECodeSnippetLanguage</key>

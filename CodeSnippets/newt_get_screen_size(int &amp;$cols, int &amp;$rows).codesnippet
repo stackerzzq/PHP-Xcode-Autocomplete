@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_get_screen_size ( &lt;#int &amp;$cols#&gt;, &lt;#int &amp;$rows#&gt; );</string>
+	<string>newt_get_screen_size(&lt;#int &amp;$cols#&gt;, &lt;#int &amp;$rows#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5B76310C-9F03-4746-A5D2-69135BDE9BCF</string>
 	<key>IDECodeSnippetLanguage</key>

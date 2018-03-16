@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gzpassthru ( &lt;#resource $zp#&gt; );</string>
+	<string>gzpassthru(&lt;#resource $zp#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1226D43B-F109-47EF-B3A5-EA2BBAFADEE8</string>
 	<key>IDECodeSnippetLanguage</key>

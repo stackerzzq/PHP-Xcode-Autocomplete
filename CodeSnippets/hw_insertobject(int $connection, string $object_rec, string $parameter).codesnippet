@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_insertobject ( &lt;#int $connection#&gt;, &lt;#string $object_rec#&gt;, &lt;#string $parameter#&gt; );</string>
+	<string>hw_insertobject(&lt;#int $connection#&gt;, &lt;#string $object_rec#&gt;, &lt;#string $parameter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F48BBC3F-0404-48A2-B072-B16F36BAF7A7</string>
 	<key>IDECodeSnippetLanguage</key>

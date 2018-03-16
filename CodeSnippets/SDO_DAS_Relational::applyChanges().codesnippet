@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_Relational::applyChanges (  );</string>
+	<string>SDO_DAS_Relational::applyChanges();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>496BEA1F-5730-4169-96A9-4DF59DD22DE1</string>
 	<key>IDECodeSnippetLanguage</key>

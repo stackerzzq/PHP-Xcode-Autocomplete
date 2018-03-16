@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>runkit_function_copy ( &lt;#string $funcname#&gt;, &lt;#string $targetname#&gt; );</string>
+	<string>runkit_function_copy(&lt;#string $funcname#&gt;, &lt;#string $targetname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A62469A8-A651-4AFE-9905-CA1611FE6536</string>
 	<key>IDECodeSnippetLanguage</key>

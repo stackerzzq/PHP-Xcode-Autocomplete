@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_api_attribute ( &lt;#string $name#&gt;, &lt;#string $value#&gt; );</string>
+	<string>hw_api_attribute(&lt;#string $name#&gt;, &lt;#string $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>159C68C5-9A10-46CE-913F-2A2408247AFD</string>
 	<key>IDECodeSnippetLanguage</key>

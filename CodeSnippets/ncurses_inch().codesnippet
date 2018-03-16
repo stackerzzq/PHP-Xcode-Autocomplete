@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_inch (  );</string>
+	<string>ncurses_inch();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A585EFBD-EEC7-4701-86A1-C12B2D8953F8</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ZipArchive::getCommentName ( &lt;#string $name#&gt;, &lt;#int $flags#&gt; );</string>
+	<string>ZipArchive::getCommentName(&lt;#string $name#&gt;, &lt;#int $flags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>97749BD1-E62B-4595-9CB5-52F6C30DEDD9</string>
 	<key>IDECodeSnippetLanguage</key>

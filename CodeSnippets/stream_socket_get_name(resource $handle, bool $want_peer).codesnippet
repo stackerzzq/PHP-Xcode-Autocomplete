@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_socket_get_name ( &lt;#resource $handle#&gt;, &lt;#bool $want_peer#&gt; );</string>
+	<string>stream_socket_get_name(&lt;#resource $handle#&gt;, &lt;#bool $want_peer#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2C446C03-6865-428A-8BCE-2A141C2F9348</string>
 	<key>IDECodeSnippetLanguage</key>

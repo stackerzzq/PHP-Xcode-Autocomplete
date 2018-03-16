@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setDown ( &lt;#SWFShape $shape#&gt; );</string>
+	<string>setDown(&lt;#SWFShape $shape#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4FB32FBD-FD80-4C31-B5D4-D7F8A2BD765D</string>
 	<key>IDECodeSnippetLanguage</key>

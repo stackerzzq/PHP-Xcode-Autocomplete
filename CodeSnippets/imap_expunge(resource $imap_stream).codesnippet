@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_expunge ( &lt;#resource $imap_stream#&gt; );</string>
+	<string>imap_expunge(&lt;#resource $imap_stream#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C6063AF6-A7BA-4F50-8CC9-D6F8191514CD</string>
 	<key>IDECodeSnippetLanguage</key>

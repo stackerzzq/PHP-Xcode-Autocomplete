@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sybase_min_message_severity ( &lt;#int $severity#&gt; );</string>
+	<string>sybase_min_message_severity(&lt;#int $severity#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>97FF3C76-A5D3-4580-A8B4-DEEDEE59B22A</string>
 	<key>IDECodeSnippetLanguage</key>

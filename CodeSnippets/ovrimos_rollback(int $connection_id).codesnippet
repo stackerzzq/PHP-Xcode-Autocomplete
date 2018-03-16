@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ovrimos_rollback ( &lt;#int $connection_id#&gt; );</string>
+	<string>ovrimos_rollback(&lt;#int $connection_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>105485B7-AD19-47D3-9EA0-606BCA71D4C3</string>
 	<key>IDECodeSnippetLanguage</key>

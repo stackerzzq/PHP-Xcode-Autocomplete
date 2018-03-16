@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>notes_header_info ( &lt;#string $server#&gt;, &lt;#string $mailbox#&gt;, &lt;#int $msg_number#&gt; );</string>
+	<string>notes_header_info(&lt;#string $server#&gt;, &lt;#string $mailbox#&gt;, &lt;#int $msg_number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>18E8D0EC-1AD5-4F9D-BFC0-07C0C6C4D7C2</string>
 	<key>IDECodeSnippetLanguage</key>

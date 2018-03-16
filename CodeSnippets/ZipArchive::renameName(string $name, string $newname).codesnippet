@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ZipArchive::renameName ( &lt;#string $name#&gt;, &lt;#string $newname#&gt; );</string>
+	<string>ZipArchive::renameName(&lt;#string $name#&gt;, &lt;#string $newname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1C475993-802B-4F17-8E9C-DE0C206DBA49</string>
 	<key>IDECodeSnippetLanguage</key>

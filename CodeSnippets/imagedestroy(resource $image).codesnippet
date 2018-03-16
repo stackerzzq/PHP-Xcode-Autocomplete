@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagedestroy ( &lt;#resource $image#&gt; );</string>
+	<string>imagedestroy(&lt;#resource $image#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1C72DA32-DF1E-49F5-A340-06B4E2EC5980</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>json_encode ( &lt;#mixed $value#&gt; );</string>
+	<string>json_encode(&lt;#mixed $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6A74723C-D51E-47F5-9E0C-0DC26C2FF615</string>
 	<key>IDECodeSnippetLanguage</key>

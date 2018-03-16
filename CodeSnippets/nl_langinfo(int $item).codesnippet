@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>nl_langinfo ( &lt;#int $item#&gt; );</string>
+	<string>nl_langinfo(&lt;#int $item#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A68CE859-E9FD-48EC-8026-6300C8CB46D5</string>
 	<key>IDECodeSnippetLanguage</key>

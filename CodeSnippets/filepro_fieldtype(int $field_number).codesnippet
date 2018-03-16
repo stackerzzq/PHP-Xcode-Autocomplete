@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>filepro_fieldtype ( &lt;#int $field_number#&gt; );</string>
+	<string>filepro_fieldtype(&lt;#int $field_number#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>19E4DF28-4410-4650-A6E7-FC5C166CF221</string>
 	<key>IDECodeSnippetLanguage</key>

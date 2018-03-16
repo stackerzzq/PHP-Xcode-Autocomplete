@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_isatty ( &lt;#int $fd#&gt; );</string>
+	<string>posix_isatty(&lt;#int $fd#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>84169A98-488C-4F34-AC40-F20C5B95FA4F</string>
 	<key>IDECodeSnippetLanguage</key>

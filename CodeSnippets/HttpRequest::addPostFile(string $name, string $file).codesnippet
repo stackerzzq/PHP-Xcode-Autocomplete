@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpRequest::addPostFile ( &lt;#string $name#&gt;, &lt;#string $file#&gt; );</string>
+	<string>HttpRequest::addPostFile(&lt;#string $name#&gt;, &lt;#string $file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>13A6F877-109C-4E48-8FDA-8ACCCAEDCD8B</string>
 	<key>IDECodeSnippetLanguage</key>

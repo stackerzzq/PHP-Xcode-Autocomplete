@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::getImageOrientation (  );</string>
+	<string>Imagick::getImageOrientation();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A522D793-6566-4857-9E94-388BFEC74A0B</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>event_buffer_fd_set ( &lt;#resource $bevent#&gt;, &lt;#resource $fd#&gt; );</string>
+	<string>event_buffer_fd_set(&lt;#resource $bevent#&gt;, &lt;#resource $fd#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DA89E1A3-97D2-411F-9F19-0D3D4D486170</string>
 	<key>IDECodeSnippetLanguage</key>

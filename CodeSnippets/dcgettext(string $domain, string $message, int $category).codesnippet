@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dcgettext ( &lt;#string $domain#&gt;, &lt;#string $message#&gt;, &lt;#int $category#&gt; );</string>
+	<string>dcgettext(&lt;#string $domain#&gt;, &lt;#string $message#&gt;, &lt;#int $category#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>57DA6742-59E8-4462-8954-FC01C065EAD0</string>
 	<key>IDECodeSnippetLanguage</key>

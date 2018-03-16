@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SwishSearch-&gt;resetLimit (  );</string>
+	<string>SwishSearch-&gt;resetLimit();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8BE8A5B6-00E9-49A1-B453-F71EEF9E58FB</string>
 	<key>IDECodeSnippetLanguage</key>

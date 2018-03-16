@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_ps_surface_dsc_begin_setup ( &lt;#CairoPsSurface $surface#&gt; );</string>
+	<string>cairo_ps_surface_dsc_begin_setup(&lt;#CairoPsSurface $surface#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>85F96C09-A6FA-4487-81AB-F567057084FE</string>
 	<key>IDECodeSnippetLanguage</key>

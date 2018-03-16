@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_getcell ( &lt;#resource $conn#&gt;, &lt;#int $identifier#&gt;, &lt;#string $column#&gt;, &lt;#int $row#&gt; );</string>
+	<string>m_getcell(&lt;#resource $conn#&gt;, &lt;#int $identifier#&gt;, &lt;#string $column#&gt;, &lt;#int $row#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8F32393A-9CDC-425B-9B5A-E0AC72103DF3</string>
 	<key>IDECodeSnippetLanguage</key>

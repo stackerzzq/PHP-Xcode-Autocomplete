@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>session_id ( &lt;#string $id#&gt; );</string>
+	<string>session_id(&lt;#string $id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>94D41816-C92A-4218-8198-CCBFDE3FBD95</string>
 	<key>IDECodeSnippetLanguage</key>

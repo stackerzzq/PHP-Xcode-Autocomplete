@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_cancel ( &lt;#resource $statement#&gt; );</string>
+	<string>oci_cancel(&lt;#resource $statement#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DF0A8A96-332B-4F70-B4E3-DE69AF5E7978</string>
 	<key>IDECodeSnippetLanguage</key>

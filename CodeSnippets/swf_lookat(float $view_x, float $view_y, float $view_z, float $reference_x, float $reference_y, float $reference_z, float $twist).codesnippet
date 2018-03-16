@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_lookat ( &lt;#float $view_x#&gt;, &lt;#float $view_y#&gt;, &lt;#float $view_z#&gt;, &lt;#float $reference_x#&gt;, &lt;#float $reference_y#&gt;, &lt;#float $reference_z#&gt;, &lt;#float $twist#&gt; );</string>
+	<string>swf_lookat(&lt;#float $view_x#&gt;, &lt;#float $view_y#&gt;, &lt;#float $view_z#&gt;, &lt;#float $reference_x#&gt;, &lt;#float $reference_y#&gt;, &lt;#float $reference_z#&gt;, &lt;#float $twist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DF019E84-7C0B-49BB-A682-F2783464F76D</string>
 	<key>IDECodeSnippetLanguage</key>

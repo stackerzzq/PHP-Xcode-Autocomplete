@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_new_cursor ( &lt;#resource $connection#&gt; );</string>
+	<string>oci_new_cursor(&lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>94C23377-DD79-4B51-939E-6D0ECD950A90</string>
 	<key>IDECodeSnippetLanguage</key>

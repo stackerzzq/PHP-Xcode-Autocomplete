@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_has_ic (  );</string>
+	<string>ncurses_has_ic();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D7292595-F259-40D1-9F25-79677B8027F4</string>
 	<key>IDECodeSnippetLanguage</key>

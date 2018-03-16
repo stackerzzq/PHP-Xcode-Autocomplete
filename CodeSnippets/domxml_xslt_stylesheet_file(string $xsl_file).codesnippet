@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>domxml_xslt_stylesheet_file ( &lt;#string $xsl_file#&gt; );</string>
+	<string>domxml_xslt_stylesheet_file(&lt;#string $xsl_file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>32DFC005-1021-4D23-8AA2-3FCAD6DD5371</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomNode-&gt;set_namespace ( &lt;#string $uri#&gt;, &lt;#string $prefix#&gt; );</string>
+	<string>DomNode-&gt;set_namespace(&lt;#string $uri#&gt;, &lt;#string $prefix#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>121F6658-2A55-4C67-AC5E-BD9842169B36</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>is_readable ( &lt;#string $filename#&gt; );</string>
+	<string>is_readable(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8E05D0D4-3ECE-4EC2-A898-8413052DE5EC</string>
 	<key>IDECodeSnippetLanguage</key>

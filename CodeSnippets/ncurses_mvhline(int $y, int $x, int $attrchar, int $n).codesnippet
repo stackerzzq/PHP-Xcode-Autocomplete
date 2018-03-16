@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_mvhline ( &lt;#int $y#&gt;, &lt;#int $x#&gt;, &lt;#int $attrchar#&gt;, &lt;#int $n#&gt; );</string>
+	<string>ncurses_mvhline(&lt;#int $y#&gt;, &lt;#int $x#&gt;, &lt;#int $attrchar#&gt;, &lt;#int $n#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>435A9688-14D0-47B2-BE6F-AED7BC99B85D</string>
 	<key>IDECodeSnippetLanguage</key>

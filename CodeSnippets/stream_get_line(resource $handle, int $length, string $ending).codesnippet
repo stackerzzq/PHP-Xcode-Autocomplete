@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stream_get_line ( &lt;#resource $handle#&gt;, &lt;#int $length#&gt;, &lt;#string $ending#&gt; );</string>
+	<string>stream_get_line(&lt;#resource $handle#&gt;, &lt;#int $length#&gt;, &lt;#string $ending#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>888F70D0-986E-40AA-B693-D01193D83E50</string>
 	<key>IDECodeSnippetLanguage</key>

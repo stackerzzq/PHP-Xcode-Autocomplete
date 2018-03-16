@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getRGBStroke (  );</string>
+	<string>HaruPage::getRGBStroke();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4CE73DE1-E0A5-4813-9A88-FE3E211B723D</string>
 	<key>IDECodeSnippetLanguage</key>

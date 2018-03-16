@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_getrlimit (  );</string>
+	<string>posix_getrlimit();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8D30AD50-694C-4085-8FBB-7F94A4AAE9D4</string>
 	<key>IDECodeSnippetLanguage</key>

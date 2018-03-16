@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::skewX ( &lt;#float $degrees#&gt; );</string>
+	<string>ImagickDraw::skewX(&lt;#float $degrees#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C3E9E5E4-C4C2-4ADC-91A8-8C09380DDEE4</string>
 	<key>IDECodeSnippetLanguage</key>

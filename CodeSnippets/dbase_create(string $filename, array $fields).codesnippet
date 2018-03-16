@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbase_create ( &lt;#string $filename#&gt;, &lt;#array $fields#&gt; );</string>
+	<string>dbase_create(&lt;#string $filename#&gt;, &lt;#array $fields#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C87DB6A0-9201-462B-BCFF-7416A2CEE7C3</string>
 	<key>IDECodeSnippetLanguage</key>

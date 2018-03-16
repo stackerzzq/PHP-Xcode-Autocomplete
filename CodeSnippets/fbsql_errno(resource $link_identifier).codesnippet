@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fbsql_errno ( &lt;#resource $link_identifier#&gt; );</string>
+	<string>fbsql_errno(&lt;#resource $link_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>900FC46B-5566-4CEF-9557-425EF308C6ED</string>
 	<key>IDECodeSnippetLanguage</key>

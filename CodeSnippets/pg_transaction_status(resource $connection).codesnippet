@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_transaction_status ( &lt;#resource $connection#&gt; );</string>
+	<string>pg_transaction_status(&lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4F6D4946-86F3-4DEB-9E31-B69A5E40B643</string>
 	<key>IDECodeSnippetLanguage</key>

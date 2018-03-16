@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_read ( &lt;#resource $link_identifier#&gt;, &lt;#string $base_dn#&gt;, &lt;#string $filter#&gt;, &lt;#array $attributes#&gt;, &lt;#int $attrsonly#&gt;, &lt;#int $sizelimit#&gt;, &lt;#int $timelimit#&gt;, &lt;#int $deref#&gt; );</string>
+	<string>ldap_read(&lt;#resource $link_identifier#&gt;, &lt;#string $base_dn#&gt;, &lt;#string $filter#&gt;, &lt;#array $attributes#&gt;, &lt;#int $attrsonly#&gt;, &lt;#int $sizelimit#&gt;, &lt;#int $timelimit#&gt;, &lt;#int $deref#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>201861D6-4580-4E3E-B18F-44C93E44EEA5</string>
 	<key>IDECodeSnippetLanguage</key>

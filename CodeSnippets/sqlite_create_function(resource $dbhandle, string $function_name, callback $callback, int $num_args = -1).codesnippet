@@ -17,7 +17,7 @@
 	   SQLiteDatabase
 
 	    void createFunction
-	     ( string $function_name#&gt;, &lt;#callback $callback#&gt; );</string>
+	    (string $function_name#&gt;, &lt;#callback $callback#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2703E004-6BA5-42CC-87C6-AB0AA15EB20A</string>
 	<key>IDECodeSnippetLanguage</key>

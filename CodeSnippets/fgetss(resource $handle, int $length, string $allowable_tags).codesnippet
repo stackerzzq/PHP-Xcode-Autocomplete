@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fgetss ( &lt;#resource $handle#&gt;, &lt;#int $length#&gt;, &lt;#string $allowable_tags#&gt; );</string>
+	<string>fgetss(&lt;#resource $handle#&gt;, &lt;#int $length#&gt;, &lt;#string $allowable_tags#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4B3BE5A0-484E-4690-A230-4CA85DF2001D</string>
 	<key>IDECodeSnippetLanguage</key>

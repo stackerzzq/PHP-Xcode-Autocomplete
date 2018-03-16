@@ -14,7 +14,7 @@
 
 
 	    int rand
-	     ( int $min#&gt;, &lt;#int $max#&gt; );</string>
+	    (int $min#&gt;, &lt;#int $max#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0FA50AB9-9FB0-4BC3-B5FB-F2D422425DEF</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>vpopmail_set_user_quota ( &lt;#string $user#&gt;, &lt;#string $domain#&gt;, &lt;#string $quota#&gt; );</string>
+	<string>vpopmail_set_user_quota(&lt;#string $user#&gt;, &lt;#string $domain#&gt;, &lt;#string $quota#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1D136143-9682-4986-A20C-A64A7F492E27</string>
 	<key>IDECodeSnippetLanguage</key>

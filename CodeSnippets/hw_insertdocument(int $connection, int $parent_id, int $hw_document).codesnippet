@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_insertdocument ( &lt;#int $connection#&gt;, &lt;#int $parent_id#&gt;, &lt;#int $hw_document#&gt; );</string>
+	<string>hw_insertdocument(&lt;#int $connection#&gt;, &lt;#int $parent_id#&gt;, &lt;#int $hw_document#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>91E997AD-8CC1-495E-9278-CB220C1C669A</string>
 	<key>IDECodeSnippetLanguage</key>

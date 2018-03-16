@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_getobjectbyqueryobj ( &lt;#int $connection#&gt;, &lt;#string $query#&gt;, &lt;#int $max_hits#&gt; );</string>
+	<string>hw_getobjectbyqueryobj(&lt;#int $connection#&gt;, &lt;#string $query#&gt;, &lt;#int $max_hits#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EB8FD89B-3E52-4C2D-9AEC-8373C3B85F8A</string>
 	<key>IDECodeSnippetLanguage</key>

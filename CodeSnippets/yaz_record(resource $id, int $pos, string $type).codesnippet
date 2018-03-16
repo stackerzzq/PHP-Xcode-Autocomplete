@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>yaz_record ( &lt;#resource $id#&gt;, &lt;#int $pos#&gt;, &lt;#string $type#&gt; );</string>
+	<string>yaz_record(&lt;#resource $id#&gt;, &lt;#int $pos#&gt;, &lt;#string $type#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B1C0AE8B-8672-4B83-AD6D-EBB8FFB46E8A</string>
 	<key>IDECodeSnippetLanguage</key>

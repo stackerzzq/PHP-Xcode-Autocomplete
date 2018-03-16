@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_cp ( &lt;#int $connection#&gt;, &lt;#array $object_id_array#&gt;, &lt;#int $destination_id#&gt; );</string>
+	<string>hw_cp(&lt;#int $connection#&gt;, &lt;#array $object_id_array#&gt;, &lt;#int $destination_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BE54EBC4-3BA1-4648-A4E8-7BFDA348308A</string>
 	<key>IDECodeSnippetLanguage</key>

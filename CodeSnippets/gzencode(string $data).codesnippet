@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gzencode ( &lt;#string $data#&gt; );</string>
+	<string>gzencode(&lt;#string $data#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9D06C6EA-1BF4-4C42-B7F4-A4A4FDE33711</string>
 	<key>IDECodeSnippetLanguage</key>

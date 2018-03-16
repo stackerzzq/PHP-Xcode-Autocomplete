@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>radius_put_vendor_string ( &lt;#resource $radius_handle#&gt;, &lt;#int $vendor#&gt;, &lt;#int $type#&gt;, &lt;#string $value#&gt; );</string>
+	<string>radius_put_vendor_string(&lt;#resource $radius_handle#&gt;, &lt;#int $vendor#&gt;, &lt;#int $type#&gt;, &lt;#string $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3A8EFFD6-EBD7-4219-975B-F0422A8C92D4</string>
 	<key>IDECodeSnippetLanguage</key>

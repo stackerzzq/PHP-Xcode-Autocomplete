@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_current ( &lt;#resource $result#&gt; );</string>
+	<string>sqlite_current(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2C0EC37A-999C-4F7A-BAA6-D9936FA7C89E</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpQueryString::singleton (  );</string>
+	<string>HttpQueryString::singleton();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AED8B689-00DD-46A4-97FB-C7CDF22D7B40</string>
 	<key>IDECodeSnippetLanguage</key>

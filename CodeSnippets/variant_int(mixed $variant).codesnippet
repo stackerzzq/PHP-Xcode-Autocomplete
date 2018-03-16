@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>variant_int ( &lt;#mixed $variant#&gt; );</string>
+	<string>variant_int(&lt;#mixed $variant#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>130AA9AA-D840-4FE1-871C-A9ADD07B50E1</string>
 	<key>IDECodeSnippetLanguage</key>

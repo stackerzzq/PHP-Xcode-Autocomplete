@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gc_enable (  );</string>
+	<string>gc_enable();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>277D89D5-F88A-43E6-A7B4-D26BC5B19B01</string>
 	<key>IDECodeSnippetLanguage</key>

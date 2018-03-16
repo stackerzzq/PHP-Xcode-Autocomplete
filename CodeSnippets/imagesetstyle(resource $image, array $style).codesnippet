@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagesetstyle ( &lt;#resource $image#&gt;, &lt;#array $style#&gt; );</string>
+	<string>imagesetstyle(&lt;#resource $image#&gt;, &lt;#array $style#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>75BB1CFD-2B01-45E9-B86B-BA34FE335530</string>
 	<key>IDECodeSnippetLanguage</key>

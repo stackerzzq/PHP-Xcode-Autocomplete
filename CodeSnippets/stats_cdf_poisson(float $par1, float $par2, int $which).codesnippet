@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_cdf_poisson ( &lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#int $which#&gt; );</string>
+	<string>stats_cdf_poisson(&lt;#float $par1#&gt;, &lt;#float $par2#&gt;, &lt;#int $which#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>77B923DC-6E96-43D0-A7A5-3B7F850FBF1A</string>
 	<key>IDECodeSnippetLanguage</key>

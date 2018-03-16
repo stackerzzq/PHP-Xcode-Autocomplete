@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>nsapi_virtual ( &lt;#string $uri#&gt; );</string>
+	<string>nsapi_virtual(&lt;#string $uri#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>482783E2-3F6C-4C79-B4FD-29E7A172E37F</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>DomDocument-&gt;get_element_by_id ( &lt;#string $id#&gt; );</string>
+	<string>DomDocument-&gt;get_element_by_id(&lt;#string $id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>41BADE2A-4843-4304-8771-9AF28D6B8758</string>
 	<key>IDECodeSnippetLanguage</key>

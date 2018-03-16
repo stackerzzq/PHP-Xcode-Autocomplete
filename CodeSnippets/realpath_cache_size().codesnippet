@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>realpath_cache_size (  );</string>
+	<string>realpath_cache_size();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1D88D20E-6F92-4CBB-BBA7-050713217251</string>
 	<key>IDECodeSnippetLanguage</key>

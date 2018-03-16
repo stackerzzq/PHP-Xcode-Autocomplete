@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>base_convert ( &lt;#string $number#&gt;, &lt;#int $frombase#&gt;, &lt;#int $tobase#&gt; );</string>
+	<string>base_convert(&lt;#string $number#&gt;, &lt;#int $frombase#&gt;, &lt;#int $tobase#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A47A8888-E660-423E-A1CF-C28127503F88</string>
 	<key>IDECodeSnippetLanguage</key>

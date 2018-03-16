@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_control_point_browse_start ( &lt;#resource $cpoint#&gt; );</string>
+	<string>gupnp_control_point_browse_start(&lt;#resource $cpoint#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D6126AFD-73CF-4D20-AE81-AD6A83A6AF40</string>
 	<key>IDECodeSnippetLanguage</key>

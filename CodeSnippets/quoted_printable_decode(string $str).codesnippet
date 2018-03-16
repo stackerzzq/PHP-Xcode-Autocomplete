@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>quoted_printable_decode ( &lt;#string $str#&gt; );</string>
+	<string>quoted_printable_decode(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>298A80C9-483A-4352-8F99-1F6267C63754</string>
 	<key>IDECodeSnippetLanguage</key>

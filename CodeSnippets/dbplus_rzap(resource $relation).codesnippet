@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dbplus_rzap ( &lt;#resource $relation#&gt; );</string>
+	<string>dbplus_rzap(&lt;#resource $relation#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>43FBE1B2-98FC-4322-A9A2-E57582257809</string>
 	<key>IDECodeSnippetLanguage</key>

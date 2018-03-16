@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ob_tidyhandler ( &lt;#string $input#&gt;, &lt;#int $mode#&gt; );</string>
+	<string>ob_tidyhandler(&lt;#string $input#&gt;, &lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E0A62DB4-8EBA-40CC-9191-3BA0013908FF</string>
 	<key>IDECodeSnippetLanguage</key>

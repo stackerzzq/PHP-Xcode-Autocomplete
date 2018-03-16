@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::sigmoidalContrastImage ( &lt;#bool $sharpen#&gt;, &lt;#float $alpha#&gt;, &lt;#float $beta#&gt; );</string>
+	<string>Imagick::sigmoidalContrastImage(&lt;#bool $sharpen#&gt;, &lt;#float $alpha#&gt;, &lt;#float $beta#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F37CDB15-E101-4CA2-8180-D69B4BA743C2</string>
 	<key>IDECodeSnippetLanguage</key>

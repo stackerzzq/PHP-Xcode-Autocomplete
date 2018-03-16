@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_rpl_probe ( &lt;#resource $link#&gt; );</string>
+	<string>maxdb_rpl_probe(&lt;#resource $link#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C26DA8A5-4BE5-4C64-B404-3AA31E317959</string>
 	<key>IDECodeSnippetLanguage</key>

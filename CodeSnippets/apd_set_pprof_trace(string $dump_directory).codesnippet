@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>apd_set_pprof_trace ( &lt;#string $dump_directory#&gt; );</string>
+	<string>apd_set_pprof_trace(&lt;#string $dump_directory#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E4DDE4F8-29AB-4708-976F-F80F5EC1BE22</string>
 	<key>IDECodeSnippetLanguage</key>

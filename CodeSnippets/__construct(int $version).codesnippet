@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>__construct ( &lt;#int $version#&gt; );</string>
+	<string>__construct(&lt;#int $version#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FDF4E2C4-FF18-439C-8868-BB943BEA5235</string>
 	<key>IDECodeSnippetLanguage</key>

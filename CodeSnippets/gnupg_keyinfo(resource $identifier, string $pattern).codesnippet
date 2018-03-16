@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gnupg_keyinfo ( &lt;#resource $identifier#&gt;, &lt;#string $pattern#&gt; );</string>
+	<string>gnupg_keyinfo(&lt;#resource $identifier#&gt;, &lt;#string $pattern#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>808B5907-C562-492D-8AB3-C12FED9E63E5</string>
 	<key>IDECodeSnippetLanguage</key>

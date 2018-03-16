@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>interface_exists ( &lt;#string $interface_name#&gt; );</string>
+	<string>interface_exists(&lt;#string $interface_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7C0EFAC8-CA54-4C45-B553-592CE981A6CF</string>
 	<key>IDECodeSnippetLanguage</key>

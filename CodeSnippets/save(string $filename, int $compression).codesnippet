@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>save ( &lt;#string $filename#&gt;, &lt;#int $compression#&gt; );</string>
+	<string>save(&lt;#string $filename#&gt;, &lt;#int $compression#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F2B0D786-42BC-47E5-98A5-9CF4DF4E3092</string>
 	<key>IDECodeSnippetLanguage</key>

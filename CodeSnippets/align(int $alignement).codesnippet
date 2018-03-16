@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>align ( &lt;#int $alignement#&gt; );</string>
+	<string>align(&lt;#int $alignement#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AEBFE0DB-11DC-44B8-8BA8-8DDCE8D98AE3</string>
 	<key>IDECodeSnippetLanguage</key>

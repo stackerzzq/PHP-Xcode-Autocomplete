@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_wmove ( &lt;#resource $window#&gt;, &lt;#int $y#&gt;, &lt;#int $x#&gt; );</string>
+	<string>ncurses_wmove(&lt;#resource $window#&gt;, &lt;#int $y#&gt;, &lt;#int $x#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A240D967-B0E7-46D4-AA7A-CAAEC0BCF92B</string>
 	<key>IDECodeSnippetLanguage</key>

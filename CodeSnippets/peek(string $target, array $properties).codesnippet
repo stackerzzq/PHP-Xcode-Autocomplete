@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>peek ( &lt;#string $target#&gt;, &lt;#array $properties#&gt; );</string>
+	<string>peek(&lt;#string $target#&gt;, &lt;#array $properties#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AF06BD2E-A3C0-481D-B773-735B5C981B7C</string>
 	<key>IDECodeSnippetLanguage</key>

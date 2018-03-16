@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagepstext ( &lt;#resource $image#&gt;, &lt;#string $text#&gt;, &lt;#resource $font_index#&gt;, &lt;#int $size#&gt;, &lt;#int $foreground#&gt;, &lt;#int $background#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt; );</string>
+	<string>imagepstext(&lt;#resource $image#&gt;, &lt;#string $text#&gt;, &lt;#resource $font_index#&gt;, &lt;#int $size#&gt;, &lt;#int $foreground#&gt;, &lt;#int $background#&gt;, &lt;#int $x#&gt;, &lt;#int $y#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A9914BD3-0FFC-4ED7-9C7B-E3846619E576</string>
 	<key>IDECodeSnippetLanguage</key>

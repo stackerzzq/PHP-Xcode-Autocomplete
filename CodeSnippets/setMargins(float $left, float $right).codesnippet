@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setMargins ( &lt;#float $left#&gt;, &lt;#float $right#&gt; );</string>
+	<string>setMargins(&lt;#float $left#&gt;, &lt;#float $right#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>720EEE19-6A10-4437-8887-83F9D5282D54</string>
 	<key>IDECodeSnippetLanguage</key>

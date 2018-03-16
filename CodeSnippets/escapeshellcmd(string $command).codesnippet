@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>escapeshellcmd ( &lt;#string $command#&gt; );</string>
+	<string>escapeshellcmd(&lt;#string $command#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>01B73D12-05D6-411C-8D2C-ECC0EDC97DCA</string>
 	<key>IDECodeSnippetLanguage</key>

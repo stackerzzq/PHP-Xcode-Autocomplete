@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_uwait ( &lt;#int $microsecs#&gt; );</string>
+	<string>m_uwait(&lt;#int $microsecs#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>60971093-C6B3-4D58-9953-7A6B4B764BC6</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_connect (  );</string>
+	<string>ldap_connect();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CF84375D-EABD-4328-8C8C-46B08405E687</string>
 	<key>IDECodeSnippetLanguage</key>

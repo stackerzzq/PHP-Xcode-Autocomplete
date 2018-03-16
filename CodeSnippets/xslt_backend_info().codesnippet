@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xslt_backend_info (  );</string>
+	<string>xslt_backend_info();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C174654E-B245-4D60-AD40-8138B40F19E6</string>
 	<key>IDECodeSnippetLanguage</key>

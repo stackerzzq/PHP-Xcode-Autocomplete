@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xml_parser_free ( &lt;#resource $parser#&gt; );</string>
+	<string>xml_parser_free(&lt;#resource $parser#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CCB0867A-2C04-4700-B358-B7DC08A4D2A0</string>
 	<key>IDECodeSnippetLanguage</key>

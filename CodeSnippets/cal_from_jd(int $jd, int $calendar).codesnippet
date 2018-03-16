@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cal_from_jd ( &lt;#int $jd#&gt;, &lt;#int $calendar#&gt; );</string>
+	<string>cal_from_jd(&lt;#int $jd#&gt;, &lt;#int $calendar#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>12018081-7383-42F6-8BE1-BD8148ACD7BF</string>
 	<key>IDECodeSnippetLanguage</key>

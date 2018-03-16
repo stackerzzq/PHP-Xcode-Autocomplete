@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ob_iconv_handler ( &lt;#string $contents#&gt;, &lt;#int $status#&gt; );</string>
+	<string>ob_iconv_handler(&lt;#string $contents#&gt;, &lt;#int $status#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>08A8919D-1EDD-4614-8915-858FD936D61A</string>
 	<key>IDECodeSnippetLanguage</key>

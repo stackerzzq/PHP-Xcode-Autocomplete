@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sem_remove ( &lt;#resource $sem_identifier#&gt; );</string>
+	<string>sem_remove(&lt;#resource $sem_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C4420B78-C67E-477E-8AEB-027DB6DFA8B3</string>
 	<key>IDECodeSnippetLanguage</key>

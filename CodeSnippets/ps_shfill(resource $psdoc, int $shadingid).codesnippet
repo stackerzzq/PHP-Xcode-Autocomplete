@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_shfill ( &lt;#resource $psdoc#&gt;, &lt;#int $shadingid#&gt; );</string>
+	<string>ps_shfill(&lt;#resource $psdoc#&gt;, &lt;#int $shadingid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CA29A42E-DD3D-4191-8A6D-CBABA52DAFE3</string>
 	<key>IDECodeSnippetLanguage</key>

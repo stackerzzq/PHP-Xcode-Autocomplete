@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getGrayFill (  );</string>
+	<string>HaruPage::getGrayFill();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5D7976FA-3770-4381-BE4F-DCA9FF962009</string>
 	<key>IDECodeSnippetLanguage</key>

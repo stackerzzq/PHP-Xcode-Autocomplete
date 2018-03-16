@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_image_surface_get_height ( &lt;#CairoImageSurface $surface#&gt; );</string>
+	<string>cairo_image_surface_get_height(&lt;#CairoImageSurface $surface#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F50D052D-84C8-4597-B3A7-CA8334B4C2BC</string>
 	<key>IDECodeSnippetLanguage</key>

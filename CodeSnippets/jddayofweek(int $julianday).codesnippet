@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>jddayofweek ( &lt;#int $julianday#&gt; );</string>
+	<string>jddayofweek(&lt;#int $julianday#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>31F6A535-7D13-4F69-B42B-0B82891428D8</string>
 	<key>IDECodeSnippetLanguage</key>

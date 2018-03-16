@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openal_listener_set ( &lt;#int $property#&gt;, &lt;#mixed $setting#&gt; );</string>
+	<string>openal_listener_set(&lt;#int $property#&gt;, &lt;#mixed $setting#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9FD8D99E-059C-42B1-ABF0-EB7534238357</string>
 	<key>IDECodeSnippetLanguage</key>

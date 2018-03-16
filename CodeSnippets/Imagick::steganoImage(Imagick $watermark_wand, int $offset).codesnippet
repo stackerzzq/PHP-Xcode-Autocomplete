@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::steganoImage ( &lt;#Imagick $watermark_wand#&gt;, &lt;#int $offset#&gt; );</string>
+	<string>Imagick::steganoImage(&lt;#Imagick $watermark_wand#&gt;, &lt;#int $offset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CA5EFA13-753E-4A52-915C-D83FE28F3EB9</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::setPermission ( &lt;#int $permission#&gt; );</string>
+	<string>HaruDoc::setPermission(&lt;#int $permission#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DC0F634C-0CCD-44F1-9798-30F65F3A6CEC</string>
 	<key>IDECodeSnippetLanguage</key>

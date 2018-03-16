@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_get_ap ( &lt;#resource $fdf_document#&gt;, &lt;#string $field#&gt;, &lt;#int $face#&gt;, &lt;#string $filename#&gt; );</string>
+	<string>fdf_get_ap(&lt;#resource $fdf_document#&gt;, &lt;#string $field#&gt;, &lt;#int $face#&gt;, &lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>825C7C10-97D9-4751-9D98-4F8CBDD8DB2B</string>
 	<key>IDECodeSnippetLanguage</key>

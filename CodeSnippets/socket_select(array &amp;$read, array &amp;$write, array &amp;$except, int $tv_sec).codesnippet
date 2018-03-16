@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>socket_select ( &lt;#array &amp;$read#&gt;, &lt;#array &amp;$write#&gt;, &lt;#array &amp;$except#&gt;, &lt;#int $tv_sec#&gt; );</string>
+	<string>socket_select(&lt;#array &amp;$read#&gt;, &lt;#array &amp;$write#&gt;, &lt;#array &amp;$except#&gt;, &lt;#int $tv_sec#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>398A802F-4B84-4EC0-996D-5E8FF6A5ACCD</string>
 	<key>IDECodeSnippetLanguage</key>

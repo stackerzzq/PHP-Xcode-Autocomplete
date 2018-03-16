@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_close (  );</string>
+	<string>ibase_close();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6D4192D5-5436-4C7A-8FEF-DA5433F7B30F</string>
 	<key>IDECodeSnippetLanguage</key>

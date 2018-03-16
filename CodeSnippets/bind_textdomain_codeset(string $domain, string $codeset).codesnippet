@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>bind_textdomain_codeset ( &lt;#string $domain#&gt;, &lt;#string $codeset#&gt; );</string>
+	<string>bind_textdomain_codeset(&lt;#string $domain#&gt;, &lt;#string $codeset#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8E541B72-BB26-40EC-A6C6-18C1ECA39B36</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagegd ( &lt;#resource $image#&gt;, &lt;#string $filename#&gt; );</string>
+	<string>imagegd(&lt;#resource $image#&gt;, &lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>67497E67-4687-49C0-911E-0830C415CE09</string>
 	<key>IDECodeSnippetLanguage</key>

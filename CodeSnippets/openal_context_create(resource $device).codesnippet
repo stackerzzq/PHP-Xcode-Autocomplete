@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openal_context_create ( &lt;#resource $device#&gt; );</string>
+	<string>openal_context_create(&lt;#resource $device#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C9B5859A-4047-4C96-933E-FA5C592A6D18</string>
 	<key>IDECodeSnippetLanguage</key>

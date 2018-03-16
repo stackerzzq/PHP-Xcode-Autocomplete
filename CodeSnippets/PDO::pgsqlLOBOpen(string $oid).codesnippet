@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDO::pgsqlLOBOpen ( &lt;#string $oid#&gt; );</string>
+	<string>PDO::pgsqlLOBOpen(&lt;#string $oid#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>90D80FE2-854A-4C36-9DAD-2DEA53387441</string>
 	<key>IDECodeSnippetLanguage</key>

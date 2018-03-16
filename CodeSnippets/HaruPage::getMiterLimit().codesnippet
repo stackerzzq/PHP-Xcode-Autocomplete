@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getMiterLimit (  );</string>
+	<string>HaruPage::getMiterLimit();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B1679286-FC31-4568-8054-6C0DAB1C3CB5</string>
 	<key>IDECodeSnippetLanguage</key>

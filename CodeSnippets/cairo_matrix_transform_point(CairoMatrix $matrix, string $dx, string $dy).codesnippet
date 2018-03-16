@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_matrix_transform_point ( &lt;#CairoMatrix $matrix#&gt;, &lt;#string $dx#&gt;, &lt;#string $dy#&gt; );</string>
+	<string>cairo_matrix_transform_point(&lt;#CairoMatrix $matrix#&gt;, &lt;#string $dx#&gt;, &lt;#string $dy#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8ECCE65A-0476-4BFC-95E4-4C5C6B1BB565</string>
 	<key>IDECodeSnippetLanguage</key>

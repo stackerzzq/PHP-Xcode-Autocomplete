@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_delete ( &lt;#resource $connection#&gt;, &lt;#string $table_name#&gt;, &lt;#array $assoc_array#&gt; );</string>
+	<string>pg_delete(&lt;#resource $connection#&gt;, &lt;#string $table_name#&gt;, &lt;#array $assoc_array#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1556AF83-681B-44BB-A032-545B94DE3A73</string>
 	<key>IDECodeSnippetLanguage</key>

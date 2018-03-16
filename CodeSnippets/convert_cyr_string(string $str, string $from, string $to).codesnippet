@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>convert_cyr_string ( &lt;#string $str#&gt;, &lt;#string $from#&gt;, &lt;#string $to#&gt; );</string>
+	<string>convert_cyr_string(&lt;#string $str#&gt;, &lt;#string $from#&gt;, &lt;#string $to#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>107AC05A-C05B-45C3-ACE3-A691AEE02B24</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>func_get_arg ( &lt;#int $arg_num#&gt; );</string>
+	<string>func_get_arg(&lt;#int $arg_num#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7B5D8733-5345-4DAA-A135-AD71263CA246</string>
 	<key>IDECodeSnippetLanguage</key>

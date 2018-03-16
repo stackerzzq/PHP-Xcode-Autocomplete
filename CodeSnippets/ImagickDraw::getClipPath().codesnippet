@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::getClipPath (  );</string>
+	<string>ImagickDraw::getClipPath();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C997E89D-8F4C-413C-9141-BF950CA1C0E5</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_errno ( &lt;#resource $agent#&gt; );</string>
+	<string>udm_errno(&lt;#resource $agent#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DE468DB4-DFBE-4EC7-9A88-175081D7E39F</string>
 	<key>IDECodeSnippetLanguage</key>

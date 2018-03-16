@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ZipArchive::extractTo ( &lt;#string $destination#&gt;, &lt;#mixed $entries#&gt; );</string>
+	<string>ZipArchive::extractTo(&lt;#string $destination#&gt;, &lt;#mixed $entries#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9A4C16F3-C55E-42A7-B4BD-CFC32A0B4C71</string>
 	<key>IDECodeSnippetLanguage</key>

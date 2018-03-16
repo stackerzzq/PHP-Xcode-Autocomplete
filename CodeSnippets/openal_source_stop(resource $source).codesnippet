@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openal_source_stop ( &lt;#resource $source#&gt; );</string>
+	<string>openal_source_stop(&lt;#resource $source#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6CD09DBA-E941-4109-B5D7-F5ABF02446B9</string>
 	<key>IDECodeSnippetLanguage</key>

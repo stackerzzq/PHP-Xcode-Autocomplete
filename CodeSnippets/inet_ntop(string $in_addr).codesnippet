@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>inet_ntop ( &lt;#string $in_addr#&gt; );</string>
+	<string>inet_ntop(&lt;#string $in_addr#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B24C917D-4D7C-4F23-9F56-0D4F5C90F1A6</string>
 	<key>IDECodeSnippetLanguage</key>

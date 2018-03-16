@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ovrimos_exec ( &lt;#int $connection_id#&gt;, &lt;#string $query#&gt; );</string>
+	<string>ovrimos_exec(&lt;#int $connection_id#&gt;, &lt;#string $query#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>555C5C7E-54FD-4689-AA7C-4E6B207FAD7F</string>
 	<key>IDECodeSnippetLanguage</key>

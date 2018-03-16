@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>maxdb_thread_safe (  );</string>
+	<string>maxdb_thread_safe();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>96C52CD1-5FA8-4258-ADBF-3D89644CE930</string>
 	<key>IDECodeSnippetLanguage</key>

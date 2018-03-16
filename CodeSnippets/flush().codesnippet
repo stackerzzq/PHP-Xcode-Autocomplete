@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>flush (  );</string>
+	<string>flush();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>700B1767-9C59-4A37-8E86-F8062799AC1E</string>
 	<key>IDECodeSnippetLanguage</key>

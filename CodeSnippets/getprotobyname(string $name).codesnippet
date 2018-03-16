@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getprotobyname ( &lt;#string $name#&gt; );</string>
+	<string>getprotobyname(&lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>04C909D6-9EFE-41E0-969B-5FA55AAC8B08</string>
 	<key>IDECodeSnippetLanguage</key>

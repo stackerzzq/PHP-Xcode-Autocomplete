@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>domxml_version (  );</string>
+	<string>domxml_version();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D1624E55-1625-4CE4-9E56-B6556F2CF005</string>
 	<key>IDECodeSnippetLanguage</key>

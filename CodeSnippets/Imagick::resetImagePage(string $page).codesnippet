@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::resetImagePage ( &lt;#string $page#&gt; );</string>
+	<string>Imagick::resetImagePage(&lt;#string $page#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4A524518-606B-4B8C-AFE0-8A51502459E1</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_tty ( &lt;#resource $connection#&gt; );</string>
+	<string>pg_tty(&lt;#resource $connection#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1500AEFF-D066-48AA-8641-8BF690A1E08D</string>
 	<key>IDECodeSnippetLanguage</key>

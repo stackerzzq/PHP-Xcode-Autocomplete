@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>zlib_get_coding_type (  );</string>
+	<string>zlib_get_coding_type();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C6C2CA58-E60B-4C5A-BB16-99A7085DD0B9</string>
 	<key>IDECodeSnippetLanguage</key>

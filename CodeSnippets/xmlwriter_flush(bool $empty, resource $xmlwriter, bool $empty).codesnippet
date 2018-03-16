@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xmlwriter_flush ( &lt;#bool $empty#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#bool $empty#&gt; );</string>
+	<string>xmlwriter_flush(&lt;#bool $empty#&gt;, &lt;#resource $xmlwriter#&gt;, &lt;#bool $empty#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0554556B-96FD-480A-BD1B-A6358C24A5DC</string>
 	<key>IDECodeSnippetLanguage</key>

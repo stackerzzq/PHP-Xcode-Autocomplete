@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_get_res_field ( &lt;#resource $res#&gt;, &lt;#int $row#&gt;, &lt;#int $field#&gt; );</string>
+	<string>udm_get_res_field(&lt;#resource $res#&gt;, &lt;#int $row#&gt;, &lt;#int $field#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DFDA9DF5-6582-44DD-A976-6A41DFB8DF9E</string>
 	<key>IDECodeSnippetLanguage</key>

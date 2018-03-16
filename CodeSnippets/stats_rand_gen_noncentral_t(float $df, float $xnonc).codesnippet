@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stats_rand_gen_noncentral_t ( &lt;#float $df#&gt;, &lt;#float $xnonc#&gt; );</string>
+	<string>stats_rand_gen_noncentral_t(&lt;#float $df#&gt;, &lt;#float $xnonc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2B6BBAF0-D387-48E3-AAEA-9AD092267795</string>
 	<key>IDECodeSnippetLanguage</key>

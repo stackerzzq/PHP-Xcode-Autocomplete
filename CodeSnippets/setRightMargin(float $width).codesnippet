@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>setRightMargin ( &lt;#float $width#&gt; );</string>
+	<string>setRightMargin(&lt;#float $width#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8E7A55C7-5A72-424A-8AB0-048C1408E56C</string>
 	<key>IDECodeSnippetLanguage</key>

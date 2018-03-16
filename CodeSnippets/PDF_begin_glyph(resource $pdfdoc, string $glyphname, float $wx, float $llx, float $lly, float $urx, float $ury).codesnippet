@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_begin_glyph ( &lt;#resource $pdfdoc#&gt;, &lt;#string $glyphname#&gt;, &lt;#float $wx#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt; );</string>
+	<string>PDF_begin_glyph(&lt;#resource $pdfdoc#&gt;, &lt;#string $glyphname#&gt;, &lt;#float $wx#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DA2E2A64-13F4-4CB8-92E4-74F06F5D2BB8</string>
 	<key>IDECodeSnippetLanguage</key>

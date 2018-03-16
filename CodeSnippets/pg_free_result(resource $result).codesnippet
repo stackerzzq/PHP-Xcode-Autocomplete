@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pg_free_result ( &lt;#resource $result#&gt; );</string>
+	<string>pg_free_result(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>42B689B8-9A7B-41C3-A48C-CB400D99A585</string>
 	<key>IDECodeSnippetLanguage</key>

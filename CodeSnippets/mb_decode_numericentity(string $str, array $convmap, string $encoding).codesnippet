@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mb_decode_numericentity ( &lt;#string $str#&gt;, &lt;#array $convmap#&gt;, &lt;#string $encoding#&gt; );</string>
+	<string>mb_decode_numericentity(&lt;#string $str#&gt;, &lt;#array $convmap#&gt;, &lt;#string $encoding#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BAB77197-CF9D-4105-809D-96F6F48F41B6</string>
 	<key>IDECodeSnippetLanguage</key>

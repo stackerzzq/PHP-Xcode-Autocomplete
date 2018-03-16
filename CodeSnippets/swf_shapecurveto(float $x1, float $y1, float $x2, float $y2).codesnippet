@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_shapecurveto ( &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt; );</string>
+	<string>swf_shapecurveto(&lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>44155291-92F2-47EE-B8F5-1ACF6F91B5B8</string>
 	<key>IDECodeSnippetLanguage</key>

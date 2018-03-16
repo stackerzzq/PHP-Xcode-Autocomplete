@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>rpm_open ( &lt;#string $filename#&gt; );</string>
+	<string>rpm_open(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C1ED4400-8D9F-4CA8-A4A7-9C7691BA6F28</string>
 	<key>IDECodeSnippetLanguage</key>

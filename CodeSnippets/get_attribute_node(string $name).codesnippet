@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_attribute_node ( &lt;#string $name#&gt; );</string>
+	<string>get_attribute_node(&lt;#string $name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>559DA123-4307-4A24-9D2C-7279BC7CA27F</string>
 	<key>IDECodeSnippetLanguage</key>

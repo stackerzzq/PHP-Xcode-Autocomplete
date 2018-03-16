@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>odbc_fetch_object ( &lt;#resource $result#&gt;, &lt;#int $rownumber#&gt; );</string>
+	<string>odbc_fetch_object(&lt;#resource $result#&gt;, &lt;#int $rownumber#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>49180211-3602-4402-BD20-7C7FDDD9DD36</string>
 	<key>IDECodeSnippetLanguage</key>

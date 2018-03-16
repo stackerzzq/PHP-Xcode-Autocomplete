@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_matrix_invert ( &lt;#CairoMatrix $matrix#&gt; );</string>
+	<string>cairo_matrix_invert(&lt;#CairoMatrix $matrix#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>54A6C655-551C-4556-B2B6-A71E3368C501</string>
 	<key>IDECodeSnippetLanguage</key>

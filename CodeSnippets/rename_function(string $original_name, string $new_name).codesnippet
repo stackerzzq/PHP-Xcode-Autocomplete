@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>rename_function ( &lt;#string $original_name#&gt;, &lt;#string $new_name#&gt; );</string>
+	<string>rename_function(&lt;#string $original_name#&gt;, &lt;#string $new_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>54ACEB31-EF72-445B-B6C1-D5579E41AE35</string>
 	<key>IDECodeSnippetLanguage</key>

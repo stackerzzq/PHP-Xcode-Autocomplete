@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mysql_db_name ( &lt;#resource $result#&gt;, &lt;#int $row#&gt;, &lt;#mixed $field#&gt; );</string>
+	<string>mysql_db_name(&lt;#resource $result#&gt;, &lt;#int $row#&gt;, &lt;#mixed $field#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CEA8082F-1309-444B-8F77-42AE45D695C9</string>
 	<key>IDECodeSnippetLanguage</key>

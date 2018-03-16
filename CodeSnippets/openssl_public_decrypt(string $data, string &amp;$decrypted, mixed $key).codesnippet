@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_public_decrypt ( &lt;#string $data#&gt;, &lt;#string &amp;$decrypted#&gt;, &lt;#mixed $key#&gt; );</string>
+	<string>openssl_public_decrypt(&lt;#string $data#&gt;, &lt;#string &amp;$decrypted#&gt;, &lt;#mixed $key#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3981618C-C657-475F-BB4B-0D3CDCCDFC4D</string>
 	<key>IDECodeSnippetLanguage</key>

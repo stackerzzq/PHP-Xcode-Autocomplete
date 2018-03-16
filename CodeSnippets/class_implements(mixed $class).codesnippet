@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>class_implements ( &lt;#mixed $class#&gt; );</string>
+	<string>class_implements(&lt;#mixed $class#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D7CB60AA-8A64-4028-9268-146FC813C6E4</string>
 	<key>IDECodeSnippetLanguage</key>

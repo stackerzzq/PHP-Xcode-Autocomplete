@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_XML::addTypes ( &lt;#string $xsd_file#&gt; );</string>
+	<string>SDO_DAS_XML::addTypes(&lt;#string $xsd_file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8E77D667-931B-412B-97C9-1DFC59A0DEB2</string>
 	<key>IDECodeSnippetLanguage</key>

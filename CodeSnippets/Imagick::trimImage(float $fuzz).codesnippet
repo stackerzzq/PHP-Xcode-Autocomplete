@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::trimImage ( &lt;#float $fuzz#&gt; );</string>
+	<string>Imagick::trimImage(&lt;#float $fuzz#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>108ECAE0-C03A-4B72-B3E1-391C61D319B6</string>
 	<key>IDECodeSnippetLanguage</key>

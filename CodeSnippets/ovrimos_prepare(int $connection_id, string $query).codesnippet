@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ovrimos_prepare ( &lt;#int $connection_id#&gt;, &lt;#string $query#&gt; );</string>
+	<string>ovrimos_prepare(&lt;#int $connection_id#&gt;, &lt;#string $query#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E8907375-53A6-4148-BF01-612670A27160</string>
 	<key>IDECodeSnippetLanguage</key>

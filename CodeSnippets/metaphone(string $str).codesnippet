@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>metaphone ( &lt;#string $str#&gt; );</string>
+	<string>metaphone(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>19DF0568-329C-45EC-88FA-C9242A0B7A1E</string>
 	<key>IDECodeSnippetLanguage</key>

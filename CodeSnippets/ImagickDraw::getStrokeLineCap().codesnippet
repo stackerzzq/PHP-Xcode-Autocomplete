@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::getStrokeLineCap (  );</string>
+	<string>ImagickDraw::getStrokeLineCap();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E293478E-F47F-4097-A998-ECEA8CC4A29F</string>
 	<key>IDECodeSnippetLanguage</key>

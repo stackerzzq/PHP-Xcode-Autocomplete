@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_delete_user ( &lt;#resource $service_handle#&gt;, &lt;#string $user_name#&gt; );</string>
+	<string>ibase_delete_user(&lt;#resource $service_handle#&gt;, &lt;#string $user_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>955FBC91-0CF5-4AB3-9CFC-7F55F629353E</string>
 	<key>IDECodeSnippetLanguage</key>

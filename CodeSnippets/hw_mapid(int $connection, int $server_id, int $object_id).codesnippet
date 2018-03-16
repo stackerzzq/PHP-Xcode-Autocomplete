@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>hw_mapid ( &lt;#int $connection#&gt;, &lt;#int $server_id#&gt;, &lt;#int $object_id#&gt; );</string>
+	<string>hw_mapid(&lt;#int $connection#&gt;, &lt;#int $server_id#&gt;, &lt;#int $object_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>21416AE2-6A71-4547-B50B-CDC01808C025</string>
 	<key>IDECodeSnippetLanguage</key>

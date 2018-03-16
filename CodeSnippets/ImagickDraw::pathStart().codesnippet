@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ImagickDraw::pathStart (  );</string>
+	<string>ImagickDraw::pathStart();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>07FA8875-06D0-476F-A8DF-6B0A1C80E5F8</string>
 	<key>IDECodeSnippetLanguage</key>

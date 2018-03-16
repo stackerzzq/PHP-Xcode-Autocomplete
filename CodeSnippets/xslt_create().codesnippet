@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xslt_create (  );</string>
+	<string>xslt_create();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>636FD075-2CE9-4223-9D76-B2E647567890</string>
 	<key>IDECodeSnippetLanguage</key>

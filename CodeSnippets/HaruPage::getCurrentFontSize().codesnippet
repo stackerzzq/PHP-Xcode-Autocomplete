@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getCurrentFontSize (  );</string>
+	<string>HaruPage::getCurrentFontSize();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5219A37C-5107-4B65-815F-ADF14C411216</string>
 	<key>IDECodeSnippetLanguage</key>

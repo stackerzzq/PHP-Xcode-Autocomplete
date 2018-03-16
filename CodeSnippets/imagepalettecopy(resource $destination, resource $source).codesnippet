@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagepalettecopy ( &lt;#resource $destination#&gt;, &lt;#resource $source#&gt; );</string>
+	<string>imagepalettecopy(&lt;#resource $destination#&gt;, &lt;#resource $source#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CC5C91CD-9056-4EC9-84E5-2DCE85364D03</string>
 	<key>IDECodeSnippetLanguage</key>

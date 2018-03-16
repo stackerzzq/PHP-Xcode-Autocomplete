@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>openssl_x509_parse ( &lt;#mixed $x509cert#&gt; );</string>
+	<string>openssl_x509_parse(&lt;#mixed $x509cert#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4C39ED2E-F47A-4121-A905-7D5050CEBCA6</string>
 	<key>IDECodeSnippetLanguage</key>

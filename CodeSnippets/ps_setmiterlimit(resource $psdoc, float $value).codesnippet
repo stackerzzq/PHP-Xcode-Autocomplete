@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_setmiterlimit ( &lt;#resource $psdoc#&gt;, &lt;#float $value#&gt; );</string>
+	<string>ps_setmiterlimit(&lt;#resource $psdoc#&gt;, &lt;#float $value#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>47F61543-16FF-4C8A-A6BB-B3302F7A2AB0</string>
 	<key>IDECodeSnippetLanguage</key>

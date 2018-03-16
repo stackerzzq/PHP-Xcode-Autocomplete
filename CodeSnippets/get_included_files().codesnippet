@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>get_included_files (  );</string>
+	<string>get_included_files();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8C469CE0-1118-44E0-9F76-4E60F084D78A</string>
 	<key>IDECodeSnippetLanguage</key>

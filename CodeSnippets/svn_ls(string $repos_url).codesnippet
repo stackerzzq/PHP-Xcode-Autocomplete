@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>svn_ls ( &lt;#string $repos_url#&gt; );</string>
+	<string>svn_ls(&lt;#string $repos_url#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3693147A-FA12-4F0D-A541-17867F6F2DB4</string>
 	<key>IDECodeSnippetLanguage</key>

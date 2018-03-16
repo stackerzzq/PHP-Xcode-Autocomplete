@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagefilledpolygon ( &lt;#resource $image#&gt;, &lt;#array $points#&gt;, &lt;#int $num_points#&gt;, &lt;#int $color#&gt; );</string>
+	<string>imagefilledpolygon(&lt;#resource $image#&gt;, &lt;#array $points#&gt;, &lt;#int $num_points#&gt;, &lt;#int $color#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4DA1A9C6-98E9-4184-BAAB-5B1CB6017D8D</string>
 	<key>IDECodeSnippetLanguage</key>

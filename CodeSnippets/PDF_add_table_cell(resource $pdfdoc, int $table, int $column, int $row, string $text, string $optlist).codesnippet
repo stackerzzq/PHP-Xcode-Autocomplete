@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_add_table_cell ( &lt;#resource $pdfdoc#&gt;, &lt;#int $table#&gt;, &lt;#int $column#&gt;, &lt;#int $row#&gt;, &lt;#string $text#&gt;, &lt;#string $optlist#&gt; );</string>
+	<string>PDF_add_table_cell(&lt;#resource $pdfdoc#&gt;, &lt;#int $table#&gt;, &lt;#int $column#&gt;, &lt;#int $row#&gt;, &lt;#string $text#&gt;, &lt;#string $optlist#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A3CE46A6-1B4E-49C4-B663-9580DF109B16</string>
 	<key>IDECodeSnippetLanguage</key>

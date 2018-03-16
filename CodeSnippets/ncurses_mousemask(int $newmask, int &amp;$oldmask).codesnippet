@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_mousemask ( &lt;#int $newmask#&gt;, &lt;#int &amp;$oldmask#&gt; );</string>
+	<string>ncurses_mousemask(&lt;#int $newmask#&gt;, &lt;#int &amp;$oldmask#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>32591646-D95D-43D2-8FD9-D0F8D48503E6</string>
 	<key>IDECodeSnippetLanguage</key>

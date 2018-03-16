@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ob_implicit_flush (  );</string>
+	<string>ob_implicit_flush();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>514F5555-8864-4B5D-AA5F-673D22477AE1</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>image_type_to_extension ( &lt;#int $imagetype#&gt;, &lt;#bool $include_dot#&gt; );</string>
+	<string>image_type_to_extension(&lt;#int $imagetype#&gt;, &lt;#bool $include_dot#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E594ACCA-4363-4AE5-B91C-3D7F1F3FE46E</string>
 	<key>IDECodeSnippetLanguage</key>

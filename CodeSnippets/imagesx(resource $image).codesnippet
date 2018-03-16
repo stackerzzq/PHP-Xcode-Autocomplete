@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagesx ( &lt;#resource $image#&gt; );</string>
+	<string>imagesx(&lt;#resource $image#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B1524E37-81C4-4EE2-B7AD-766750AAF00A</string>
 	<key>IDECodeSnippetLanguage</key>

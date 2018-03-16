@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_surface_mark_dirty_rectangle ( &lt;#CairoSurface $surface#&gt;, &lt;#string $x#&gt;, &lt;#string $y#&gt;, &lt;#string $width#&gt;, &lt;#string $height#&gt; );</string>
+	<string>cairo_surface_mark_dirty_rectangle(&lt;#CairoSurface $surface#&gt;, &lt;#string $x#&gt;, &lt;#string $y#&gt;, &lt;#string $width#&gt;, &lt;#string $height#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>96CC8973-F2B7-4541-85BA-E7751D1ECC24</string>
 	<key>IDECodeSnippetLanguage</key>

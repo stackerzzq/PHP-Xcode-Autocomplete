@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>is_subclass_of ( &lt;#mixed $object#&gt;, &lt;#string $class_name#&gt; );</string>
+	<string>is_subclass_of(&lt;#mixed $object#&gt;, &lt;#string $class_name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EB4D72A9-E9CC-405F-B82A-22B948E21B98</string>
 	<key>IDECodeSnippetLanguage</key>

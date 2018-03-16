@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ctype_graph ( &lt;#string $text#&gt; );</string>
+	<string>ctype_graph(&lt;#string $text#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D9725D15-AA53-4959-B38B-6D03E725BEA1</string>
 	<key>IDECodeSnippetLanguage</key>

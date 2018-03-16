@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>runkit_lint ( &lt;#string $code#&gt; );</string>
+	<string>runkit_lint(&lt;#string $code#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>2BA82DDE-B90D-4DFA-A57B-5EADD15A160E</string>
 	<key>IDECodeSnippetLanguage</key>

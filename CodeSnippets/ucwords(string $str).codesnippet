@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ucwords ( &lt;#string $str#&gt; );</string>
+	<string>ucwords(&lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EC437438-E26D-4BBE-AA16-246ADEA35009</string>
 	<key>IDECodeSnippetLanguage</key>

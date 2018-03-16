@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_find ( &lt;#resource $agent#&gt;, &lt;#string $query#&gt; );</string>
+	<string>udm_find(&lt;#resource $agent#&gt;, &lt;#string $query#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>50B4CA93-C359-4079-8CE2-78C1437DBCBF</string>
 	<key>IDECodeSnippetLanguage</key>

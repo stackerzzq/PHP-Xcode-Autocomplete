@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>snmp_set_valueretrieval ( &lt;#int $method#&gt; );</string>
+	<string>snmp_set_valueretrieval(&lt;#int $method#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>18831660-B583-4B21-9DB5-4BF1F080B198</string>
 	<key>IDECodeSnippetLanguage</key>

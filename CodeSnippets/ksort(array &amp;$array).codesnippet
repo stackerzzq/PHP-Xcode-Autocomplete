@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ksort ( &lt;#array &amp;$array#&gt; );</string>
+	<string>ksort(&lt;#array &amp;$array#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8B6984BD-59A4-40BA-987C-C6F027CCE62C</string>
 	<key>IDECodeSnippetLanguage</key>

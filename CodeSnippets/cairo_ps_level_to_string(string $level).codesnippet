@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_ps_level_to_string ( &lt;#string $level#&gt; );</string>
+	<string>cairo_ps_level_to_string(&lt;#string $level#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>587A9778-F8FB-4862-B055-6E77A7A13FBF</string>
 	<key>IDECodeSnippetLanguage</key>

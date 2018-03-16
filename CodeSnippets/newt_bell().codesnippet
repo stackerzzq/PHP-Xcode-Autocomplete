@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_bell (  );</string>
+	<string>newt_bell();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>00AC581D-E38F-43D2-8D94-2129670B2E7E</string>
 	<key>IDECodeSnippetLanguage</key>

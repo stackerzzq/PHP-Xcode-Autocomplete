@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iis_set_app_settings ( &lt;#int $server_instance#&gt;, &lt;#string $virtual_path#&gt;, &lt;#string $application_scope#&gt; );</string>
+	<string>iis_set_app_settings(&lt;#int $server_instance#&gt;, &lt;#string $virtual_path#&gt;, &lt;#string $application_scope#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E496AAE8-28AC-4941-AA20-73A86630B8CE</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_add_weblink ( &lt;#resource $psdoc#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt;, &lt;#string $url#&gt; );</string>
+	<string>ps_add_weblink(&lt;#resource $psdoc#&gt;, &lt;#float $llx#&gt;, &lt;#float $lly#&gt;, &lt;#float $urx#&gt;, &lt;#float $ury#&gt;, &lt;#string $url#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3AE3804A-5A7A-4EC8-8C7A-013B2B76A233</string>
 	<key>IDECodeSnippetLanguage</key>

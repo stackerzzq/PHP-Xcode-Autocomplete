@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpResponse::setLastModified ( &lt;#int $timestamp#&gt; );</string>
+	<string>HttpResponse::setLastModified(&lt;#int $timestamp#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1CB0CFEC-8884-4F0E-9EE9-6B0F5F7B2E57</string>
 	<key>IDECodeSnippetLanguage</key>

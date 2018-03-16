@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>restore_error_handler (  );</string>
+	<string>restore_error_handler();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>79C92A97-E067-465B-A263-8B22376F164F</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_lob_is_equal ( &lt;#OCI-Lob $lob1#&gt;, &lt;#OCI-Lob $lob2#&gt; );</string>
+	<string>oci_lob_is_equal(&lt;#OCI-Lob $lob1#&gt;, &lt;#OCI-Lob $lob2#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A5241BE4-32D8-445A-A92F-0693DFCB952D</string>
 	<key>IDECodeSnippetLanguage</key>

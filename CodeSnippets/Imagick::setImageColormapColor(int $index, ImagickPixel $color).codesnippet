@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>Imagick::setImageColormapColor ( &lt;#int $index#&gt;, &lt;#ImagickPixel $color#&gt; );</string>
+	<string>Imagick::setImageColormapColor(&lt;#int $index#&gt;, &lt;#ImagickPixel $color#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>76D78673-90D9-4C15-AE87-B2D70D7DBF3D</string>
 	<key>IDECodeSnippetLanguage</key>

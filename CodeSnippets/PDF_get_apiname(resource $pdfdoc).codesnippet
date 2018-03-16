@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_get_apiname ( &lt;#resource $pdfdoc#&gt; );</string>
+	<string>PDF_get_apiname(&lt;#resource $pdfdoc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>82CB4C58-84F2-48DA-B78E-F7EFF3B4760A</string>
 	<key>IDECodeSnippetLanguage</key>

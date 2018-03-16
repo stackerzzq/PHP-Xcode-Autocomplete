@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fread ( &lt;#resource $handle#&gt;, &lt;#int $length#&gt; );</string>
+	<string>fread(&lt;#resource $handle#&gt;, &lt;#int $length#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6C16EF6E-91E8-4C3A-A80A-15C277857608</string>
 	<key>IDECodeSnippetLanguage</key>

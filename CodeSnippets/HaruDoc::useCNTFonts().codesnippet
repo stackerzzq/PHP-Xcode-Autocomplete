@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruDoc::useCNTFonts (  );</string>
+	<string>HaruDoc::useCNTFonts();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E9B85BF5-BEA2-4772-985C-6C1D49783DF3</string>
 	<key>IDECodeSnippetLanguage</key>

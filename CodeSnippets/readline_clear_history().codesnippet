@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>readline_clear_history (  );</string>
+	<string>readline_clear_history();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D3EC70AB-2BEF-4395-A231-CD97FB23EF32</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>disk_free_space ( &lt;#string $directory#&gt; );</string>
+	<string>disk_free_space(&lt;#string $directory#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>043F9610-CC30-44EE-8D86-505F1D203996</string>
 	<key>IDECodeSnippetLanguage</key>

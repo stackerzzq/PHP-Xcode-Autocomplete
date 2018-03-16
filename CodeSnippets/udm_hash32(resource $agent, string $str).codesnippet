@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_hash32 ( &lt;#resource $agent#&gt;, &lt;#string $str#&gt; );</string>
+	<string>udm_hash32(&lt;#resource $agent#&gt;, &lt;#string $str#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>22D5361B-1CF5-4F84-AE6E-F7E48A3FE9D6</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagerotate ( &lt;#resource $image#&gt;, &lt;#float $angle#&gt;, &lt;#int $bgd_color#&gt; );</string>
+	<string>imagerotate(&lt;#resource $image#&gt;, &lt;#float $angle#&gt;, &lt;#int $bgd_color#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8AAAF3E4-7D04-4E50-A574-A1E88725D908</string>
 	<key>IDECodeSnippetLanguage</key>

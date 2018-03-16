@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imap_thread ( &lt;#resource $imap_stream#&gt; );</string>
+	<string>imap_thread(&lt;#resource $imap_stream#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6067DDED-0CB7-4FFF-B6EA-3C1C0BFEFC72</string>
 	<key>IDECodeSnippetLanguage</key>

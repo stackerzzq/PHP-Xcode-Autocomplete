@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>define_syslog_variables (  );</string>
+	<string>define_syslog_variables();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B68E0147-C94B-4D94-A286-5FC30F733675</string>
 	<key>IDECodeSnippetLanguage</key>

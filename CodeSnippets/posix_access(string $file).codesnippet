@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_access ( &lt;#string $file#&gt; );</string>
+	<string>posix_access(&lt;#string $file#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0D7EAE38-934D-4AFA-B85A-18577F0FD906</string>
 	<key>IDECodeSnippetLanguage</key>

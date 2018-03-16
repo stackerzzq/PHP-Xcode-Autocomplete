@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>db2_columns ( &lt;#resource $connection#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $schema#&gt;, &lt;#string $table-name#&gt;, &lt;#string $column-name#&gt; );</string>
+	<string>db2_columns(&lt;#resource $connection#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $schema#&gt;, &lt;#string $table-name#&gt;, &lt;#string $column-name#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B17C1611-65B8-4531-BA82-9127B7084C0D</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>event_buffer_watermark_set ( &lt;#resource $bevent#&gt;, &lt;#int $events#&gt;, &lt;#int $lowmark#&gt;, &lt;#int $highmark#&gt; );</string>
+	<string>event_buffer_watermark_set(&lt;#resource $bevent#&gt;, &lt;#int $events#&gt;, &lt;#int $lowmark#&gt;, &lt;#int $highmark#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>126D343D-C545-4F35-A850-1E800FFBBF4F</string>
 	<key>IDECodeSnippetLanguage</key>

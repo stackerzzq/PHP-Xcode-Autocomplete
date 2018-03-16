@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>udm_check_stored ( &lt;#resource $agent#&gt;, &lt;#int $link#&gt;, &lt;#string $doc_id#&gt; );</string>
+	<string>udm_check_stored(&lt;#resource $agent#&gt;, &lt;#int $link#&gt;, &lt;#string $doc_id#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>79FEE072-54D1-4965-B3E1-763FCD262AE7</string>
 	<key>IDECodeSnippetLanguage</key>

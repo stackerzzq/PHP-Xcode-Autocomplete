@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>xslt_set_log ( &lt;#resource $xh#&gt;, &lt;#mixed $log#&gt; );</string>
+	<string>xslt_set_log(&lt;#resource $xh#&gt;, &lt;#mixed $log#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>76D3858C-BB09-421C-8C73-CA43D8919EDC</string>
 	<key>IDECodeSnippetLanguage</key>

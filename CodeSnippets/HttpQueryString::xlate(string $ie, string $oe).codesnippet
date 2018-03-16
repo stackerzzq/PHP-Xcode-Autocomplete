@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HttpQueryString::xlate ( &lt;#string $ie#&gt;, &lt;#string $oe#&gt; );</string>
+	<string>HttpQueryString::xlate(&lt;#string $ie#&gt;, &lt;#string $oe#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F4D29659-DAD0-4740-AE3A-55230552505E</string>
 	<key>IDECodeSnippetLanguage</key>

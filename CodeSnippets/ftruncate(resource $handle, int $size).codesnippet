@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ftruncate ( &lt;#resource $handle#&gt;, &lt;#int $size#&gt; );</string>
+	<string>ftruncate(&lt;#resource $handle#&gt;, &lt;#int $size#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>BA5FD626-0F68-4AE7-B97F-5B3EC53CED91</string>
 	<key>IDECodeSnippetLanguage</key>

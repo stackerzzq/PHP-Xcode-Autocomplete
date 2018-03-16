@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>cairo_pattern_add_color_stop_rgb ( &lt;#CairoGradientPattern $pattern#&gt;, &lt;#string $offset#&gt;, &lt;#string $red#&gt;, &lt;#string $green#&gt;, &lt;#string $blue#&gt; );</string>
+	<string>cairo_pattern_add_color_stop_rgb(&lt;#CairoGradientPattern $pattern#&gt;, &lt;#string $offset#&gt;, &lt;#string $red#&gt;, &lt;#string $green#&gt;, &lt;#string $blue#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C1282677-7320-448F-9BBA-7C9A24ECE0F2</string>
 	<key>IDECodeSnippetLanguage</key>

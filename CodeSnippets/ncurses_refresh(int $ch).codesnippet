@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_refresh ( &lt;#int $ch#&gt; );</string>
+	<string>ncurses_refresh(&lt;#int $ch#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7A750944-0CEE-4876-8FCC-D0F04CF04058</string>
 	<key>IDECodeSnippetLanguage</key>

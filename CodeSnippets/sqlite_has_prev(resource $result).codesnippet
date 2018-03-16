@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>sqlite_has_prev ( &lt;#resource $result#&gt; );</string>
+	<string>sqlite_has_prev(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>76962458-0371-47B5-BD3B-36F6EE085A10</string>
 	<key>IDECodeSnippetLanguage</key>

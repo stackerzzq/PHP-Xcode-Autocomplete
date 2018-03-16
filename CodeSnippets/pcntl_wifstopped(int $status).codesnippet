@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>pcntl_wifstopped ( &lt;#int $status#&gt; );</string>
+	<string>pcntl_wifstopped(&lt;#int $status#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B6B3E5AF-04BA-4F33-8BBA-0A9A0E540B34</string>
 	<key>IDECodeSnippetLanguage</key>

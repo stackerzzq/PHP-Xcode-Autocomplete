@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ps_curveto ( &lt;#resource $psdoc#&gt;, &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $x3#&gt;, &lt;#float $y3#&gt; );</string>
+	<string>ps_curveto(&lt;#resource $psdoc#&gt;, &lt;#float $x1#&gt;, &lt;#float $y1#&gt;, &lt;#float $x2#&gt;, &lt;#float $y2#&gt;, &lt;#float $x3#&gt;, &lt;#float $y3#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1C42C6DE-2C0B-4123-A5E3-3637E33934B5</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_throttle ( &lt;#float $sec#&gt; );</string>
+	<string>http_throttle(&lt;#float $sec#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F45025CB-4AD3-435C-BA3D-B07A60B65392</string>
 	<key>IDECodeSnippetLanguage</key>

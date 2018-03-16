@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>newt_button_bar ( &lt;#array &amp;$buttons#&gt; );</string>
+	<string>newt_button_bar(&lt;#array &amp;$buttons#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E7617486-BD61-4CA9-97ED-ABED85C7078C</string>
 	<key>IDECodeSnippetLanguage</key>

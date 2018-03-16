@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>odbc_tables ( &lt;#resource $connection_id#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $owner#&gt;, &lt;#string $name#&gt;, &lt;#string $types#&gt; );</string>
+	<string>odbc_tables(&lt;#resource $connection_id#&gt;, &lt;#string $qualifier#&gt;, &lt;#string $owner#&gt;, &lt;#string $name#&gt;, &lt;#string $types#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6D263470-0D08-4663-8E10-2B4C5F927A58</string>
 	<key>IDECodeSnippetLanguage</key>

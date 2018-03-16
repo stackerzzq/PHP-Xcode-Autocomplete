@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ingres_execute ( &lt;#resource $result#&gt;, &lt;#array $params#&gt;, &lt;#string $types#&gt; );</string>
+	<string>ingres_execute(&lt;#resource $result#&gt;, &lt;#array $params#&gt;, &lt;#string $types#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>68A473CE-9E04-4B07-A725-58FBEB7B94C1</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ldap_get_attributes ( &lt;#resource $link_identifier#&gt;, &lt;#resource $result_entry_identifier#&gt; );</string>
+	<string>ldap_get_attributes(&lt;#resource $link_identifier#&gt;, &lt;#resource $result_entry_identifier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7953AAFC-8AD2-49EB-A9BD-B312C30A23B4</string>
 	<key>IDECodeSnippetLanguage</key>

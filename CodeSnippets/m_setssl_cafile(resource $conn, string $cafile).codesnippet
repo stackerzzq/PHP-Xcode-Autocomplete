@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_setssl_cafile ( &lt;#resource $conn#&gt;, &lt;#string $cafile#&gt; );</string>
+	<string>m_setssl_cafile(&lt;#resource $conn#&gt;, &lt;#string $cafile#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E608FB74-0E76-4E14-A4DA-6825B8530136</string>
 	<key>IDECodeSnippetLanguage</key>

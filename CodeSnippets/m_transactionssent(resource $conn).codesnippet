@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_transactionssent ( &lt;#resource $conn#&gt; );</string>
+	<string>m_transactionssent(&lt;#resource $conn#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9194FCB6-8B2C-4696-90AE-ECBD5BB299D3</string>
 	<key>IDECodeSnippetLanguage</key>

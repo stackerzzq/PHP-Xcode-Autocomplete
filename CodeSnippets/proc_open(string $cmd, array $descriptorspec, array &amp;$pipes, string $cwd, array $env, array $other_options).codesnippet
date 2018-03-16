@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>proc_open ( &lt;#string $cmd#&gt;, &lt;#array $descriptorspec#&gt;, &lt;#array &amp;$pipes#&gt;, &lt;#string $cwd#&gt;, &lt;#array $env#&gt;, &lt;#array $other_options#&gt; );</string>
+	<string>proc_open(&lt;#string $cmd#&gt;, &lt;#array $descriptorspec#&gt;, &lt;#array &amp;$pipes#&gt;, &lt;#string $cwd#&gt;, &lt;#array $env#&gt;, &lt;#array $other_options#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>79A31CBE-2FD0-4073-9FB9-C86933B471D6</string>
 	<key>IDECodeSnippetLanguage</key>

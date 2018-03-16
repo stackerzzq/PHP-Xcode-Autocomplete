@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>import ( &lt;#string $filename#&gt; );</string>
+	<string>import(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>863B5172-D693-4992-887C-4F179BC8F34B</string>
 	<key>IDECodeSnippetLanguage</key>

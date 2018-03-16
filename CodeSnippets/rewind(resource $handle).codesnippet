@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>rewind ( &lt;#resource $handle#&gt; );</string>
+	<string>rewind(&lt;#resource $handle#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>F3E48C20-D595-4D55-B42B-C0A9D01D66DA</string>
 	<key>IDECodeSnippetLanguage</key>

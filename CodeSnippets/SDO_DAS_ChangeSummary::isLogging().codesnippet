@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_DAS_ChangeSummary::isLogging (  );</string>
+	<string>SDO_DAS_ChangeSummary::isLogging();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7643844C-1FD3-423C-AFDE-2B288D24EFD6</string>
 	<key>IDECodeSnippetLanguage</key>

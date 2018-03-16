@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>getBuffering (  );</string>
+	<string>getBuffering();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1F459DAA-B917-4FBE-9C9B-FBB73FEC29F1</string>
 	<key>IDECodeSnippetLanguage</key>

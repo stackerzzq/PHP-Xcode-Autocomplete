@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>str_split ( &lt;#string $string#&gt; );</string>
+	<string>str_split(&lt;#string $string#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>E998F65F-F694-4736-A20C-90D1D8C6AC6E</string>
 	<key>IDECodeSnippetLanguage</key>

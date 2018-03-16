@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>flock ( &lt;#resource $handle#&gt;, &lt;#int $operation#&gt;, &lt;#int &amp;$wouldblock#&gt; );</string>
+	<string>flock(&lt;#resource $handle#&gt;, &lt;#int $operation#&gt;, &lt;#int &amp;$wouldblock#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>B80632A1-C791-4180-AC7B-5F0EB960008C</string>
 	<key>IDECodeSnippetLanguage</key>

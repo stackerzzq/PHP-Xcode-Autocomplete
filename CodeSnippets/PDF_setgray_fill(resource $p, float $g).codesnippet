@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_setgray_fill ( &lt;#resource $p#&gt;, &lt;#float $g#&gt; );</string>
+	<string>PDF_setgray_fill(&lt;#resource $p#&gt;, &lt;#float $g#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D177892B-D340-4D37-A172-48D7EDF7E123</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>is_dir ( &lt;#string $filename#&gt; );</string>
+	<string>is_dir(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>85F8707C-B1DD-4ADE-ADF1-57257E92AABE</string>
 	<key>IDECodeSnippetLanguage</key>

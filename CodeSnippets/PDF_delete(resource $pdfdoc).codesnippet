@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>PDF_delete ( &lt;#resource $pdfdoc#&gt; );</string>
+	<string>PDF_delete(&lt;#resource $pdfdoc#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8551CB60-CB60-41C9-9B73-78A3FBEBF49E</string>
 	<key>IDECodeSnippetLanguage</key>

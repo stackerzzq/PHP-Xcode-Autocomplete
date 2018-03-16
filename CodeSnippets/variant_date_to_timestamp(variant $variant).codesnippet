@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>variant_date_to_timestamp ( &lt;#variant $variant#&gt; );</string>
+	<string>variant_date_to_timestamp(&lt;#variant $variant#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DD5992A1-42C4-412E-BAEF-C75020171B5F</string>
 	<key>IDECodeSnippetLanguage</key>

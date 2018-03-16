@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>dstofsrcanchor ( &lt;#array $parameter#&gt; );</string>
+	<string>dstofsrcanchor(&lt;#array $parameter#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7B096604-0642-41B7-84D7-8484BE0DAC70</string>
 	<key>IDECodeSnippetLanguage</key>

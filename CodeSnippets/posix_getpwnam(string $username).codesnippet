@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>posix_getpwnam ( &lt;#string $username#&gt; );</string>
+	<string>posix_getpwnam(&lt;#string $username#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>9662C6A3-3B1E-4B1F-A671-34EDB69CC598</string>
 	<key>IDECodeSnippetLanguage</key>

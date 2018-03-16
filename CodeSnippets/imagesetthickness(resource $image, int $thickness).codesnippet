@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagesetthickness ( &lt;#resource $image#&gt;, &lt;#int $thickness#&gt; );</string>
+	<string>imagesetthickness(&lt;#resource $image#&gt;, &lt;#int $thickness#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EF89C5F4-55A5-4C4F-8C3B-3F2C8FEA74BC</string>
 	<key>IDECodeSnippetLanguage</key>

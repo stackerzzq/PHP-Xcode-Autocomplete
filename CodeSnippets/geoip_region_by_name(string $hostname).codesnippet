@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>geoip_region_by_name ( &lt;#string $hostname#&gt; );</string>
+	<string>geoip_region_by_name(&lt;#string $hostname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>70F361D1-9D05-493C-AFDA-32C77A980BF0</string>
 	<key>IDECodeSnippetLanguage</key>

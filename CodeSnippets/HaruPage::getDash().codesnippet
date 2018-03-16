@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>HaruPage::getDash (  );</string>
+	<string>HaruPage::getDash();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5C2C000E-44B8-4442-8488-6A82CF2852DA</string>
 	<key>IDECodeSnippetLanguage</key>

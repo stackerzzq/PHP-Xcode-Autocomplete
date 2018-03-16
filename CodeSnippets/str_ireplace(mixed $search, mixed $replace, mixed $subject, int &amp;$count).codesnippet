@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>str_ireplace ( &lt;#mixed $search#&gt;, &lt;#mixed $replace#&gt;, &lt;#mixed $subject#&gt;, &lt;#int &amp;$count#&gt; );</string>
+	<string>str_ireplace(&lt;#mixed $search#&gt;, &lt;#mixed $replace#&gt;, &lt;#mixed $subject#&gt;, &lt;#int &amp;$count#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>7F0A0677-9CC3-49B6-8B86-D596410B4071</string>
 	<key>IDECodeSnippetLanguage</key>

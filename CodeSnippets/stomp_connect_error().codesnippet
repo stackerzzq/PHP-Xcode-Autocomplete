@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>stomp_connect_error (  );</string>
+	<string>stomp_connect_error();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C40AEF45-CA17-433E-9E03-8C5B7C72EB0F</string>
 	<key>IDECodeSnippetLanguage</key>

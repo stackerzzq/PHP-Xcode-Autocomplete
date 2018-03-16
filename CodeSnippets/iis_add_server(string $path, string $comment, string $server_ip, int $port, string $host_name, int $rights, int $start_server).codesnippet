@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>iis_add_server ( &lt;#string $path#&gt;, &lt;#string $comment#&gt;, &lt;#string $server_ip#&gt;, &lt;#int $port#&gt;, &lt;#string $host_name#&gt;, &lt;#int $rights#&gt;, &lt;#int $start_server#&gt; );</string>
+	<string>iis_add_server(&lt;#string $path#&gt;, &lt;#string $comment#&gt;, &lt;#string $server_ip#&gt;, &lt;#int $port#&gt;, &lt;#string $host_name#&gt;, &lt;#int $rights#&gt;, &lt;#int $start_server#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5A34D7C1-5E08-4233-9BFA-E8E77131C238</string>
 	<key>IDECodeSnippetLanguage</key>

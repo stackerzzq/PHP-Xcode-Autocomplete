@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ibase_timefmt ( &lt;#string $format#&gt;, &lt;#int $columntype#&gt; );</string>
+	<string>ibase_timefmt(&lt;#string $format#&gt;, &lt;#int $columntype#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>57C3A8C9-A5F3-4CE3-8829-38EB5B9ADFEF</string>
 	<key>IDECodeSnippetLanguage</key>

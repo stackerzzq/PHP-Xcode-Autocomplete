@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imageantialias ( &lt;#resource $image#&gt;, &lt;#bool $enabled#&gt; );</string>
+	<string>imageantialias(&lt;#resource $image#&gt;, &lt;#bool $enabled#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>615AFCAF-525C-4A32-8B83-E138D5A0B3ED</string>
 	<key>IDECodeSnippetLanguage</key>

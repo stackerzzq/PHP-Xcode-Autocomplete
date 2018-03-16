@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>file_exists ( &lt;#string $filename#&gt; );</string>
+	<string>file_exists(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>73BF0B4E-D4C8-4B64-BFC6-4F8C4D0B8429</string>
 	<key>IDECodeSnippetLanguage</key>

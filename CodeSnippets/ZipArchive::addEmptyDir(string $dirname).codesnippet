@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ZipArchive::addEmptyDir ( &lt;#string $dirname#&gt; );</string>
+	<string>ZipArchive::addEmptyDir(&lt;#string $dirname#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A1E8E015-99DE-44AE-A150-7D23267BF142</string>
 	<key>IDECodeSnippetLanguage</key>

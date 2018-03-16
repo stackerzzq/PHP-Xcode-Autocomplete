@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SwishResults-&gt;seekResult ( &lt;#int $position#&gt; );</string>
+	<string>SwishResults-&gt;seekResult(&lt;#int $position#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>751D5A72-23D4-4A27-B208-989199A3C64B</string>
 	<key>IDECodeSnippetLanguage</key>

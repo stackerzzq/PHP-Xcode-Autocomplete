@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>fdf_error ( &lt;#int $error_code#&gt; );</string>
+	<string>fdf_error(&lt;#int $error_code#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EE504AB3-A68C-4BD9-AEE1-7C739F454A0C</string>
 	<key>IDECodeSnippetLanguage</key>

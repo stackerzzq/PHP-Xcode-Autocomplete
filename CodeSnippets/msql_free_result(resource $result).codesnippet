@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>msql_free_result ( &lt;#resource $result#&gt; );</string>
+	<string>msql_free_result(&lt;#resource $result#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3C66C4E3-1E34-4278-A3BE-15DA4A014EAB</string>
 	<key>IDECodeSnippetLanguage</key>

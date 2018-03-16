@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>m_transnew ( &lt;#resource $conn#&gt; );</string>
+	<string>m_transnew(&lt;#resource $conn#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8D9416BC-7D3F-4FCA-BE1C-31F5D72F9BF0</string>
 	<key>IDECodeSnippetLanguage</key>

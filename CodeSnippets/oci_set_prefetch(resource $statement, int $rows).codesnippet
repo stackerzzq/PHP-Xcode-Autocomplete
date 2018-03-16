@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>oci_set_prefetch ( &lt;#resource $statement#&gt;, &lt;#int $rows#&gt; );</string>
+	<string>oci_set_prefetch(&lt;#resource $statement#&gt;, &lt;#int $rows#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>AE568162-4CB2-4BBE-B274-627A830652B7</string>
 	<key>IDECodeSnippetLanguage</key>

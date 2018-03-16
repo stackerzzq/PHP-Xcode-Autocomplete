@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>http_parse_message ( &lt;#string $message#&gt; );</string>
+	<string>http_parse_message(&lt;#string $message#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>6F9171DE-2301-485D-A81A-8426A8720D91</string>
 	<key>IDECodeSnippetLanguage</key>

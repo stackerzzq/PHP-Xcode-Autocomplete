@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>printer_list ( &lt;#int $enumtype#&gt;, &lt;#string $name#&gt;, &lt;#int $level#&gt; );</string>
+	<string>printer_list(&lt;#int $enumtype#&gt;, &lt;#string $name#&gt;, &lt;#int $level#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4C396047-9632-46F8-9336-9761CA73EBCB</string>
 	<key>IDECodeSnippetLanguage</key>

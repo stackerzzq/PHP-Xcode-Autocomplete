@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>export ( &lt;#string $filename#&gt;, &lt;#int $start#&gt;, &lt;#int $length#&gt; );</string>
+	<string>export(&lt;#string $filename#&gt;, &lt;#int $start#&gt;, &lt;#int $length#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D8E46637-AD50-4FC1-B208-427DB36D09D2</string>
 	<key>IDECodeSnippetLanguage</key>

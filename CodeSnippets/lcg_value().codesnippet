@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>lcg_value (  );</string>
+	<string>lcg_value();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4BDAD041-9760-4572-AA93-A3C5DA430F8A</string>
 	<key>IDECodeSnippetLanguage</key>

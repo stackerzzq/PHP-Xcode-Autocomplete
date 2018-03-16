@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mime_content_type ( &lt;#string $filename#&gt; );</string>
+	<string>mime_content_type(&lt;#string $filename#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>90BC2B91-A65E-48D7-9CD0-0397998616AE</string>
 	<key>IDECodeSnippetLanguage</key>

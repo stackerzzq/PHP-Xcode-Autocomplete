@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>ncurses_mvgetch ( &lt;#int $y#&gt;, &lt;#int $x#&gt; );</string>
+	<string>ncurses_mvgetch(&lt;#int $y#&gt;, &lt;#int $x#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>EF1E4E9F-02FA-4407-AEEB-8167EB8ACCF8</string>
 	<key>IDECodeSnippetLanguage</key>

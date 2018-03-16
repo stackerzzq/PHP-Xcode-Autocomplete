@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>str_repeat ( &lt;#string $input#&gt;, &lt;#int $multiplier#&gt; );</string>
+	<string>str_repeat(&lt;#string $input#&gt;, &lt;#int $multiplier#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4554EE76-1695-45BF-90AA-0B28CFB9E824</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gupnp_context_set_subscription_timeout ( &lt;#resource $context#&gt;, &lt;#int $timeout#&gt; );</string>
+	<string>gupnp_context_set_subscription_timeout(&lt;#resource $context#&gt;, &lt;#int $timeout#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1781F7DF-6857-4515-AA88-3B267D448C94</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>gnupg_export ( &lt;#resource $identifier#&gt;, &lt;#string $fingerprint#&gt; );</string>
+	<string>gnupg_export(&lt;#resource $identifier#&gt;, &lt;#string $fingerprint#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C51EEC87-411F-40A9-9DCF-E36E8B88E03D</string>
 	<key>IDECodeSnippetLanguage</key>

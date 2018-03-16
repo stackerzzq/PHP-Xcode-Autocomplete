@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>imagewbmp ( &lt;#resource $image#&gt;, &lt;#string $filename#&gt;, &lt;#int $foreground#&gt; );</string>
+	<string>imagewbmp(&lt;#resource $image#&gt;, &lt;#string $filename#&gt;, &lt;#int $foreground#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>CD5DB9C6-BFF4-405D-90CF-19FF659F5335</string>
 	<key>IDECodeSnippetLanguage</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>phpversion ( &lt;#string $extension#&gt; );</string>
+	<string>phpversion(&lt;#string $extension#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>3EE7D172-3D01-457B-B61F-AD7681EDFAE2</string>
 	<key>IDECodeSnippetLanguage</key>

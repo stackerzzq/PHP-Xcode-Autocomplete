@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>SDO_Model_ReflectionDataObject::__construct ( &lt;#SDO_DataObject $data_object#&gt; );</string>
+	<string>SDO_Model_ReflectionDataObject::__construct(&lt;#SDO_DataObject $data_object#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>64B6BA40-2A15-4A80-A55E-F3D497A42A32</string>
 	<key>IDECodeSnippetLanguage</key>

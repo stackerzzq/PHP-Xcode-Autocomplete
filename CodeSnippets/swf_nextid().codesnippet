@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>swf_nextid (  );</string>
+	<string>swf_nextid();</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>FECC3A39-6CA0-4252-AA00-34EE35C94199</string>
 	<key>IDECodeSnippetLanguage</key>

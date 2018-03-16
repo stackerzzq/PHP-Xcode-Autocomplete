@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>odbc_setoption ( &lt;#resource $id#&gt;, &lt;#int $function#&gt;, &lt;#int $option#&gt;, &lt;#int $param#&gt; );</string>
+	<string>odbc_setoption(&lt;#resource $id#&gt;, &lt;#int $function#&gt;, &lt;#int $option#&gt;, &lt;#int $param#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C898BB7E-6B05-4FE7-BBD4-5AA9D00BC189</string>
 	<key>IDECodeSnippetLanguage</key>

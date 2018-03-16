@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>unicode_set_error_mode ( &lt;#int $direction#&gt;, &lt;#int $mode#&gt; );</string>
+	<string>unicode_set_error_mode(&lt;#int $direction#&gt;, &lt;#int $mode#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C8067930-0429-445D-B258-10808B4CAB77</string>
 	<key>IDECodeSnippetLanguage</key>
